@@ -1,0 +1,52 @@
+# global.columns = FORM ONPP:NER
+cégek	O
+már	O
+megvalósított	O
+illetve	O
+folyamatban	O
+lévő	O
+telephelyfejlesztéseiről	O
+,	O
+többek	O
+között	O
+a	O
+Mould	B-ORG
+Tech	I-ORG
+Kft.	I-ORG
+épülő	O
+technológiai	O
+központjáról	O
+,	O
+valamint	O
+a	O
+Mol	B-ORG
+szintén	O
+épülő	O
+gumibitumen	O
+üzeméről	O
+.	O
+
+Pál	B-PER
+Katja	I-PER
+érdeklődésünkre	O
+elmondta	O
+:	O
+az	O
+idei	B-DATE
+D'Clinic	B-MISC-ORG
+szezon	O
+egyik	O
+újítása	O
+a	O
+„	O
+Kurátor	B-PROJ
+egy	I-PROJ
+napra	I-PROJ
+”	O
+program	O
+.	O
+
+Az	O
+időskorú	O
+lakosság	O
+

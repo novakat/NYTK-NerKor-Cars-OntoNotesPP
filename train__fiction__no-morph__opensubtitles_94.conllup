@@ -1,0 +1,1293 @@
+# global.columns = FORM ONPP:NER
+Hogy	O
+jutottál	O
+idáig	O
+?	O
+
+Megszöktem	O
+a	O
+suliból	O
+.	O
+
+Vallatni	O
+akartak	O
+.	O
+
+A	O
+népemről	O
+.	O
+
+Mit	O
+csináltak	O
+?	O
+
+Alkotmányos	O
+jogaikat	O
+védik	O
+,	O
+mint	O
+minden	O
+más	O
+bátor	O
+szívű	O
+amerikai	B-NORP
+.	O
+
+Elég	O
+,	O
+elég	O
+!	O
+
+Beül	O
+a	O
+kádba	O
+és	O
+máris	O
+felforrósodik	O
+a	O
+feje	O
+!	O
+
+Felség	O
+,	O
+egy	O
+szóra	O
+beszélhetnénk	O
+négyszemközt	O
+!	O
+
+Jó	O
+,	O
+siess	O
+és	O
+vedd	O
+fel	O
+a	O
+cuccokat	O
+és	O
+gyere	O
+a	O
+szobába	O
+.	O
+
+Felség	O
+,	O
+mit	O
+csinál	O
+a	O
+fiúval	O
+?	O
+
+Száradjon	O
+meg	O
+a	O
+ruhája	O
+!	O
+
+20	B-TIME
+perc	I-TIME
+múlva	I-TIME
+felvétel	O
+!	O
+
+Nem	O
+maradhat	O
+itt	O
+egyedül	O
+!	O
+
+Iskolából	O
+szökött	O
+.	O
+
+Zavaros	O
+család	O
+.	O
+
+Sejtjük	O
+,	O
+milyenek	O
+a	O
+szülők	O
+Kommunisták	B-NORP
+?	O
+
+Azok	O
+!	O
+
+Nem	O
+keveredhet	O
+ilyen	O
+helyzetbe	O
+!	O
+
+Fagyjon	O
+meg	O
+a	O
+gyerek	O
+,	O
+mert	O
+a	O
+szülei	O
+kommunisták	B-NORP
+?	O
+
+Na	O
+és	O
+ha	O
+kommunisták	B-NORP
+?	O
+
+Űzzük	O
+ki	O
+az	O
+utcára	O
+vizes	O
+gúnyában	O
+?	O
+
+Marad	O
+,	O
+amíg	O
+megszárad	O
+.	O
+
+Mit	O
+keres	O
+,	O
+Jaume	B-PER
+?	O
+
+Mikrofonokat	O
+.	O
+
+Túl	O
+régóta	O
+van	O
+itt	O
+!	O
+
+A	O
+végén	O
+kisüti	O
+,	O
+hogy	O
+a	O
+fiú	O
+kommunista	O
+!	O
+
+Senkiben	O
+sem	O
+lehet	O
+megbízni	O
+.	O
+
+Ez	O
+aztán	O
+elegáns	O
+!	O
+
+Ott	O
+ülj	O
+le	O
+,	O
+fiam	O
+.	O
+
+Mindjárt	O
+hoznak	O
+enni	O
+.	O
+
+Mondd	O
+csak	O
+.	O
+
+Te	O
+kommunista	O
+vagy	O
+?	O
+
+Igen	O
+,	O
+az	O
+vagyok	O
+,	O
+uram	O
+!	O
+
+Azt	O
+hittem	O
+,	O
+nem	O
+tűrsz	O
+semmi	O
+kormányt	O
+.	O
+
+Igen	O
+,	O
+de	O
+eluntam	O
+,	O
+hogy	O
+folyton	O
+gyötörnek	O
+:	O
+mi	O
+vagyok	O
+?	O
+
+Legyek	O
+kommunista	O
+,	O
+ha	O
+úgy	O
+akarják	O
+.	O
+
+Hozd	O
+közelebb	O
+azt	O
+a	O
+széket	O
+fiam	O
+.	O
+
+Itt	O
+a	O
+leves	O
+és	O
+a	O
+csirkés	O
+szendvics	O
+,	O
+uram	O
+.	O
+
+Írja	O
+alá	O
+,	O
+Jaume	B-PER
+.	O
+
+Shahdov	B-PER
+király	O
+őfelségét	O
+kérem	O
+.	O
+
+Nincs	O
+itthon	O
+.	O
+
+Elment	O
+.	O
+
+Tudja	O
+mikorra	O
+lesz	O
+otthon	O
+?	O
+
+Egy	O
+órája	O
+ment	O
+el	O
+.	O
+
+Hamar	O
+itt	O
+lesz	O
+.	O
+
+Egy	O
+sürgöny	O
+a	O
+Felségnek	O
+.	O
+
+Van	O
+benn	O
+egy	O
+gyerek	O
+.	O
+
+Még	O
+sose	O
+láttam	O
+.	O
+
+Te	O
+ki	O
+vagy	O
+,	O
+fiam	O
+?	O
+
+És	O
+ön	O
+kicsoda	O
+?	O
+
+A	O
+házidetektív	O
+.	O
+
+Kire	O
+vársz	O
+?	O
+
+A	O
+bácsikámra	O
+.	O
+
+A	O
+bácsikádra	O
+?	O
+
+Nini	O
+,	O
+bácsikám	O
+.	O
+
+Az	O
+úr	O
+házidetektív	O
+.	O
+
+Oh	O
+,	O
+pardon	O
+,	O
+uram	O
+.	O
+
+Nem	O
+ismertem	O
+az	O
+unokaöccsét	O
+.	O
+
+Csak	O
+épp	O
+betoppantam	O
+.	O
+
+Nos	O
+,	O
+Felség	O
+?	O
+
+Magyarázatot	O
+várok	O
+.	O
+
+Bejött	O
+,	O
+kérdezte	O
+,	O
+mit	O
+csinálok	O
+itt	O
+.	O
+
+S	O
+mondta	O
+,	O
+hogy	O
+hekus	O
+,	O
+megijedtem	O
+.	O
+
+Azt	O
+mondtam	O
+,	O
+a	O
+nagybátyámra	O
+várok	O
+.	O
+
+Ekkor	O
+jött	O
+meg	O
+.	O
+
+Engem	O
+szúrtál	O
+ki	O
+nagybácsinak	O
+?	O
+
+Más	O
+nem	O
+volt	O
+kéznél	O
+.	O
+
+Az	O
+idő	O
+megjavult	O
+,	O
+útnak	O
+engedhetnénk	O
+kis	O
+barátunkat	O
+.	O
+
+Rupert	B-PER
+herceget	O
+.	O
+
+A	O
+detektív	O
+unokaöcsémnek	O
+hiszi	O
+.	O
+
+Tudtam	O
+,	O
+hogy	O
+galiba	O
+lesz	O
+!	O
+
+Ne	O
+butáskodj	O
+,	O
+vizes	O
+a	O
+ruhád	O
+.	O
+
+Jaume	B-PER
+,	O
+vehetne	O
+új	O
+ruhát	O
+a	O
+gyereknek	O
+.	O
+
+Három	B-CARDINAL
+úr	O
+,	O
+honnan	O
+?	O
+
+Az	O
+Atombizottságtól	B-ORG
+?	O
+
+Rosszul	O
+hallom	O
+!	O
+
+Ma	B-DATE
+indulnak	O
+Washingtonból	B-GPE
+?	O
+
+Már	O
+útban	O
+vannak	O
+?	O
+
+Megszakadt	O
+a	O
+vonal	O
+.	O
+
+Vagy	O
+indulnak	O
+,	O
+vagy	O
+már	O
+útban	O
+vannak	O
+.	O
+
+Rossz	O
+volt	O
+a	O
+vonal	O
+.	O
+
+Ha	O
+már	O
+úton	O
+vannak	O
+,	O
+akkor	O
+siessünk	O
+a	O
+bankba	O
+a	O
+tervrajzokért	O
+!	O
+
+Igaz	O
+,	O
+mindkettőnk	O
+aláírása	O
+kell	O
+.	O
+
+Majd	O
+megbeszéljük	O
+.	O
+
+Veszünk	O
+neki	O
+ruhát	O
+.	O
+
+Aztán	O
+elküldhetjük	O
+.	O
+
+Még	O
+bőven	O
+van	O
+időnk	O
+,	O
+míg	O
+ideérnek	O
+.	O
+
+Itthon	O
+van	O
+a	O
+Felség	O
+.	O
+
+Az	O
+imént	O
+itt	O
+volt	O
+.	O
+
+Parancsoljanak	O
+az	O
+urak	O
+.	O
+
+Foglaljanak	O
+helyet	O
+.	O
+
+Itthon	O
+van	O
+a	O
+Felség	O
+?	O
+
+Most	O
+ment	O
+el	O
+.	O
+
+Ön	O
+az	O
+unokaöccse	O
+,	O
+nemdebár	O
+?	O
+
+Az	O
+előbb	O
+világosítottak	O
+fel	O
+.	O
+
+A	O
+király	O
+unokaöccse	O
+!	O
+
+Nahát	O
+!	O
+
+Váratlan	O
+megtiszteltetés	O
+.	O
+
+Őfelségére	O
+mikor	O
+számíthatunk	O
+,	O
+uram	O
+?	O
+
+Csak	O
+elugrott	O
+a	O
+bankba	O
+valami	O
+tervekért	O
+.	O
+
+Akkor	O
+megvárjuk	O
+.	O
+
+Akkor	O
+a	O
+herceg	O
+társaságában	O
+hagyom	O
+az	O
+urakat	O
+.	O
+
+Őfelsége	O
+,	O
+első	B-ORDINAL
+ízben	O
+jár	O
+minálunk	O
+?	O
+
+Oh	O
+nem	O
+.	O
+
+Régóta	O
+itt	O
+élek	O
+.	O
+
+Lényegében	O
+egész	O
+életemben	O
+.	O
+
+Igazi	O
+amerikai	B-NORP
+fiúnak	O
+néz	O
+ki	O
+,	O
+nem	O
+?	O
+
+De	O
+,	O
+teljesen	O
+.	O
+
+Itt	O
+jár	O
+iskolába	O
+?	O
+
+Brooklynban	B-GPE
+,	O
+igen	O
+.	O
+
+Brooklynba	B-GPE
+!	O
+
+Biztos	O
+a	O
+nagybácsi	O
+ragaszkodik	O
+az	O
+amerikai	B-NORP
+neveléshez	O
+.	O
+
+Apám	O
+kételkedik	O
+ebben	O
+a	O
+király	O
+dologban	O
+,	O
+nevet	O
+változtatott	O
+,	O
+majd	O
+Brooklynban	B-GPE
+ismerte	O
+meg	O
+anyámat	O
+.	O
+
+Ő	O
+nem	O
+tudott	O
+a	O
+hercegségről	O
+.	O
+
+Egyszerű	O
+bevándorlónak	O
+hitte.	O
+de	O
+szerette	O
+,	O
+s	O
+hozzáment	O
+.	O
+
+Így	O
+születtem	O
+én	O
+.	O
+
+Így	O
+találtam	O
+rá	O
+király	O
+nagybácsimra	O
+.	O
+
+De	O
+apával	O
+nincsenek	O
+beszélő	O
+viszonyban	O
+.	O
+
+Régen	O
+csaknem	O
+párbajoztak	O
+,	O
+ezért	O
+jött	O
+apám	O
+Amerikába	B-GPE
+.	O
+
+Itt	O
+szabadon	O
+álmodozhat	O
+.	O
+
+A	O
+szabadok	O
+és	O
+bátrak	O
+földje	O
+inspirálja	O
+őt	O
+.	O
+
+Ám	O
+ma	B-DATE
+veszélyben	O
+a	O
+szabadság	O
+,	O
+Bizottságok	B-ORG
+vájkálnak	O
+az	O
+emberek	O
+agyában	O
+.	O
+
+Elbocsájtják	O
+azt	O
+,	O
+aki	O
+ki	O
+mer	O
+állni	O
+jogaiért	O
+.	O
+
+Elveszíti	O
+munkahelyét	O
+és	O
+akár	O
+éhen	O
+is	O
+halhat	O
+!	O
+
+Mit	O
+mondott	O
+...	O
+?	O
+
+Tárgyalás	O
+nélkül	O
+elítélik	O
+.	O
+
+Idefigyeljen	O
+!	O
+
+Értéküket	O
+és	O
+hitelüket	O
+vesztik	O
+bíróságaink	O
+,	O
+ha	O
+az	O
+országban	O
+embereket	O
+lehet	O
+per	O
+nélkül	O
+megfosztani	O
+a	O
+szólásszabadságtól	O
+,	O
+az	O
+élettől	O
+!	O
+
+Ez	O
+pont	O
+jó	O
+lesz	O
+,	O
+ugye	O
+?	O
+
+Tegye	O
+a	O
+többihez	O
+.	O
+
+Jó	O
+szórakozás	O
+.	O
+
+Ha	O
+nem	O
+sietünk	O
+,	O
+Felség	O
+,	O
+a	O
+Bizottság	B-ORG
+összeakad	O
+a	O
+fiúval	O
+.	O
+
+Siessen	O
+,	O
+kérem	O
+!	O
+
+Gyalázat	O
+!	O
+
+Botrány	O
+!	O
+
+Szükség	O
+van	O
+a	O
+kivizsgálásokra	O
+,	O
+uram.	O
+ha	O
+a	O
+biztonságunk	O
+a	O
+tét	O
+.	O
+
+Hidrogénbombával	O
+nincs	O
+biztonság	O
+!	O
+
+Ez	O
+kommunista	B-NORP
+lázítás	O
+!	O
+
+Megértés	O
+és	O
+együttműködés	O
+kell	O
+a	O
+világnak	O
+!	O
+
+Ha	O
+kicsit	O
+idősebb	O
+lenne	O
+,	O
+uram	O
+átadnám	O
+a	O
+hatóságnak	O
+.	O
+
+Rendben	O
+,	O
+jelentsen	O
+fel	O
+!	O
+
+Vallasson	O
+nevekről	O
+,	O
+tegyen	O
+taknyos	O
+rendőrspiclivé	O
+!	O
+
+Rendezzenek	O
+agymosást	O
+,	O
+ha	O
+tudnak	O
+!	O
+
+A	O
+Függetlenségi	B-WORK_OF_ART
+Nyilatkozatot	I-WORK_OF_ART
+aláírók	O
+agyát	O
+és	O
+az	O
+én	O
+agyamat	O
+nem	O
+tudják	O
+kimosni	O
+.	O
+
+Ki	O
+beszél	O
+agymosásról	O
+?	O
+
+Elnézést	O
+,	O
+uraim	O
+!	O
+
+Ezt	O
+nem	O
+tűröm	O
+!	O
+
+Tűrni	O
+fogod	O
+!	O
+
+Felfuvalkodott	O
+emberek	O
+,	O
+fel	O
+fognak	O
+robbanni	O
+...	O
+
+Oda	O
+vagyok	O
+,	O
+uraim	O
+,	O
+sajnálatos	O
+véletlen	O
+!	O
+
+Pont	O
+jó	O
+.	O
+
+Mondd	O
+csak	O
+,	O
+min	O
+tört	O
+ki	O
+a	O
+vita	O
+?	O
+
+Elkezdtem	O
+és	O
+nem	O
+bírtam	O
+abbahagyni	O
+.	O
+
+Túl	O
+sokat	O
+gondolkozol	O
+.	O
+
+Jön	O
+magától	O
+.	O
+
+Játszanod	O
+kéne	O
+.	O
+
+Nincs	O
+kivel	O
+.	O
+
+Nincsenek	O
+hasonló	O
+korú	O
+pajtásaid	O
+?	O
+
+Untatnak	O
+.	O
+
+Supermanek	O
+,	O
+cowboyok	O
+akarnak	O
+lenni	O
+.	O
+
+Az	O
+miért	O
+baj	O
+?	O
+
+Gyűlölöm	O
+Supermant	B-PER
+.	O
+
+1245	O
+01:20:20,025	O
+--	O
+01:20:22,027	O
+Sok	O
+mindent	O
+gyűlölsz	O
+nemde	O
+?	O
+
+Magát	O
+nem	O
+gyűlölöm	O
+.	O
+
+Vissza	O
+kell	O
+menned	O
+az	O
+iskolába	O
+.	O
+
+Nem	O
+maradhatsz	O
+itt	O
+Rupert	B-PER
+hercegnek	O
+.	O
+
+Igazat	O
+kellett	O
+mondjak	O
+az	O
+uraknak	O
+.	O
+
+Elárulta	O
+a	O
+nevemet	O
+?	O
+
+Nem	O
+is	O
+tudom	O
+a	O
+nevedet	O
+.	O
+
+De	O
+.	O
+
+Rupert	B-PER
+.	O
+
+Milyen	O
+Rupert	B-PER
+?	O
+
+Macabee	B-PER
+.	O
+
+Macabee	B-PER
+!	O
+
+Skót	O
+név	O
+.	O
+
+Azért	O
+vagy	O
+non-konformista	O
+.	O
+
+Ezt	O
+lépi	O
+?	O
+
+Nincs	O
+más	O
+lehetőség	O
+.	O
+
+Hát	O
+jó	O
+!	O
+
+Rakd	O
+föl	O
+.	O
+
+Újat	O
+játszunk	O
+.	O
+
+Hol	O
+van	O
+Jaume	B-PER
+úr	O
+?	O
+
+A	O
+terveket	O
+vitte	O
+a	O
+bankba	O
+.	O
+
+Érdekelte	O
+az	O
+urakat	O
+?	O
+
+Mondták	O
+,	O
+ilyen	O
+nekik	O
+is	O
+van	O
+.	O
+
+Az	O
+Amerikaellenes	B-ORG
+Kongresszusi	I-ORG
+Bizottság	I-ORG
+hírei	O
+.	O
+
+A	O
+tevékenységek	O
+New	B-GPE
+York	I-GPE
+szívében	O
+,	O
+a	O
+Szövetségi	B-LOC
+épületben	I-LOC
+bizonyítást	O
+nyertek	O
+.	O
+
+A	O
+cél	O
+a	O
+kommunizmus	O
+leleplezése	O
+minden	O
+intézményben	O
+.	O
+
+A	O
+bizottság	O
+Kihallgat	O
+papokat	O
+,	O
+tudósokat	O
+,	O
+művészeket	O
+.	O
+
+De	O
+egy	O
+kis	O
+mosoly	O
+sosem	O
+árt	O
+,	O
+A	O
+nyomozók	O
+áldoznak	O
+Hollywoodnak	B-GPE
+.	O
+
+Gondosan	O
+felkészülnek	O
+jelenéseikre	O
+.	O
+
+Fordítsuk	O
+komolyra	O
+a	O
+szót	O
+,	O
+A	O
+kivizsgálások	O
+haladnak	O
+előre	O
+.	O
+
+Tanúkihallgatás	O
+.	O
+
+Emelje	O
+a	O
+jobb	O
+kezét	O
+,	O
+Esküszik	O
+,	O
+hogy	O
+az	O
+igazat	O
+mondja	O
+?	O
+
+Esküszöm	O
+.	O
+
+Neve	O
+?	O
+
+James	B-PER
+Durkin	I-PER
+.	O
+
+Foglalkozása	O
+?	O
+
+Tanító	O
+.	O
+
+Mr	O
+Durkin	B-PER
+,	O
+Volt	O
+-e	O
+tagja	O
+a	O
+Kommunista	B-ORG
+Pártnak	I-ORG
+?	O
+

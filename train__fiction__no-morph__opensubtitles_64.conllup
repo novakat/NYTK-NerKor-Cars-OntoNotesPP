@@ -1,0 +1,1530 @@
+# global.columns = FORM ONPP:NER
+Kérj	O
+tőle	O
+bocsánatot	O
+azért	O
+,	O
+amit	O
+mondtál	O
+.	O
+
+José	B-PER
+.	O
+
+Töröld	O
+meg	O
+az	O
+orrod	O
+.	O
+
+Egy	O
+teljes	O
+tábort	O
+elsöpörtek	O
+.	O
+
+Szép	O
+kis	O
+látvány	O
+-	O
+a	O
+francia	B-NORP
+hadsereg	O
+eszeveszetten	O
+menekül	O
+.	O
+
+Az	O
+ellenség	O
+pedig	O
+egérutat	O
+nyer	O
+.	O
+
+Mi	O
+idegenek	O
+vagyunk	O
+ebben	O
+az	O
+országban	O
+.	O
+
+Ők	O
+tudják	O
+,	O
+hol	O
+támadjanak	O
+és	O
+rejtőzzenek	O
+.	O
+
+Most	O
+is	O
+valahol	O
+rejtőzködnek	O
+.	O
+
+De	O
+hamarosan	O
+előbukkannak	O
+,	O
+és	O
+azt	O
+hiszem	O
+,	O
+tudom	O
+is	O
+,	O
+hol	O
+.	O
+
+Segítségük	O
+is	O
+van	O
+.	O
+
+Á	O
+,	O
+parasztok	O
+.	O
+
+Nem	O
+csak	O
+parasztok	O
+.	O
+
+Egy	O
+brit	B-NORP
+tengerészkapitány	O
+is	O
+van	O
+velük	O
+.	O
+
+És	O
+egy	O
+brit	B-NORP
+hadihajó	O
+a	O
+Las	B-GPE
+Cruces	I-GPE
+kikötőben	O
+.	O
+
+Itt	O
+.	O
+
+Remek	O
+.	O
+
+Zárjanak	O
+le	O
+minden	O
+Las	B-GPE
+Cruces-be	I-GPE
+vezető	O
+vasútvonalat	O
+,	O
+utat	O
+.	O
+
+Legyen	O
+állandó	O
+őrség	O
+.	O
+
+Meglátjuk	O
+,	O
+igaza	O
+van	O
+-e	O
+.	O
+
+A	O
+szekerek	O
+!	O
+
+Hol	O
+vannak	O
+a	O
+szekerek	O
+?	O
+
+Nos	O
+,	O
+hol	O
+vannak	O
+a	O
+szekerek	O
+?	O
+
+Hát	O
+,	O
+én	O
+nem	O
+tudom	O
+.	O
+
+Fogalmam	O
+sincs	O
+,	O
+mi	O
+történt	O
+velük	O
+.	O
+
+A	O
+faluban	O
+vannak	O
+.	O
+
+Visszaküldtem	O
+őket	O
+.	O
+
+Visszaküldte	O
+őket	O
+?	O
+
+Carlos	B-PER
+meg	O
+fogja	O
+ölni	O
+.	O
+
+Csak	O
+egy	O
+kicsit	O
+engedem	O
+,	O
+hogy	O
+megölje	O
+.	O
+
+Carlos	B-PER
+,	O
+elég	O
+!	O
+
+Nem	O
+súlyos	O
+a	O
+sérülés	O
+.	O
+
+Néhány	B-DATE
+nap	I-DATE
+múlva	I-DATE
+...	O
+
+Néhány	B-DATE
+nap	I-DATE
+múlva	I-DATE
+is	O
+eszembe	O
+jut	O
+majd	O
+,	O
+hogy	O
+késsel	O
+megöltem	O
+valakit	O
+.	O
+
+Miguel	B-PER
+nem	O
+akarta	O
+,	O
+hogy	O
+eddig	O
+fajuljon	O
+a	O
+dolog	O
+.	O
+
+Egyszerű	O
+kis	O
+szórakozás	O
+volt	O
+.	O
+
+Ne	O
+tegye	O
+.	O
+
+De	O
+nehogy	O
+azt	O
+képzelje	O
+,	O
+hogy	O
+ennek	O
+bármi	O
+köze	O
+is	O
+volt	O
+a	O
+szekerekhez	O
+.	O
+
+Miguel	B-PER
+féltékeny	O
+és	O
+meg	O
+is	O
+van	O
+rá	O
+az	O
+oka	O
+.	O
+
+Elviszem	O
+Avila-ba	B-GPE
+az	O
+ágyút	O
+és	O
+nem	O
+számít	O
+,	O
+ő	O
+mit	O
+tesz	O
+.	O
+
+De	O
+nem	O
+érte	O
+teszem	O
+.	O
+
+És	O
+nem	O
+parancsból	O
+.	O
+
+Pontosan	O
+tudja	O
+,	O
+miért	O
+.	O
+
+Francia	B-NORP
+tüzérséget	O
+láttunk	O
+,	O
+Miguel	B-PER
+,	O
+a	O
+folyó	O
+túloldalán	O
+.	O
+
+Ez	O
+szabad	O
+terület	O
+.	O
+
+Itt	O
+nem	O
+kaphatnak	O
+el	O
+.	O
+
+Nem	O
+is	O
+fognak	O
+.	O
+
+A	O
+Cano	B-LOC
+folyó	O
+túl	O
+nagy	O
+ahhoz	O
+,	O
+hogy	O
+átszeljük	O
+.	O
+
+Van	O
+egy	O
+híd	O
+.	O
+
+Nincs	O
+híd	O
+.	O
+
+Ismerem	O
+a	O
+folyót	O
+.	O
+
+A	O
+franciák	B-NORP
+építettek	O
+egyet	O
+,	O
+hajókra	O
+.	O
+
+Hány	O
+hajójuk	O
+van	O
+?	O
+
+15	B-CARDINAL
+?	O
+
+16	B-CARDINAL
+?	O
+
+Szükségem	O
+van	O
+legalább	B-QUANTITY
+500	I-QUANTITY
+font	I-QUANTITY
+puskaporra	O
+.	O
+
+Szüksége	O
+van	O
+...	O
+?	O
+
+Rakjátok	O
+le	O
+a	O
+puskaport	O
+.	O
+
+Anthony	B-PER
+.	O
+
+Vigye	O
+José-t	B-PER
+.	O
+
+Bányában	O
+dolgozott	O
+.	O
+
+Ismeri	O
+a	O
+puskaport	O
+.	O
+
+Vigye	O
+magával	O
+.	O
+
+Majd	O
+én	O
+szólok	O
+Miguelnek	B-PER
+.	O
+
+Mindenki	O
+azt	O
+hiszi	O
+,	O
+hogy	O
+20	B-DATE
+.	O
+
+De	O
+valójában	O
+csak	O
+18	B-AGE
+.	O
+
+Tudja	O
+,	O
+Juana	B-PER
+miért	O
+küldött	O
+magával	O
+?	O
+
+Hogy	O
+segítsen	O
+.	O
+
+Hogyne	O
+.	O
+
+Azért	O
+,	O
+mert	O
+kedveli	O
+magát	O
+.	O
+
+Félek	O
+.	O
+
+De	O
+ne	O
+aggódjon	O
+.	O
+
+Meg	O
+tudom	O
+csinálni	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+itt	O
+az	O
+ideje	O
+,	O
+hogy	O
+munkához	O
+lássunk	O
+.	O
+
+Magát	O
+kerestem	O
+.	O
+
+El	O
+akartam	O
+mondani	O
+,	O
+hogy	O
+sajnálom	O
+,	O
+ami	O
+José-val	B-PER
+történt	O
+.	O
+
+Nem	O
+a	O
+maga	O
+hibája	O
+.	O
+
+Juana	B-PER
+.	O
+
+Egész	O
+életemben	O
+attól	O
+féltem	O
+,	O
+semmi	O
+sem	O
+tart	O
+örökké	O
+.	O
+
+Most	O
+is	O
+attól	O
+félek	O
+,	O
+ez	O
+csak	O
+egy	O
+álom	O
+,	O
+és	O
+nem	O
+tart	O
+sokáig	O
+.	O
+
+De	O
+tart	O
+.	O
+
+Máskor	O
+,	O
+máshol	O
+,	O
+talán	O
+észre	O
+sem	O
+vettél	O
+volna	O
+.	O
+
+Hallani	O
+akarod	O
+?	O
+
+Úgy	O
+értettem	O
+,	O
+hogy	O
+Angliában	B-GPE
+másképp	O
+lett	O
+volna	O
+.	O
+
+Angliában	B-GPE
+elefántcsont-toronyba	O
+zártalak	O
+volna	O
+,	O
+szolgák	O
+őriztek	O
+volna	O
+...és	O
+csak	O
+egy	O
+kulcsa	O
+lenne	O
+.	O
+
+Egy	O
+arany	O
+kulcs	O
+.	O
+
+A	O
+zsoldodból	O
+ezt	O
+nem	O
+engedhetnéd	O
+meg	O
+.	O
+
+Addigra	O
+admirális	O
+lennék	O
+,	O
+saját	O
+hintóval	O
+.	O
+
+És	O
+amikor	O
+a	O
+király	O
+megparancsolná	O
+,	O
+elmennénk	O
+a	O
+nagy	O
+bálba	O
+.	O
+
+Én	O
+pedig	O
+gyönyörű	O
+ruhát	O
+viselnék	O
+.	O
+
+Kék	O
+pelerinnel	O
+,	O
+ami	O
+illene	O
+az	O
+egyenruhámhoz	O
+.	O
+
+Óvatosan	O
+kellene	O
+meghajolnom	O
+.	O
+
+A	O
+nadrág	O
+túl	O
+szűk	O
+.	O
+
+Könnyen	O
+elszakad	O
+.	O
+
+Egyszer	O
+már	O
+megtörtént	O
+.	O
+
+Anthony	B-PER
+?	O
+
+Kivel	O
+voltál	O
+?	O
+
+Amikor	O
+elszakadt	O
+a	O
+nadrágod	O
+.	O
+
+Szóval	O
+ott	O
+tartottam	O
+,	O
+hogy	O
+a	O
+király	O
+találkozni	O
+szeretne	O
+veled	O
+,	O
+...és	O
+elmesélheted	O
+neki	O
+,	O
+hogy	O
+spanyol	B-NORP
+földön	O
+megismertél	O
+egy	O
+angol	B-NORP
+kapitányt	O
+,	O
+...akit	O
+a	O
+világ	O
+legbüszkébb	O
+férfijává	O
+tettél	O
+.	O
+
+Szeretlek	O
+,	O
+Anthony	B-PER
+.	O
+
+Itt	O
+mindannyian	O
+spanyolok	B-NORP
+vagyunk	O
+.	O
+
+Tudjuk	O
+,	O
+mit	O
+akarunk	O
+,	O
+és	O
+mit	O
+kell	O
+azért	O
+fizetnünk	O
+,	O
+hogy	O
+Avila-ba	B-GPE
+érjünk	O
+.	O
+
+Ezt	O
+én	O
+is	O
+tudom	O
+,	O
+Miguel	B-PER
+.	O
+
+De	O
+te	O
+többet	O
+akarsz	O
+.	O
+
+Te	O
+már	O
+az	O
+Avila	B-LOC
+utáni	O
+időre	O
+gondolsz	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+mit	O
+tartogat	O
+a	O
+jövő	O
+.	O
+
+De	O
+hosszú	O
+időt	O
+töltöttünk	O
+együtt	O
+,	O
+Juana	B-PER
+.	O
+
+Nem	O
+tudok	O
+olvasni	O
+,	O
+és	O
+a	O
+nevemet	O
+se	O
+tudom	O
+leírni	O
+.	O
+
+Ha	O
+nem	O
+találtam	O
+szavakat	O
+arra	O
+,	O
+amit	O
+el	O
+akartam	O
+mondani	O
+,	O
+te	O
+elmondtad	O
+helyettem	O
+,	O
+...és	O
+olyankor	O
+egyenlőnek	O
+éreztem	O
+magamat	O
+minden	O
+más	O
+emberrel	O
+.	O
+
+De	O
+belül	O
+...	O
+valahol	O
+legbelül	O
+tudom	O
+,	O
+hogy	O
+kevesebb	O
+vagyok	O
+.	O
+
+Azt	O
+hitted	O
+,	O
+hogy	O
+nem	O
+tudtam	O
+...	O
+hogy	O
+egy	O
+nő	O
+ennél	O
+sokkal	O
+többre	O
+vágyik	O
+?	O
+
+Én	O
+csak	O
+annyit	O
+adhatok	O
+,	O
+amiért	O
+közösen	O
+jöttünk	O
+ide	O
+Avila-t	B-GPE
+.	O
+
+De	O
+ha	O
+ez	O
+nem	O
+elég	O
+,	O
+akkor	O
+mondd	O
+el	O
+.	O
+
+Ha	O
+képtelenek	O
+vagyunk	O
+megtalálni	O
+őket	O
+,	O
+az	O
+az	O
+alkalmatlanság	O
+megtestesítőjeként	O
+vonul	O
+be	O
+népünk	O
+hadtörténetébe	O
+.	O
+
+Az	O
+önök	O
+tapasztalatai	O
+semmit	O
+sem	O
+érnek	O
+Spanyolországban	B-GPE
+,	O
+ebben	O
+a	O
+hadműveletben	O
+.	O
+
+Egy	O
+hídba	O
+,	O
+és	O
+egy	O
+rakás	O
+emberbe	O
+került	O
+,	O
+hogy	O
+megtudjuk	O
+,	O
+pontosan	O
+hol	O
+is	O
+van	O
+az	O
+ágyú	O
+.	O
+
+Hah	O
+?	O
+
+Távol	O
+Las	B-GPE
+Cruces-től	I-GPE
+és	O
+a	O
+tengertől	O
+,	O
+ezredes	O
+.	O
+
+A	O
+spanyolok	B-NORP
+a	O
+hegyekben	O
+vannak	O
+.	O
+
+Itt	O
+található	O
+egy	O
+hágó	O
+.	O
+
+Ezen	O
+fognak	O
+keresztül	O
+haladni	O
+.	O
+
+Ezt	O
+feltételezzük	O
+.	O
+
+De	O
+ezúttal	O
+nem	O
+fognak	O
+megszabadulni	O
+.	O
+
+Odafent	O
+francia	B-NORP
+ágyúk	O
+vannak	O
+.	O
+
+Ezt	O
+mindenki	O
+tudja	O
+.	O
+
+És	O
+én	O
+is	O
+tudom	O
+.	O
+
+Miért	O
+akarsz	O
+ott	O
+áthaladni	O
+?	O
+
+Van	O
+másik	O
+út	O
+?	O
+
+Azt	O
+mondtuk	O
+,	O
+segítünk	O
+.	O
+
+Nem	O
+azt	O
+,	O
+hogy	O
+feláldozzuk	O
+magunkat	O
+.	O
+
+Kereszttűzbe	O
+kerültök	O
+és	O
+darabokra	O
+tépnek	O
+.	O
+
+Talán	O
+meg	O
+sem	O
+hallanak	O
+.	O
+
+Bevonjuk	O
+a	O
+kerekeket	O
+és	O
+az	O
+állatok	O
+patáit	O
+.	O
+
+Talán	O
+garantálja	O
+,	O
+hogy	O
+a	O
+franciák	B-NORP
+süketek	O
+?	O
+
+Nem	O
+,	O
+de	O
+ha	O
+elég	O
+távol	O
+kerülünk	O
+tőlük	O
+,	O
+mielőtt	O
+meghallanak	O
+,	O
+még	O
+van	O
+esélyünk	O
+.	O
+
+Talán	O
+azt	O
+hiszitek	O
+,	O
+hogy	O
+csak	O
+teherhordásra	O
+kelletek	O
+?	O
+
+Magunk	O
+mögött	O
+hagytuk	O
+üzleteinket	O
+és	O
+tanyáinkat	O
+.	O
+
+Ha	O
+felvágnák	O
+ereiteket	O
+,	O
+tudjátok	O
+,	O
+mi	O
+folyna	O
+ki	O
+?	O
+
+Hát	O
+nem	O
+vér	O
+.	O
+
+Ahhoz	O
+,	O
+hogy	O
+Avila-ba	B-GPE
+eljussunk	O
+,	O
+dél	O
+felé	O
+kell	O
+vegyük	O
+az	O
+irányt	O
+.	O
+
+De	O
+ahhoz	O
+,	O
+hogy	O
+dél	O
+felé	O
+menjünk	O
+,	O
+át	O
+kell	O
+itt	O
+haladjunk	O
+.	O
+
+Ugye	O
+értik	O
+?	O
+
+Tökéletesen	O
+megértjük	O
+.	O
+
+Mindnyájan	O
+szégyelljük	O
+magunkat	O
+,	O
+de	O
+feleségeink	O
+és	O
+gyerekeink	O
+vannak	O
+,	O
+nem	O
+akarunk	O
+meghalni	O
+ezért	O
+az	O
+ágyúért	O
+.	O
+
+Szükségünk	O
+van	O
+a	O
+segítségükre	O
+!	O
+
+Áh	O
+,	O
+akkor	O
+majd	O
+nélkülük	O
+megyünk	O
+!	O
+
+Elragadó	O
+bűbájával	O
+ismét	O
+elintézte	O
+a	O
+dolgokat	O
+.	O
+
+Azt	O
+várja	O
+,	O
+hogy	O
+könyörögjek	O
+nekik	O
+?	O
+
+Ha	O
+ez	O
+használ	O
+,	O
+akkor	O
+igen	O
+!	O
+
+Szükségünk	O
+van	O
+rájuk	O
+,	O
+Miguel	B-PER
+.	O
+
+De	O
+nem	O
+ennyire	O
+.	O
+
+Valaha	O
+50	B-CARDINAL
+görög	B-NORP
+állta	O
+el	O
+a	O
+hágót	O
+1000	B-CARDINAL
+katonával	O
+szemben	O
+.	O
+
+Mi	O
+az	O
+ellenkezőjét	O
+tesszük	O
+.	O
+
+Kapitány	O
+.	O
+
+Nem	O
+ismerem	O
+a	O
+történelmet	O
+.	O
+
+De	O
+egyet	O
+tudok	O
+...	O
+
+Tudom	O
+,	O
+hogy	O
+ott	O
+fogok	O
+állni	O
+Avila-ban	B-GPE
+a	O
+Santa	B-WORK_OF_ART
+Teresa	I-WORK_OF_ART
+szobor	I-WORK_OF_ART
+előtt	O
+.	O
+
+Tüzet	O
+szüntess	O
+!	O
+
+Kevesen	O
+vannak	O
+,	O
+de	O
+minden	O
+utat	O
+lezártak	O
+.	O
+
+Egyik	O
+oldalon	O
+sincs	O
+semmi	O
+nyomuk	O
+,	O
+és	O
+a	O
+szoros	O
+is	O
+üres	O
+.	O
+
+Maradjanak	O
+készenlétben	O
+a	O
+további	O
+parancsokig	O
+.	O
+
+Gyí	O
+!	O
+
+Azt	O
+mondta	O
+,	O
+ismeri	O
+ezeket	O
+a	O
+dombokat	O
+.	O
+
+Itt	O
+nem	O
+lehet	O
+leereszkedni	O
+.	O
+
+Ha	O
+feljöttünk	O
+,	O
+le	O
+is	O
+megyünk	O
+.	O
+
+Túl	O
+nagy	O
+lendületet	O
+vesz	O
+fel	O
+.	O
+
+A	O
+sebesség	O
+és	O
+a	O
+tömeg	O
+arányban	O
+van	O
+egymással	O
+.	O
+
+Felfelé	O
+5	B-QUANTITY
+tonnát	I-QUANTITY
+még	O
+épphogy	O
+felhúzunk	O
+,	O
+de	O
+lejtőn	O
+lefelé	O
+ez	O
+10-15	B-QUANTITY
+tonna	I-QUANTITY
+lesz	O
+.	O
+
+Képtelenek	O
+leszünk	O
+megtartani	O
+.	O
+
+Fel	O
+vagy	O
+le	O
+,	O
+az	O
+ágyú	O
+ugyanolyan	O
+súlyú	O
+.	O
+
+Fordítsátok	O
+meg	O
+az	O
+összvéreket	O
+.	O
+
+Forduljatok	O
+meg	O
+!	O
+
+Igyekezzetek	O
+!	O
+
+Húzzátok	O
+fel	O
+a	O
+farönköt	O
+!	O
+
+A	O
+rönköt	O
+!	O
+
+A	O
+rönköket	O
+!	O
+
+Félre	O
+!	O
+
+Eresszék	O
+el	O
+az	O
+összvéreket	O
+!	O
+
+Az	O
+ágyúcső	O
+letört	O
+a	O
+talpról	O
+.	O
+
+Fel	O
+nem	O
+mehetünk	O
+.	O
+
+Lefelé	O
+kell	O
+mennünk	O
+.	O
+
+Brilliáns	O
+.	O
+
+Ööö	O
+...	O
+
+Lefelé	O
+tényleg	O
+nehezebb	O
+volt	O
+.	O
+
+Nem	O
+messze	O
+innen	O
+van	O
+egy	O
+Maneciras	B-GPE
+nevű	O
+falu	O
+.	O
+
+Man	B-LOC
+-	I-LOC
+e	I-LOC
+-	I-LOC
+ciras	I-LOC
+.	O
+
+Javaslom	O
+,	O
+menjünk	O
+Maneciras-ba	B-GPE
+és	O
+keressünk	O
+egy	O
+helyet	O
+az	O
+ágyújavításhoz	O
+.	O
+
+Szükség	O
+lesz	O
+szerszámokra	O
+és	O
+műhelyre	O
+,	O
+ahol	O
+a	O
+franciák	B-NORP
+nem	O
+találhatnak	O
+ránk	O
+.	O
+
+Miguel	B-PER
+,	O
+ha	O
+lesznek	O
+ott	O
+franciák	B-NORP
+,	O
+ezt	O
+az	O
+uniformist	O
+nem	O
+viselheti	O
+.	O
+
+Most	O
+kit	O
+ajánl	O
+?	O
+
+Válasszon	O
+.	O
+
+Sajnos	O
+maga	O
+az	O
+.	O
+
+Spanyol	B-GPE
+bolhák	O
+,	O
+kapitány	O
+.	O
+
+Nem	O
+mernének	O
+megcsípni	O
+egy	O
+angolt	B-NORP
+.	O
+
+Megkapja	O
+tőlünk	O
+erre	O
+az	O
+engedélyt	O
+.	O
+
+Volna	O
+még	O
+valami	O
+.	O
+
+Az	O
+ágyú	O
+.	O
+
+Fiam	O
+,	O
+a	O
+papi	O
+hivatás	O
+hatalommal	O
+ruház	O
+fel	O
+,	O
+...de	O
+akkor	O
+sem	O
+tudnánk	O
+egy	O
+ágyút	O
+láthatatlanná	O
+tenni	O
+.	O
+
+Kegyelmes	O
+uram	O
+,	O
+az	O
+ágyút	O
+szeretnénk	O
+behozni	O
+a	O
+katedrálisba	O
+,	O
+ahol	O
+...	O
+
+A	O
+katedrálisba	O
+?	O
+
+Csak	O
+egy	O
+éjszakára	O
+.	O
+

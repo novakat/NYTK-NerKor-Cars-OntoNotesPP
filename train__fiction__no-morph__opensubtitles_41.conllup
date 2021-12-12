@@ -1,0 +1,1591 @@
+# global.columns = FORM ONPP:NER
+Washizu	B-PER
+sebesen	O
+közeledik	O
+.	O
+
+Miki	B-PER
+,	O
+hogy	O
+merészeli	O
+?	O
+
+Herceg	O
+.	O
+
+Támadjuk	O
+meg	O
+őket	O
+,	O
+uram	O
+.	O
+
+Vissza	O
+.	O
+
+Üldözzük	O
+és	O
+támadjuk	O
+meg	O
+őket	O
+,	O
+uram	O
+.	O
+
+Ne	O
+,	O
+vissza	O
+.	O
+
+Nem	O
+mehetünk	O
+,	O
+különben	O
+Miki	B-PER
+rájöhet	O
+a	O
+cselszövésre	O
+.	O
+
+Nagyurunk	O
+távoztával	O
+,	O
+Miki	B-PER
+a	O
+trón	O
+bitorlását	O
+tervezheti	O
+,	O
+és	O
+akkor	O
+Miki	B-PER
+lesz	O
+a	O
+következő	O
+ellenségünk	O
+.	O
+
+Üzenet	O
+az	O
+úrnőtől	O
+.	O
+
+Ha	O
+Miki	B-PER
+nem	O
+nyitja	O
+ki	O
+a	O
+kapukat	O
+,	O
+menjen	O
+a	O
+kapukhoz	O
+a	O
+Nagyúr	B-PER
+koporsójával	O
+.	O
+
+A	O
+Nagyúr	B-PER
+visszatért	O
+.	O
+
+Washizu	B-PER
+bebocsátást	O
+kér	O
+,	O
+mint	O
+a	O
+Nagyúr	B-PER
+koporsójának	O
+őrizője	O
+.	O
+
+Mi	O
+van	O
+a	O
+Nagyúr	B-PER
+asszonyával	O
+?	O
+
+Eldobta	O
+az	O
+életét	O
+.	O
+
+Nem	O
+viselhette	O
+el	O
+a	O
+látványt	O
+,	O
+hogy	O
+az	O
+ellenség	O
+uralja	O
+a	O
+kastélyt	O
+.	O
+
+A	O
+gonosz	O
+szellem	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+erdejében	O
+előre	O
+megjósolta	O
+.	O
+
+A	O
+Nagyúr	B-PER
+eltávozott	O
+,	O
+Inui	B-PER
+biztosan	O
+az	O
+erődre	O
+támad	O
+.	O
+
+Nagy	O
+erővel	O
+jönnek	O
+.	O
+
+Egyedül	O
+is	O
+képes	O
+vagy	O
+megvédeni	O
+a	O
+kastélyt.	O
+megvitatjuk	O
+ezt	O
+a	O
+tanács	O
+előtt	O
+.	O
+
+Megbeszéljük	O
+ezt	O
+hosszasan	O
+.	O
+
+Merre	O
+van	O
+a	O
+helyőrség	O
+?	O
+
+Azoknak	O
+a	O
+hegyeknek	O
+a	O
+lábánál	O
+,	O
+látja	O
+?	O
+
+Ebből	O
+a	O
+magasságból	O
+,	O
+szinte	O
+szánalmasnak	O
+tűnik	O
+.	O
+
+Az	O
+élet	O
+mindig	O
+csak	O
+jobb	O
+lehet	O
+.	O
+
+Jó	O
+,	O
+jószerencse	O
+.	O
+
+Ha	O
+csak	O
+egy	O
+örökös	O
+volt	O
+,	O
+a	O
+klán	O
+örülni	O
+fog	O
+.	O
+
+Hát	O
+nem	O
+tudlak	O
+lebeszélni	O
+erről	O
+a	O
+bolondságról	O
+...	O
+hogy	O
+Miki	B-PER
+fiát	O
+nevezd	O
+meg	O
+a	O
+trón	O
+örökösének	O
+?	O
+
+A	O
+tanácsban	O
+,	O
+hevesen	O
+vitáztak	O
+az	O
+uralkodói	O
+jogomról	O
+.	O
+
+A	O
+rangomat	O
+ennek	O
+a	O
+barátságnak	O
+köszönhetem	O
+.	O
+
+Meg	O
+kell	O
+fizetnem	O
+a	O
+hűségét	O
+.	O
+
+Miki	B-PER
+nem	O
+segített	O
+semmivel	O
+a	O
+barátságán	O
+kívül	O
+.	O
+
+Ezt	O
+biztos	O
+magad	O
+is	O
+tudod	O
+.	O
+
+Ne	O
+mond	O
+ezt	O
+.	O
+
+Miki	B-PER
+bátor	O
+.	O
+
+Okos	O
+hadvezér	O
+.	O
+
+Rémítő	O
+ellenfél	O
+lehet	O
+,	O
+de	O
+megbízható	O
+szövetséges	O
+.	O
+
+Ha	O
+a	O
+fiát	O
+nevezem	O
+örökösömnek	O
+,	O
+el	O
+fogja	O
+kötelezni	O
+magát	O
+mellettem	O
+.	O
+
+Hallgass	O
+meg	O
+.	O
+
+A	O
+ma	B-DATE
+esti	B-TIME
+lakoma	O
+után	O
+bejelentem	O
+és	O
+megünnepeljük	O
+az	O
+utódomat	O
+.	O
+
+Miki-t	B-PER
+és	O
+fiát	O
+pompásan	O
+elszórakoztatjuk	O
+.	O
+
+Nem	O
+szennyezem	O
+be	O
+a	O
+kezem	O
+vérrel	O
+...	O
+hogy	O
+Miki	B-PER
+fiának	O
+szakét	O
+adok	O
+.	O
+
+Uralkodásom	O
+egy	B-DUR
+nemzedékig	I-DUR
+tart	O
+.	O
+
+Utána	O
+Miki	B-PER
+örököse	O
+következik	O
+.	O
+
+Ha	O
+hiszel	O
+az	O
+erdei	O
+jóslatnak	O
+,	O
+...	O
+
+ez	O
+a	O
+legtöbb	O
+,	O
+amit	O
+remélhetünk	O
+.	O
+
+Nincsen	O
+gyerekünk	O
+.	O
+
+Egyszer	O
+örököst	O
+kell	O
+választani	O
+.	O
+
+Én	O
+...	O
+terhes	O
+vagyok	O
+.	O
+
+Terhes	O
+?	O
+
+Bolond	O
+.	O
+
+A	O
+hűséges	O
+lova	O
+ma	B-DATE
+megbolondult	O
+.	O
+
+Elszakította	O
+a	O
+kantárt	O
+,	O
+letépte	O
+a	O
+gyeplőt	O
+...	O
+és	O
+kiszökött	O
+.	O
+
+Apám	O
+,	O
+ez	O
+rossz	O
+előjel	O
+.	O
+
+Nem	O
+mehetünk	O
+a	O
+kastélyba	O
+.	O
+
+Kitüntetett	O
+vendégek	O
+leszünk	O
+az	O
+esti	B-TIME
+lakomán	O
+.	O
+
+Ott	O
+kell	O
+lennünk	O
+.	O
+
+Ahogy	O
+már	O
+mondtam	O
+,	O
+hálás	O
+vagyok	O
+a	O
+kitüntetésért	O
+...	O
+
+Panaszkodsz	O
+?	O
+
+Nem	O
+panaszkodom	O
+.	O
+
+De	O
+elutasítom	O
+,	O
+hogy	O
+megbízzak	O
+...	O
+egy	O
+gonosz	O
+szellem	O
+jóslatában	O
+.	O
+
+Ostobaság	O
+.	O
+
+Ostobaság	O
+?	O
+
+Washizu-nak	B-PER
+jósolt	O
+jövő	O
+bekövetkezett	O
+.	O
+
+Az	O
+enyém	O
+ma	B-DATE
+este	O
+...	O
+
+Mivel	O
+tudod	O
+ezt	O
+bizonyítani	O
+.	O
+
+A	O
+szellem	O
+becsapott	O
+téged	O
+,	O
+és	O
+nem	O
+bíztál	O
+benne	O
+,	O
+és	O
+most	O
+hiszel	O
+a	O
+jóslatban	O
+,	O
+hogy	O
+valóra	O
+vált	O
+.	O
+
+Bölcs	O
+dolog	O
+ez	O
+?	O
+
+Akkor	O
+ne	O
+higgy	O
+benne	O
+.	O
+
+Mégis	O
+,	O
+hogy	O
+Washizu	B-PER
+téged	O
+jelöl	O
+örökösnek	O
+ez	O
+nem	O
+álom	O
+vagy	O
+illúzió	O
+.	O
+
+Jól	O
+figyelj	O
+.	O
+
+Te	O
+leszel	O
+a	O
+nagyúr	O
+és	O
+a	O
+kastély	O
+fejedelme	O
+,	O
+vérontás	O
+nélkül	O
+,	O
+anélkül	O
+hogy	O
+holttesteket	O
+kellene	O
+halmozni	O
+.	O
+
+Mit	O
+ütött	O
+abba	O
+a	O
+lóba	O
+?	O
+
+Nézd	O
+a	O
+sebeimet	O
+.	O
+
+Kihagynád	O
+a	O
+kastély	O
+szakéját	O
+?	O
+
+Visszajött	O
+.	O
+
+Merre	O
+van	O
+Miki	B-PER
+úr	O
+?	O
+
+A	O
+Nagyúr	B-PER
+ingerültnek	O
+látszik	O
+.	O
+
+Milyen	O
+arcátlanság	O
+Miki-től	B-PER
+.	O
+
+Elég	O
+legyen	O
+.	O
+
+Elég	O
+a	O
+táncból	O
+.	O
+
+Átkozott	O
+Miki	B-PER
+.	O
+
+Micsoda	O
+arcátlanság	O
+.	O
+
+Takarodj	O
+innen	O
+.	O
+
+Túlságosan	O
+feltüzelte	O
+magát	O
+.	O
+
+Mostanában	O
+gyakran	O
+fordul	O
+elő	O
+,	O
+ha	O
+túl	O
+sokat	O
+iszik	O
+.	O
+
+Nem	O
+csoda	O
+,	O
+hogy	O
+az	O
+elődje	O
+erőszakos	O
+halála	O
+hasogatja	O
+a	O
+szívét	O
+.	O
+
+Szörnyen	O
+részeg	O
+vagyok	O
+.	O
+
+Ti	O
+egy	O
+kortyot	O
+se	O
+isztok	O
+?	O
+
+Ünnepeljünk	O
+.	O
+
+Miért	O
+késlekedik	O
+Miki	B-PER
+?	O
+
+Az	O
+a	O
+hír	O
+járja	O
+,	O
+hogy	O
+Inui	B-PER
+kémet	O
+küldött	O
+.	O
+
+Imádkozom	O
+ne	O
+legyen	O
+igaz	O
+.	O
+
+Megint	O
+itt	O
+van	O
+.	O
+
+Ha	O
+meg	O
+akarsz	O
+róni	O
+,	O
+ránts	O
+kardot	O
+és	O
+támadj	O
+.	O
+
+Leváglak	O
+megint	O
+.	O
+
+Ne	O
+törődjenek	O
+vele	O
+.	O
+
+Összezavarta	O
+a	O
+leülepedett	O
+ital	O
+.	O
+
+Bocsássák	O
+meg	O
+illetlen	O
+félbeszakítását	O
+ünnepségünknek	O
+.	O
+
+Kérem	O
+,	O
+menjenek	O
+most	O
+aludni	O
+.	O
+
+Milyen	O
+pompás	O
+.	O
+
+Egy	O
+nagyúr	O
+,	O
+a	O
+világ	O
+uralmára	O
+vágyakozva	O
+,	O
+rettegésben	O
+tartja	O
+és	O
+tönkre	O
+teszi	O
+egy	O
+szellem	O
+.	O
+
+Miki	B-PER
+úrnak	O
+vége	O
+...	O
+
+Van	O
+még	O
+egy	O
+sürgető	O
+kérdés	O
+.	O
+
+A	O
+fia	O
+?	O
+
+Megsebesítettem	O
+,	O
+de	O
+elmenekült	O
+,	O
+a	O
+lovára	O
+feküdve	O
+.	O
+
+Elmenekült	O
+?	O
+
+Nincs	O
+mentségem	O
+.	O
+
+Erős	O
+szél	O
+fúj	O
+.	O
+
+A	O
+kastély	O
+alapjait	O
+is	O
+rázza	O
+.	O
+
+Ezek	O
+az	O
+alapok	O
+...	O
+már	O
+úgyis	O
+remegnek	O
+,	O
+a	O
+szél	O
+nélkül	O
+is	O
+.	O
+
+Manapság	O
+,	O
+még	O
+a	O
+helyőrségek	O
+és	O
+az	O
+erődök	O
+parancsnokai	O
+is	O
+,	O
+akik	O
+minden	O
+nap	O
+bejárnak	O
+az	O
+udvarba	O
+,	O
+nehezen	O
+veszik	O
+észre	O
+.	O
+
+Ne	O
+játssz	O
+a	O
+tűzzel	O
+.	O
+
+Két	B-CARDINAL
+parancsnok	O
+,	O
+akikben	O
+a	O
+Nagyúr	B-PER
+nem	O
+bízott	O
+meg	O
+,	O
+az	O
+életükkel	O
+fizettek	O
+.	O
+
+Nehéz	O
+elhinni	O
+,	O
+hogy	O
+Inui	B-PER
+kémei	O
+ölték	O
+meg	O
+Miki-t	B-PER
+.	O
+
+Hallottam	O
+...	O
+hogy	O
+Miki	B-PER
+fia	O
+menedéket	O
+talált	O
+Inui-nál	B-PER
+.	O
+
+Csak	O
+egy	O
+bolond	O
+menne	O
+apja	O
+ellenségéhez	O
+.	O
+
+Azt	O
+is	O
+mondják	O
+,	O
+hogy	O
+Noriyasu	B-PER
+és	O
+az	O
+utolsó	O
+herceg	O
+...	O
+elkötelezte	O
+magát	O
+Inui-nak	B-PER
+.	O
+
+Mi	O
+lesz	O
+ebből	O
+?	O
+
+Már	O
+nem	O
+sokáig	O
+bízhatunk	O
+a	O
+kastélyunk	O
+legyőzhetetlenségében	O
+.	O
+
+Hallottam	O
+,	O
+hogy	O
+az	O
+egyik	O
+ember	O
+az	O
+őrtoronyban	O
+azt	O
+mondja	O
+...	O
+patkányokat	O
+látott	O
+menekülni	O
+a	O
+kastélyból	O
+.	O
+
+Úgy	O
+tartják	O
+,...	O
+
+A	O
+patkányok	O
+elhagyják	O
+a	O
+házat	O
+,	O
+mielőtt	O
+leégne	O
+.	O
+
+Az	O
+úrnő	O
+,	O
+hogy	O
+halad	O
+?	O
+
+Beszélj	O
+.	O
+
+Miért	O
+hallgatsz	O
+?	O
+
+Nincs	O
+mit	O
+mondani	O
+.	O
+
+Az	O
+úrnő	O
+megszült	O
+.	O
+
+A	O
+gyermek	O
+halva	O
+született	O
+.	O
+
+Halva	O
+született	O
+?	O
+
+Már	O
+az	O
+úrnő	O
+méhében	O
+sem	O
+volt	O
+benne	O
+élet	O
+,	O
+az	O
+úrnő	O
+egészség	O
+sem	O
+jó	O
+.	O
+
+Bolond	O
+!	O
+
+Egy	O
+hírnök	O
+az	O
+első	O
+erődből	O
+.	O
+
+Inui	B-PER
+emberei	O
+elárasztották	O
+határainkat	O
+,	O
+az	O
+első	B-ORDINAL
+erőd	O
+felé	O
+tartanak	O
+.	O
+
+Noriyasu	B-PER
+vezeti	O
+az	O
+előörsöt	O
+,	O
+bosszút	O
+esküdött	O
+a	O
+herceg	O
+apjáért	O
+.	O
+
+A	O
+második	B-ORDINAL
+erődöt	O
+körbe	O
+vették	O
+.	O
+
+Miki	B-PER
+fia	O
+vezeti	O
+őket	O
+.	O
+
+Az	O
+első	B-ORDINAL
+és	O
+második	B-ORDINAL
+erőd	O
+elvezett	O
+,	O
+az	O
+ellenség	O
+egyesíti	O
+erejét	O
+...	O
+és	O
+a	O
+harmadik	B-ORDINAL
+erődhöz	O
+közelít	O
+.	O
+
+Gyávák	O
+.	O
+
+Két	B-TIME
+órája	I-TIME
+hívtam	O
+össze	O
+a	O
+tanácsot	O
+.	O
+
+Hogyan	O
+fogadjuk	O
+a	O
+támadást	O
+?	O
+
+Elég	O
+volt	O
+belőletek	O
+.	O
+
+Milyen	O
+tanácsot	O
+kaphatnék	O
+gyáváktól	O
+,	O
+akik	O
+reszketnek	O
+és	O
+elbújnak	O
+a	O
+tűz	O
+elől	O
+?	O
+
+Hozzátok	O
+a	O
+lovam	O
+.	O
+
+A	O
+lovamat	O
+.	O
+
+Gyere	O
+elő	O
+.	O
+
+Gonosz	O
+szellem	O
+.	O
+
+Gyere	O
+elő	O
+gonosz	O
+szellem	O
+.	O
+
+Mutasd	O
+magad	O
+.	O
+
+Tudnom	O
+kell	O
+.	O
+
+Ki	O
+van	O
+itt	O
+?	O
+
+A	O
+Pók	B-FAC
+Klán	I-FAC
+kastély	I-FAC
+Nagyura	O
+?	O
+
+Átkozott	O
+.	O
+
+Válaszolt	O
+világosan	O
+.	O
+
+Igaz	O
+,	O
+hogy	O
+Miki	B-PER
+fia	O
+lesz	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+ura	O
+?	O
+
+Értelek	O
+,	O
+utad	O
+végére	O
+értél	O
+.	O
+
+Jól	O
+csináltad	O
+.	O
+
+Mond	O
+meg	O
+.	O
+
+Ha	O
+megvan	O
+az	O
+erőd	O
+,	O
+mond	O
+el	O
+,	O
+mi	O
+lesz	O
+a	O
+csata	O
+vége	O
+.	O
+
+Vesd	O
+el	O
+félelmeidet	O
+.	O
+
+Amíg	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+erdejének	O
+fái	O
+...	O
+nem	O
+támadnak	O
+a	O
+Pók	B-FAC
+Klán	I-FAC
+kastélya	I-FAC
+ellen	O
+,	O
+nem	O
+veszíthetsz	O
+a	O
+csatában	O
+.	O
+
+A	O
+fák	O
+támadnak	O
+?	O
+
+Az	O
+lehetetlen	O
+.	O
+
+Ez	O
+azt	O
+jelenti	O
+,	O
+hogy	O
+nem	O
+veszíthetem	O
+el	O
+a	O
+csatát	O
+?	O
+
+Ha	O
+a	O
+vérontás	O
+ösvényére	O
+léptél	O
+,	O
+a	O
+gonosz	O
+csúcsait	O
+kell	O
+megmásznod	O
+.	O
+
+Noriyasu	B-PER
+,	O
+herceg	O
+és	O
+még	O
+Miki	B-PER
+fia	O
+is	O
+,	O
+esküszöm	O
+,	O
+mindet	O
+megölöm	O
+.	O
+
+Ha	O
+holttestekből	O
+építesz	O
+hegyet	O
+,	O
+legyen	O
+a	O
+csúcs	O
+olyan	O
+magas	O
+amennyire	O
+lehet	O
+.	O
+
+Új	O
+hegyet	O
+emelek	O
+a	O
+halottakból	O
+a	O
+megfakult	O
+csontok	O
+felé	O
+.	O
+
+Ha	O
+megindítod	O
+a	O
+vér	O
+folyamát	O
+,	O
+legyen	O
+az	O
+folyó	O
+,	O
+nem	O
+,	O
+egy	O
+véres	O
+óceán	O
+.	O
+
+Vér	O
+áradata	O
+fogja	O
+befesteni	O
+ezt	O
+az	O
+erdőt	O
+.	O
+
+Gyere	O
+értem	O
+,	O
+Noriyasu	B-PER
+.	O
+
+Szövetségben	O
+Inui-val	B-PER
+,	O
+a	O
+herceggel	O
+,	O
+és	O
+Miki	B-PER
+fiával	O
+.	O
+
+Egyesítsétek	O
+az	O
+első	B-ORDINAL
+és	O
+második	B-ORDINAL
+erőd	O
+csapatait	O
+.	O
+
+Ezrek	O
+,	O
+tízezrek	B-CARDINAL
+.	O
+
+Hozzatok	O
+minden	O
+embert	O
+,	O
+akit	O
+lehet	O
+és	O
+ostromoljátok	O
+meg	O
+a	O
+Pók	B-ORG
+Klánt	I-ORG
+!	O
+
+Vigyázzatok	O
+.	O
+
+A	O
+Pók	B-ORG
+Klán	I-ORG
+erdeje	O
+...	O
+ösvények	O
+hálózata	O
+.	O
+
+Ne	O
+csábítsanak	O
+el	O
+az	O
+kitérők	O
+.	O
+
+Kerüljétek	O
+a	O
+csapásokat	O
+.	O
+
+Ha	O
+az	O
+erdőben	O
+vagyunk	O
+,	O
+vágtassatok	O
+egyenesen	O
+át	O
+az	O
+erdőn	O
+,	O
+és	O
+nyomuljatok	O
+előre	O
+.	O
+
+A	O
+lesben	O
+álló	O
+csapatok	O
+visszavonultak	O
+az	O
+erdőből	O
+?	O
+
+A	O
+lesben	O
+álló	O
+emberek	O
+visszavonultak	O
+egy	O
+nyíl	O
+kilövése	O
+nélkül	O
+?	O
+
+Az	O
+ellenfelünk	O
+,	O
+Noriyasu	B-PER
+,	O
+ismeri	O
+az	O
+erdőt	O
+.	O
+
+Nem	O
+tudjuk	O
+ott	O
+csapdába	O
+csalni	O
+.	O
+
+Hanyag	O
+voltam	O
+...	O
+
+Emberek	O
+,	O
+jól	O
+figyeljetek	O
+.	O
+
+A	O
+csatában	O
+a	O
+győztesé	O
+lesz	O
+minden	O
+.	O
+
+A	O
+kis	O
+győzelmek	O
+semmit	O
+se	O
+jelentenek	O
+.	O
+
+Legyetek	O
+bátrak	O
+.	O
+
+Én	O
+,	O
+Washizu	B-PER
+,	O
+bizalmatokat	O
+kérem	O
+.	O
+
+Semmiképp	O
+sem	O
+veszíthetjük	O
+el	O
+a	O
+csatát	O
+.	O
+
+Ha	O
+nem	O
+is	O
+hisztek	O
+nekem	O
+,	O
+elmondom	O
+hogy	O
+lehet	O
+.	O
+
+Akkor	O
+kezdődött	O
+,	O
+mikor	O
+még	O
+az	O
+első	B-ORDINAL
+erőd	O
+parancsnoka	O
+voltam	O
+.	O
+
+Vissza	O
+kellett	O
+térnem	O
+a	O
+kastélyba	O
+Fujimaki	B-PER
+lázadásának	O
+leverése	O
+után	O
+,	O
+és	O
+én	O
+láttam	O
+egy	O
+gonosz	O
+szellemet	O
+a	O
+Pók	B-LOC
+erdőben	I-LOC
+.	O
+
+Jövendőt	O
+mondott	O
+,	O
+hogy	O
+még	O
+aznap	B-DATE
+az	O
+Északi	B-ORG
+Helyőrség	I-ORG
+ura	O
+leszek	O
+,	O
+és	O
+később	O
+ezé	O
+a	O
+kastélyé	O
+.	O
+
+Lássátok	O
+sorsom	O
+.	O
+
+A	O
+Jóslat	O
+pontosan	O
+megmondta	O
+végzetem	O
+.	O
+
+És	O
+ma	B-DATE
+...	O
+
+Visszavezettem	O
+paripám	O
+az	O
+erdőbe	O
+...	O
+hogy	O
+még	O
+egyszer	O
+megkérdezzem	O
+a	O
+szellemet	O
+sorsomról	O
+.	O
+
+Örüljetek	O
+.	O
+

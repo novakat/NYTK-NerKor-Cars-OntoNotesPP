@@ -1,0 +1,1520 @@
+# global.columns = FORM ONPP:NER
+Most	O
+van	O
+a	O
+szent	O
+hét	O
+.	O
+
+Nem	O
+mocskolhatják	O
+be	O
+a	O
+templomot	O
+.	O
+
+A	O
+fegyvereknek	O
+odakint	O
+a	O
+helyük	O
+.	O
+
+Ez	O
+itt	O
+az	O
+Úr	O
+háza	O
+,	O
+nem	O
+pedig	O
+fegyverraktár	O
+.	O
+
+Túl	O
+sokat	O
+kér	O
+.	O
+
+Kegyelmes	O
+úr	O
+!	O
+
+Nem	O
+utasíthatja	O
+vissza	O
+őket	O
+.	O
+
+Hogyan	O
+"	O
+?	O
+
+Hasztalan	O
+papi	O
+köntöse	O
+mögé	O
+bújnia	O
+és	O
+szabályokról	O
+papolnia	O
+nekik	O
+.	O
+
+Nem	O
+elég	O
+,	O
+ha	O
+kijelenti	O
+:	O
+a	O
+fegyvereknek	O
+semmi	O
+keresnivalójuk	O
+a	O
+katedrálisban	O
+.	O
+
+Ez	O
+nem	O
+csak	O
+egy	O
+egyszerű	O
+fegyver	O
+.	O
+
+Ez	O
+az	O
+egyetlen	O
+reménye	O
+Spanyolországnak	B-GPE
+.	O
+
+Van	O
+fogalma	O
+,	O
+hányan	O
+adták	O
+életüket	O
+,	O
+csak	O
+hogy	O
+eddig	O
+elhúzzák	O
+az	O
+ágyút	O
+?	O
+
+Látta	O
+volna	O
+a	O
+hegyszorost	O
+,	O
+ahol	O
+többek	O
+holtteste	O
+borította	O
+az	O
+utat	O
+.	O
+
+És	O
+miért	O
+?	O
+
+Ha	O
+nem	O
+is	O
+tudja	O
+a	O
+választ	O
+,	O
+spanyol	B-NORP
+és	O
+pap	O
+létére	O
+érezhetné	O
+.	O
+
+Nem	O
+utasíthatja	O
+őket	O
+vissza	O
+!	O
+
+A	B-EVENT
+szent	I-EVENT
+hét	I-EVENT
+ma	B-DATE
+este	B-TIME
+kezdődik	O
+.	O
+
+Akkor	O
+hozzák	O
+ide	O
+az	O
+ágyút	O
+.	O
+
+Szűzanya	B-PER
+!	O
+
+Köszönöm	O
+,	O
+hogy	O
+meghallgattad	O
+imámat	O
+.	O
+
+Most	O
+már	O
+megérti	O
+.	O
+
+És	O
+ezért	O
+még	O
+jobban	O
+szeretem	O
+.	O
+
+Tudom	O
+,	O
+hogy	O
+a	O
+szemedben	O
+vétkeztem	O
+.	O
+
+Kislánykorom	O
+óta	O
+először	O
+merek	O
+ismét	O
+álmodozni	O
+.	O
+
+De	O
+itt	O
+van	O
+Miguel	B-PER
+.	O
+
+És	O
+az	O
+ő	O
+álma	O
+:	O
+Avila	B-GPE
+.	O
+
+Mindig	O
+mellette	O
+leszek	O
+.	O
+
+Túl	O
+sokat	O
+akarnék	O
+,	O
+ha	O
+teljesítenéd	O
+a	O
+kívánságomat	O
+.	O
+
+Hallgass	O
+meg	O
+,	O
+...és	O
+próbálj	O
+megbocsátani	O
+,	O
+amikor	O
+válaszút	O
+elé	O
+állok	O
+.	O
+
+Ezt	O
+Miguel-ért	B-PER
+és	O
+Avila-ért	B-GPE
+.	O
+
+És	O
+ezt	O
+a	O
+szerelemért	O
+,	O
+amit	O
+más	O
+oldalán	O
+találtam	O
+meg	O
+.	O
+
+A	O
+katedrálisban	O
+?	O
+
+Az	O
+ágyú	O
+ott	O
+van	O
+,	O
+uram	O
+.	O
+
+Maga	O
+vagy	O
+őrült	O
+,	O
+vagy	O
+részeg	O
+.	O
+
+Mindkettő	O
+.	O
+
+Esküszöm	O
+,	O
+hogy	O
+láttam	O
+.	O
+
+Megnézzük	O
+.	O
+
+Nos	O
+,	O
+vendégeink	O
+végre	O
+megérkeztek	O
+.	O
+
+Sokkal	O
+nagyobb	O
+,	O
+mint	O
+képzeltem	O
+.	O
+
+Át	O
+tudják	O
+vele	O
+törni	O
+a	O
+falat	O
+?	O
+
+Ha	O
+csak	O
+nem	O
+robban	O
+az	O
+arcukba	O
+.	O
+
+Maga	O
+szerint	O
+hányan	O
+lehetnek	O
+?	O
+
+Úgy	B-CARDINAL
+10.000-en	I-CARDINAL
+,	O
+és	O
+még	O
+jönnek	O
+.	O
+
+Túl	O
+nagy	O
+kockázat	O
+a	O
+lovasságnak	O
+.	O
+
+Ma	B-DATE
+minden	O
+túl	O
+soknak	O
+tűnik	O
+.	O
+
+Már	O
+alig	O
+várják	O
+az	O
+igazság	O
+pillanatát	O
+,	O
+mintha	O
+kényszert	O
+éreznének	O
+a	O
+halálra	O
+,	O
+és	O
+hogy	O
+vérük	O
+itassa	O
+át	O
+a	O
+földet	O
+.	O
+
+Talán	O
+azért	O
+,	O
+mert	O
+ez	O
+az	O
+ő	O
+földjük	O
+.	O
+
+Tudni	O
+akarjátok	O
+,	O
+hogyan	O
+fogjuk	O
+csinálni	O
+?	O
+
+Csodát	O
+akartok	O
+?	O
+
+Mert	O
+csodák	O
+nincsenek	O
+.	O
+
+Csak	O
+az	O
+ágyú	O
+.	O
+
+Mondja	O
+meg	O
+nekik	O
+az	O
+igazat	O
+.	O
+
+Reggel	B-TIME
+az	O
+ágyút	O
+elsütjük	O
+a	O
+faltól	O
+1600	B-QUANTITY
+yardra	I-QUANTITY
+.	O
+
+Az	O
+ágyúgolyók	O
+egyenként	O
+96	B-QUANTITY
+font	I-QUANTITY
+súlyúak	O
+.	O
+
+De	O
+kilövéskör	O
+a	O
+súlyuk	O
+eléri	O
+a	O
+9000	B-QUANTITY
+fontot	I-QUANTITY
+.	O
+
+Úgy	O
+hiszem	O
+,	O
+ezzel	O
+áttörhetjük	O
+a	O
+falat	O
+.	O
+
+És	O
+mi	O
+van	O
+a	O
+francia	B-NORP
+fegyverekkel	O
+?	O
+
+Ha	O
+nem	O
+lépik	O
+át	O
+az	O
+1,000	B-QUANTITY
+yardos	I-QUANTITY
+határt	O
+,	O
+lőtávon	O
+kívül	O
+lesznek	O
+.	O
+
+És	O
+akkor	O
+elkezdődik	O
+.	O
+
+80	B-CARDINAL
+ágyút	O
+számoltam	O
+a	O
+falakon	O
+.	O
+
+Ha	O
+1000	B-QUANTITY
+yardon	I-QUANTITY
+belülre	O
+kerülnek	O
+,	O
+gránátokat	O
+fognak	O
+szórni	O
+.	O
+
+Ezek	O
+a	O
+levegőben	O
+robbannak	O
+,	O
+a	O
+bennük	O
+lévő	O
+golyók	O
+a	O
+testükbe	O
+fúródhatnak	O
+.	O
+
+500	B-QUANTITY
+yardra	I-QUANTITY
+kartácsokkal	O
+lőnek	O
+-	O
+fémdarabokkal	O
+és	O
+láncokkal	O
+.	O
+
+Ha	O
+közelebb	O
+mennek	O
+,	O
+páncéltörő	O
+ágyúkkal	O
+támadnak	O
+.	O
+
+Mire	O
+elérik	O
+a	O
+falat	O
+,	O
+legkevesebb	O
+50%-uk	B-PERCENT
+odavész	O
+.	O
+
+Megértettük	O
+,	O
+Miguel	B-PER
+.	O
+
+Ezek	O
+az	O
+emberek	O
+korábban	O
+is	O
+feláldozták	O
+az	O
+életüket	O
+.	O
+
+Jó	O
+éjt	O
+.	O
+
+Amit	O
+mondtam	O
+nekik	O
+...	O
+ami	O
+megtörténik	O
+,	O
+az	O
+mind	O
+igaz	O
+.	O
+
+Juana	B-PER
+,	O
+szeretném	O
+,	O
+ha	O
+velem	O
+maradnál	O
+az	O
+ágyúnál	O
+.	O
+
+De	O
+a	O
+többiek	O
+nem	O
+tehetik	O
+ugyanezt	O
+.	O
+
+De	O
+ha	O
+szeretsz	O
+,	O
+ezt	O
+megígéred	O
+.	O
+
+Akkor	O
+ígérd	O
+meg	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+el	O
+kellene	O
+mondanod	O
+Miguel-nek	B-PER
+.	O
+
+Nem	O
+kell	O
+elmondanom	O
+.	O
+
+Tudni	O
+fogja	O
+.	O
+
+Most	O
+minden	O
+olyan	O
+csendes	O
+.	O
+
+Most	O
+az	O
+a	O
+sok	O
+ember	O
+ott	O
+,	O
+mind	O
+vár	O
+.	O
+
+Köszönöm	O
+,	O
+hogy	O
+segítesz	O
+nekik	O
+,	O
+Anthony	B-PER
+.	O
+
+Ezért	O
+jöttél	O
+?	O
+
+Annyira	O
+félek	O
+.	O
+
+Féltem	O
+őket	O
+és	O
+magunkat	O
+.	O
+
+A	O
+falak	O
+messze	O
+vannak	O
+.	O
+
+Nekünk	O
+nincs	O
+mitől	O
+félni	O
+.	O
+
+Épp	O
+ez	O
+fáj	O
+annyira	O
+.	O
+
+Ők	O
+is	O
+olyanok	O
+,	O
+mint	O
+mi.	O
+Élni	O
+akarnak	O
+,	O
+és	O
+szeretnének	O
+szeretni	O
+,	O
+holnap	O
+mégis	O
+mindent	O
+kockára	O
+tesznek	O
+.	O
+
+Ezen	O
+nem	O
+változtathatsz	O
+.	O
+
+Anthony	B-PER
+...	O
+
+Nem	O
+tarthatom	O
+be	O
+az	O
+ígéretemet	O
+.	O
+
+Ugye	O
+nem	O
+akarsz	O
+velük	O
+menni	O
+?	O
+
+De	O
+,	O
+igen	O
+.	O
+
+Nem	O
+teheted	O
+!	O
+
+Nem	O
+engedem	O
+!	O
+
+Imádkoztam	O
+,	O
+hogy	O
+veled	O
+maradhassak	O
+.	O
+
+Veled	O
+szeretnék	O
+lenni	O
+.	O
+
+Akkor	O
+maradj	O
+.	O
+
+Nem	O
+kell	O
+velük	O
+menned	O
+.	O
+
+Egy	O
+lány	O
+a	O
+többezer	B-CARDINAL
+férfi	O
+közt	O
+,	O
+min	O
+változtat	O
+ez	O
+?	O
+
+Mert	O
+te	O
+vagy	O
+a	O
+mindenem	O
+,	O
+ami	O
+túl	O
+sok	O
+,	O
+és	O
+mégsem	O
+elég	O
+.	O
+
+Én	O
+spanyol	O
+vagyok	O
+.	O
+
+Avila	B-LOC
+része	O
+vagyok	O
+.	O
+
+És	O
+az	O
+én	O
+részem	O
+is	O
+vagy	O
+.	O
+
+De	O
+Isten	O
+úgysegéljen	O
+,	O
+Miguel-lel	B-PER
+tartok	O
+.	O
+
+Ölelj	O
+át	O
+,	O
+Anthony	B-PER
+.	O
+
+Mondd	O
+,	O
+hogy	O
+tudod	O
+,	O
+nem	O
+tehetek	O
+mást	O
+.	O
+
+Mondd	O
+,	O
+hogy	O
+szeretsz	O
+!	O
+
+Nem	O
+hittem	O
+,	O
+hogy	O
+még	O
+visszajössz	O
+ide	O
+.	O
+
+Itt	O
+vagyok	O
+,	O
+Miguel	B-PER
+.	O
+
+Sajnálom	O
+hogy	O
+sosem	O
+tudtam	O
+szavakba	O
+önteni	O
+mindazt	O
+,	O
+ami	O
+számomra	O
+jelentesz	O
+.	O
+
+Túl	O
+lassúak	O
+a	O
+lövészeink	O
+.	O
+
+Siessenek	O
+.	O
+
+Vissza	O
+!	O
+
+És	O
+állítsa	O
+készenlétbe	O
+a	O
+lövészeket	O
+!	O
+vissza	O
+!	O
+
+Tábornok	O
+!	O
+
+Azt	O
+mondtam	O
+,	O
+készítse	O
+a	O
+lövészeket	O
+!	O
+
+De	O
+,	O
+uram	O
+...	O
+
+Azonnal	O
+!	O
+
+Sajnálom	O
+,	O
+Anthony	B-PER
+.	O
+
+Túl	O
+sokat	O
+kértem	O
+.	O
+
+Azt	O
+szerettem	O
+volna	O
+,	O
+ha	O
+Miguel	B-PER
+eljut	O
+Avila-ba	B-GPE
+.	O
+
+És	O
+téged	O
+...	O
+téged	O
+szeretni	O
+.	O
+
+Szinkron	O
+alapján	O
+készítette	O
+:	O
+Redym	B-PER
+A	O
+szinkronért	O
+köszönet	O
+The.Russian-nek	B-PER
+!	O
+
+Miért	O
+adja	O
+el	O
+a	O
+papa	O
+a	O
+marháinkat	O
+?	O
+
+Azért	O
+,	O
+hogy	O
+pénzt	O
+kapjon	O
+.	O
+
+Mi	O
+az	O
+a	O
+pénz	O
+?	O
+
+Pénzért	O
+lehet	O
+vásárolni	O
+.	O
+
+Hogy-hogy	O
+azért	O
+lehet	O
+vásárolni	O
+?	O
+
+Hát	O
+,	O
+odaadod	O
+egy	O
+kereskedőnek	O
+,	O
+és	O
+kapsz	O
+érte	O
+valamit	O
+.	O
+
+Azt	O
+mondják	O
+,	O
+pénzért	O
+bármit	O
+meg	O
+lehet	O
+kapni	O
+.	O
+
+Bármit	O
+?	O
+
+Na	O
+és	O
+hogy	O
+néz	O
+ki	O
+?	O
+
+Hát	O
+,	O
+még	O
+én	O
+is	O
+csak	O
+egyszer	O
+láttam	O
+,	O
+...a	O
+papa	O
+egydollárosát	B-MONEY
+.	O
+
+Papírból	O
+van	O
+.	O
+
+Mit	O
+kapott	O
+a	O
+papa	O
+a	O
+dollárjáért	O
+?	O
+
+Nem	O
+volt	O
+jó	O
+pénz	O
+.	O
+
+De	O
+te	O
+azt	O
+mondtad	O
+,	O
+hogy	O
+pénzért	O
+bármit	O
+lehet	O
+venni	O
+.	O
+
+Na	O
+,	O
+igen	O
+.	O
+
+De	O
+a	O
+papáé	O
+a	O
+déliek	O
+pénze	O
+volt	O
+.	O
+
+Az	O
+meg	O
+milyen	O
+pénz	O
+?	O
+
+A	O
+déliek	O
+pénze	O
+?	O
+
+Hát	O
+,	O
+az	O
+...	O
+
+Na	O
+?	O
+
+Aki	O
+kíváncsi	O
+,	O
+hamar	O
+megöregszik	O
+.	O
+
+Kár	O
+,	O
+hogy	O
+el	O
+kell	O
+menned	O
+.	O
+
+Na	O
+persze	O
+én	O
+is	O
+sajnálom	O
+100	B-CARDINAL
+marhát	O
+fogok	O
+most	O
+terelni	O
+.	O
+
+És	O
+Kansasban	B-GPE
+,	O
+ha	O
+minden	O
+jól	O
+megy	O
+,	O
+4-5	B-MONEY
+dollárt	I-MONEY
+is	O
+megadnak	O
+egyért	O
+.	O
+
+Még	O
+pedig	O
+készpénzben	O
+.	O
+
+Tudom	O
+,	O
+de	O
+...	O
+
+Ne	O
+légy	O
+szomorú	O
+,	O
+Katie	B-PER
+.	O
+
+Inkább	O
+arra	O
+gondolj	O
+,	O
+milyen	O
+szerencsések	O
+vagyunk	O
+.	O
+
+Van	O
+két	B-CARDINAL
+derék	O
+fiunk	O
+,	O
+jó	O
+földünk	O
+tiszta	O
+vizünk	O
+,	O
+és	O
+vad	O
+a	O
+környéken	O
+.	O
+
+Már	O
+csak	O
+egy	O
+kis	O
+pénzmagra	O
+van	O
+szükségünk	O
+.	O
+
+Három	B-DATE
+teljes	I-DATE
+hónapig	I-DATE
+távol	O
+leszel	O
+?	O
+
+Három	B-DUR
+hónapig	I-DUR
+mindenképp	O
+,	O
+de	O
+lehet	O
+,	O
+hogy	O
+négyig	B-DUR
+is	O
+.	O
+
+Nézd	O
+,	O
+drágám	O
+,	O
+hidd	O
+el	O
+,	O
+nincs	O
+miért	O
+pityeregni	O
+.	O
+
+Eddig	O
+még	O
+sose	O
+váltunk	O
+el	O
+egymástól	O
+.	O
+
+Tudod	O
+,	O
+mit	O
+csinálok	O
+,	O
+miután	O
+eladtam	O
+az	O
+állatokat	O
+?	O
+
+Veszek	O
+neked	O
+egy	O
+gyönyörű	O
+ruhát	O
+.	O
+
+Ez	O
+lesz	O
+az	O
+első	B-ORDINAL
+,	O
+mióta	O
+Texasba	B-GPE
+költöztünk	O
+.	O
+
+Lássuk	O
+csak	O
+...	O
+
+Ez	O
+a	O
+méret	O
+jó	O
+lesz	O
+?	O
+
+Apám	O
+,	O
+én	O
+magával	O
+akarok	O
+menni	O
+!	O
+
+Inkább	O
+maradj	O
+itt	O
+,	O
+és	O
+vigyázz	O
+a	O
+mamára	O
+.	O
+
+Jaj	O
+,	O
+papa	O
+!	O
+
+Magával	O
+akarok	O
+menni	O
+!	O
+
+De	O
+tényleg	O
+!	O
+
+Arliss	B-PER
+!	O
+
+Kísérj	O
+el	O
+egy	O
+darabig	O
+,	O
+Travis	B-PER
+.	O
+
+Igen	O
+,	O
+papa	O
+.	O
+
+Engedj	O
+el	O
+!	O
+
+El	O
+akarok	O
+menni	O
+!	O
+
+Én	O
+is	O
+tudnám	O
+hajtani	O
+a	O
+marhákat	O
+.	O
+
+Ahhoz	O
+még	O
+kicsi	O
+vagy	O
+,	O
+fiam	O
+.	O
+
+Megskalpolnának	O
+az	O
+indiánok	B-NORP
+.	O
+
+Gondolja	O
+,	O
+apám	O
+?	O
+
+Ez	O
+biztos	O
+.	O
+
+Viszlát	O
+,	O
+Katie	B-PER
+.	O
+
+Viszlát	O
+,	O
+Jim	B-PER
+drágám	O
+.	O
+
+Hát	O
+,	O
+fiam	O
+.	O
+
+A	O
+távollétemben	O
+te	O
+leszel	O
+a	O
+férfi	O
+a	O
+házban	O
+.	O
+
+Igen	O
+,	O
+apám	O
+.	O
+
+Meg	O
+kell	O
+jelölnöd	O
+a	O
+disznókat	O
+,	O
+vadat	O
+kell	O
+lőnöd	O
+.	O
+
+De	O
+kiváltképp	O
+a	O
+kukoricásra	O
+ügyelj	O
+!	O
+
+Ha	O
+nem	O
+dolgozol	O
+rendesen	O
+,	O
+télen	O
+kenyér	O
+nélkül	O
+maradunk	O
+.	O
+
+Ez	O
+a	O
+munka	O
+egész	O
+embert	O
+kíván	O
+.	O
+
+Bírsz	O
+majd	O
+Patással	B-PER
+,	O
+amikor	O
+megfogod	O
+az	O
+eke	O
+szarvát	O
+?	O
+
+Dolgozni	O
+fog	O
+,	O
+mert	O
+különben	O
+egy	O
+husánggal	O
+összetöröm	O
+a	O
+csontjait	O
+.	O
+
+Jól	O
+van	O
+,	O
+fiam	O
+.	O
+
+Ősszel	O
+találkozunk	O
+.	O
+
+Édesapám	O
+,	O
+a	O
+lóról	O
+nem	O
+feledkezik	O
+meg	O
+?	O
+
+Milyen	O
+lóról	O
+?	O
+
+Tudja	O
+apám	O
+,	O
+hogy	O
+milyen	O
+régóta	O
+fáj	O
+a	O
+fogam	O
+egy	O
+hátaslóra	O
+.	O
+
+Sokszor	O
+említettem	O
+már	O
+.	O
+
+Egy	O
+jó	O
+kutyára	O
+sokkal	O
+nagyobb	O
+szükséged	O
+lenne	O
+.	O
+
+Lehet	O
+,	O
+apám	O
+,	O
+de	O
+én	O
+mégis	O
+a	O
+lóra	O
+vágyom	O
+inkább	O
+.	O
+
+Rendben	O
+,	O
+fiam	O
+.	O
+
+Ha	O
+férfihoz	O
+illően	O
+megállod	O
+a	O
+helyed	O
+,	O
+hozok	O
+neked	O
+lovat	O
+.	O
+
+Kezet	O
+rázunk	O
+rá	O
+?	O
+
+Hó	O
+,	O
+hó	O
+,	O
+Patás	B-PER
+!	O
+
+Hagyd	O
+békén	O
+azt	O
+az	O
+öszvért	O
+!	O
+

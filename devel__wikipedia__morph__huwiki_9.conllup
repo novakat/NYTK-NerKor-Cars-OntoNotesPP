@@ -1,0 +1,169 @@
+# global.columns = FORM ONPP:NER
+A	O
+cirkónium	O
+az	O
+átmenetifémek	O
+közé	O
+tartozó	O
+kémiai	O
+elem	O
+.	O
+
+Rendszáma	O
+40	B-CARDINAL
+,	O
+vegyjele	O
+Zr	O
+,	O
+nyelvújításkori	O
+neve	O
+jácany	O
+.	O
+
+Ezüstfehér	O
+színű	O
+,	O
+jól	O
+alakítható	O
+,	O
+nagy	O
+szilárdságú	O
+fém	O
+,	O
+az	O
+olvadáspontja	O
+magas	O
+.	O
+
+Kémiailag	O
+ellenálló	O
+.	O
+
+Főként	O
+ötvözőelemként	O
+használják	O
+,	O
+például	O
+acélötvözetek	O
+készítésére	O
+.	O
+
+A	O
+vegyületeiben	O
+főként	O
++4	O
+oxidációs	O
+számmal	O
+található	O
+meg	O
+.	O
+
+A	O
+tömör	O
+cirkónium	O
+ellenáll	O
+a	O
+levegő	O
+oxigénjének	O
+,	O
+drót	O
+formájában	O
+azonban	O
+meggyújtható	O
+.	O
+
+Égésekor	O
+cirkónium-dioxid	O
+keletkezik	O
+.	O
+
+Kémiailag	O
+ellenálló	O
+alacsonyabb	O
+hőmérsékleteken	O
+.	O
+
+A	O
+sósav	O
+,	O
+a	O
+kénsav	O
+és	O
+a	O
+salétromsav	O
+még	O
+magasabb	O
+hőmérsékleten	O
+is	O
+alig	O
+oldja	O
+.	O
+
+Királyvízben	O
+,	O
+illetve	O
+a	O
+hidrogén-fluorid	O
+oldatában	O
+viszont	O
+könnyen	O
+feloldódik	O
+.	O
+
+A	O
+természetben	O
+rendkívül	O
+szétszórtan	O
+található	O
+meg	O
+,	O
+gyakorlatilag	O
+minden	O
+szilikátkőzetben	O
+előfordul	O
+.	O
+
+A	O
+legfontosabb	O
+ásványa	O
+a	O
+cirkon	O
+.	O
+
+Az	O
+előállítás	O
+során	O
+természetes	O
+alapanyagokból	O
+indulnak	O
+ki	O
+.	O
+
+Cirkónium-dioxidot	O
+a	O
+legfontosabb	O
+ásványaiból	O
+,	O
+a	O
+cirkonhomokból	O
+és	O
+a	O
+cirkonföldből	O
+nyerik	O
+.	O
+
+A	O
+magas	O
+minőségű	O
+végtermék	O
+szempontjából	O
+a	O
+megfelelő	O
+szemcseméret	O
+és	O
+az	O
+anyag	O
+tisztasága	O
+nélkülözhetetlen	O
+.	O
+

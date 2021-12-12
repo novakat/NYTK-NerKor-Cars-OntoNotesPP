@@ -1,0 +1,1165 @@
+# global.columns = FORM ONPP:NER
+Ne	O
+hagyj	O
+itt	O
+!	O
+
+Shears	B-PER
+?	O
+
+Warden	B-PER
+a	O
+nevem	O
+.	O
+
+Elnézést	O
+!	O
+
+Semmi	O
+baj	O
+,	O
+őrnagy	O
+.	O
+
+Megszoktam	O
+.	O
+
+Martinit	B-PROD
+?	O
+
+Kedves	O
+,	O
+de	O
+nem	O
+.	O
+
+Nem	O
+zavarja	O
+?	O
+
+Hol	O
+szerezte	O
+?	O
+
+Egy	O
+kórházban	O
+mindig	O
+van	O
+alkohol	O
+.	O
+
+Jó	O
+magának	O
+!	O
+
+Igyekszem	O
+rövid	O
+lenni	O
+.	O
+
+Van	O
+egy	O
+alakulatunk	O
+,	O
+a	O
+316-os	B-ORG
+osztag	I-ORG
+.	O
+
+A	O
+füvészkertben	O
+tanyázunk	O
+.	O
+
+Védik	O
+a	O
+ritka	O
+növényeket	O
+?	O
+
+Dehogy	O
+!	O
+
+Biztos	O
+nem	O
+kér	O
+?	O
+
+A	O
+vasút	O
+érdekel	O
+bennünket	O
+,	O
+amelyen	O
+dolgozott	O
+.	O
+
+Sok	O
+értékes	O
+információt	O
+adhatna	O
+.	O
+
+Néhány	B-DATE
+nap	I-DATE
+múlva	I-DATE
+hazamegyek	O
+és	O
+már	O
+mindent	O
+elmondtam	O
+.	O
+
+Valamiképpen	O
+mégis	O
+segíthetne	O
+.	O
+
+Tudom	O
+,	O
+szörnyen	O
+tolakodó	O
+vagyok	O
+,	O
+de	O
+nem	O
+jönne	O
+el	O
+hozzánk	O
+?	O
+
+Ha	O
+újra	O
+hallani	O
+akarják	O
+.	O
+
+Lord	B-PER
+Louis	I-PER
+hálás	O
+lesz	O
+.	O
+
+Kicsoda	O
+?	O
+
+Mountbatten	B-PER
+.	O
+
+Az	O
+ő	O
+szívügye	O
+az	O
+alakulatunk	O
+.	O
+
+Mit	O
+szól	O
+ma	B-DATE
+este	B-TIME
+nyolchoz	I-TIME
+?	O
+
+Küldök	O
+kocsit	O
+.	O
+
+Ma	B-DATE
+este	O
+?	O
+
+Ki	O
+van	O
+zárva	O
+.	O
+
+Holnap	O
+délelőtt	O
+?	O
+
+Tízkor	O
+?	O
+
+Jó	O
+,	O
+tízkor	B-TIME
+.	O
+
+Egészség	O
+!	O
+
+Sajnálod	O
+,	O
+de	O
+ma	B-DATE
+este	O
+nem	O
+érsz	O
+rá	O
+.	O
+
+Nagyon	O
+tévedsz	O
+.	O
+
+Parancsnokot	O
+üdvözölni	O
+!	O
+
+Fegyverrel	O
+tisztelegj	O
+!	O
+
+Az	O
+engedélyét	O
+!	O
+
+Ja	O
+,	O
+igen	O
+.	O
+
+Warden	B-PER
+őrnagy	O
+háza	O
+leghátul	O
+van	O
+.	O
+
+Ez	O
+az	O
+,	O
+Jenkins	B-PER
+!	O
+
+Ez	O
+az	O
+!	O
+
+Rajta	O
+,	O
+Thomson	B-PER
+!	O
+
+Használja	O
+a	O
+kését	O
+!	O
+
+Talpra	O
+!	O
+
+Irány	O
+az	O
+eligazító	O
+!	O
+
+Mozgás	O
+,	O
+gyorsabban	O
+!	O
+
+Ügyetlen	O
+,	O
+Joyce	B-PER
+!	O
+
+Ügyetlen	O
+!	O
+
+Azonnal	O
+használja	O
+a	O
+kését	O
+!	O
+
+Látja	O
+?	O
+
+Övé	O
+a	O
+kezdeményezés	O
+.	O
+
+Igazán	O
+sajnálom	O
+,	O
+uram	O
+.	O
+
+Sajnálja	O
+?	O
+
+Azt	O
+hittem	O
+,	O
+ellenség	O
+.	O
+
+Amerikai	B-NORP
+.	O
+
+Elég	O
+lesz	O
+,	O
+Joyce	B-PER
+.	O
+
+Igenis	O
+.	O
+
+Bocsánat	O
+,	O
+uram	O
+.	O
+
+Segíthetek	O
+?	O
+
+Warden	B-PER
+őrnagyhoz	O
+jöttem	O
+.	O
+
+Megmutatom	O
+.	O
+
+Mindjárt	O
+befejezi	O
+az	O
+előadását	O
+.	O
+
+Már	O
+vége	O
+is	O
+.	O
+
+Mennydörgő	O
+taps	O
+!	O
+
+Igyekszik	O
+a	O
+valósághoz	O
+közelíteni	O
+a	O
+kiképzést	O
+.	O
+
+Warden	B-PER
+őrnagy	O
+?	O
+
+Jó	O
+,	O
+hogy	O
+eljött	O
+.	O
+
+Eligazították	O
+?	O
+
+Alaposan	O
+.	O
+
+Kerüljön	O
+beljebb	O
+!	O
+
+Green	B-PER
+ezredes	O
+már	O
+várja	O
+.	O
+
+Lenyűgöző	O
+hely	O
+,	O
+nem	O
+?	O
+
+Nem	O
+tudtam	O
+,	O
+hogy	O
+kommandós	O
+iskola	O
+.	O
+
+Nem	O
+szeretjük	O
+ezt	O
+a	O
+kifejezést	O
+.	O
+
+Túl	O
+melodramatikus	O
+!	O
+
+Mi	O
+a	O
+dolguk	O
+?	O
+
+Szabotázs	O
+,	O
+rombolás	O
+,	O
+stb	O
+.	O
+
+Plasztik	O
+robbanóanyag	O
+.	O
+
+Csodálatos	O
+!	O
+
+Az	O
+előbb	O
+fele	O
+ennyit	O
+használtam	O
+.	O
+
+Kétszer	B-CARDINAL
+hatásosabb	O
+a	O
+gelignitnél	O
+.	O
+
+Ártalmatlan	O
+detonátor	O
+nélkül	O
+.	O
+
+Jó	O
+,	O
+hogy	O
+mondja	O
+!	O
+
+Teljesen	O
+vízhatlan	O
+és	O
+alakítható	O
+.	O
+
+Amilyenre	O
+csak	O
+akarja	O
+.	O
+
+Ez	O
+az	O
+enyém	O
+.	O
+
+Jól	O
+esne	O
+egy	O
+csésze	O
+tea	O
+.	O
+
+Maga	O
+is	O
+kér	O
+?	O
+
+Kösz	O
+,	O
+nem	O
+.	O
+
+Italt	O
+?	O
+
+Tea	O
+egy	B-CARDINAL
+személyre	O
+!	O
+
+Ezt	O
+olvassa	O
+?	O
+
+Keleti	O
+nyelveket	O
+tanítottam	O
+Cambridge-ben	B-GPE
+.	O
+
+Még	O
+nem	O
+is	O
+gratuláltam	O
+a	O
+szökéséhez	O
+.	O
+
+Ha	O
+nem	O
+talál	O
+rám	O
+a	O
+gépük	O
+,	O
+nem	O
+volnék	O
+itt	O
+.	O
+
+Valószínüleg	O
+.	O
+
+Akarja	O
+látni	O
+,	O
+hol	O
+volt	O
+?	O
+
+Keveset	O
+tudunk	O
+.	O
+
+A	O
+jelentésén	O
+alapul	O
+.	O
+
+Itt	O
+lehet	O
+a	O
+tábor	O
+.	O
+
+Tudják	O
+,	O
+mi	O
+történt	O
+Nicholson	B-PER
+ezredessel	O
+?	O
+
+Bátor	O
+fickó	O
+!	O
+
+Le	O
+akarták	O
+lőni	O
+,	O
+de	O
+meg	O
+se	O
+rezzent	O
+.	O
+
+Akkor	O
+nem	O
+sokat	O
+tehet	O
+az	O
+ember	O
+.	O
+
+Ez	O
+a	O
+Kwai-folyó	B-LOC
+,	O
+ez	O
+a	O
+falu	O
+,	O
+ahol	O
+segítséget	O
+kapott	O
+.	O
+
+És	O
+ez	O
+a	O
+vasút	O
+.	O
+
+Biztos	O
+jól	O
+ismeri	O
+a	O
+környéket	O
+.	O
+
+Alig	O
+voltam	O
+magamnál	O
+.	O
+
+A	O
+vasút	O
+Szingapúrból	B-GPE
+indul	O
+.	O
+
+Malaya	B-GPE
+Bangkok	B-GPE
+,	O
+Rangoon	B-GPE
+.	O
+
+A	O
+tervezett	O
+végállomás	O
+India	B-GPE
+.	O
+
+Hol	O
+találtak	O
+rám	O
+?	O
+
+Nagyjából	O
+itt	O
+.	O
+
+A	O
+Bangkok	B-GPE
+–	O
+Rangoon	B-GPE
+szakaszt	O
+májusban	B-DATE
+akarják	O
+megnyitni	O
+.	O
+
+Meg	O
+akarjuk	O
+akadályozni	O
+.	O
+
+A	O
+bombázóknak	O
+túl	O
+messze	O
+van	O
+.	O
+
+Helyben	O
+kell	O
+lerombolni	O
+.	O
+
+Hogyan	O
+?	O
+
+Ejtőernyősökkel	O
+.	O
+
+A	O
+felszereléssel	O
+át	O
+a	O
+dzsungelen	O
+?	O
+
+A	O
+fő	O
+probléma	O
+az	O
+információk	O
+hiánya	O
+.	O
+
+Egyikünk	O
+sem	O
+járt	O
+még	O
+ott	O
+.	O
+
+Nem	O
+akarom	O
+el	O
+...	O
+
+Érdekes	O
+lehet	O
+!	O
+
+Green	B-PER
+ezredes	O
+engem	O
+bízott	O
+meg	O
+a	O
+híd	O
+felrobbantásával	O
+.	O
+
+Mázlista	O
+!	O
+
+Nem	O
+akarom	O
+megsérteni	O
+,	O
+de	O
+kettőkor	B-TIME
+randim	O
+van	O
+.	O
+
+Ha	O
+van	O
+még	O
+kérdése	O
+...	O
+
+Lényegében	O
+csak	O
+egy	B-CARDINAL
+kérdésem	O
+van	O
+.	O
+
+Nincs	O
+kedve	O
+visszamenni	O
+?	O
+
+Tessék	O
+?	O
+
+Tudom	O
+,	O
+túl	O
+sokat	O
+kérek	O
+.	O
+
+De	O
+sokat	O
+érne	O
+a	O
+helyismerete	O
+.	O
+
+Örülnénk	O
+magának	O
+.	O
+
+Ezért	O
+hívott	O
+ide	O
+?	O
+
+Hogy	O
+erre	O
+kérjen	O
+?	O
+
+Őszintén	O
+,	O
+igen	O
+.	O
+
+Most	O
+jövök	O
+onnan	O
+.	O
+
+Kész	O
+csoda	O
+,	O
+hogy	O
+sikerült	O
+!	O
+
+Ez	O
+nevetséges	O
+!	O
+
+Zavarba	O
+ejtő	O
+...	O
+
+És	O
+az	O
+amerikai	B-NORP
+flottához	O
+tartozom	O
+.	O
+
+Green	B-PER
+ezredes	O
+felvette	O
+velük	O
+a	O
+kapcsolatot	O
+.	O
+
+Kivel	O
+?	O
+
+A	O
+flottájuk	O
+átengedte	O
+nekünk	O
+.	O
+
+Tegnap	B-DATE
+jött	O
+a	O
+távirat	O
+a	O
+parancsnokságról	O
+.	O
+
+Időlegesen	O
+áthelyezik	O
+a	O
+316-os	B-ORG
+osztaghoz	I-ORG
+.	O
+
+Azt	O
+nem	O
+tehetik	O
+!	O
+
+Megtették	O
+.	O
+
+Nehéz	O
+volt	O
+elmondani	O
+.	O
+
+Ezt	O
+nem	O
+tehetik	O
+velem	O
+.	O
+
+A	O
+flottánál	O
+nagyot	O
+hibáztak	O
+!	O
+
+Nem	O
+vagyok	O
+kapitány	O
+.	O
+
+Még	O
+csak	O
+tiszt	O
+sem	O
+.	O
+
+Kamu	O
+volt	O
+az	O
+egész	O
+.	O
+
+Egyszerü	O
+matróz	O
+vagyok	O
+.	O
+
+A	O
+hajó	O
+elsüllyedt	O
+,	O
+a	O
+kapitánnyal	O
+úsztam	O
+partra	O
+.	O
+
+De	O
+őt	O
+a	O
+japánok	B-NORP
+megölték	O
+.	O
+
+Azt	O
+hittem	O
+,	O
+csak	O
+pár	B-DATE
+nap	I-DATE
+és	O
+...	O
+
+Ruhát	O
+cserélt	O
+egy	O
+hullával	O
+.	O
+
+Azt	O
+hittem	O
+,	O
+jobban	O
+bánnak	O
+a	O
+tisztekkel	O
+.	O
+
+De	O
+Szaitónál	B-PER
+a	O
+tisztek	O
+is	O
+dolgoztak	O
+.	O
+
+Mindig	O
+a	O
+váratlan	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Már	O
+beleszoktam	O
+a	O
+kapitányságba	O
+.	O
+
+Így	O
+a	O
+kórházba	O
+érve	O
+megnéztem	O
+a	O
+közlegények	O
+,	O
+aztán	O
+a	O
+tisztek	O
+kórtermeit	O
+és	O
+úgy	O
+gondoltam	O
+:	O
+Érdemesebb	O
+lesz	O
+tovább	O
+játszani	O
+.	O
+
+Voltak	O
+előnyei	O
+.	O
+
+Láttam	O
+a	O
+parton	O
+.	O
+
+Hát	O
+ez	O
+történt	O
+.	O
+
+A	O
+fő	O
+,	O
+hogy	O
+nem	O
+felelek	O
+meg	O
+.	O
+
+Egy	O
+tisztet	O
+keres	O
+.	O
+
+Shears	B-PER
+kapitányt	O
+,	O
+aki	O
+nem	O
+létezik	O
+.	O
+
+Ha	O
+a	O
+flottánál	O
+rájönnek	O
+:	O
+Tisztnek	O
+adta	O
+ki	O
+magát	O
+!	O
+
+Akkor	O
+bejött	O
+!	O
+
+Mi	O
+jött	O
+be	O
+?	O
+
+Kész	O
+!	O
+
+Jól	O
+jönne	O
+az	O
+az	O
+ital	O
+.	O
+
+Leszerelnek	O
+végre	O
+.	O
+
+Azért	O
+csináltam	O
+,	O
+mert	O
+megőrültem	O
+a	O
+dzsungelben	O
+.	O
+
+Néha	O
+már	O
+Halsey	B-PER
+admirálisnak	O
+képzelem	O
+magam	O
+.	O
+
+Szellemes	O
+terv	O
+!	O
+
+Sőt	O
+,	O
+bombabiztos	O
+!	O
+
+Ha	O
+rájönnek	O
+,	O
+ki	O
+vagyok	O
+az	O
+az	O
+áthelyezési	O
+parancs	O
+semmit	O
+sem	O
+ér	O
+majd	O
+.	O
+
+A	O
+maga	O
+fotója	O
+?	O
+
+Honnan	O
+van	O
+?	O
+
+Jó	O
+időbe	O
+telt	O
+.	O
+
+Nem	O
+tudták	O
+azonosítani	O
+.	O
+
+Végül	O
+a	O
+parancsnokságuktól	O
+megjött	O
+a	O
+személyi	O
+anyaga	O
+.	O
+
+A	O
+fotója	O
+,	O
+az	O
+ujjlenyomatai	O
+.	O
+
+Akarja	O
+látni	O
+?	O
+
+Látja	O
+,	O
+már	O
+egy	B-DATE
+hete	I-DATE
+tudjuk	O
+,	O
+mi	O
+a	O
+valódi	O
+rangja	O
+.	O
+
+A	O
+flottájuk	O
+bajban	O
+van	O
+.	O
+
+Maga	O
+hős	O
+a	O
+számukra	O
+mert	O
+megszökött	O
+a	O
+dzsungelből	O
+.	O
+
+Ugyanakkor	O
+nem	O
+tüntethetik	O
+ki	O
+.	O
+
+Hisz	O
+tisztnek	O
+adta	O
+ki	O
+magát	O
+.	O
+
+Nyilván	O
+ezért	O
+adták	O
+át	O
+boldogan	O
+.	O
+
+Érti	O
+?	O
+
+Kínos	O
+nekik	O
+.	O
+

@@ -1,0 +1,1711 @@
+# global.columns = FORM ONPP:NER
+Úgy	O
+is	O
+megnyertük	O
+volna	O
+az	O
+ügyet	O
+.	O
+
+Nem	O
+vállalhattam	O
+a	O
+kockázatot	O
+.	O
+
+Maga	O
+úgy	O
+gondolta	O
+,	O
+Leonard	B-PER
+ártatlan	O
+.	O
+
+Maga	O
+viszont	O
+tudta	O
+,	O
+hogy	O
+ártatlan	O
+.	O
+
+Értem	O
+már	O
+.	O
+
+Nem	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+egyáltalán	O
+nem	O
+érti	O
+.	O
+
+Én	O
+tudtam	O
+,	O
+hogy	O
+bűnös	O
+.	O
+
+Ez	O
+nem	O
+lehet	O
+igaz	O
+.	O
+
+Figyeljen	O
+ide	O
+,	O
+egyszer	O
+s	O
+mindenkorra	O
+.	O
+
+Pár	B-TIME
+perccel	I-TIME
+10	B-TIME
+óra	I-TIME
+után	I-TIME
+ért	O
+haza	O
+,	O
+a	O
+zakója	O
+ujja	O
+vérfoltos	O
+volt	O
+,	O
+bevallotta	O
+,	O
+hogy	O
+megölte	O
+az	O
+asszonyt	O
+,	O
+csak	O
+én	O
+tudtam	O
+megmenteni	O
+őt	O
+.	O
+
+Könyörgött	O
+nekem	O
+.	O
+
+És	O
+maga	O
+megmentette	O
+őt	O
+?	O
+
+Egy	O
+gyilkost	O
+?	O
+
+Újfent	O
+nem	O
+ért	O
+semmit	O
+.	O
+
+Szeretem	O
+őt	O
+.	O
+
+Mondtam	O
+magának	O
+,	O
+hogy	O
+színésznő	O
+volt	O
+.	O
+
+Méghozzá	O
+jó	O
+színésznő	O
+.	O
+
+Leonard	B-PER
+.	O
+
+Tudtam	O
+,	O
+hogy	O
+tenni	O
+fog	O
+valamit	O
+,	O
+épp	O
+csak	O
+azt	O
+nem	O
+,	O
+hogy	O
+mit	O
+vagy	O
+hogyan	O
+.	O
+
+Leonard	B-PER
+,	O
+Leonard	B-PER
+.	O
+
+Magát	O
+is	O
+sikerült	O
+lóvá	O
+tennie	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Maga	O
+tett	O
+engem	O
+lóvá	O
+,	O
+Vole	B-PER
+.	O
+
+Nyugalom	O
+.	O
+
+Mindketten	O
+túléltük	O
+az	O
+ügyet	O
+,	O
+nézzük	O
+ebből	O
+a	O
+szemszögből	O
+.	O
+
+Hol	O
+vannak	O
+a	O
+tablettái	O
+?	O
+
+Maga	O
+gúny	O
+tárgyává	O
+tette	O
+az	O
+angol	B-NORP
+törvényt	O
+.	O
+
+Maga	O
+nyerte	O
+meg	O
+a	O
+pert	O
+a	O
+véde-	O
+lem	O
+képviseletében	O
+,	O
+és	O
+fájdalom	O
+,	O
+de	O
+nem	O
+emel-	O
+hetnek	O
+többet	O
+vádat	O
+ellenem	O
+ezért	O
+a	O
+tettemért	O
+.	O
+
+Ezt	O
+is	O
+kimondja	O
+az	O
+angol	B-NORP
+törvény	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Már	O
+nem	O
+emelhet	O
+ellene	O
+vádat	O
+.	O
+
+Senki	O
+sem	O
+teheti	O
+meg	O
+.	O
+
+Az	O
+igazság	O
+mérlege	O
+billenhet	O
+jobbra	O
+is	O
+,	O
+balra	O
+is	O
+,	O
+ám	O
+végül	O
+mindig	O
+egyensúlyba	O
+kerül	O
+.	O
+
+Meg	O
+fog	O
+még	O
+fizetni	O
+ezért	O
+.	O
+
+Addig	O
+a	O
+bizonyos	O
+végülig	O
+még	O
+sok	O
+idő	O
+fog	O
+eltelni	O
+.	O
+
+Amilyen	O
+hamar	O
+csak	O
+tudom	O
+kifizetem	O
+magát	O
+,	O
+készpénzben	O
+.	O
+
+Mit	O
+szólna	O
+,	O
+ha	O
+megdupláznám	O
+a	O
+tiszteletdíját	O
+?	O
+
+Rengeteg	O
+pénz	O
+üti	O
+majd	O
+a	O
+markomat	O
+,	O
+ha	O
+végrehajtják	O
+a	O
+végrendeletet	O
+.	O
+
+Nem	O
+vagyok	O
+szűkmarkú	O
+,	O
+azt	O
+akarom	O
+,	O
+hogy	O
+mindenki	O
+részesüljön	O
+belőle	O
+.	O
+
+Ott	O
+van	O
+például	O
+Janet	B-PER
+McKenzie	I-PER
+.	O
+
+Megvesszük	O
+neki	O
+azt	O
+a	O
+hallókészüléket	O
+.	O
+
+Magának	O
+pedig	O
+veszünk	O
+ebből	O
+egy	O
+újat	O
+.	O
+
+18	B-QUANTITY
+karátos	I-QUANTITY
+aranyból	O
+,	O
+ha	O
+meg	O
+tudják	O
+csinálni	O
+.	O
+
+Amikor	O
+pedig	O
+vádat	O
+emelnek	O
+ellened	O
+hamis	O
+tanúzásért	O
+,	O
+félreteszünk	O
+5.000	B-MONEY
+fontot	I-MONEY
+az	O
+ügyvédednek	O
+.	O
+
+Nem	O
+érdekel	O
+,	O
+csak	O
+az	O
+,	O
+hogy	O
+együtt	O
+legyünk	O
+.	O
+
+Fogalmad	O
+sincs	O
+róla	O
+,	O
+min	O
+mentem	O
+keresztül	O
+.	O
+
+Ott	O
+állni	O
+a	O
+tanúk	O
+padján	O
+,	O
+szembenézni	O
+veled	O
+,	O
+és	O
+kijelenteni	O
+,	O
+hogy	O
+soha	O
+nem	O
+szerettelek	O
+.	O
+
+Mi	O
+az	O
+,	O
+Leonard	B-PER
+?	O
+
+A	O
+csomagok	O
+már	O
+az	O
+autóban	O
+vannak	O
+,	O
+20	B-TIME
+percünk	I-TIME
+maradt	O
+,	O
+hogy	O
+elérjük	O
+a	O
+vonatot	O
+.	O
+
+Ezzel	O
+a	O
+kedves	O
+,	O
+fiatal	O
+hölggyel	O
+a	O
+tárgyaláson	O
+találkoztam	O
+.	O
+
+Len	B-PER
+.	O
+
+Len	B-PER
+,	O
+mindent	O
+elkövettek	O
+,	O
+hogy	O
+távol	O
+tartsanak	O
+tőled	O
+.	O
+
+Azt	O
+hittem	O
+,	O
+megbolondulok	O
+.	O
+
+Leonard	B-PER
+,	O
+ki	O
+ez	O
+a	O
+lány	O
+?	O
+
+Én	O
+nem	O
+csak	O
+egy	O
+lány	O
+vagyok	O
+,	O
+a	O
+barátnője	O
+vagyok	O
+.	O
+
+Mondd	O
+meg	O
+neki	O
+,	O
+Len	B-PER
+.	O
+
+Leonard	B-PER
+,	O
+ez	O
+az	O
+a	O
+lány	O
+,	O
+akivel	O
+felkerested	O
+azt	O
+az	O
+utazási	O
+irodát	O
+?	O
+
+A	O
+lány	O
+,	O
+akiről	O
+azt	O
+állítottad	O
+,	O
+hogy	O
+alig	O
+ismerted	O
+,	O
+hogy	O
+még	O
+a	O
+nevét	O
+sem	O
+tudtad	O
+?	O
+
+Mindent	O
+tudok	O
+magáról	O
+.	O
+
+Maga	O
+nem	O
+a	O
+felesége	O
+.	O
+
+Soha	O
+nem	O
+is	O
+volt	O
+.	O
+
+Maga	O
+idősebb	O
+,	O
+mint	O
+ő	O
+.	O
+
+Mi	O
+már	O
+hónapok	B-DATE
+óta	I-DATE
+együtt	O
+vagyunk	O
+,	O
+és	O
+úgy	O
+tervezzük	O
+,	O
+hogy	O
+elmegyünk	O
+egy	O
+hajóútra	O
+,	O
+minden	O
+igaz	O
+,	O
+amit	O
+a	O
+tárgyaláson	O
+elmondtak	O
+.	O
+
+Igen	O
+,	O
+Len	B-PER
+,	O
+mondd	O
+csak	O
+meg	O
+.	O
+
+Jól	O
+van	O
+,	O
+Diana	B-PER
+,	O
+menjünk	O
+.	O
+
+Nem	O
+mehetsz	O
+el	O
+,	O
+nem	O
+teheted	O
+ezt	O
+azok	O
+után	O
+,	O
+amit	O
+érted	O
+tettem	O
+.	O
+
+Nem	O
+engedlek	O
+el	O
+.	O
+
+Ne	O
+butáskodj	O
+.	O
+
+Én	O
+megmentettem	O
+az	O
+életed	O
+azzal	O
+,	O
+hogy	O
+elhoztalak	O
+Németországból	B-GPE
+,	O
+te	O
+pedig	O
+megmentetted	O
+az	O
+enyémet	O
+azzal	O
+,	O
+hogy	O
+kihúztál	O
+ebből	O
+.	O
+
+Kvittek	O
+vagyunk	O
+.	O
+
+És	O
+ezzel	O
+vége	O
+mindennek	O
+.	O
+
+Ne	O
+tedd	O
+ezt	O
+,	O
+Leonard	B-PER
+!	O
+
+Ne	O
+hagyj	O
+el	O
+!	O
+
+Ne	O
+tedd	O
+ezt	O
+!	O
+
+Vádat	O
+emelnek	O
+ellened	O
+hamis	O
+tanúzásért	O
+.	O
+
+Ne	O
+akard	O
+,	O
+hogy	O
+még	O
+bűnrészességgel	O
+is	O
+vádoljanak	O
+.	O
+
+Tudod	O
+jól	O
+,	O
+mit	O
+jelent	O
+.	O
+
+Nem	O
+érdekel	O
+.	O
+
+Emeljenek	O
+vádat	O
+ellenem	O
+.	O
+
+Emeljenek	O
+vádat	O
+ellenem	O
+hamis	O
+tanúzásért	O
+,	O
+bűnrészességért	O
+,	O
+vagy	O
+...	O
+
+Mehetünk	O
+?	O
+
+Vagy	O
+ami	O
+még	O
+jobb	O
+emeljenek	O
+vádat	O
+ellenem	O
+...	O
+!	O
+
+Hívjanak	O
+orvost	O
+.	O
+
+Nincs	O
+értelme	O
+.	O
+
+Egy	O
+orvos	O
+sem	O
+tud	O
+már	O
+rajta	O
+segíteni	O
+.	O
+
+Megölte	O
+a	O
+férjét	O
+.	O
+
+Megölte	O
+a	O
+férjét	O
+?	O
+
+Kivégezte	O
+a	O
+férjét	O
+.	O
+
+Carter	B-PER
+,	O
+hol	O
+vannak	O
+a	O
+csomagok	O
+?	O
+
+Elküldettem	O
+őket	O
+az	O
+állomásra	O
+,	O
+és	O
+fogtam	O
+egy	O
+taxit	O
+,	O
+odakint	O
+vár	O
+.	O
+
+Figyelemre	O
+méltó	O
+asszony	O
+.	O
+
+Még	O
+éppen	O
+eléri	O
+a	O
+vonatot	O
+.	O
+
+Hozassa	O
+vissza	O
+a	O
+csomagokat	O
+,	O
+és	O
+küldje	O
+el	O
+a	O
+taxit	O
+.	O
+
+Nem	O
+megyünk	O
+most	O
+még	O
+sehova	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Szóljon	O
+Brogan	B-PER
+-	I-PER
+Moore	I-PER
+-	I-PER
+nak	I-PER
+és	O
+Mayhewnak	B-PER
+,	O
+hogy	O
+várom	O
+őket	O
+a	O
+szobámban	O
+.	O
+
+Mi	O
+fogjuk	O
+képviselni	O
+a	O
+védelmet	O
+Christine	B-PER
+Vole	I-PER
+tárgyalásán	O
+.	O
+
+Itt	O
+felejtette	O
+a	O
+brandyjét	O
+.	O
+
+A	O
+színház	O
+vezetése	O
+azt	O
+javasolja	O
+,	O
+hogy	O
+a	O
+minél	O
+teljesebb	O
+szórakozás	O
+érdekében	O
+,	O
+azokkal	O
+a	O
+barátaikkal	O
+,	O
+akik	O
+még	O
+nem	O
+látták	O
+a	O
+filmet	O
+,	O
+ne	O
+osszák	O
+meg	O
+A	B-WORK_OF_ART
+Vád	I-WORK_OF_ART
+Tanúja	I-WORK_OF_ART
+című	O
+film	O
+végének	O
+titkát	O
+.	O
+
+A	O
+TOEI	B-ORG
+FILMVÁLLALLAT	O
+BEMUTATJA	O
+:	O
+A	B-WORK_OF_ART
+NAGY	I-WORK_OF_ART
+BUDDHA	I-WORK_OF_ART
+HÁGÓ	I-WORK_OF_ART
+Producer	O
+:	O
+OKAWA	B-PER
+Hiroshi	I-PER
+Eredeti	O
+történet	O
+:	O
+NAKAZATO	B-PER
+Kaizan	I-PER
+Írták	O
+:	O
+INOMATA	B-PER
+Katsuhito	I-PER
+SHIBA	B-PER
+Eizaburo	I-PER
+MIKI	B-PER
+Minoru	I-PER
+FUKAI	B-PER
+Shiro	I-PER
+SZEREPLŐK	O
+:	O
+Cukue	B-PER
+Rjunoszuke	I-PER
+:	O
+KATAOKA	B-PER
+Csiezo	I-PER
+Ohama	B-PER
+/	O
+Otojo	B-PER
+:	O
+HASZEGAWA	B-PER
+Jumiko	I-PER
+Okinu	B-PER
+:	O
+URAZATO	B-PER
+Harumi	I-PER
+Kamio	B-PER
+uraság	O
+:	O
+JAMAGATA	B-PER
+Iszao	I-PER
+Johacsi	B-PER
+:	O
+KISHII	B-PER
+Akira	I-PER
+Sicsibej	B-PER
+:	O
+CUKIGATA	B-PER
+Rjunoszuke	I-PER
+Simada	B-PER
+Toranosuke	I-PER
+:	O
+OKOCSI	B-PER
+Dendzsiro	I-PER
+UCUGI	B-PER
+Hjoma	I-PER
+:	O
+NAKAMURA	B-PER
+Kinnoszuke	I-PER
+UCSIDA	B-PER
+Tomu	I-PER
+A	O
+Nagy	B-LOC
+Buddha	I-LOC
+hágó	I-LOC
+"	O
+Edótól	B-GPE
+73	B-QUANTITY
+mérföldre	I-QUANTITY
+található	O
+,	O
+mintegy	B-QUANTITY
+háromezer	I-QUANTITY
+méter	I-QUANTITY
+magasban	O
+a	O
+tenger	O
+szintjétől	O
+.	O
+
+Egykor	O
+,	O
+nagyon	O
+régen	O
+,	O
+maga	O
+a	O
+császár	O
+állt	O
+ennél	O
+a	O
+csúcsnál	O
+.	O
+
+Keletre	O
+és	O
+nyugatra	O
+egyaránt	O
+tisztán	O
+látszódtak	O
+a	O
+folyóvizek	O
+.	O
+
+Ide	O
+állították	O
+Buddha	B-PER
+emlékoszlopát	O
+.	O
+
+Óh	O
+,	O
+de	O
+gyönyörű	O
+a	O
+Fudzsi	B-LOC
+hegy	O
+!	O
+
+Itt	O
+megpihenünk	O
+.	O
+
+Nagyapa	O
+.	O
+
+Igen	O
+...	O
+?	O
+
+Hozok	O
+friss	O
+vizet	O
+.	O
+
+Öreg	O
+!	O
+
+Fordulj	O
+nyugat	O
+felé	O
+!	O
+
+Nagyapa	O
+!	O
+
+Nagyapa	O
+...	O
+!	O
+
+CUKUE	B-ORG
+VÍVÓISKOLA	I-ORG
+Jó	O
+estét	O
+,	O
+mester	O
+.	O
+
+Óh	O
+,	O
+Johacsi	B-PER
+...	O
+
+Gyógynövényeket	O
+hoztam	O
+.	O
+
+Köszönöm	O
+,	O
+hogy	O
+ennyit	O
+törődsz	O
+velem	O
+.	O
+
+Sokkal	O
+tartozom	O
+önnek	O
+.	O
+
+Remélem	O
+,	O
+hamarosan	O
+meggyógyul	O
+!	O
+
+Hívattál	O
+,	O
+apám	O
+?	O
+
+Gyere	O
+beljebb	O
+!	O
+
+Rjunoszuke	B-PER
+,	O
+merre	O
+jártál	O
+?	O
+
+Holnap	B-DATE
+lesz	O
+a	O
+viadal	O
+a	O
+Mitake	B-FAC
+hegyi	I-FAC
+szentélynél	I-FAC
+.	O
+
+Hogyan	O
+fogsz	O
+megküzdeni	O
+Ucugi	B-PER
+Bunnojóval	I-PER
+?	O
+
+Hogyan	O
+küzdök	O
+meg	O
+...	O
+?	O
+
+Zavart	O
+a	O
+pillantásod	O
+!	O
+
+Egy	O
+idegen	O
+talán	O
+úgy	O
+látná	O
+,	O
+előre	O
+léptél	O
+a	O
+vívásban	O
+,	O
+de	O
+szerintem	O
+romlottál	O
+!	O
+
+Ha	O
+te	O
+,	O
+az	O
+örökösöm	O
+,	O
+így	O
+megváltozol	O
+,	O
+mi	O
+lesz	O
+a	O
+Cukue	B-ORG
+iskolával	O
+?	O
+
+!	O
+
+A	O
+vívás	O
+nem	O
+tanulható	O
+vagy	O
+tanítható	O
+.	O
+
+Rjunoszuke	B-PER
+,	O
+már	O
+ennyire	O
+lealacsonyodtál	O
+?	O
+
+Ifjú	O
+úr	O
+.	O
+
+Ucugi	B-PER
+Bunnojo	I-PER
+húga	O
+szeretne	O
+önnel	O
+találkozni	O
+.	O
+
+Mi	O
+...	O
+?	O
+
+A	O
+húga	O
+?	O
+
+Látni	O
+óhajtott	O
+,	O
+kisasszony	O
+.	O
+
+A	O
+holnapi	B-DATE
+viadal	O
+miatt	O
+keresem	O
+...	O
+
+Én	O
+...	O
+
+A	O
+holnapi	B-DATE
+viadal	O
+miatt	O
+?	O
+
+Mióta	O
+kitűzték	O
+az	O
+ellenfelek	O
+listáját	O
+,	O
+a	O
+bátyám	O
+nem	O
+bír	O
+aludni	O
+,	O
+és	O
+csak	O
+szenved	O
+.	O
+
+A	O
+viadal	O
+fontos	O
+.	O
+
+Nem	O
+hibáztatom	O
+.	O
+
+Magam	O
+is	O
+ekképp	O
+állok	O
+vele	O
+.	O
+
+Nem	O
+...	O
+
+A	O
+bátyám	O
+önnek	O
+nem	O
+ellenfél	O
+.	O
+
+Ez	O
+hibás	O
+következtetés	O
+.	O
+
+Ucugi	B-PER
+úr	O
+gyorsan	O
+fejlődik	O
+,	O
+és	O
+a	O
+neves	O
+Kogen	B-MISC-PER
+stílus	O
+egyenesági	O
+örököse	O
+.	O
+
+Annak	O
+a	O
+hírnévnek	O
+holnap	B-DATE
+vége	O
+lesz	O
+.	O
+
+Bunnojo	B-PER
+és	O
+én	O
+pedig	O
+...	O
+
+Azt	O
+mondta	O
+,	O
+maga	O
+a	O
+húga	O
+.	O
+
+Mit	O
+óhajt	O
+tőlem	O
+?	O
+
+Kérem	O
+,	O
+lépjen	O
+vissza	O
+...	O
+...a	O
+holnapi	B-DATE
+összecsapástól	O
+.	O
+
+Mondjam	O
+le	O
+a	O
+viadalt	O
+?	O
+
+Egy	O
+bizonyos	O
+klántól	O
+ígéretet	O
+kapott	O
+,	O
+hogy	O
+alkalmazni	O
+fogják	O
+,	O
+és	O
+vívómesterré	O
+nevezik	O
+ki	O
+a	O
+holnapi	B-DATE
+viadal	O
+után	O
+.	O
+
+És	O
+ugyanakkor	O
+,	O
+odahaza	O
+,	O
+bejelenti	O
+a	O
+házasságát	O
+.	O
+
+Ez	O
+nagy	O
+lehetőség	O
+számára	O
+,	O
+hogy	O
+megmutassa	O
+a	O
+tudását	O
+.	O
+
+Sajnos	O
+,	O
+ön	O
+lett	O
+az	O
+ellenfele	O
+.	O
+
+Nincs	O
+esélye	O
+győzni	O
+.	O
+
+Ha	O
+pedig	O
+kihátrál	O
+előle	O
+,	O
+megszégyenül	O
+.	O
+
+Nem	O
+tudok	O
+mást	O
+tenni	O
+,	O
+mint	O
+önnek	O
+könyörgök	O
+,	O
+hogy	O
+lépjen	O
+vissza	O
+a	O
+viadaltól	O
+!	O
+
+Hama	B-PER
+kisasszony	O
+.	O
+
+Megható	O
+az	O
+aggódása	O
+a	O
+bátyja	O
+és	O
+a	O
+családja	O
+iránt	O
+.	O
+
+Ám	O
+egy	O
+viadal	O
+merőben	O
+más	O
+ügy	O
+.	O
+
+Akkor	O
+...	O
+
+Nem	O
+teljesíti	O
+a	O
+kérésemet	O
+?	O
+
+Amikor	O
+valaki	O
+kardot	O
+húz	O
+,	O
+megszűnik	O
+a	O
+szülő	O
+és	O
+gyermek	O
+,	O
+vagy	O
+mester	O
+és	O
+tanítvány	O
+kapcsolat	O
+.	O
+
+Még	O
+a	O
+baráti	O
+kapcsolat	O
+sem	O
+számít	O
+!	O
+
+Én	O
+így	O
+gondolkozok	O
+és	O
+eszerint	O
+készülök	O
+.	O
+
+Ez	O
+...	O
+túl	O
+zord	O
+felfogás	O
+...	O
+
+És	O
+...	O
+embertelen	O
+is	O
+!	O
+
+Váratlan	O
+ilyet	O
+hallani	O
+manapság	O
+.	O
+
+A	O
+vívás	O
+összehasonlítható	O
+a	O
+női	O
+erényességgel	O
+.	O
+
+A	O
+női	O
+tisztességet	O
+nem	O
+kell	O
+feláldozni	O
+,	O
+még	O
+a	O
+szülők	O
+vagy	O
+a	O
+rokonok	O
+kedvéért	O
+sem	O
+.	O
+
+De	O
+amikor	O
+...	O
+az	O
+életük	O
+a	O
+tét	O
+...	O
+...	O
+akkor	O
+...	O
+
+Hajlandó	O
+volna	O
+egy	O
+nő	O
+ekkora	O
+áldozatra	O
+?	O
+
+Sajnálom	O
+a	O
+dalban	O
+szereplő	O
+asszonyt	O
+.	O
+
+A	O
+szüleimet	O
+nem	O
+ismertem	O
+,	O
+árván	O
+nőve	O
+fel	O
+,	O
+annyira	O
+megértem	O
+,	O
+mit	O
+érzett	O
+.	O
+
+Te	O
+kedves	O
+szent	O
+!	O
+
+Tiszta	O
+szívből	O
+imádlak	O
+,	O
+és	O
+kérlek	O
+,	O
+segíts	O
+ennek	O
+a	O
+világnak	O
+a	O
+szenvedőin	O
+!	O
+
+Kérlek	O
+,	O
+kérlek	O
+...	O
+
+Johacsi	B-PER
+.	O
+
+Ifjú	O
+úr	O
+!	O
+
+Johacsi	B-PER
+,	O
+jó	O
+erősnek	O
+látszol	O
+.	O
+
+Igen	O
+...	O
+
+Gyere	O
+közelebb	O
+.	O
+
+Ne	O
+...	O
+!	O
+
+Nem	O
+vagy	O
+hajlandó	O
+?	O
+
+Félek	O
+,	O
+hogy	O
+...	O
+
+Távozz	O
+!	O
+
+Kérem	O
+,	O
+ne	O
+öljön	O
+meg	O
+!	O
+
+Várj	O
+!	O
+
+Nahát	O
+...	O
+
+Te	O
+vagy	O
+az	O
+,	O
+Johacsi	B-PER
+.	O
+
+Az	O
+istenek	O
+bocsássanak	O
+meg	O
+nekem	O
+!	O
+
+Ez	O
+felháborító	O
+!	O
+
+Mit	O
+akar	O
+velem	O
+?	O
+
+Én	O
+Bunnojo	B-PER
+...	O
+
+Tudom	O
+,	O
+ki	O
+vagy	O
+.	O
+
+Ezért	O
+csináltam	O
+.	O
+
+Gyáva	O
+!	O
+
+Meg	O
+akarod	O
+erőszakolni	O
+az	O
+ellenfeled	O
+feleségét	O
+,	O
+a	O
+viadal	O
+előtt	O
+!	O
+
+Nem	O
+szándékozok	O
+ilyet	O
+tenni	O
+.	O
+
+Azt	O
+akarom	O
+megtudni	O
+,	O
+mi	O
+van	O
+a	O
+szívedben	O
+.	O
+
+Hogy	O
+mi	O
+van	O
+a	O
+szívemben	O
+...	O
+?	O
+
+A	O
+szamuráji	O
+erény	O
+és	O
+a	O
+női	O
+tisztesség	O
+.	O
+

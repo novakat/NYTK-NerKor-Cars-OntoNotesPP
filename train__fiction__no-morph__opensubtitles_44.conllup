@@ -1,0 +1,1695 @@
+# global.columns = FORM ONPP:NER
+Félsz	O
+tőlük	O
+?	O
+
+Igen	O
+,	O
+félek	O
+.	O
+
+És	O
+ne	O
+kezdj	O
+nekem	O
+prédikálni	O
+.	O
+
+Ezek	O
+mind	O
+durva	O
+,	O
+nagydarab	O
+emberek	O
+,	O
+a	O
+mellvértjük	O
+túl	O
+nehéz	O
+nekem	O
+.	O
+
+A	O
+kardjukat	O
+alig	O
+bírom	O
+felemelni	O
+.	O
+
+Ők	O
+szeretnek	O
+harcolni	O
+.	O
+
+De	O
+ha	O
+nincsenek	O
+a	O
+csatatéren	O
+,	O
+mind	O
+esetlen	O
+tökfilkókká	O
+válnak	O
+.	O
+
+Én	O
+azonban	O
+csendes	O
+,	O
+okos	O
+,	O
+békeszerető	O
+ember	O
+vagyok	O
+.	O
+
+És	O
+nem	O
+akarok	O
+megölni	O
+senkit	O
+.	O
+
+Csak	O
+az	O
+akarom	O
+,	O
+hogy	O
+békén	O
+hagyjanak	O
+.	O
+
+És	O
+élhessem	O
+az	O
+életet	O
+a	O
+kedvem	O
+szerint	O
+.	O
+
+Én	O
+sohasem	O
+akartam	O
+király	O
+lenni	O
+,	O
+rám	O
+tukmálták	O
+ezt	O
+az	O
+egészet	O
+.	O
+
+Úgyhogy	O
+,	O
+ha	O
+most	O
+azt	O
+akarod	O
+mondani	O
+:	O
+'	O
+Szent	B-PER
+Lajos	I-PER
+király	O
+ivadéka	O
+,	O
+ragadd	O
+meg	O
+őseid	O
+kardját	O
+és	O
+vezess	O
+minket	O
+győzelemre.	O
+'	O
+
+Akkor	O
+kár	O
+a	O
+fáradtságért	O
+.	O
+
+Mert	O
+nem	O
+fogom	O
+megtenni	O
+.	O
+
+Nem	O
+olyan	O
+fából	O
+faragtak	O
+.	O
+
+Bolond	O
+beszéd	O
+!	O
+
+Először	O
+mindnyájan	O
+így	O
+vagyunk	O
+vele	O
+!	O
+
+Majd	O
+én	O
+bátorságot	O
+öntök	O
+beléd	O
+.	O
+
+De	O
+én	O
+nem	O
+akarom	O
+,	O
+hogy	O
+bátorságot	O
+öntsenek	O
+belém	O
+.	O
+
+Én	O
+aludni	O
+akarok	O
+egy	O
+jó	O
+kényelmes	O
+ágyban	O
+.	O
+
+És	O
+nem	O
+azon	O
+gondolkodni	O
+,	O
+hogy	O
+megölnek	O
+vagy	O
+megsebeznek	O
+.	O
+
+Önts	O
+bátorságot	O
+azokba	O
+,	O
+akik	O
+szeretnek	O
+küzdeni	O
+.	O
+
+De	O
+engem	O
+hagyjál	O
+békén	O
+.	O
+
+Hiába	O
+,	O
+Károly	B-PER
+!	O
+
+Szembe	O
+kell	O
+nézned	O
+a	O
+sorssal	O
+,	O
+amit	O
+Isten	B-PER
+kiszabott	O
+rád	O
+.	O
+
+Gyere	O
+!	O
+
+Hagy	O
+nézzem	O
+,	O
+hogy	O
+ülsz	O
+a	O
+trónon	O
+?	O
+
+Olyan	O
+régen	O
+várok	O
+erre	O
+,	O
+hogy	O
+így	O
+láthassalak	O
+.	O
+
+Mi	O
+értelme	O
+van	O
+itt	O
+ülni	O
+a	O
+trónon	O
+,	O
+amikor	O
+mások	O
+parancsolnak	O
+?	O
+
+Na	O
+,	O
+mindegy	O
+!	O
+
+Itt	O
+van	O
+neked	O
+a	O
+királyod	O
+!	O
+
+Még	O
+nem	O
+király	O
+,	O
+Barátom	O
+!	O
+
+Csak	O
+a	O
+dauphin	O
+.	O
+
+Én	O
+ismerem	O
+a	O
+népet	O
+,	O
+akiktől	O
+a	O
+kenyeredet	O
+kapod	O
+.	O
+
+Az	O
+ő	O
+szemükben	O
+senki	O
+se	O
+lehet	O
+a	O
+franciák	B-NORP
+királya	O
+mindaddig	O
+amíg	O
+a	O
+megszentelt	O
+olajjal	O
+királlyá	O
+nem	O
+kenik	O
+.	O
+
+És	O
+meg	O
+nem	O
+koronázzák	O
+a	O
+reimsi	B-GPE
+székesegyházban	O
+.	O
+
+Elkelne	O
+már	O
+egy	O
+új	O
+ruha	O
+is	O
+neked	O
+.	O
+
+Miért	O
+nem	O
+viseli	O
+gondod	O
+a	O
+királyné	O
+?	O
+
+Szegények	O
+vagyunk	O
+.	O
+
+Ami	O
+pénzünk	O
+van	O
+,	O
+azt	O
+magára	O
+költi	O
+.	O
+
+De	O
+én	O
+is	O
+szeretem	O
+,	O
+ha	O
+szép	O
+ruhákban	O
+jár	O
+.	O
+
+Az	O
+meg	O
+nem	O
+érdekel	O
+,	O
+hogy	O
+rajtam	O
+mi	O
+van	O
+.	O
+
+Én	O
+így	O
+is	O
+,	O
+úgy	O
+is	O
+csúnya	O
+vagyok	O
+.	O
+
+Van	O
+benned	O
+sok	O
+jó	O
+tulajdonság	O
+,	O
+Károly	B-PER
+.	O
+
+Csak	O
+még	O
+nem	O
+eléggé	O
+királyi	O
+ez	O
+.	O
+
+Meglátjuk	O
+!	O
+
+Nem	O
+vagyok	O
+én	O
+olyan	O
+ostoba	O
+és	O
+nyitva	O
+tartom	O
+a	O
+szemem	O
+.	O
+
+Tudom	O
+,	O
+hogy	O
+egy	O
+jó	O
+békekötés	O
+felér	O
+tíz	B-CARDINAL
+megnyert	O
+csatával	O
+.	O
+
+Ezek	O
+a	O
+nagy	O
+verekedők	O
+mindig	O
+elveszítik	O
+a	O
+békekötésen	O
+,	O
+amit	O
+megnyertek	O
+a	O
+csatán	O
+.	O
+
+Ha	O
+sikerülne	O
+az	O
+angolokkal	B-NORP
+békét	O
+kötni	O
+,	O
+biztos	O
+,	O
+hogy	O
+ők	O
+húznák	O
+a	O
+rövidebbet	O
+mert	O
+jobban	O
+értenek	O
+a	O
+hadakozáshoz	O
+mint	O
+a	O
+gondolkodáshoz	O
+.	O
+
+De	O
+ha	O
+az	O
+angolok	B-NORP
+győznek	O
+,	O
+akkor	O
+ők	O
+diktálják	O
+a	O
+békefeltételeket	O
+.	O
+
+És	O
+akkor	O
+Isten	O
+irgalmazzon	O
+szegény	O
+Franciaországnak	B-GPE
+.	O
+
+Harcolnod	O
+kell	O
+,	O
+Károly	B-PER
+,	O
+akár	O
+tetszik	O
+akár	O
+nem	O
+.	O
+
+Két	B-CARDINAL
+kézre	O
+kell	O
+fognunk	O
+a	O
+bátorságunkat	O
+.	O
+
+És	O
+két	B-CARDINAL
+kézzel	O
+kell	O
+imádkoznunk	O
+érte	O
+.	O
+
+Ne	O
+beszélj	O
+nekem	O
+Istenről	B-PER
+meg	O
+imádságról	O
+.	O
+
+Nem	O
+állom	O
+az	O
+olyan	O
+embereket	O
+,	O
+akik	O
+folyton	O
+imádkoznak	O
+.	O
+
+Nem	O
+elég	O
+belőle	O
+,	O
+amit	O
+úgyis	O
+kell	O
+?	O
+
+Szegény	O
+Károly	B-PER
+!	O
+
+Te	O
+soha	O
+életedben	O
+nem	O
+imádkoztál	O
+.	O
+
+Meg	O
+kell	O
+tanítani	O
+a	O
+kezdetektől	O
+.	O
+
+Felnőtt	O
+férfi	O
+és	O
+apa	O
+vagyok	O
+.	O
+
+Engem	O
+már	O
+ne	O
+tanítson	O
+senki	O
+semmire	O
+.	O
+
+Az	O
+ám	O
+,	O
+van	O
+egy	O
+kis	O
+fiad	O
+.	O
+
+Nem	O
+akarsz	O
+harcolni	O
+érte	O
+?	O
+
+Komisz	O
+kölyök	O
+.	O
+
+Gyűlöl	O
+engem	O
+!	O
+
+Mindenkit	O
+gyűlöl	O
+ez	O
+a	O
+kis	O
+ördög	O
+.	O
+
+Én	O
+nem	O
+akarok	O
+senkinek	O
+az	O
+apja	O
+lenni	O
+.	O
+
+És	O
+nem	O
+akarok	O
+senkinek	O
+a	O
+fia	O
+lenni	O
+.	O
+
+Különösen	O
+nem	O
+Szent	B-PER
+Lajos	I-PER
+királyé	O
+.	O
+
+Én	O
+nem	O
+akarok	O
+semmi	O
+se	O
+lenni	O
+.	O
+
+Csak	O
+az	O
+,	O
+ami	O
+vagyok	O
+.	O
+
+Miért	O
+nem	O
+törődtök	O
+a	O
+magatok	O
+dolgával	O
+.	O
+
+A	O
+magad	O
+dolgával	O
+törődni	O
+olyan	O
+,	O
+mint	O
+a	O
+magad	O
+testének	O
+élni	O
+.	O
+
+A	O
+legrövidebb	O
+útja	O
+,	O
+hogy	O
+belebetegedjen	O
+az	O
+ember	O
+az	O
+egészbe	O
+.	O
+
+Nem	O
+a	O
+magunk	O
+dolgára	O
+vagyunk	O
+itt	O
+,	O
+hanem	O
+az	O
+Istenére	B-PER
+.	O
+
+Azt	O
+mondom	O
+neked	O
+,	O
+Károly	B-PER
+.	O
+
+Üzenetet	O
+hoztam	O
+neked	O
+az	O
+Istentől	B-PER
+.	O
+
+Meg	O
+kell	O
+hallgatnod	O
+.	O
+
+Nem	O
+akarok	O
+semmilyen	O
+üzenetet	O
+.	O
+
+Titkokat	O
+nem	O
+tudsz	O
+?	O
+
+Tudsz	O
+varázsolni	O
+,	O
+bűvölni	O
+,	O
+vajákolni	O
+?	O
+
+Tudsz	O
+aranyat	O
+csinálni	O
+ólomból	O
+?	O
+
+Tudok	O
+királyt	O
+csinálni	O
+belőled	O
+.	O
+
+S	O
+ez	O
+olyan	O
+csoda	O
+lesz	O
+,	O
+ami	O
+elég	O
+sok	O
+vesződségembe	O
+lesz	O
+majd	O
+.	O
+
+Ha	O
+Reimsbe	B-GPE
+kell	O
+mennünk	O
+,	O
+és	O
+koronázás	O
+lesz	O
+akkor	O
+Annának	B-PER
+új	O
+ruha	O
+kell	O
+.	O
+
+Nem	O
+engedhetjük	O
+meg	O
+magunknak	O
+.	O
+
+Jól	O
+van	O
+ez	O
+így	O
+,	O
+ahogy	O
+van	O
+.	O
+
+Ahogy	O
+most	O
+van	O
+?	O
+
+Hát	O
+mi	O
+vagy	O
+te	O
+most	O
+?	O
+
+Még	O
+annyi	O
+se	O
+,	O
+mint	O
+apám	O
+legutolsó	O
+juhászbojtárja	O
+.	O
+
+Franciaország	B-GPE
+sem	O
+a	O
+tied	O
+törvényesen	O
+,	O
+amíg	O
+meg	O
+nem	O
+koronáznak	O
+.	O
+
+Úgyse	O
+lesz	O
+az	O
+enyém	O
+soha	O
+.	O
+
+A	O
+koronázás	O
+visszaszerzi	O
+talán	O
+az	O
+elzálogosított	O
+földeket	O
+?	O
+
+Károly	B-PER
+,	O
+én	O
+azokról	O
+a	O
+földekről	O
+jöttem	O
+ott	O
+dolgoztam	O
+azokon	O
+a	O
+földeken	O
+,	O
+attól	O
+lettem	O
+erős	O
+.	O
+
+Azt	O
+mondom	O
+,	O
+ez	O
+a	O
+föld	O
+a	O
+tiéd	O
+,	O
+tiéd	O
+ez	O
+az	O
+ország	O
+,	O
+ha	O
+jól	O
+kormányzod	O
+és	O
+megőrzöd	O
+Isten	B-PER
+békéjét	O
+rajta	O
+.	O
+
+Azért	O
+küldött	O
+engem	O
+Isten	B-PER
+hogy	O
+mondjam	O
+meg	O
+neked	O
+,	O
+térdelj	O
+le	O
+a	O
+koronázási	O
+templomban	O
+és	O
+ajánld	O
+fel	O
+neki	O
+a	O
+királyságodat	O
+örök	O
+időkre	O
+.	O
+
+És	O
+váljék	O
+belőled	O
+a	O
+legnagyobb	O
+király	O
+.	O
+
+Mint	O
+az	O
+Ő	O
+kulcsárja	O
+és	O
+számadója	O
+az	O
+Ő	O
+katonája	O
+és	O
+szolgája	O
+.	O
+
+Az	O
+angolok	B-NORP
+pedig	O
+térden	O
+állva	O
+könyörögnek	O
+majd	O
+neked	O
+hogy	O
+engedd	O
+vissza	O
+őket	O
+az	O
+országukba	O
+.	O
+
+Hát	O
+Júdás	B-PER
+akarsz	O
+lenni	O
+inkább	O
+,	O
+aki	O
+elárul	O
+és	O
+cserbenhagy	O
+engem	O
+és	O
+Őt	O
+is	O
+,	O
+aki	O
+küldött	O
+?	O
+
+Bárcsak	O
+merném	O
+!	O
+
+Én	O
+merem	O
+!	O
+
+Isten	B-PER
+szent	O
+nevében	O
+mernem	O
+kell	O
+!	O
+
+Velem	O
+vagy	O
+-e	O
+vagy	O
+ellenem	O
+?	O
+
+Megpróbálhatom	O
+,	O
+de	O
+bele	O
+fog	O
+törni	O
+a	O
+bicskám	O
+.	O
+
+De	O
+legyen	O
+,	O
+azután	O
+meglátjuk	O
+.	O
+
+Maradj	O
+mellettem	O
+,	O
+az	O
+önbizalmat	O
+ad	O
+.	O
+
+Csinálj	O
+rendet	O
+!	O
+
+Őfelsége	O
+a	O
+dauphin	O
+csendet	O
+kér	O
+.	O
+
+Csönd	O
+!	O
+
+Hadseregem	O
+parancsnokságát	O
+mától	B-DATE
+a	O
+Szűzre	B-PER
+bízom	O
+.	O
+
+Én	O
+vagyok	O
+a	O
+hadsereg	O
+parancsnoka	O
+.	O
+
+Megkaptad	O
+a	O
+feleletet	O
+,	O
+öreg	O
+morgó-medve	O
+.	O
+
+Ki	O
+tart	O
+velem	O
+és	O
+Istennel	B-PER
+?	O
+
+Ki	O
+tart	O
+velem	O
+Orleans-ért	B-GPE
+?	O
+
+Veled	O
+és	O
+Istennel	B-PER
+!	O
+
+Orleans-ért	B-GPE
+!	O
+
+Ki	O
+lesz	O
+a	O
+következő	O
+?	O
+
+Itt	O
+vagyok	O
+!	O
+
+Nyugati	O
+szél	O
+!	O
+
+Hát	O
+soha	O
+többé	O
+nem	O
+akarsz	O
+föltámadni	O
+?	O
+
+Ez	O
+lehetetlen	O
+.	O
+
+Nyugati	O
+szél	O
+nélkül	O
+a	O
+hajók	O
+sohase	O
+érik	O
+el	O
+Orleans-t	B-GPE
+!	O
+
+Erre	O
+várok	O
+minden	O
+reggel	O
+.	O
+
+Még	O
+mindig	O
+semmi	O
+.	O
+
+A	O
+tétlenségtől	O
+elpuhulnak	O
+a	O
+férfiak	O
+.	O
+
+Ússzuk	O
+át	O
+teljes	O
+fegyverzetben	O
+a	O
+Loire-t	B-LOC
+?	O
+
+A	O
+hídon	O
+át	O
+kellene	O
+támadnunk	O
+.	O
+
+Uraim	O
+,	O
+mit	O
+gondolnak	O
+?	O
+
+A	O
+hídon	O
+tíz	B-CARDINAL
+ember	O
+akár	O
+százat	B-CARDINAL
+is	O
+fel	O
+tud	O
+tartóztatni	O
+.	O
+
+Nem	O
+kockáztathatunk	O
+,	O
+szükség	O
+van	O
+további	O
+csapatokra	O
+.	O
+
+A	O
+dauphin	O
+mit	O
+tesz	O
+?	O
+
+Kaptam	O
+tőle	O
+egy	O
+üzenetet	O
+ma	B-DATE
+reggel	O
+.	O
+
+Küld	O
+segítséget	O
+.	O
+
+Hány	O
+embert	O
+?	O
+
+Egy	O
+lányt	O
+.	O
+
+Ez	O
+egy	O
+vicc	O
+,	O
+kapitány	O
+?	O
+
+Azt	O
+írja	O
+,	O
+hogy	O
+ez	O
+a	O
+lány	O
+egy	O
+szent	O
+.	O
+
+Elvesztette	O
+az	O
+eszét	O
+?	O
+
+Mi	O
+az	O
+,	O
+hogy	O
+szent	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+én	O
+még	O
+nem	O
+láttam	O
+soha	O
+.	O
+
+És	O
+mikor	O
+jön	O
+ez	O
+a	O
+jelenés	O
+?	O
+
+Talán	O
+egy	B-DATE
+hét	I-DATE
+múlva	I-DATE
+.	O
+
+Egy	O
+lány	O
+feneke	O
+elég	O
+kényes	O
+.	O
+
+De	O
+a	O
+hírek	O
+gyorsabban	O
+jönnek	O
+mint	O
+a	O
+dauphin	O
+levele	O
+.	O
+
+A	O
+katonáink	O
+már	O
+tegnap	B-DATE
+óta	I-DATE
+beszélnek	O
+róla	O
+.	O
+
+Még	O
+mindig	O
+azt	O
+gondolom	O
+,	O
+hogy	O
+a	O
+hídnál	O
+kellene	O
+támadnunk	O
+.	O
+
+Mi	O
+ez	O
+a	O
+lárma	O
+?	O
+
+Te	O
+vagy	O
+a	O
+Fattyú	B-PER
+?	O
+
+És	O
+te	O
+vagy	O
+a	O
+Szűz	B-PER
+?	O
+
+La	B-PER
+Hire	I-PER
+!	O
+
+Nem	O
+számítottam	O
+rád	O
+ilyen	O
+hamar	O
+.	O
+
+Nem	O
+töltöttük	O
+kockázással	O
+az	O
+időnket	O
+és	O
+nem	O
+cipeltünk	O
+magunkkal	O
+nőket	O
+.	O
+
+Nőket	O
+sem	O
+?	O
+
+Nem	O
+látok	O
+előkészületet	O
+a	O
+támadásra	O
+.	O
+
+Várunk	O
+a	O
+csapaterősítésre	O
+.	O
+
+Gyere	O
+,	O
+igyál	O
+meg	O
+velem	O
+egy	O
+pohár	O
+bort	O
+.	O
+
+Nem	O
+,	O
+ezt	O
+a	O
+pohár	O
+bort	O
+én	O
+már	O
+Orleans-ban	B-GPE
+akarom	O
+meginni	O
+veled	O
+.	O
+
+Az	O
+egyetlen	O
+akadály	O
+közted	O
+és	O
+az	O
+angolok	B-NORP
+között	O
+,	O
+a	O
+folyó	O
+.	O
+
+A	O
+Loire	B-LOC
+folyó	O
+széles	O
+,	O
+Szűz	B-PER
+.	O
+
+Ott	O
+a	O
+híd	O
+,	O
+hát	O
+akkor	O
+Isten	B-PER
+nevében	O
+keljünk	O
+át	O
+a	O
+hídon	O
+és	O
+támadjuk	O
+meg	O
+őket	O
+.	O
+
+Egyszerűen	O
+hangzik	O
+,	O
+de	O
+lehetetlen	O
+.	O
+
+Ki	O
+mondja	O
+ezt	O
+?	O
+
+Én	O
+mondom	O
+.	O
+
+És	O
+nálamnál	O
+öregebben	O
+és	O
+okosabbak	O
+is	O
+.	O
+
+Hát	O
+akkor	O
+azok	O
+egytől	O
+egyig	O
+tökfilkók	O
+.	O
+
+Én	O
+olyan	O
+segítséget	O
+hozok	O
+,	O
+amilyet	O
+még	O
+egyetlen	O
+hadvezér	O
+és	O
+város	O
+sem	O
+kapott	O
+.	O
+
+A	O
+tiédet	O
+?	O
+
+Nem	O
+,	O
+a	O
+mennyek	O
+urának	O
+tanácsát	O
+és	O
+segítségét	O
+.	O
+
+Merre	O
+vezet	O
+az	O
+út	O
+ahhoz	O
+a	O
+hídhoz	O
+?	O
+
+Mersz	O
+követni	O
+?	O
+
+Kihívlak	O
+téged	O
+.	O
+
+Törzstiszteket	O
+nem	O
+hívhatsz	O
+ki	O
+.	O
+
+Gyere	O
+,	O
+megmutatom	O
+a	O
+hidat	O
+.	O
+
+Íme	O
+,	O
+a	O
+híd	O
+.	O
+
+Szóval	O
+,	O
+mire	O
+vársz	O
+?	O
+
+De	O
+türelmetlen	O
+vagy	O
+,	O
+Johanna	B-PER
+.	O
+
+Hát	O
+ráérünk	O
+most	O
+türelmesnek	O
+lenni	O
+?	O
+
+Kapunk	O
+előtt	O
+az	O
+ellenség	O
+,	O
+mi	O
+meg	O
+itt	O
+állunk	O
+tétlenül	O
+.	O
+
+Ide	O
+figyelj	O
+,	O
+én	O
+megszabadítalak	O
+a	O
+félelemtől	O
+.	O
+
+Nem	O
+,	O
+az	O
+nem	O
+lesz	O
+jó	O
+.	O
+
+Akkor	O
+nagyon	O
+jó	O
+vitéz	O
+leszek	O
+egy	O
+meséskönyv	O
+számára	O
+de	O
+nagyon	O
+rossz	O
+parancsnoka	O
+a	O
+csapataimnak	O
+.	O
+
+Gyere	O
+,	O
+hadd	O
+csináljak	O
+belőled	O
+jó	O
+katonát	O
+.	O
+
+Látod	O
+azt	O
+a	O
+két	B-CARDINAL
+erődöt	O
+a	O
+híd	O
+innenső	O
+oldalán	O
+?	O
+
+A	O
+mi	O
+erődjeink	O
+vagy	O
+az	O
+ellenségé	O
+?	O
+
+Ne	O
+beszélj	O
+és	O
+figyelj	O
+.	O
+
+Ha	O
+én	O
+ott	O
+lehetnék	O
+csak	O
+tíz	B-CARDINAL
+emberemmel	O
+,	O
+meg	O
+tudnám	O
+védeni	O
+egy	O
+hadsereg	O
+ellen	O
+.	O
+
+Az	O
+angoloknak	B-NORP
+száznál	B-CARDINAL
+is	O
+több	O
+embere	O
+védi	O
+ellenünk	O
+.	O
+
+Nem	O
+tudják	O
+megvédeni	O
+Isten	B-PER
+ellen	O
+.	O
+
+Isten	B-PER
+nem	O
+adta	O
+nekik	O
+azt	O
+a	O
+földet	O
+,	O
+amire	O
+az	O
+erődök	O
+épültek	O
+.	O
+
+Nekünk	O
+adta	O
+,	O
+ők	O
+csak	O
+bitorolják	O
+.	O
+
+De	O
+visszaveszem	O
+tőlük	O
+.	O
+
+Egymagad	O
+?	O
+
+A	O
+katonáink	O
+.	O
+
+Én	O
+majd	O
+vezetem	O
+őket	O
+.	O
+
+Senki	O
+se	O
+fog	O
+utánad	O
+menni	O
+.	O
+
+Nem	O
+fogok	O
+hátranézni	O
+,	O
+hogy	O
+követnek	O
+-e	O
+.	O
+
+Belőled	O
+még	O
+lehet	O
+jó	O
+katona	O
+.	O
+

@@ -1,0 +1,1244 @@
+# global.columns = FORM ONPP:NER
+ROSCOE	B-PER
+"	I-PER
+FATTY	I-PER
+"	I-PER
+ARBUCKLE	I-PER
+BUSTER	B-PER
+KEATON	I-PER
+A	B-WORK_OF_ART
+szakács	I-WORK_OF_ART
+Fordította	O
+:	O
+CubiLu	B-PER
+Kolléga	I-PER
+!	O
+
+Egy	O
+barna	O
+levest	O
+!	O
+
+Forrót	O
+!	O
+
+Sült	O
+sonka	O
+tojással	O
+és	O
+egy	O
+üveg	O
+tej	O
+!	O
+
+Egy	O
+pirított	O
+kenyér	O
+tojással	O
+és	O
+egy	O
+üveg	O
+Liebfrau	B-PROD
+tej	O
+!	O
+
+Olasz	B-NORP
+nemzeti	O
+étel	O
+:	O
+spagetti	O
+,	O
+avagy	O
+galandféreg	O
+á	O
+la	O
+tekeréde	O
+.	O
+
+Gyors	O
+,	O
+kötögető	O
+társaság	O
+!	O
+
+Sárgító	O
+mosóda	O
+Kecskeföld	B-LOC
+
+VÉGE	O
+
+Moszfilm	B-ORG
+
+Mókuska	B-PER
+,	O
+állj	O
+meg	O
+!	O
+
+Vedd	O
+fel	O
+a	O
+cipőd	O
+.	O
+
+Nézd	O
+!	O
+
+Darvak	O
+!	O
+
+Darvak	O
+,	O
+mint	O
+a	O
+kis	O
+hajócskák	O
+szállnak	O
+fenn	O
+az	O
+égen	O
+,	O
+De	O
+jó	O
+lenne	O
+ott	O
+fürödni	O
+a	O
+tengernyi	O
+kékben	O
+!	O
+
+Na	O
+,	O
+tessék	O
+...	O
+
+De	O
+jó	O
+lenne	O
+ott	O
+fürödni	O
+...	O
+
+Szállnak	B-WORK_OF_ART
+a	I-WORK_OF_ART
+darvak	I-WORK_OF_ART
+
+Forgatókönyv	O
+:	O
+V.	B-PER
+Rozov	I-PER
+Rendezte	O
+:	O
+Mihail	B-PER
+Kalatozov	I-PER
+Fényképezte	O
+:	O
+Sz.	B-PER
+Uruszevszkij	I-PER
+Zene	O
+:	O
+M.	B-PER
+Vajnberg	I-PER
+Magyar	B-LANGUAGE
+szöveg	O
+:	O
+Somló	B-PER
+Éva	I-PER
+Szereplők	O
+:	O
+Veronika	B-PER
+T.	B-PER
+Szamojlova	I-PER
+Borisz	B-PER
+A.	B-PER
+Batalov	I-PER
+Fjodor	B-PER
+lvanovics	I-PER
+V.	B-PER
+Merkurjev	I-PER
+Mark	B-PER
+A.	B-PER
+Svorin	I-PER
+Irina	B-PER
+Haritonova	B-PER
+Vologya	B-PER
+K.	B-PER
+Nyikityin	I-PER
+Sztyepan	B-PER
+V.	B-PER
+Zubkov	I-PER
+Nagymama	B-PER
+A.	B-PER
+Bogdanova	I-PER
+Csernov	B-PER
+B.	B-PER
+Kokovkin	I-PER
+Anna	B-PER
+Mihajlovna	I-PER
+J.	B-PER
+Kuprijanova	I-PER
+Moszfilm	B-ORG
+stúdió	I-ORG
+
+Ki	O
+van	O
+ott	O
+?	O
+
+Várj	O
+csak	O
+.	O
+
+Jól	O
+van	O
+.	O
+
+Mikor	O
+találkozunk	O
+?	O
+
+Csütörtökön	B-DATE
+,	O
+a	O
+parton	O
+.	O
+
+Az	O
+soká	O
+lesz	O
+.	O
+
+Mókus	B-PER
+!	O
+
+Nem	O
+mondtad	O
+,	O
+mikor	O
+!	O
+
+Csütörtökön	B-DATE
+,	O
+de	O
+hánykor	O
+?	O
+
+Nem	O
+jó	O
+,	O
+ötkor	B-TIME
+nem	O
+tudok	O
+.	O
+
+Eddig	O
+vagyok	O
+munkával	O
+.	O
+
+Hét	O
+?	O
+
+Az	O
+jó	O
+lesz	O
+.	O
+
+De	O
+pontos	O
+légy	O
+!	O
+
+Mókuska	B-PER
+!	O
+
+Az	O
+a	O
+fiú	O
+elcsavarta	O
+a	O
+fejét	O
+.	O
+
+Ő	O
+meg	O
+a	O
+fiúét	O
+.	O
+
+A	O
+szerelemhez	O
+két	B-CARDINAL
+elcsavart	O
+fej	O
+kell	O
+,	O
+ha	O
+jól	O
+emlékszem	O
+.	O
+
+Nagymama	B-PER
+,	O
+te	O
+még	O
+nem	O
+alszol	O
+?	O
+
+Már	O
+fel	O
+is	O
+ébredtem	O
+,	O
+Borisz	B-PER
+.	O
+
+Ne	O
+csámcsogj	O
+,	O
+felébreszted	O
+az	O
+embert	O
+.	O
+
+Irigy	O
+vagy	O
+?	O
+
+Piszkos	O
+lett	O
+?	O
+
+Szebb	O
+,	O
+mint	O
+valaha	O
+.	O
+
+Szégyen	O
+,	O
+gyalázat	O
+.	O
+
+Még	O
+délben	O
+alszik	O
+.	O
+
+Eleget	O
+dolgozik	O
+egész	B-DATE
+héten	I-DATE
+,	O
+hadd	O
+pihenje	O
+ki	O
+magát	O
+vasárnap	B-DATE
+.	O
+
+Az	O
+ilyen	O
+munkának	O
+esküvő	O
+a	O
+vége	O
+.	O
+
+Félsz	O
+,	O
+hogy	O
+megelőz	O
+?	O
+
+Irinának	B-PER
+első	B-ORDINAL
+a	O
+disszertáció	O
+.	O
+
+Vigyázz	O
+,	O
+Fegya	B-PER
+bácsi	O
+,	O
+lehagynak	O
+,	O
+a	O
+lányod	O
+kandidátus	O
+lesz	O
+,	O
+te	O
+meg	O
+egyszerű	O
+orvos	O
+maradsz	O
+.	O
+
+Ha	O
+a	O
+gyerek	O
+nem	O
+viszi	O
+többre	O
+a	O
+szülőnél	O
+,	O
+akkor	O
+vagy	O
+a	O
+szülő	O
+rossz	O
+,	O
+vagy	O
+a	O
+gyerek	O
+fafejű	O
+.	O
+
+Köszönöm	O
+,	O
+mama	O
+.	O
+
+Itt	O
+a	O
+Moszkvai	B-ORG
+Rádió	I-ORG
+.	O
+
+Mi	O
+lehet	O
+ez	O
+?	O
+
+Mi	O
+történhetett	O
+?	O
+
+Borisz	B-PER
+!	O
+
+Kitört	O
+a	O
+háború	O
+!	O
+
+Hallod	O
+?	O
+
+Háború	O
+van	O
+!	O
+
+Hagyj	O
+békén	O
+.	O
+
+Szervusz	O
+.	O
+
+Borisz	B-PER
+éjjel-nappal	B-TIME
+a	O
+gyárban	O
+van	O
+.	O
+
+Őt	O
+várod	O
+?	O
+
+Nem	O
+várok	O
+senkit	O
+.	O
+
+Veronika	B-PER
+!	O
+
+Az	O
+ilyen	O
+nehéz	O
+időkben	O
+nem	O
+szabad	O
+elveszítenünk	O
+a	O
+fejünket	O
+.	O
+
+Meg	O
+kell	O
+őriznünk	O
+megszokott	O
+életritmusunkat	O
+.	O
+
+Itt	O
+vagyok	O
+például	O
+én	O
+.	O
+
+Neked	O
+ajánlom	O
+első	B-ORDINAL
+szimfóniámat	O
+.	O
+
+Eljössz	O
+a	O
+koncertre	O
+?	O
+
+Téged	O
+nem	O
+hívnak	O
+be	O
+katonának	O
+?	O
+
+Nem	O
+.	O
+
+Nem	O
+hiszem	O
+.	O
+
+Aligha	O
+.	O
+
+Miért	O
+nem	O
+hiszed	O
+?	O
+
+Mert	O
+a	O
+legtehetségesebbeket	O
+fel	O
+szokták	O
+menteni	O
+.	O
+
+És	O
+te	O
+az	O
+vagy	O
+?	O
+
+Én	O
+?	O
+
+Persze	O
+!	O
+
+Mit	O
+jársz	O
+utánam	O
+folyton	O
+?	O
+
+Nem	O
+szégyelled	O
+magad	O
+?	O
+
+De	O
+igen	O
+.	O
+
+Ezerszer	O
+megfogadtam	O
+,	O
+hogy	O
+nem	O
+járok	O
+többé	O
+utánad	O
+.	O
+
+Borisz	B-PER
+az	O
+unokatestvérem	O
+.	O
+
+De	O
+nem	O
+küzdhetek	O
+az	O
+érzés	O
+ellen	O
+,	O
+nincs	O
+hozzá	O
+erőm	O
+.	O
+
+Ne	O
+menj	O
+el	O
+!	O
+
+Várj	O
+.	O
+
+Nem	O
+akarom	O
+,	O
+hogy	O
+elkísérj	O
+.	O
+
+Vigyázzon	O
+,	O
+a	O
+lábára	O
+üt	O
+!	O
+
+Legalább	O
+hozzáedződöm	O
+a	O
+front	O
+nehézségeihez	O
+.	O
+
+Maga	O
+úgyse	O
+kerül	O
+a	O
+frontra	O
+.	O
+
+A	O
+gyár	O
+csak	O
+egyikünket	O
+mentheti	O
+fel	O
+.	O
+
+Minden	O
+maga	O
+mellett	O
+szól	O
+,	O
+a	O
+tudás	O
+,	O
+a	O
+tapasztalat	O
+.	O
+
+Maga	O
+tehetségesebb	O
+.	O
+
+Csak	O
+a	O
+rajzaimra	O
+vigyázzon	O
+.	O
+
+A	O
+feleségem	O
+már	O
+be	O
+is	O
+pakolta	O
+a	O
+zsákot	O
+.	O
+
+Ahogy	O
+mondani	O
+szokás	O
+,	O
+fegyvert	O
+ragadok	O
+.	O
+
+Sztyepan	B-PER
+!	O
+
+Segítsetek	O
+!	O
+
+Csak	B-TIME
+egy	I-TIME
+perc	I-TIME
+,	O
+Szacskov	B-PER
+.	O
+
+Megjött	O
+a	O
+behívó	O
+?	O
+
+Nem	O
+értem	O
+,	O
+mit	O
+húzzák	O
+az	O
+időt	O
+.	O
+
+Hazamész	O
+?	O
+
+Nem	O
+,	O
+én	O
+...	O
+
+Értem	O
+.	O
+
+Vigyázz	O
+magadra	O
+.	O
+
+Jó	O
+.	O
+
+Hé	O
+!	O
+
+Mi	O
+van	O
+?	O
+
+Elmondtad	O
+neki	O
+?	O
+
+Még	O
+korai	O
+.	O
+
+Igazad	O
+van	O
+.	O
+
+Viszlát	O
+holnap	B-DATE
+.	O
+
+Minden	O
+jót	O
+.	O
+
+Engedd	O
+el	O
+.	O
+
+Nem	O
+engedem	O
+.	O
+
+Elesel	O
+.	O
+
+Elszakad	O
+az	O
+elsötétítő	O
+.	O
+
+Az	O
+én	O
+takaróm	O
+.	O
+
+Akkor	O
+hívom	O
+a	O
+légó	O
+parancsnokot	O
+.	O
+
+Nem	O
+sötétítek	O
+el	O
+.	O
+
+Kell	O
+a	O
+takaró	O
+!	O
+
+Add	O
+ide	O
+,	O
+mert	O
+leülsz	O
+!	O
+
+Nem	O
+ülök	O
+!	O
+
+Mókus	B-PER
+,	O
+hagyd	O
+abba	O
+,	O
+hadd	O
+tegyem	O
+fel	O
+.	O
+
+Te	O
+nem	O
+vártál	O
+a	O
+rakparton	O
+,	O
+de	O
+Mark	B-PER
+igen	O
+.	O
+
+Csinos	O
+fiú	O
+.	O
+
+Na	O
+és	O
+?	O
+
+Nem	O
+vagy	O
+féltékeny	O
+?	O
+
+Mi	O
+?	O
+
+Nincs	O
+rá	O
+időm	O
+.	O
+
+Nekem	O
+se	O
+lesz	O
+,	O
+ha	O
+majd	O
+az	O
+építészeti	O
+technikumba	O
+járok	O
+.	O
+
+Ha	O
+felvennének	O
+.	O
+
+Fel	O
+is	O
+vesznek	O
+!	O
+
+Szép	O
+versike	O
+,	O
+mi	O
+?	O
+
+Nagyon	O
+tartalmas	O
+.	O
+
+Buta	O
+békák	O
+addig	O
+lestek	O
+fel	O
+a	O
+magas	O
+égre	O
+,	O
+Míg	O
+a	O
+darvak	O
+mind	O
+egy	O
+szálig	O
+felfalták	O
+ebédre	O
+.	O
+
+Legyőztél	O
+,	O
+te	O
+kis	O
+hős	O
+.	O
+
+Győztem	O
+!	O
+
+Legyőztelek	O
+!	O
+
+Jól	O
+van	O
+,	O
+legyőztél	O
+.	O
+
+Téged	O
+is	O
+behívhatnak	O
+?	O
+
+Persze	O
+.	O
+
+De	O
+önként	O
+nem	O
+mész	O
+.	O
+
+Ha	O
+megharagítasz	O
+,	O
+elmegyek	O
+.	O
+
+Azt	O
+próbáld	O
+meg	O
+!	O
+
+Nem	O
+engedlek	O
+!	O
+
+Tudod	O
+,	O
+hogy	O
+úgyis	O
+felmentenek	O
+,	O
+azért	O
+beszélsz	O
+így	O
+.	O
+
+Honnan	O
+veszed	O
+,	O
+hogy	O
+felmentenek	O
+?	O
+
+Az	O
+okos	O
+fiúkat	O
+nem	O
+viszik	O
+el	O
+.	O
+
+Csak	O
+a	O
+butáknak	O
+kell	O
+harcolniuk	O
+?	O
+
+Erről	O
+most	O
+nem	O
+akarok	O
+beszélni	O
+.	O
+
+Veronika	B-PER
+,	O
+valamit	O
+el	O
+kell	O
+mondanom	O
+.	O
+
+Nem	O
+akarom	O
+hallani	O
+.	O
+
+És	O
+ne	O
+nevezz	O
+Veronikának	B-PER
+.	O
+
+Ki	O
+vagyok	O
+én	O
+?	O
+
+Mókuska	B-PER
+.	O
+
+Hallgass	O
+ide	O
+.	O
+
+Mit	O
+kapok	O
+holnap	B-DATE
+ajándékba	O
+?	O
+
+Titok	O
+.	O
+
+Édességet	O
+ne	O
+,	O
+mert	O
+azt	O
+megeszi	O
+az	O
+ember	O
+és	O
+aztán	O
+elfelejti	O
+.	O
+
+Olyasmit	O
+találj	O
+ki	O
+,	O
+ami	O
+rád	O
+emlékeztet	O
+.	O
+
+Csókolj	O
+meg	O
+.	O
+
+Ha	O
+idebújok	O
+hozzád	O
+,	O
+nem	O
+félek	O
+semmitől	O
+.	O
+
+Még	O
+a	O
+háborútól	O
+sem	O
+.	O
+
+Csak	O
+a	O
+légóparancsnoktól	O
+.	O
+
+Veronika	B-PER
+...	O
+
+Már	O
+kigondoltam	O
+.	O
+
+Tudod	O
+,	O
+mit	O
+?	O
+
+Hogy	O
+földig	O
+érő	O
+,	O
+hófehér	O
+selyem	O
+esküvői	O
+ruhám	O
+lesz	O
+.	O
+
+Mint	O
+nagymamának	O
+a	O
+képen	O
+.	O
+
+A	O
+fejemen	O
+hosszú	O
+,	O
+fehér	O
+csipkefátyol	O
+.	O
+
+Te	O
+a	O
+sötét	O
+öltönyöd	O
+veszed	O
+fel	O
+.	O
+
+Úgy	O
+megyünk	O
+...	O
+
+Az	O
+anyakönyvvezetőhöz	O
+.	O
+
+Ígéred	O
+?	O
+
+Ígérem	O
+.	O
+
+Szeretem	O
+az	O
+elsötétítést	O
+.	O
+
+Mit	O
+szeretsz	O
+rajta	O
+?	O
+
+Jó	O
+napot	O
+!	O
+
+Hozok	O
+valami	O
+finomat	O
+!	O
+
+Helyes	O
+!	O
+
+Mi	O
+lesz	O
+az	O
+?	O
+
+Megérkezett	O
+?	O
+
+Igen	O
+,	O
+ma	B-DATE
+reggel	O
+.	O
+
+Mesélj	O
+már	O
+!	O
+
+Az	O
+egész	O
+gyár	O
+felfordult	O
+.	O
+
+A	O
+fiúk	O
+elrohantak	O
+a	O
+borbélyhoz	O
+,	O
+én	O
+meg	O
+futottam	O
+hozzád	O
+.	O
+
+Rövidebben	O
+nem	O
+tudnád	O
+?	O
+
+Óriási	O
+az	O
+izgalom	O
+.	O
+
+Mikorra	O
+szól	O
+?	O
+
+Ma	B-DATE
+délután	B-TIME
+ötre	I-TIME
+.	O
+
+Szeretitek	O
+a	O
+cseresznyét	O
+?	O
+
+Mi	O
+történt	O
+?	O
+
+De	O
+jó	O
+szagú	O
+!	O
+
+Megjött	O
+a	O
+behívó	O
+.	O
+
+Kinek	O
+?	O
+
+Neked	O
+?	O
+
+Nekem	O
+is	O
+.	O
+
+Önként	O
+jelentkeztünk	O
+.	O
+
+Te	O
+?	O
+
+Önként	O
+?	O
+
+A	O
+felhívásra	O
+.	O
+
+És	O
+velem	O
+mi	O
+lesz	O
+?	O
+
+Mennem	O
+kell	O
+.	O
+
+Mókuska	B-PER
+...	O
+

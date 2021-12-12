@@ -1,0 +1,1692 @@
+# global.columns = FORM ONPP:NER
+Némi	O
+hó	O
+is	O
+hull	O
+.	O
+
+A	O
+férjem	O
+itt	O
+van	O
+?	O
+
+Elszakítottad	O
+a	O
+kabátomat	O
+megint	O
+.	O
+
+Igyunk	O
+újra	O
+.	O
+
+Sun	B-PER
+fizeti	O
+a	O
+számlát	O
+.	O
+
+És	O
+hűvös	O
+az	O
+idő	O
+.	O
+
+A	O
+hűvös	O
+idő	O
+ráveszi	O
+az	O
+embert	O
+,	O
+hogy	O
+hazamenjen	O
+aludni	O
+.	O
+
+Az	O
+jó	O
+.	O
+
+Miért	O
+vagy	O
+rá	O
+olyan	O
+mérges	O
+?	O
+
+Ez	O
+az	O
+út	O
+az	O
+a	O
+férfi	O
+.	O
+
+Amikor	O
+hozzámentem	O
+,	O
+néhány	O
+előnyére	O
+gondoltam	O
+.	O
+
+Nem	O
+voltak	O
+előnyei	O
+?	O
+
+Neked	O
+voltak	O
+előnyei	O
+Luk	B-PER
+vagyonának	O
+.	O
+
+Hozzámentem	O
+mvel	O
+rendőr	O
+volt	O
+.	O
+
+Nem	O
+lehetett	O
+arra	O
+gondolni	O
+,	O
+hogy	O
+elbocsájtják	O
+és	O
+alkoholista	O
+lesz	O
+.	O
+
+Liu	B-PER
+.	O
+
+Valaki	O
+azt	O
+mondta	O
+,	O
+hogy	O
+mesélsz	O
+rólam	O
+.	O
+
+Azt	O
+mondtam	O
+,	O
+a	O
+nők	O
+mintái	O
+vagytok	O
+,	O
+zsíros	O
+testben	O
+,	O
+agy	O
+nélkül	O
+.	O
+
+Miért	O
+mondtad	O
+,	O
+hogy	O
+verem	O
+a	O
+férjem	O
+?	O
+
+Láttam	O
+,	O
+hogy	O
+megfogtad	O
+a	O
+haját	O
+és	O
+azt	O
+gondoltam	O
+vered	O
+őt	O
+.	O
+
+Tyúknak	O
+kéne	O
+tettetnie	O
+magát	O
+,	O
+nem	O
+az	O
+ilyet	O
+látni	O
+.	O
+
+A	O
+férjem	O
+sem	O
+akart	O
+beszélni	O
+róla	O
+.	O
+
+Ez	O
+az	O
+amiért	O
+ő	O
+sokat	O
+részeg	O
+.	O
+
+Megértetted	O
+?	O
+
+Ne	O
+értetlenkedj	O
+.	O
+
+Tényleg	O
+elmondhatod	O
+.	O
+
+Aludj	O
+jól	O
+.	O
+
+Menjünk	O
+oda	O
+és	O
+igyunk	O
+.	O
+
+Különben	O
+sem	O
+alhatsz	O
+,	O
+van	O
+egy	O
+kis	O
+bor	O
+.	O
+
+OK	O
+.	O
+
+Akkor	O
+iszom	O
+.	O
+
+A	O
+pénz	O
+csinálhat	O
+bármit	O
+.	O
+
+A	O
+pénz	O
+láthatóvá	O
+teszi	O
+a	O
+Buddhát	B-PER
+.	O
+
+Sajnos	O
+pénzzavarban	O
+vagyok	O
+.	O
+
+Ezért	O
+csodálatos	O
+,	O
+hogy	O
+ha	O
+az	O
+ég	O
+leejt	O
+néhány	O
+aranyat	O
+.	O
+
+Az	O
+öreg	O
+ember	O
+holtan	O
+lóg	O
+.	O
+
+Így	O
+rossz	O
+.	O
+
+Álljanak	O
+fel	O
+a	O
+teremben	O
+.	O
+
+Mindenki	O
+,	O
+aki	O
+az	O
+itt	O
+felvonuló	O
+igazságszolgáltató	O
+urak	O
+,	O
+a	O
+királynő	O
+és	O
+a	O
+Központi	B-ORG
+Büntetőbíróság	I-ORG
+törvényszéki	O
+bírái	O
+őszinte	O
+hívének	O
+vallja	O
+magát	O
+,	O
+lépjen	O
+közelebb	O
+és	O
+fordítson	O
+kiemelt	O
+figyelmet	O
+az	O
+események	O
+folyására	O
+.	O
+
+Isten	B-PER
+óvja	O
+a	O
+királynőt	O
+.	O
+
+Milyen	O
+csodálatos	O
+nap	O
+.	O
+
+Reménykedtem	O
+benne	O
+,	O
+hogy	O
+hazatértünkkor	O
+napsütés	O
+fog	O
+fogadni	O
+.	O
+
+A	O
+ködös	O
+időjárás	O
+egyik	O
+nagy	O
+előnye	O
+,	O
+hogy	O
+megtanuljuk	O
+megbecsülni	O
+a	O
+napsütéses	O
+órákat	O
+.	O
+
+Nincs	O
+túl	O
+nagy	O
+huzat	O
+?	O
+
+Feltekerjem	O
+az	O
+ablakot	O
+?	O
+
+Inkább	O
+a	O
+száját	O
+tekerje	O
+fel	O
+.	O
+
+Túl	O
+sokat	O
+beszél	O
+.	O
+
+Ha	O
+tudtam	O
+volna	O
+,	O
+hogy	O
+ennyit	O
+beszél	O
+,	O
+soha	O
+nem	O
+ébredtem	O
+volna	O
+fel	O
+a	O
+kómából	O
+.	O
+
+Ez	O
+a	O
+takaró	O
+legalább	B-QUANTITY
+egy	I-QUANTITY
+tonnát	I-QUANTITY
+nyom	O
+.	O
+
+Ugyan	O
+már	O
+,	O
+ugyan	O
+már.	O
+2	B-DATE
+hónapig	I-DATE
+nyomtuk	O
+az	O
+ágyat	O
+,	O
+jobb	O
+,	O
+ha	O
+most	O
+vigyázunk	O
+.	O
+
+Lenyűgöző	O
+,	O
+bámulatos	O
+.	O
+
+Csodálatos	O
+lehet	O
+a	O
+Jogtudósok	B-ORG
+Testületének	I-ORG
+házában	O
+élni	O
+és	O
+dolgozni	O
+.	O
+
+Hogy	O
+milyen	O
+szerencsések	O
+is	O
+maguk	O
+,	O
+ügyvédek	O
+.	O
+
+Magam	O
+is	O
+majdnem	O
+férjhez	O
+mentem	O
+egy	O
+ügyvédhez	O
+.	O
+
+Én	O
+segédkeztem	O
+a	O
+vakbélműtétjénél	O
+.	O
+
+Amint	O
+képes	O
+volt	O
+felülni	O
+,	O
+eljegyeztük	O
+egymást	O
+.	O
+
+Nem	O
+sokkal	O
+ezután	O
+azonban	O
+hashártyagyulladást	O
+kapott	O
+,	O
+ennek	O
+köszönhető	O
+,	O
+hogy	O
+ma	B-DATE
+már	O
+nincs	O
+az	O
+élők	O
+sorában	O
+.	O
+
+Ő	O
+valóban	O
+szerencsés	O
+ügyvéd	O
+volt	O
+.	O
+
+Ici-pici	O
+lépések	O
+.	O
+
+Ne	O
+feledje	O
+,	O
+nemrég	O
+volt	O
+egy	O
+ici-pici	O
+szívinfarktusunk	O
+.	O
+
+Fogja	O
+már	O
+be	O
+.	O
+
+Williams	B-PER
+,	O
+a	O
+sétapálcámat	O
+.	O
+
+Megérkezett	O
+.	O
+
+Nagyon	O
+szépen	O
+köszönöm	O
+.	O
+
+Mindenki	O
+folytassa	O
+a	O
+munkáját	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+ha	O
+nem	O
+bánja	O
+,	O
+felolvasnék	O
+egy	O
+verset	O
+hazatérése	O
+alkalmából	O
+.	O
+
+Ez	O
+nagyon	O
+megható	O
+.	O
+
+Munkaidőn	O
+kívül	O
+,	O
+a	O
+szabadidejében	O
+majd	O
+elszavalhatja	O
+.	O
+
+Folytassák	O
+a	O
+munkájukat	O
+.	O
+
+Nem	O
+,	O
+semmi	O
+baj	O
+.	O
+
+Csak	O
+örülök	O
+,	O
+hogy	O
+újra	O
+a	O
+régi	O
+önmaga	O
+.	O
+
+Ha	O
+még	O
+valaki	O
+nekiáll	O
+itt	O
+nekem	O
+érzelgősködni	O
+,	O
+azonnal	O
+visszamegyek	O
+a	O
+kórházba	O
+.	O
+
+Nem	O
+fogadnák	O
+vissza	O
+.	O
+
+Tudják	O
+,	O
+nem	O
+igazán	O
+kiengedték	O
+,	O
+sokkal	O
+inkább	O
+elbocsátották	O
+a	O
+szívbetegségben	O
+szenvedőhöz	O
+méltatlan	O
+viselkedése	O
+miatt	O
+.	O
+
+Tegye	O
+ezt	O
+inkább	O
+vízbe	O
+,	O
+maga	O
+pletykafészek	O
+.	O
+
+Jöjjön	O
+be	O
+,	O
+Carter	B-PER
+.	O
+
+Nézzen	O
+körül	O
+ebben	O
+a	O
+szobában	O
+.	O
+
+Ronda	O
+,	O
+öreg	O
+és	O
+dohos	O
+.	O
+
+De	O
+soha	O
+életemben	O
+semmi	O
+nem	O
+hiányzott	O
+még	O
+ennyire	O
+.	O
+
+Maga	O
+is	O
+hiányzott	O
+,	O
+maga	O
+dohos	O
+,	O
+vén	O
+sas	O
+.	O
+
+Nem	O
+vagyok	O
+vallásos	O
+ember	O
+,	O
+de	O
+amikor	O
+elszállította	O
+magát	O
+a	O
+mentő	O
+,	O
+elmentem	O
+a	O
+templomba	O
+és	O
+meggyújottam	O
+egy	O
+gyertyát	O
+.	O
+
+Igazán	O
+köszönöm	O
+,	O
+Carter	B-PER
+.	O
+
+Ami	O
+azt	O
+illeti	O
+,	O
+uram	O
+,	O
+magamért	O
+gyújtottam	O
+.	O
+
+37	B-DATE
+év	I-DATE
+után	I-DATE
+mihez	O
+kezdenék	O
+,	O
+ha	O
+magával	O
+történne	O
+valami	O
+?	O
+
+37	B-DATE
+év	I-DATE
+.	I-DATE
+
+Már	O
+olyan	O
+régóta	O
+?	O
+
+Most	O
+1952-t	B-DATE
+írunk	O
+,	O
+én	O
+1915.	B-DATE
+októbere	I-DATE
+óta	I-DATE
+szolgálok	O
+itt	O
+.	O
+
+A	O
+Shepherd's	B-LOC
+Bush-i	I-LOC
+gyilkosság	O
+óta	O
+.	O
+
+A	O
+gyógyszerészt	O
+azzal	O
+vádolták	O
+meg	O
+,	O
+hogy	O
+ciánt	O
+tett	O
+a	O
+nagybácsikája	O
+fogkrémébe	O
+.	O
+
+Az	O
+első	B-ORDINAL
+gyilkossági	O
+tárgyalásom	O
+.	O
+
+Én	O
+jobban	O
+féltem	O
+,	O
+mint	O
+a	O
+vádlott	O
+.	O
+
+Először	O
+emelkedtem	O
+tiltakozásra	O
+,	O
+amikor	O
+a	O
+parókám	O
+leesett	O
+.	O
+
+Hol	O
+a	O
+parókám	O
+?	O
+
+Itt	O
+van	O
+.	O
+
+Úgy	O
+vigyáztam	O
+rá	O
+,	O
+mint	O
+a	O
+szemem	O
+fényére	O
+.	O
+
+Remélem	O
+,	O
+még	O
+jó	O
+.	O
+
+14	B-QUANTITY
+kg-t	I-QUANTITY
+fogytam	O
+abban	O
+a	O
+nyamvadt	O
+kórházban	O
+.	O
+
+Remélem	O
+,	O
+a	O
+fejem	O
+nem	O
+lett	O
+kisebb	O
+.	O
+
+Mik	O
+ezek	O
+?	O
+
+Molyirtót	O
+tettünk	O
+mellé	O
+.	O
+
+Molyirtót	O
+?	O
+
+Úgy	O
+gondolták	O
+,	O
+nem	O
+folytatom	O
+a	O
+praxisomat	O
+?	O
+
+Természetesen	O
+folytatja	O
+.	O
+
+A	O
+városi	O
+ügyészek	O
+majdnem	O
+kidöntötték	O
+az	O
+ajtókat	O
+,	O
+úgy	O
+döngették	O
+.	O
+
+Van	O
+néhány	O
+nagyon	O
+érdekes	O
+esetem	O
+a	O
+maga	O
+számára	O
+.	O
+
+Így	O
+már	O
+jobb	O
+.	O
+
+Egy	O
+válóper	O
+,	O
+egy	O
+adófellebbezés	O
+,	O
+és	O
+egy	O
+nagyhírű	O
+tengerész	O
+biztosítási	O
+követelése	O
+.	O
+
+Egyértelmű	O
+,	O
+világos	O
+esetek	O
+,	O
+magas	O
+díjazással	O
+.	O
+
+Nem	O
+,	O
+Carter	B-PER
+.	O
+
+Sajnálom	O
+,	O
+de	O
+egyelőre	O
+nem	O
+foglalkozhat	O
+bűnügyi	O
+esetekkel	O
+.	O
+
+Az	O
+orvosai	O
+...	O
+
+Orvosok	O
+.	O
+
+Megtiltották	O
+az	O
+alkoholt	O
+,	O
+a	O
+dohányt	O
+és	O
+a	O
+női	O
+társaságot	O
+.	O
+
+Egy	O
+valamirevaló	O
+időtöltést	O
+azért	O
+engedélyezhettek	O
+volna	O
+.	O
+
+Sajnálom	O
+,	O
+uram	O
+.	O
+
+A	O
+legjobb	O
+lenne	O
+,	O
+ha	O
+szerezne	O
+egy	O
+nagyobb	O
+dobozt	O
+,	O
+még	O
+több	O
+molyirtót	O
+és	O
+engem	O
+is	O
+berakna	O
+egy	O
+fiókba	O
+.	O
+
+2.30	B-TIME
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+Itt	O
+az	O
+ideje	O
+a	O
+délutáni	B-TIME
+pihenőnknek	O
+.	O
+
+Kifelé	O
+.	O
+
+Szundika	O
+.	O
+
+Felmegyünk	O
+az	O
+emeletre	O
+,	O
+levetkőzünk	O
+és	O
+lefekszünk	O
+.	O
+
+Mi	O
+ketten	O
+?	O
+
+Micsoda	O
+émelyítő	O
+kilátások	O
+.	O
+
+Az	O
+emeletre	O
+,	O
+kérem	O
+.	O
+
+Tisztában	O
+van	O
+vele	O
+,	O
+hogy	O
+míg	O
+a	O
+betegágyat	O
+nyomtam	O
+,	O
+komolyan	O
+megfordult	O
+a	O
+fejemben	O
+a	O
+gondolat	O
+,	O
+hogy	O
+fogom	O
+az	O
+egyik	O
+gumicsövet	O
+és	O
+megfojtom	O
+vele	O
+magát	O
+?	O
+
+Ezt	O
+követően	O
+beismertem	O
+volna	O
+bűnömet	O
+,	O
+a	O
+tárgyaláson	O
+önmagamat	O
+védve	O
+.	O
+
+Tisztelt	O
+bíró	O
+úr	O
+,	O
+tisztelt	O
+esküdtszék	O
+,	O
+eze-	O
+nnel	O
+kívánom	O
+védőbeszédemet	O
+előterjeszteni	O
+az	O
+emberölés	O
+jogos	O
+voltának	O
+alátámasztására	O
+.	O
+
+4	B-DATE
+teljes	I-DATE
+hónapig	I-DATE
+ugyanis	O
+az	O
+itt	O
+megjelent	O
+állítólagos	O
+segítő	O
+angyal	O
+nem	O
+tett	O
+mást	O
+,	O
+mint	O
+szurkálta	O
+,	O
+szondázta	O
+,	O
+injekciózta	O
+,	O
+gyötörte	O
+és	O
+fájdalomba	O
+sodorta	O
+tehetetlen	O
+testemet	O
+,	O
+miközben	O
+elmémet	O
+az	O
+állandósult	O
+gőgicsélésével	O
+kínozta	O
+.	O
+
+Gyerünk	O
+az	O
+ágyba	O
+,	O
+viselkedjen	O
+jó	O
+kisfiúként	O
+.	O
+
+Vegye	O
+le	O
+rólam	O
+a	O
+kezét	O
+,	O
+vagy	O
+megütöm	O
+a	O
+botommal	O
+.	O
+
+Nem	O
+tenne	O
+ilyet	O
+,	O
+ettől	O
+ugyanis	O
+kettétörnének	O
+a	O
+szivarok	O
+.	O
+
+Milyen	O
+szivarok	O
+?	O
+
+Azok	O
+,	O
+amelyeket	O
+a	O
+botjában	O
+rejteget	O
+.	O
+
+A	O
+botomban	O
+?	O
+
+Ezért	O
+börtönbe	O
+kerülhet	O
+.	O
+
+Nem	O
+rendelkezik	O
+házkutatási	O
+engedéllyel	O
+.	O
+
+A	O
+kórházban	O
+,	O
+ahova	O
+csak	O
+lehetett	O
+,	O
+elrejtett	O
+néhány	O
+szál	O
+szivart	O
+és	O
+egy	O
+adag	O
+brandyt	O
+.	O
+
+Elneveztük	O
+őt	O
+Wilfridnek	B-PER
+,	O
+a	O
+ravasz	O
+rókának	O
+.	O
+
+Ezeket	O
+elkobzom	O
+.	O
+
+Nem	O
+kaphatnék	O
+csak	O
+egyet	B-CARDINAL
+?	O
+
+Az	O
+emeletre	O
+.	O
+
+Vacsora	O
+után	O
+néhány	O
+szippantás	O
+?	O
+
+Kérem	O
+.	O
+
+Megteszem	O
+.	O
+
+Egy	O
+sötét	O
+éjszaka	O
+,	O
+amikor	O
+hátat	O
+fordít	O
+,	O
+felkapom	O
+a	O
+lázmérőjét	O
+,	O
+és	O
+belemártom	O
+a	O
+lapockái	O
+közé	O
+.	O
+
+Isten	B-PER
+engem	O
+úgy	O
+segéljen	O
+,	O
+megteszem	O
+.	O
+
+Nem	O
+szabad	O
+lépcsőznie	O
+.	O
+
+Beszereltünk	O
+a	O
+maga	O
+számára	O
+valamit	O
+.	O
+
+Egy	O
+felvonót	O
+.	O
+
+Egy	O
+felvonót	O
+?	O
+
+Torkig	O
+vagyok	O
+vele	O
+,	O
+hogy	O
+maguk	O
+itt	O
+mind	O
+arra	O
+esküdtek	O
+,	O
+hogy	O
+tehetetlen	O
+nyomorékot	O
+csinálnak	O
+belőlem	O
+.	O
+
+Szerintem	O
+ez	O
+egy	O
+ragyogó	O
+ötlet	O
+.	O
+
+Próbáljuk	O
+ki	O
+,	O
+rendben	O
+?	O
+
+Álljon	O
+fel	O
+onnan	O
+.	O
+
+Én	O
+próbálom	O
+ki	O
+.	O
+
+Ez	O
+az	O
+én	O
+felvonóm	O
+,	O
+ugyanis	O
+nekem	O
+volt	O
+szívinfarktusom	O
+.	O
+
+Nézze	O
+csak	O
+.	O
+
+Ha	O
+felfele	O
+szeretne	O
+menni	O
+,	O
+megnyomja	O
+ezt	O
+a	O
+gombot	O
+,	O
+ha	O
+lefele	O
+,	O
+akkor	O
+ezt	O
+.	O
+
+Carter	B-PER
+,	O
+figyelmeztetem	O
+magát	O
+,	O
+hogyha	O
+ez	O
+a	O
+szerkezet	O
+összeomlik	O
+,	O
+az	O
+ügyvédi	O
+szakma	O
+eme	O
+jeles	O
+képviselője	O
+pedig	O
+legurul	O
+a	O
+lépcsőn	O
+...	O
+
+Igazán	O
+figyelemreméltó	O
+.	O
+
+Évek	B-DATE
+óta	I-DATE
+ez	O
+volt	O
+a	O
+legkellemesebb	O
+utazásom	O
+.	O
+
+Nyuszi	O
+hopp	O
+.	O
+
+Még	O
+egyszer	O
+,	O
+csak	O
+az	O
+irányítás	O
+kedvéért	O
+.	O
+
+Lehetséges	O
+lenne	O
+,	O
+hogy	O
+beszéljek	O
+Sir	B-PER
+Wilfriddel	I-PER
+?	O
+
+Sajnos	O
+nem	O
+egyeztettem	O
+időpontot	O
+,	O
+de	O
+nagyon	O
+fontos	O
+lenne	O
+.	O
+
+Ha	O
+megbízással	O
+kapcsolatban	O
+keresi	O
+,	O
+akkor	O
+sajnálom	O
+,	O
+de	O
+el	O
+kell	O
+utasítanom	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+jelenlegi	O
+esetei	O
+teljes	O
+mértékben	O
+lekötik	O
+idejét	O
+.	O
+
+Biztos	O
+vagyok	O
+benne	O
+,	O
+hogy	O
+ez	O
+az	O
+ügy	O
+érdekelni	O
+fogja	O
+.	O
+
+Komoly	O
+bűnügyi	O
+eset	O
+.	O
+
+Határozottan	O
+elutasítom	O
+,	O
+Mr.	O
+Mayhew	B-PER
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+lábadozó	O
+beteg	O
+.	O
+
+Nem	O
+fogadhat	O
+el	O
+olyan	O
+megbízást	O
+,	O
+amely	O
+esetleg	O
+túlságosan	O
+felizgatná	O
+őt	O
+.	O
+
+Nyugtató	O
+hatású	O
+polgári	O
+peres	O
+diétára	O
+fogtak	O
+.	O
+
+Helló	O
+,	O
+Mayhew	B-PER
+.	O
+
+Helló	O
+.	O
+
+Aggasztó	O
+hírek	O
+keringenek	O
+az	O
+egészségi	O
+állapotával	O
+kapcsolatban	O
+.	O
+
+Ez	O
+igazán	O
+szomorú	O
+.	O
+
+Ez	O
+esetben	O
+talán	O
+jobban	O
+teszi	O
+,	O
+ha	O
+olyasvalakit	O
+keres	O
+,	O
+akinek	O
+még	O
+fiatalok	O
+az	O
+artériái	O
+.	O
+
+Hálás	O
+lennék	O
+,	O
+ha	O
+tudna	O
+ránk	O
+szakítani	O
+néhány	B-TIME
+percet	I-TIME
+.	O
+
+Ő	O
+itt	O
+Mr.	O
+Leonard	B-PER
+Vole	I-PER
+.	O
+
+Attól	O
+tartok	O
+,	O
+meglehetősen	O
+komoly	O
+bajba	O
+keveredett	O
+.	O
+
+Hogy	O
+van	O
+,	O
+Mr.	O
+Vole	B-PER
+?	O
+
+Nos	O
+,	O
+ahogy	O
+Mr.	O
+Mayhew	B-PER
+az	O
+imént	O
+említette	O
+,	O
+nem	O
+kifejezetten	O
+jól	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+Hol	O
+cselleng	O
+már	O
+megint	O
+?	O
+
+Fogja	O
+be	O
+.	O
+
+Sajnálom	O
+,	O
+Mayhew	B-PER
+.	O
+
+Akkor	O
+keressen	O
+fel	O
+,	O
+ha	O
+majd	O
+akad	O
+valami	O
+kevésbé	O
+idegölő	O
+ügye	O
+.	O
+
+Mondjuk	O
+a	O
+postásé	O
+,	O
+akit	O
+megharapott	O
+egy	O
+kóbor	O
+kutya	O
+.	O
+
+Azt	O
+reméltem	O
+,	O
+fog	O
+tudni	O
+segíteni	O
+,	O
+Wilfrid	B-PER
+,	O
+de	O
+teljes	O
+mértékben	O
+megértem	O
+.	O
+
+Vigyázzon	O
+magára	O
+.	O
+
+Ne	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+kérem	O
+.	O
+
+Ne	O
+aggódjon	O
+,	O
+nem	O
+fogjuk	O
+elvállalni	O
+az	O
+ügyet	O
+,	O
+csupán	O
+csak	O
+a	O
+segítségére	O
+leszünk	O
+egy	O
+régi	O
+barátunknak	O
+.	O
+
+Egészen	O
+biztosan	O
+tudok	O
+neki	O
+adni	O
+néhány	O
+jótanácsot	O
+.	O
+
+Gyerünk	O
+,	O
+kap	O
+tőlem	O
+5	B-TIME
+percet	I-TIME
+.	O
+
+Ne	O
+,	O
+ne	O
+,	O
+magára	O
+nem	O
+vagyok	O
+kíváncsi	O
+,	O
+csak	O
+Mayhewra	B-PER
+.	O
+
+A	O
+szundink	O
+.	O
+
+Menjen	O
+előre	O
+.	O
+
+Kezdje	O
+el	O
+nélkülem	O
+.	O
+
+Erről	O
+maga	O
+tehet	O
+.	O
+

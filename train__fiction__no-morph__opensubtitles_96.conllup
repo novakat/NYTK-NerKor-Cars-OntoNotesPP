@@ -1,0 +1,1350 @@
+# global.columns = FORM ONPP:NER
+Tilos	O
+!	O
+
+Az	O
+a	O
+tűzoltóság	O
+vagyona	O
+!	O
+
+Utazzunk	O
+napestig	O
+föl	O
+meg	O
+le	O
+?	O
+
+Hallják	O
+!	O
+
+Visszahozzuk	O
+!	O
+
+Hol	O
+a	O
+kocsija	O
+?	O
+
+Hát	O
+a	O
+magáé	O
+?	O
+
+Szerencsénk	O
+van	O
+.	O
+
+Nehogy	O
+nem	O
+megjelenéssel	O
+vádolhassák	O
+!	O
+
+Az	O
+a	O
+bíróság	O
+megsértése	O
+!	O
+
+Estróviai	O
+Igor	B-PER
+Shahdov	I-PER
+!	O
+
+Emelje	O
+fel	O
+a	O
+jobb	O
+kezét	O
+!	O
+
+Esküdjön	O
+:	O
+az	O
+igazságot	O
+mondja	O
+!	O
+
+Tűz	O
+van	O
+!	O
+
+Verjék	O
+félre	O
+a	O
+harangot	O
+!	O
+
+Mi	O
+ez	O
+a	O
+szamárság	O
+?	O
+
+Az	O
+ujjam	O
+beszorult	O
+,	O
+hozom	O
+a	O
+fecskendőt	O
+.	O
+
+Ez	O
+a	O
+Kongresszus	B-ORG
+megsértése	O
+!	O
+
+Nem	O
+viselkednek	O
+sportszerűen	O
+.	O
+
+Ez	O
+mind	O
+kézipoggyász	O
+?	O
+
+Ez	O
+itt	O
+.	O
+
+A	O
+málhákat	O
+feladjuk	O
+.	O
+
+Kay	B-PER
+kisasszony	O
+érkezik	O
+.	O
+
+Uram	O
+ne	O
+feledje	O
+,	O
+sietni	O
+kell	O
+,	O
+ha	O
+a	O
+fiút	O
+is	O
+látni	O
+akarja	O
+.	O
+
+Eljöttem	O
+elbúcsúzni	O
+.	O
+
+Nem	O
+jöhetek	O
+a	O
+reptérre	O
+,	O
+felvétel	O
+van	O
+.	O
+
+Ez	O
+kitől	O
+kaptad	O
+?	O
+
+Jaume	B-PER
+,	O
+menjen	O
+,	O
+fizesse	O
+ki	O
+a	O
+számlát	O
+.	O
+
+Már	O
+ki	O
+van	O
+fizetve	O
+Felség	O
+!	O
+
+Fizesse	O
+ki	O
+újra	O
+!	O
+
+Ja	O
+!	O
+
+Szörnyű	O
+,	O
+hogy	O
+elmész	O
+.	O
+
+Bolond	O
+világ	O
+ez	O
+.	O
+
+Ne	O
+ítélj	O
+a	O
+mából	O
+.	O
+
+Ezek	O
+mulandó	O
+dolgok	O
+!	O
+
+Nemsokára	O
+vége	O
+lesz	O
+.	O
+
+Én	O
+inkább	O
+Európában	B-LOC
+várok	O
+addig	O
+.	O
+
+A	O
+Bíróság	B-EVENT
+óta	O
+te	O
+vagy	O
+itt	O
+a	O
+legnépszerűbb	O
+!	O
+
+Azt	O
+csinálsz	O
+,	O
+amit	O
+akarsz	O
+!	O
+
+Megfizettem	O
+érte	O
+.	O
+
+Vissza	O
+a	O
+kontinensre	O
+!	O
+
+Köszönöm	O
+uram	O
+,	O
+már	O
+rendezve	O
+van	O
+.	O
+
+A	O
+királynétól	O
+.	O
+
+Mégsem	O
+akar	O
+elválni	O
+.	O
+
+Ennek	O
+biztos	O
+örülsz	O
+!	O
+
+Párizsban	B-GPE
+.	O
+
+Jöjjön	O
+ide	O
+és	O
+maradjatok	O
+itt	O
+!	O
+
+Te	O
+meg	O
+a	O
+közelben	O
+?	O
+
+Édes	O
+,	O
+annyit	O
+azért	O
+nem	O
+jelentünk	O
+egymásnak	O
+!	O
+
+Lesz	O
+még	O
+egy	O
+komplexusom	O
+!	O
+
+Indulni	O
+kell	O
+,	O
+különben	O
+nincs	O
+iskola	O
+!	O
+
+Isten	O
+áldjon	O
+,	O
+Ann	B-PER
+!	O
+
+Vigyázz	O
+magadra	O
+!	O
+
+Tudod	O
+,	O
+hogy	O
+nagyon-nagyon	O
+szeretlek	O
+!	O
+
+Nagyon	O
+fogsz	O
+hiányozni	O
+édesem	O
+!	O
+
+Ha	O
+csak	O
+húsz	B-DATE
+évvel	I-DATE
+fiatalabb	O
+lennék	O
+!	O
+
+Siess	O
+a	O
+királynéhoz	O
+!	O
+
+Gyere	O
+,	O
+el	O
+ne	O
+késs	O
+.	O
+
+Itt	O
+felejted	O
+a	O
+kalapod	O
+!	O
+
+Foglaljon	O
+helyet	O
+,	O
+uram	O
+!	O
+
+Hívná	O
+a	O
+gyereket	O
+?	O
+
+Hogy	O
+van	O
+a	O
+fiú	O
+?	O
+
+Nehéz	O
+megpróbáltatás	O
+volt	O
+szegénynek	O
+.	O
+
+Mióta	O
+a	O
+szülők	O
+szabadok	O
+,	O
+már	O
+könnyebb	O
+.	O
+
+Nem	O
+két	B-DATE
+évet	I-DATE
+kaptak	O
+?	O
+
+De	O
+,	O
+de	O
+aztán	O
+az	O
+ítéletet	O
+felfüggesztették	O
+.	O
+
+Így	O
+most	O
+szabadok	O
+.	O
+
+A	O
+fiúknak	O
+köszönhetik	O
+.	O
+
+Az	O
+őrült	O
+,	O
+csökönyös	O
+szülők	O
+csak	O
+egymást	O
+védték	O
+.	O
+
+Jó	O
+,	O
+hogy	O
+a	O
+fiú	O
+együttműködött	O
+.	O
+
+Együttműködött	O
+?	O
+
+Így	O
+jól	O
+végződött	O
+a	O
+dolog	O
+.	O
+
+Rupert	B-PER
+!	O
+
+Látogatód	O
+van	O
+.	O
+
+Szervusz	O
+,	O
+Rupert	B-PER
+.	O
+
+Hoztam	O
+neked	O
+játékokat	O
+,	O
+meg	O
+pár	O
+dolgot	O
+,	O
+aminek	O
+örülni	O
+fogsz	O
+.	O
+
+Ugye	O
+,	O
+jól	O
+néz	O
+ki	O
+?	O
+
+Persze	O
+,	O
+még	O
+nem	O
+vagyunk	O
+mindig	O
+jókedvűek	O
+,	O
+igaz	O
+?	O
+de	O
+mindig	O
+mondom	O
+,	O
+aggodalomra	O
+nincs	O
+oka	O
+.	O
+
+A	O
+mi	O
+szemünkben	O
+Rupert	B-PER
+hős	O
+hazafi	O
+,	O
+és	O
+büszkék	O
+vagyunk	O
+rá	O
+!	O
+
+Na	O
+gyere	O
+,	O
+Rupert	B-PER
+,	O
+túl	O
+vagyunk	O
+rajta	O
+!	O
+
+Fel	O
+a	O
+fejjel	O
+,	O
+Rupert	B-PER
+.	O
+
+Ha	O
+majd	O
+elmúlt	O
+ez	O
+a	O
+hisztéria	O
+,	O
+meglátogatsz	O
+a	O
+családoddal	O
+.	O
+
+Szegény	O
+fiú	O
+.	O
+
+Jót	O
+tenne	O
+egy	O
+utazás	O
+.	O
+
+Sajnos	O
+ez	O
+nem	O
+olyan	O
+egyszerű	O
+.	O
+
+Minden	O
+rendbe	O
+jön	O
+egyszer	O
+!	O
+
+Remélem	O
+uram	O
+!	O
+
+Mind	O
+reméljük	O
+.	O
+
+Semmi	O
+ok	O
+nincs	O
+aggodalomra	O
+.	O
+
+Egy	B-WORK_OF_ART
+király	I-WORK_OF_ART
+New	I-WORK_OF_ART
+Yorkban	I-WORK_OF_ART
+
+A	O
+modern	O
+élet	O
+egyik	O
+apró	O
+,	O
+kellemetlen	O
+velejárója	O
+a	O
+forradalom	O
+.	O
+
+Mondta	O
+,	O
+mindenről	O
+gondoskodik	O
+.	O
+
+Végeztünk	O
+,	O
+uraim	O
+!	O
+
+Kérem	O
+tehát	O
+,	O
+kíméljük	O
+erejét	O
+és	O
+idejét	O
+.	O
+
+Persze	O
+,	O
+meglépett	O
+a	O
+dohánnyal	O
+...	O
+
+Egyelőre	O
+a	O
+száműzött	O
+király	O
+miniszterelnöke	O
+nevén	O
+,	O
+amíg	O
+a	O
+felség	O
+másként	O
+nem	O
+rendelkezik	O
+.	O
+
+Másként	O
+rendelkezem	O
+.	O
+
+Felség	O
+,	O
+lássuk	O
+előbb	O
+a	O
+Bevándorlási	B-ORG
+hivatalt	I-ORG
+.	O
+
+Uraim	O
+,	O
+ezért	O
+fizettem	O
+a	O
+trónommal	O
+.	O
+
+Én	O
+civil	O
+atomenergiát	O
+akartam	O
+,	O
+minisztereim	O
+pedig	O
+atombombát	O
+.	O
+
+Az	O
+én	O
+nukleáris	O
+elképzeléseim	O
+minden	O
+képzeletet	O
+felülmúló	O
+forradalmat	O
+fognak	O
+eredményezni	O
+.	O
+
+Az	O
+ujjlenyomat	O
+következik	O
+.	O
+
+Kérném	O
+a	O
+jobb	O
+kezét	O
+.	O
+
+Íme	O
+a	O
+kincstári	O
+vagyon	O
+.	O
+
+Eloszlatja	O
+Felséged	O
+gyanúját	O
+.	O
+
+Nevezze	O
+inkább	O
+nyugtalanságnak	O
+.	O
+
+Ezért	O
+lázadtak	O
+fel	O
+.	O
+
+Késő	O
+,	O
+a	O
+bank	O
+már	O
+bezárt	O
+.	O
+
+Ez	O
+lesz	O
+minden	O
+,	O
+de	O
+legyen	O
+itt	O
+reggel	O
+tízkor	O
+.	O
+
+Szépen	O
+kiürítette	O
+a	O
+kincstárat	O
+.	O
+
+Fütyülök	O
+rá	O
+!	O
+
+A	O
+sajtó	O
+Önt	O
+vádolja	O
+!	O
+
+Mindig	O
+a	O
+királyt	O
+okolják	O
+.	O
+
+Kis	O
+vidámságra	O
+vágyom	O
+.	O
+
+Ha	O
+tudná	O
+,	O
+mit	O
+jelent	O
+végre	O
+szabadon	O
+lélegezni	O
+!	O
+
+Óh	O
+,	O
+csodálatos	O
+Amerika	B-GPE
+!	O
+
+Jó	O
+ez	O
+az	O
+egészségnek	O
+?	O
+
+Nem	O
+volt	O
+más	O
+hely	O
+,	O
+Felség	O
+.	O
+
+Elvétette	O
+a	O
+célt	O
+.	O
+
+De	O
+ön	O
+ne	O
+tévesszen	O
+célt	O
+,	O
+ha	O
+megdobban	O
+a	O
+szíve	O
+.	O
+
+Végre	O
+felnőtté	O
+lesz	O
+a	O
+mozivászon	O
+...	O
+
+Erre	O
+parancsoljanak	O
+.	O
+
+Jóreggelt	O
+,	O
+hölgyeim	O
+és	O
+uraim	O
+.	O
+
+Estróvia	B-LOC
+trónfosztott	O
+királya	O
+sikeresen	O
+mentve	O
+életét	O
+s	O
+a	O
+kincstárt	O
+Amerikába	B-GPE
+ért	O
+,	O
+vagyonával	O
+és	O
+atomtervekkel	O
+tarsolyában	O
+.	O
+
+Tegnap	B-DATE
+kivett	O
+minden	O
+kötvényt	O
+és	O
+értékpapírt	O
+.	O
+
+Leleplezzük	O
+,	O
+hogy	O
+szélhámos	O
+tolvaj	O
+.	O
+
+Tönkrementünk	O
+!	O
+
+A	O
+királyné	O
+jön	O
+.	O
+
+A	O
+történtek	O
+után	O
+...	O
+
+Egy	O
+távirat	O
+.	O
+
+Ma	B-DATE
+boldogabb	O
+,	O
+mint	O
+akkor	O
+volt	O
+.	O
+
+Rendeljek	O
+mást	O
+?	O
+
+Őfelsége	O
+valóban	O
+utazik	O
+?	O
+
+Ne	O
+feledje	O
+a	O
+csokoládét	O
+meg	O
+a	O
+kedvenc	O
+képeslapjait	O
+.	O
+
+Engedje	O
+meg	O
+.	O
+
+A	O
+képeslapok	O
+!	O
+
+.	O
+Írjon	O
+,	O
+ha	O
+segíthetek	O
+.	O
+
+A	O
+királyné	O
+elutazása	O
+izgatta	O
+fel	O
+ennyire	O
+.	O
+
+Hogy	O
+milyen	O
+szomorúan	O
+nézett	O
+utána	O
+!	O
+
+Most	O
+kezd	O
+beleszeretni	O
+Önbe	O
+!	O
+
+Ön	O
+kicsoda	O
+?	O
+
+Megütöttem	O
+a	O
+bokámat	O
+.	O
+
+Jaume	B-PER
+,	O
+vegye	O
+fel	O
+.	O
+
+Aranyoskám	O
+,	O
+ha	O
+netán	O
+kissé	O
+idegesnek	O
+,	O
+fásultnak	O
+,	O
+rosszkedvűnek	O
+érzed	O
+magad	O
+,	O
+végy	O
+le	O
+minden	O
+ruhát	O
+...	O
+
+Pihenjen	O
+nyugodtan	O
+.	O
+
+Ez	O
+királyi	O
+fogás	O
+!	O
+
+Állítólag	O
+fogadásokon	O
+jópofa	O
+,	O
+ha	O
+eltalálják	O
+az	O
+ízlését	O
+.	O
+
+Csak	O
+a	O
+Bíróságon	B-ORG
+.	O
+
+Kihasználom	O
+,	O
+míg	O
+nincs	O
+itt	O
+,	O
+és	O
+leülök	O
+.	O
+
+Foglaljon	O
+helyet	O
+,	O
+felség	O
+.	O
+
+Mondja	O
+,	O
+hogy	O
+van	O
+a	O
+bokája	O
+?	O
+
+Köszönöm	O
+,	O
+már	O
+jobban	O
+.	O
+
+Briliáns	O
+reklám-szakember	O
+.	O
+
+Sokat	O
+adnék	O
+,	O
+ha	O
+láthatnám	O
+.	O
+
+Őfelsége	O
+Shavdov	B-PER
+király	O
+beleegyezett	O
+,	O
+előadja	O
+nekünk	O
+Hamlet	B-PER
+monológját	O
+.	O
+
+A	O
+szünetjel	O
+után	O
+visszakapcsoljuk	O
+Ann	B-PER
+Kay	I-PER
+Élő	B-MEDIA
+parti-ját	I-MEDIA
+.	O
+
+Nem	O
+bánja	O
+meg	O
+,	O
+ha	O
+OXYTONE	B-PROD
+fogpasztát	O
+használ	O
+.	O
+
+Ön	O
+olyan	O
+mulatságos	O
+!	O
+
+Ann	B-PER
+Kay	I-PER
+Élő	B-MEDIA
+parti-ján	I-MEDIA
+.	O
+
+Azok	O
+után	O
+,	O
+amit	O
+láttam	O
+,	O
+nem	O
+csoda	O
+.	O
+
+Rejtett	O
+kamera	O
+!	O
+
+Leszek	O
+inkább	O
+Hamlet	B-PER
+!	O
+
+És	O
+ráadásul	O
+igazi	O
+demokrata	B-NORP
+!	O
+
+Hadd	O
+szorítsuk	O
+meg	O
+a	O
+kezét	O
+!	O
+
+Elnézést	O
+,	O
+mi	O
+is	O
+a	O
+neve	O
+?	O
+
+Kérnék	O
+egy	O
+autogramot	O
+a	O
+fiamnak	O
+?	O
+
+Még	O
+jött	O
+posta	O
+.	O
+
+Tegye	O
+le	O
+.	O
+
+Nem	O
+az	O
+én	O
+ötletem	O
+volt	O
+.	O
+
+Cromwellné	B-PER
+megbízott	O
+,	O
+adjam	O
+át	O
+.	O
+
+Magára	O
+se	O
+nem	O
+haragszom	O
+,	O
+se	O
+nem	O
+vetem	O
+meg	O
+.	O
+
+Dobja	O
+ezt	O
+a	O
+papírkosárba	O
+.	O
+
+Hova	O
+tette	O
+a	O
+büszkeségét	O
+?	O
+
+A	B-DATE
+huszadik	I-DATE
+század	I-DATE
+velejárója	O
+.	O
+
+Hogyne	O
+,	O
+köszönöm	O
+.	O
+
+Jónapot	O
+,	O
+Rupert	B-PER
+.	O
+
+Kommunista	B-NORP
+?	O
+
+Kormányozni	O
+kell	O
+!	O
+
+A	O
+'	O
+kormány	O
+'	O
+szót	O
+sem	O
+szeretem	O
+.	O
+
+Jó	O
+,	O
+hívjuk	O
+akkor	O
+
+.	O
+
+Akinek	O
+más	O
+a	O
+véleménye	O
+,	O
+annak	O
+elveszik	O
+az	O
+iratait	O
+.	O
+
+Vége	O
+?	O
+
+Veszélyben	O
+a	O
+szabad	O
+vállalkozás	O
+!	O
+
+Mint	O
+hatvan	B-DATE
+évvel	I-DATE
+ezelőtt	I-DATE
+.	O
+
+Bűn	O
+,	O
+hogy	O
+mikor	O
+a	O
+nép	O
+atomenergiáért	O
+kiált	O
+,	O
+maga	O
+atombombát	O
+hall	O
+.	O
+
+Azt	O
+hiszi	O
+,	O
+ez	O
+még	O
+a	B-DATE
+XIX.	I-DATE
+század	I-DATE
+.	O
+
+Figyeljen	O
+ide	O
+!	O
+
+A	O
+Római	B-ORG
+birodalom	I-ORG
+is	O
+összeomlott	O
+Cesar	B-PER
+halálakor	O
+,	O
+mert	O
+túl	O
+nagyra	O
+nőtt	O
+.	O
+
+A	O
+feudalizmust	O
+elsöpörte	O
+a	O
+francia	O
+forradalom	O
+.	O
+
+Egy	O
+fillérünk	O
+sincs	O
+.	O
+
+Elutasítottunk	O
+ajánlatokat	O
+.	O
+
+50	B-MONEY
+ezer	I-MONEY
+$-	I-MONEY
+os	I-MONEY
+csekket	O
+hoztam	O
+a	O
+Királyi	B-ORG
+Korona	I-ORG
+Whiskey	I-ORG
+cégtől	O
+.	O
+
+Foglaljunk	O
+helyet	O
+.	O
+
+Ön	O
+a	O
+képernyőn	O
+egy	O
+főúri	O
+hallban	O
+ül	O
+,	O
+a	O
+kamarás	O
+Királyi	B-PROD
+Korona	I-PROD
+Whisky-t	I-PROD
+tölt	O
+,	O
+Költheti	O
+jótékony	O
+célra	O
+.	O
+
+Külön	O
+hirdetés	O
+a	O
+lapokban	O
+!	O
+
+Ízléstelen	O
+lenne	O
+.	O
+
+Egy	O
+kicsit	O
+jobbra	O
+.	O
+
+Tudom	O
+,	O
+Őfelsége	O
+nagyon	O
+szereti	O
+.	O
+
+Kérném	O
+előről	O
+.	O
+
+Inkasszálta	O
+a	O
+csekket	O
+?	O
+

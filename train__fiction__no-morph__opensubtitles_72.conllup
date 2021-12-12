@@ -1,0 +1,1522 @@
+# global.columns = FORM ONPP:NER
+Mindenesetre	O
+,	O
+a	O
+hajó	O
+csalódni	O
+fog	O
+,	O
+ha	O
+ez	O
+nem	O
+az	O
+ellenség	O
+.	O
+
+Igen	O
+,	O
+a	O
+legénység	O
+vérszomjasnak	O
+tűnik	O
+.	O
+
+Az	O
+emberek	O
+szeretnének	O
+esélyt	O
+kapni	O
+arra	O
+,	O
+amiért	O
+itt	O
+vannak	O
+.	O
+
+Nem	O
+sok	O
+más	O
+tartja	O
+őket	O
+életben	O
+.	O
+
+Most	O
+amúgy	O
+sem	O
+.	O
+
+Néha	O
+azon	O
+tűnődöm	O
+,	O
+volt	O
+-e	O
+valaha	O
+rá	O
+más	O
+indok	O
+.	O
+
+Tudom	O
+,	O
+mire	O
+céloz	O
+.	O
+
+Gyermekklinikám	O
+volt	O
+Ohioban	B-GPE
+.	O
+
+Nagyon	O
+fontos	O
+volt	O
+a	O
+számomra	O
+.	O
+
+Most	O
+úgy	O
+tűnik	O
+,	O
+mintha	O
+az	O
+egy	O
+másik	O
+bolygón	O
+,	O
+egy	B-DATE
+másik	I-DATE
+évszázadban	I-DATE
+történt	O
+volna	O
+.	O
+
+Önnek	O
+mi	O
+volt	O
+a	O
+munkája	O
+,	O
+Kapitány	O
+?	O
+
+Ez	O
+.	O
+
+A	O
+tenger	O
+.	O
+
+Tengerész	O
+volt	O
+?	O
+
+Biztonsági	O
+tiszt	O
+egy	O
+teherhajón	O
+,	O
+Bostonból	B-GPE
+Liverpoolon	B-GPE
+át	O
+Le	B-GPE
+Havre-ig	I-GPE
+,	O
+és	O
+aztán	O
+vissza	O
+.	O
+
+A	O
+legénységből	O
+lennének	O
+,	O
+akik	O
+örülnének	O
+,	O
+ha	O
+tudnák	O
+.	O
+
+A	O
+csípős	O
+nyelvek	O
+arról	O
+panaszkodtak	O
+,	O
+hogy	O
+meglehet	O
+egy	O
+uszálykormányost	O
+kaptak	O
+.	O
+
+Munkakerülő	O
+,	O
+azt	O
+hiszem	O
+így	O
+hívták	O
+.	O
+
+Munkakerülő	O
+is	O
+vagyok	O
+.	O
+
+Nos	O
+,	O
+igen	O
+,	O
+de	O
+nem	O
+egészen	O
+.	O
+
+A	O
+teherhajón	O
+az	O
+ember	O
+a	O
+tengerrel	O
+dacolt	O
+.	O
+
+Itt	O
+az	O
+ember	O
+emberrel	O
+dacol	O
+.	O
+
+Mint	O
+a	O
+háborúban	O
+minden	O
+civilnek	O
+,	O
+új	O
+módját	O
+kellett	O
+megtanulni	O
+a	O
+gondolkodásnak	O
+.	O
+
+Miért	O
+pártolt	O
+át	O
+a	O
+flottához	O
+?	O
+
+A	O
+teherhajót	O
+,	O
+amin	O
+voltam	O
+,	O
+félbevágta	O
+egy	O
+torpedó	O
+.	O
+
+Úgy	O
+gondoltam	O
+szeretnék	O
+a	O
+puska	O
+másik	O
+oldalán	O
+lenni	O
+.	O
+
+Itt	O
+a	O
+Kapitány	O
+!	O
+
+A	O
+célpont	O
+felgyorsított	O
+13	B-CARDINAL
+csomóra	O
+,	O
+uram	O
+!	O
+
+Szóljon	O
+,	O
+hogy	O
+kompenzálják	O
+a	O
+sebességet	O
+,	O
+Mr.	O
+Minden	O
+hajtómű	O
+normálra	O
+állítva	O
+,	O
+203-as	B-CARDINAL
+fordulatszámra	O
+,	O
+uram	O
+!	O
+
+Nos	O
+,	O
+idővel	O
+mind	O
+újra	O
+visszatérünk	O
+a	O
+saját	O
+dolgainkhoz	O
+.	O
+
+A	O
+háború	O
+felszívódik	O
+,	O
+mintha	O
+sosem	O
+történt	O
+volna	O
+meg	O
+.	O
+
+Igen	O
+,	O
+de	O
+már	O
+nem	O
+lesz	O
+ugyanolyan	O
+,	O
+mint	O
+volt	O
+.	O
+
+Nem	O
+fogjuk	O
+ugyanazt	O
+a	O
+változatlanságot	O
+érezni	O
+,	O
+mint	O
+előtte	O
+.	O
+
+Megtanultuk	O
+a	O
+szörnyű	O
+igazságot	O
+.	O
+
+A	O
+szenvedésnek	O
+és	O
+pusztításnak	O
+nincs	O
+vége	O
+.	O
+
+Levágja	O
+egy	O
+kígyó	O
+fejét	O
+,	O
+és	O
+egy	O
+másikat	O
+növeszt	O
+.	O
+
+Azt	O
+is	O
+levágja	O
+,	O
+és	O
+egy	O
+másikat	O
+talál	O
+.	O
+
+Nem	O
+tudja	O
+megölni	O
+,	O
+mert	O
+bennünk	O
+van	O
+.	O
+
+Ha	O
+akarja	O
+,	O
+hívhatja	O
+ellenségnek	O
+,	O
+de	O
+a	O
+részünk	O
+.	O
+
+Mind	O
+emberek	O
+vagyunk	O
+.	O
+
+Gyanítom	O
+,	O
+van	O
+ok	O
+elveszteni	O
+a	O
+reményt	O
+,	O
+de	O
+...	O
+én	O
+nem	O
+teszem	O
+.	O
+
+Nekem	O
+családom	O
+van	O
+,	O
+és	O
+jobbat	O
+akarok	O
+nekik	O
+,	O
+mint	O
+a	O
+háború	O
+,	O
+és	O
+úgy	O
+gondolom	O
+ez	O
+lehetséges	O
+.	O
+
+Van	O
+gyereke	O
+,	O
+Kapitány	O
+?	O
+
+Házas	O
+?	O
+
+Elvettem	O
+egy	O
+lányt	O
+Angliában	B-GPE
+.	O
+
+Megölték	O
+.	O
+
+A	O
+bombázók	O
+?	O
+
+Mikor	O
+kitört	O
+a	O
+háború	O
+szereztem	O
+egy	O
+jegyet	O
+haza	O
+neki	O
+a	O
+teherhajómon	O
+,	O
+azon	O
+,	O
+amelyiket	O
+félbe	O
+torpedózták	O
+.	O
+
+A	O
+taton	O
+voltam	O
+,	O
+mikor	O
+történt	O
+.	O
+
+Néztem	O
+a	O
+hajó	O
+másik	O
+felét	O
+,	O
+ahogy	O
+egyre	O
+csak	O
+távolodik	O
+.	O
+
+Semmit	O
+sem	O
+tehettem	O
+.	O
+
+Láttam	O
+,	O
+amikor	O
+az	O
+előfedélzetre	O
+szaladt	O
+,	O
+és	O
+hallottam	O
+,	O
+ahogy	O
+a	O
+nevemet	O
+kiáltja	O
+,	O
+aztán	O
+a	O
+hajó	O
+azon	O
+fele	O
+hirtelen	O
+átfordult	O
+,	O
+és	O
+elsüllyedt	O
+.	O
+
+Nem	O
+voltunk	O
+sokáig	O
+házasok	O
+.	O
+
+Szóljon	O
+a	O
+kazánháznak	O
+!	O
+
+Mondja	O
+meg	O
+,	O
+hogy	O
+füstölünk	O
+.	O
+
+Nem	O
+akarok	O
+füstöt	O
+látni	O
+pirkadatig	O
+.	O
+
+Több	O
+oka	O
+van	O
+rá	O
+,	O
+mint	O
+bármelyikünknek	O
+,	O
+hogy	O
+el	O
+akarja	O
+kapni	O
+ezt	O
+a	O
+tengeralattjárót	O
+.	O
+
+Meglehet	O
+,	O
+hogy	O
+pont	O
+az	O
+amelyik	O
+...	O
+
+Lehet	O
+,	O
+ez	O
+nem	O
+az	O
+én	O
+személyes	O
+háborúm	O
+,	O
+Doktor	O
+.	O
+
+Csak	O
+azt	O
+teszem	O
+,	O
+amit	O
+tennem	O
+kell	O
+.	O
+
+Mint	O
+odakint	O
+az	O
+a	O
+német	B-NORP
+kapitány	O
+.	O
+
+Nem	O
+tetszik	O
+a	O
+munka	O
+,	O
+és	O
+talán	O
+neki	O
+sem	O
+.	O
+
+Időjárás	O
+előrejelzés	O
+a	O
+flottától	O
+,	O
+uram	O
+.	O
+
+Egy	O
+magas	O
+légnyomású	O
+terület	O
+felé	O
+tartunk	O
+.	O
+
+Napos	O
+időnk	O
+lesz	O
+.	O
+
+Anti-tengeralattjáró	O
+fegyvereket	O
+élesíteni	O
+.	O
+
+Mindenki	O
+a	O
+fedélzetre	O
+,	O
+harci	O
+állásokat	O
+elfoglalni	O
+!	O
+
+Szerelők	O
+a	O
+helyükön	O
+,	O
+és	O
+felkészülve	O
+.	O
+
+Készen	O
+állunk	O
+!	O
+
+Quiroga	B-PER
+főcsoportvezető	O
+a	O
+kormánynál	O
+!	O
+
+Spencer	B-PER
+alcsoportvezető	O
+a	O
+csengőnél	O
+!	O
+
+Műszakiak	O
+a	O
+helyükön	O
+,	O
+felkészülve	O
+!	O
+
+Minden	O
+kazán	O
+munkára	O
+fogva	O
+!	O
+
+Az	O
+elérhető	O
+maximális	O
+sebesség	O
+24	B-QUANTITY
+csomó	I-QUANTITY
+.	O
+
+Szonár	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+.	O
+
+Lőszerraktárak	O
+feltöltve	O
+,	O
+és	O
+felkészülve	O
+.	O
+
+Egyes	B-ORDINAL
+üteg	O
+,	O
+33-as	B-ORDINAL
+fegyver	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+!	O
+
+Egyes	B-ORDINAL
+üteg	O
+,	O
+32-es	B-ORDINAL
+fegyver	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+!	O
+
+41-es	B-ORDINAL
+fegyver	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+.	O
+
+Egyes	B-ORDINAL
+üteg	O
+,	O
+31-es	B-ORDINAL
+fegyver	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+!	O
+
+Minden	O
+fegyver	O
+a	O
+helyén	O
+,	O
+felkészülve	O
+!	O
+
+Nagyszerű	O
+!	O
+
+A	O
+hajó	O
+erős	O
+és	O
+gyors	O
+,	O
+Mr.	O
+
+Köszönöm	O
+uram	O
+!	O
+
+Bizonyítani	O
+akarnak	O
+a	O
+fiúk	O
+.	O
+
+Hírnök	O
+!	O
+
+Mikor	O
+a	O
+tengeralattjáró	O
+elmerül	O
+,	O
+rejtjelezze	O
+ezt	O
+a	O
+sürgönyt	O
+a	O
+Flotta	B-ORG
+Főparancsnokságnak	I-ORG
+.	O
+
+Egy	O
+tengeralattjáró	O
+nyomában	O
+vagyunk	O
+,	O
+130	B-QUANTITY
+mérföld	I-QUANTITY
+óta	O
+,	O
+1-4-0	B-CARDINAL
+irányban	O
+.	O
+
+Üldözzük	O
+az	O
+ellenséget	O
+.	O
+
+És	O
+adja	O
+meg	O
+a	O
+koordinátáinkat	O
+.	O
+
+Rendben	O
+,	O
+eredjünk	O
+a	O
+célpont	O
+nyomába	O
+.	O
+
+Merry	B-PER
+,	O
+szóljon	O
+,	O
+hogy	O
+gyorsítsanak	O
+!	O
+
+Hajtóműveket	O
+maximumra	O
+!	O
+
+Látom	O
+uram	O
+!	O
+
+Egy	O
+parancsnoki	O
+torony	O
+!	O
+
+Milyen	O
+irányban	O
+?	O
+
+Három	B-QUANTITY
+fokkal	I-QUANTITY
+a	O
+törzstől	O
+jobbra	O
+,	O
+6000	B-QUANTITY
+yard	I-QUANTITY
+!	O
+
+A	O
+főágyúk	O
+készen	O
+állnak	O
+?	O
+
+Azt	O
+jelentették	O
+,	O
+igen	O
+,	O
+uram	O
+.	O
+
+Elég	O
+közel	O
+kell	O
+kerülnünk	O
+,	O
+hogy	O
+rápuffantsunk	O
+egyet	O
+,	O
+mielőtt	O
+alámerül	O
+.	O
+
+Hajótatot	O
+látok	O
+,	O
+Herr	O
+Schwaffer	B-PER
+!	O
+
+Riadó	O
+!	O
+
+A	O
+célpont	O
+merül	O
+!	O
+
+Kormánylapátot	O
+10	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+.	O
+
+Felkészülni	O
+1-7-0-ra	B-CARDINAL
+.	O
+
+Visszalassítani	O
+2/3-os	B-CARDINAL
+sebességre	O
+.	O
+
+Visszalassítani	O
+2/3-as	B-CARDINAL
+sebességre	O
+,	O
+uram	O
+?	O
+
+Nem	O
+szükséges	O
+megismételnie	O
+a	O
+parancsot	O
+,	O
+alcsoportvezető	O
+.	O
+
+Cikcakkban	O
+,	O
+uram	O
+?	O
+
+Negatív	O
+cikcakkban	O
+.	O
+
+1-7-0	O
+tíz	B-QUANTITY
+csomónál	I-QUANTITY
+?	O
+
+Így	O
+bizony	O
+könnyű	O
+célpont	O
+vagyunk	O
+!	O
+
+Megmutatjuk	O
+oldalról	O
+a	O
+hajót	O
+az	O
+ellenségnek	O
+,	O
+uram	O
+?	O
+
+Hagyom	O
+,	O
+hagy	O
+lőjön	O
+a	O
+tatján	O
+lévő	O
+csövekből	O
+.	O
+
+Nem	O
+tudja	O
+gyorsan	O
+újratölteni	O
+azokat	O
+a	O
+csöveket	O
+.	O
+
+Így	O
+akkor	O
+támadjuk	O
+meg	O
+a	O
+hátulját	O
+,	O
+amikor	O
+akarjuk	O
+.	O
+
+Honnan	O
+fogjuk	O
+tudni	O
+,	O
+hogy	O
+mikor	O
+tüzet	O
+nyitott	O
+,	O
+uram	O
+?	O
+
+Öt	B-DUR
+percet	I-DUR
+adok	O
+,	O
+hogy	O
+elérje	O
+a	O
+biztonságos	O
+mélységet	O
+,	O
+hármat	B-DUR
+,	O
+hogy	O
+feljöjjön	O
+periszkóp	O
+magasságba	O
+,	O
+további	O
+kettőt	B-DUR
+,	O
+hogy	O
+a	O
+látókörébe	O
+kerüljünk	O
+.	O
+
+Ha	O
+kapitánynak	O
+vallja	O
+magát	O
+,	O
+tíz	B-TIME
+perc	I-TIME
+múlva	I-TIME
+kilövi	O
+a	O
+torpedót	O
+.	O
+
+Mélység	O
+elérve	O
+.	O
+
+Lezárás	O
+.	O
+
+Lezárás	O
+!	O
+
+Gépterem	O
+üres	O
+!	O
+
+Orr	O
+torpedó	O
+terem	O
+üres	O
+!	O
+
+Tat	O
+torpedó	O
+terem	O
+üres	O
+!	O
+
+A	O
+tengeralattjáró	O
+készen	O
+áll	O
+az	O
+akcióra	O
+.	O
+
+Csendes	O
+rutin	O
+.	O
+
+Csendes	O
+rutin	O
+!	O
+
+Jobb	O
+oldalával	O
+a	O
+tatnak	O
+áll	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Nem	O
+közelít	O
+.	O
+
+Nem	O
+értem	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Nem	O
+cikcakkozik	O
+,	O
+és	O
+tartja	O
+a	O
+távolságot	O
+.	O
+
+Adja	O
+ide	O
+.	O
+
+Vagy	O
+agyafúrt	O
+,	O
+vagy	O
+bolond	O
+.	O
+
+Meglehet	O
+,	O
+hogy	O
+nagyon	O
+is	O
+agyafúrt	O
+,	O
+vagy	O
+nagyon	O
+is	O
+bolond	O
+.	O
+
+Vigyék	O
+fel	O
+a	O
+hajót	O
+periszkóp	O
+magasságba	O
+!	O
+
+Periszkóp	O
+mélység	O
+!	O
+
+45	B-CARDINAL
+!	O
+
+30	B-CARDINAL
+!	O
+
+25	B-CARDINAL
+!	O
+
+18	B-QUANTITY
+méter	I-QUANTITY
+,	O
+Herr	O
+Kapitän	O
+!	O
+
+Amerikai	B-NORP
+kísérő	O
+romboló	O
+.	O
+
+Kísérő	O
+romboló	O
+...	O
+
+Egy	O
+kémény	O
+.	O
+
+Egy	O
+kémény	O
+...	O
+
+Három	B-QUANTITY
+inches	I-QUANTITY
+lövegek	O
+elöl	O
+,	O
+hátul	O
+.	O
+
+Három	B-QUANTITY
+inches	I-QUANTITY
+lövegek	O
+...	O
+elöl	O
+,	O
+hátul	O
+...	O
+
+Középen	O
+légvédelmi	O
+ágyúk	O
+.	O
+
+Csövek	O
+nincsenek.	O
+...a	O
+közepén	O
+.	O
+
+Buckley	B-PROD
+osztályú	O
+kísérő	O
+romboló	O
+.	O
+
+Turbóelektromos	O
+.	O
+
+Maximális	O
+sebesség	O
+25	B-QUANTITY
+csomó	I-QUANTITY
+.	O
+
+Hátsó	O
+és	O
+K-fegyverekkel	O
+.	O
+
+17	B-CARDINAL
+mélyvízi	O
+bombát	O
+képes	O
+kidobni	O
+egyszerre	O
+.	O
+
+A	O
+legkorszerűbb	O
+víz	O
+alatti	O
+felderítő	O
+szerkezettel	O
+rendelkezik	O
+.	O
+
+Úgy	O
+gondolom	O
+a	O
+tatcsövet	O
+használjuk	O
+.	O
+
+Tatcsöveket	O
+víz	O
+alatti	O
+támadáshoz	O
+felkészíteni	O
+!	O
+
+Cél	O
+vörös	O
+90	B-CARDINAL
+!	O
+
+Vörös	O
+90	B-CARDINAL
+.	O
+
+Távolság	O
+1000	B-CARDINAL
+.	O
+
+1000	B-CARDINAL
+.	O
+
+Torpedó	O
+sebesség	O
+30	B-QUANTITY
+csomó	I-QUANTITY
+!	O
+
+Vörös	O
+90	B-CARDINAL
+,	O
+1000	B-CARDINAL
+,	O
+sebesség	O
+30	B-QUANTITY
+.	O
+
+Tüzelési	O
+pozíció	O
+6	B-QUANTITY
+fok	I-QUANTITY
+,	O
+Torpedó	O
+elhajlás	O
+10	B-QUANTITY
+.	O
+
+Sebesség	O
+30	B-QUANTITY
+,	O
+mélység	O
+2	B-QUANTITY
+méter	I-QUANTITY
+.	O
+
+Mindkét	O
+torpedót	O
+kilőni	O
+.	O
+
+Kész	O
+.	O
+
+M-hm	O
+.	O
+
+Balra	O
+hat	B-QUANTITY
+fok	I-QUANTITY
+!	O
+
+Tüzelési	O
+pozícióban	O
+vagyunk	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Torpedók	O
+készen	O
+állnak	O
+?	O
+
+Készen	O
+.	O
+
+Visszaszámlálás	O
+!	O
+
+10	B-CARDINAL
+,	O
+9	B-CARDINAL
+,	O
+8	B-CARDINAL
+,	O
+7	B-CARDINAL
+,	O
+6	B-CARDINAL
+,...	O
+
+5	B-CARDINAL
+,	O
+4	B-CARDINAL
+,	O
+3	B-CARDINAL
+,...	O
+
+2	B-CARDINAL
+,	O
+1	B-CARDINAL
+,	O
+0	B-CARDINAL
+!	O
+
+Torpedókat	O
+kilőni	O
+!	O
+
+Torpedók	O
+kilőve	O
+.	O
+
+Mennyi	O
+idő	O
+alatt	O
+érnek	O
+célba	O
+?	O
+
+Egy	B-DUR
+perc	I-DUR
+40	I-DUR
+másodperc	I-DUR
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Teljes	O
+fordulat	O
+balra	O
+!	O
+
+Nagysebességű	O
+hajtócsavarok	O
+közelítenek	O
+baloldalról	O
+!	O
+
+Nagysebességű	O
+hajtócsavarok	O
+baloldalról	O
+.	O
+
+Bal	O
+hajtóművet	O
+leállítani	O
+!	O
+
+Jobb	O
+hajtóművet	O
+maximumra	O
+!	O
+
+Torpedók	O
+a	O
+törzstől	O
+balra	O
+!	O
+
+Hajtóművek	O
+normálra	O
+!	O
+
+Dülöngélést	O
+megállítani	O
+és	O
+felkészülni	O
+!	O
+
+A	O
+miami	B-GPE
+jacht	O
+versenyen	O
+ilyesmi	O
+sosem	O
+volt	O
+.	O
+
+Miből	O
+gondolod	O
+,	O
+hogy	O
+a	O
+Kapitány	O
+tudta	O
+mikor	O
+kell	O
+megfordítani	O
+ezt	O
+az	O
+öreg	O
+teknőt	O
+?	O
+
+Mert	O
+ő	O
+a	O
+kapitány	O
+,	O
+és	O
+ezért	O
+ő	O
+az	O
+,	O
+és	O
+nem	O
+te	O
+.	O
+
+Rendben	O
+,	O
+kapjuk	O
+el	O
+!	O
+
+Hajtóművek	O
+maximumra	O
+!	O
+
+18	B-QUANTITY
+csomó	I-QUANTITY
+!	O
+
+Hajtőművek	O
+maximumra	O
+!	O
+
+Igenis	O
+,	O
+Kapitány	O
+!	O
+
+Lemerülni	O
+100-ra	B-QUANTITY
+!	O
+
+Vészhelyzet	O
+!	O
+
+Vészmerülés	O
+100-ra	B-QUANTITY
+!	O
+
+Irány	O
+1-4-0	O
+.	O
+
+Nem	O
+értem	O
+hogyan	O
+hibázhattuk	O
+el	O
+ilyen	O
+távolságból	O
+.	O
+
+Nem	O
+lett	O
+volna	O
+szabad	O
+.	O
+
+Szerintem	O
+ez	O
+az	O
+amerikai	B-NORP
+kapitány	O
+nem	O
+amatőr	O
+.	O
+

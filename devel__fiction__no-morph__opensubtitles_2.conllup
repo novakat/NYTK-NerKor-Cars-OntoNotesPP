@@ -1,0 +1,1184 @@
+# global.columns = FORM ONPP:NER
+Én	O
+meg	O
+akartam	O
+mondani	O
+,	O
+csak	O
+nem	O
+a	O
+születésnapod	O
+előtt	O
+.	O
+
+Szóval	O
+,	O
+mennem	O
+kell	O
+.	O
+
+Hát	O
+persze	O
+.	O
+
+Mi	O
+van	O
+veled	O
+?	O
+
+Darvak	O
+,	O
+mint	O
+a	O
+kis	O
+hajócskák	O
+...	O
+
+Emlékszel	O
+...	O
+
+Nem	O
+lesz	O
+semmi	O
+baj	O
+.	O
+
+Aztán	O
+hazajövök	O
+és	O
+együtt	O
+élünk	O
+száz	B-DATE
+évig	I-DATE
+.	O
+
+Menj	O
+el	O
+.	O
+
+Korai	O
+még	O
+búcsúzni	O
+.	O
+
+Ne	O
+késs	O
+.	O
+
+Miért	O
+ne	O
+indulhatott	O
+volna	O
+holnap	B-TIME
+kora	I-TIME
+reggel	I-TIME
+...	O
+
+Legalább	O
+ezt	B-TIME
+a	I-TIME
+pár	I-TIME
+percet	I-TIME
+tölthetné	O
+itthon	O
+...	O
+
+Apa	O
+telefonált	O
+?	O
+
+Nagyon	O
+dühös	O
+volt	O
+.	O
+
+Miért	O
+nem	O
+szóltál	O
+senkinek	O
+?	O
+
+Mert	O
+nem	O
+szeretem	O
+a	O
+jeleneteket	O
+.	O
+
+A	O
+rajzaimat	O
+vidd	O
+be	O
+a	O
+gyárba	O
+.	O
+
+Add	O
+át	O
+Kuzminnak	B-PER
+,	O
+a	O
+mérnöknek	O
+.	O
+
+Meglesz	O
+.	O
+
+Mit	O
+rendezkedsz	O
+itt	O
+?	O
+
+Hozok	O
+egy	O
+üveg	O
+vörösbort	O
+.	O
+
+Nagymama	O
+,	O
+kérhetek	O
+valamit	O
+?	O
+
+Várj	O
+egy	O
+kicsit	O
+.	O
+
+Egyenesen	O
+a	O
+frontra	O
+visznek	O
+?	O
+
+Valószínű	O
+.	O
+
+Nagymama	O
+...	O
+
+Itt	O
+ez	O
+a	O
+kis	O
+csomag	O
+.	O
+
+Holnap	O
+kora	O
+reggel	O
+vidd	O
+el	O
+neki	O
+.	O
+
+Mi	O
+ez	O
+?	O
+
+A	O
+születésnapi	O
+ajándék	O
+.	O
+
+És	O
+segíts	O
+neki	O
+.	O
+
+Elvégre	O
+is	O
+háború	O
+van	O
+...	O
+
+Legyél	O
+kedves	O
+hozzá	O
+.	O
+
+És	O
+ha	O
+meghalok	O
+?	O
+
+Nem	O
+halhatsz	O
+meg	O
+,	O
+most	O
+,	O
+hogy	O
+rád	O
+bíztam	O
+a	O
+titkomat	O
+.	O
+
+És	O
+ha	O
+mégis	O
+?	O
+
+Nem	O
+szabad	O
+.	O
+
+Ez	O
+biztosan	O
+Veronika	B-PER
+.	O
+
+Irina	B-PER
+jött	O
+meg	O
+.	O
+
+Csakhogy	O
+itt	O
+vagy	O
+!	O
+
+Igen	O
+?	O
+
+Gyere	O
+ide	O
+.	O
+
+25	B-AGE
+éves	I-AGE
+vagy	O
+és	O
+úgy	O
+viselkedsz	O
+,	O
+mint	O
+a	O
+bolond	O
+!	O
+
+Azt	O
+hiszed	O
+,	O
+a	O
+háború	O
+játék	O
+?	O
+
+Rablópandúr	O
+?	O
+
+Milyen	O
+ember	O
+vagy	O
+te	O
+?	O
+
+Hol	O
+van	O
+Irina	B-PER
+és	O
+Mark	B-PER
+?	O
+
+Irina	B-PER
+kávét	O
+főz	O
+,	O
+Mark	B-PER
+leszaladt	O
+vörösborért	O
+.	O
+
+Minek	O
+?	O
+
+Mulatunk	O
+?	O
+
+Megveszett	O
+ez	O
+a	O
+világ	O
+.	O
+
+Irina	B-PER
+!	O
+
+Hozd	O
+be	O
+a	O
+tisztaszeszt	O
+!	O
+
+Mondtam	O
+,	O
+hogy	O
+gyere	O
+ide	O
+!	O
+
+Hol	O
+van	O
+Veronika	B-PER
+?	O
+
+Majd	O
+jön	O
+.	O
+
+Miért	O
+nincs	O
+itt	O
+?	O
+
+Dolga	O
+van	O
+.	O
+
+Itt	O
+lenne	O
+a	O
+helye	O
+a	O
+vőlegénye	O
+mellett	O
+.	O
+
+Nem	O
+vagyok	O
+a	O
+vőlegénye	O
+.	O
+
+Hát	O
+mije	O
+vagy	O
+?	O
+
+Mi	O
+csak	O
+úgy	O
+...	O
+
+Mit	O
+jelent	O
+ez	O
+?	O
+
+Nem	O
+úgy	O
+értem	O
+,	O
+apa	O
+...	O
+
+Hát	O
+hogy	O
+érted	O
+?	O
+
+Hagyjuk	O
+ezt	O
+.	O
+
+Itt	O
+a	O
+tisztaszesz	O
+.	O
+
+Fel	O
+kell	O
+hígítani	O
+.	O
+
+Bor	O
+is	O
+van	O
+.	O
+
+Azt	O
+idd	O
+meg	O
+te	O
+.	O
+
+Mi	O
+jobban	O
+szeretjük	O
+a	O
+töményet	O
+.	O
+
+Ha	O
+már	O
+így	O
+együtt	O
+vagyunk	O
+,	O
+üljünk	O
+le	O
+.	O
+
+Veronika	B-PER
+.	O
+
+Még	O
+jó	O
+,	O
+hogy	O
+egyáltalán	O
+nem	O
+várod	O
+,	O
+te	O
+,	O
+nem	O
+vőlegény	O
+...	O
+
+Végre	O
+!	O
+
+Borisz	B-PER
+Fjodorovicshoz	I-PER
+jöttünk	O
+.	O
+
+Tessék	O
+.	O
+
+Már	O
+azt	O
+hittem	O
+,	O
+a	O
+menyasszony	O
+.	O
+
+Mi	O
+a	O
+gyárból	O
+jöttünk	O
+,	O
+átadjuk	O
+a	O
+dolgozók	O
+ajándékait	O
+.	O
+
+Nem	O
+azt	O
+.	O
+
+Ezt	O
+itt	O
+.	O
+
+Köszönöm	O
+.	O
+
+A	O
+gyár	O
+üzemi	O
+bizottsága	O
+nevében	O
+...	O
+a	O
+Komszomol	B-ORG
+nevében	O
+kérjük	O
+...	O
+
+Hogy	O
+Borisz	B-PER
+elvtárs	O
+tartson	O
+ki	O
+az	O
+utolsó	O
+csepp	O
+véréig	O
+!	O
+
+Üsse	O
+a	O
+fasisztákat	B-NORP
+,	O
+ahol	O
+éri	O
+,	O
+mi	O
+pedig	O
+megígérjük	O
+,	O
+hogy	O
+addig	O
+teljesítjük	O
+,	O
+sőt	O
+túlteljesítjük	O
+a	O
+tervet	O
+.	O
+
+Ezt	O
+már	O
+kívülről	O
+tudjuk	O
+.	O
+
+Inkább	O
+igyanak	O
+velünk	O
+az	O
+én	O
+Borisz	B-PER
+fiamra	O
+.	O
+
+Az	O
+élet	O
+ezen	O
+a	O
+sárgolyón	O
+nem	O
+mindig	O
+folyik	O
+úgy	O
+,	O
+ahogy	O
+szeretnénk	O
+,	O
+vagyis	O
+ahogy	O
+szerettük	O
+volna	O
+.	O
+
+Így	O
+hát	O
+,	O
+te	O
+most	O
+,	O
+fiam	O
+,	O
+kimégy	O
+a	O
+frontra	O
+.	O
+
+Erre	O
+iszunk	O
+.	O
+
+Sokáig	O
+élj	O
+.	O
+
+Nagymama	O
+nem	O
+iszik	O
+?	O
+
+Az	O
+én	O
+bátyám	O
+tegnap	B-DATE
+ment	O
+el	O
+.	O
+
+Anya	O
+úgy	O
+sírt	O
+...	O
+
+És	O
+maga	O
+?	O
+
+Én	O
+is	O
+bőgtem	O
+.	O
+
+Az	O
+üzemi	O
+bizottság	O
+nevében	O
+?	O
+
+A	O
+magam	O
+nevében	O
+.	O
+
+Mi	O
+még	O
+nem	O
+kísértünk	O
+ki	O
+senkit	O
+.	O
+
+Hárman	B-CARDINAL
+vagyunk	O
+lányok	O
+és	O
+a	O
+mama	O
+.	O
+
+Már	O
+szinte	O
+szégyelljük	O
+.	O
+
+És	O
+hogy	O
+irigykednek	O
+majd	O
+,	O
+ha	O
+a	O
+mieink	O
+visszajönnek	O
+!	O
+
+Az	O
+a	O
+borzasztó	O
+,	O
+hogy	O
+sokan	O
+nem	O
+fognak	O
+visszajönni	O
+.	O
+
+Azok	O
+díszes	O
+emlékművet	O
+kapnak	O
+,	O
+aranybetűkkel	O
+lesz	O
+ráírva	O
+a	O
+nevük	O
+.	O
+
+Irina	B-PER
+,	O
+ne	O
+ábrándozz	O
+,	O
+tölts	O
+mindenkinek	O
+.	O
+
+Apa	O
+,	O
+ne	O
+feledd	O
+,	O
+teljesíteni	O
+,	O
+sőt	O
+túlteljesíteni	O
+a	O
+tervet	O
+.	O
+
+Nagymama	O
+,	O
+amit	O
+rád	O
+bíztam	O
+...	O
+
+Mark	B-PER
+,	O
+maradj	O
+apával	O
+.	O
+
+Csak	O
+a	O
+villamosig	O
+.	O
+
+Hátra	O
+arc	O
+!	O
+
+Csapat	O
+,	O
+indulj	O
+!	O
+
+Fogd	O
+.	O
+
+Mama	O
+!	O
+
+Talán	O
+utoljára	O
+...	O
+
+Bocsáss	O
+meg	O
+.	O
+
+Nem	O
+iszol	O
+?	O
+
+Hova	O
+mész	O
+?	O
+
+A	O
+kórházba	O
+.	O
+
+Ügyeletes	O
+vagyok	O
+.	O
+
+De	O
+hiszen	O
+tegnap	O
+voltál	O
+.	O
+
+Varvara	B-PER
+Kapitonovna	I-PER
+,	O
+Boriszt	B-PER
+keresem	O
+.	O
+
+Már	O
+elment	O
+.	O
+
+Elment	O
+?	O
+
+Hova	O
+?	O
+
+A	O
+gyülekezési	O
+helyre	O
+.	O
+
+Jaj	O
+,	O
+ne	O
+...	O
+
+Gyere	O
+be	O
+.	O
+
+Hol	O
+van	O
+a	O
+gyülekezési	O
+hely	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+lányom	O
+.	O
+
+Borisz	B-PER
+küldi	O
+a	O
+születésnapodra	O
+.	O
+
+Levél	O
+is	O
+van	O
+benne	O
+.	O
+
+Hol	O
+a	O
+levél	O
+?	O
+
+Valahol	O
+itt	O
+kell	O
+lennie	O
+.	O
+
+Talán	O
+kiesett	O
+.	O
+
+Vagy	O
+elfelejtette	O
+szegény	O
+a	O
+nagy	O
+sietségben	O
+.	O
+
+Elfelejtette	O
+?	O
+
+Majd	O
+ír	O
+neked	O
+onnan	O
+.	O
+
+Elkéstél	O
+.	O
+
+Hol	O
+a	O
+gyülekezési	O
+hely	O
+?	O
+
+A	O
+3-as	B-FAC
+számú	I-FAC
+gimnáziumban	I-FAC
+.	O
+
+Nyugodj	O
+meg	O
+,	O
+még	O
+eljöhet	O
+.	O
+
+Meg	O
+sem	O
+talál	O
+ebben	O
+a	O
+tömegben	O
+.	O
+
+Mit	O
+csinálsz	O
+?	O
+
+Írj	O
+mindennap	O
+!	O
+
+A	O
+káposztautalvány	O
+kinél	O
+van	O
+?	O
+
+Ne	O
+felejtsd	O
+el	O
+megírni	O
+a	O
+táboriposta	O
+számot	O
+!	O
+
+Ne	O
+lógasd	O
+az	O
+orrod	O
+.	O
+
+Visszavárunk	O
+.	O
+
+Viszontlátásra	O
+,	O
+Borisz	B-PER
+!	O
+
+Sok	O
+szerencsét	O
+!	O
+
+Állj	O
+meg	O
+!	O
+
+Eljön	O
+,	O
+ne	O
+félj	O
+.	O
+
+Sorakozó	O
+!	O
+
+Vigyázz	O
+!	O
+
+Menet	O
+indulj	O
+!	O
+
+Az	O
+én	O
+kis	O
+asszonykám	O
+!	O
+
+Nagymama	O
+...	O
+semmi	O
+?	O
+
+Nekem	O
+se	O
+írt	O
+.	O
+
+Nincs	O
+újság	O
+?	O
+
+Nincs	O
+.	O
+
+Ez	O
+az	O
+átkozott	O
+háború	O
+.	O
+
+Majdcsak	O
+kibírjuk	O
+valahogy	O
+.	O
+
+Elmész	O
+a	O
+hadiüzembe	O
+?	O
+
+Holnap	B-DATE
+reggel	B-TIME
+jelentkezem	O
+.	O
+
+Figyelem	O
+!	O
+
+Légiriadó	O
+!	O
+
+Szaladj	O
+le	O
+a	O
+metróba	O
+.	O
+
+Én	O
+még	O
+befejezem	O
+.	O
+
+Szedd	O
+össze	O
+a	O
+holmid	O
+.	O
+
+Hol	O
+a	O
+hátizsák	O
+?	O
+
+A	O
+helyén	O
+.	O
+
+Nem	O
+megyek	O
+nélkületek	O
+.	O
+
+Ha	O
+komolyra	O
+fordul	O
+,	O
+mi	O
+is	O
+leszaladunk	O
+.	O
+
+Menj	O
+már	O
+.	O
+
+Hogy	O
+fél	O
+ez	O
+a	O
+szegény	O
+gyerek	O
+.	O
+
+Te	O
+nem	O
+?	O
+
+Ha	O
+Veronika	B-PER
+biztonságban	O
+van	O
+és	O
+te	O
+mellettem	O
+vagy	O
+,	O
+nem	O
+félek	O
+.	O
+
+Gyilkos	O
+gazemberek	O
+.	O
+
+Már	O
+beszélgetni	O
+se	O
+lehet	O
+tőlük	O
+!	O
+
+Nem	O
+tudom	O
+,	O
+miért	O
+nem	O
+ír	O
+.	O
+
+Háború	O
+van	O
+,	O
+lassan	O
+jár	O
+a	O
+posta	O
+.	O
+
+A	O
+légi	O
+veszély	O
+elmúlt	O
+.	O
+
+Menjünk	O
+.	O
+
+Én	O
+itt	O
+lakom	O
+az	O
+emeletem	O
+.	O
+
+Ha	O
+hozzánk	O
+akarsz	O
+jönni	O
+dolgozni	O
+,	O
+hívj	O
+fel	O
+telefonon	O
+.	O
+
+Felhívlak	O
+.	O
+
+Viszlát	O
+!	O
+
+Hova	O
+megy	O
+?	O
+
+Jöjjön	O
+vissza	O
+!	O
+
+Mit	O
+csinál	O
+?	O
+
+Megbolondult	O
+?	O
+
+Bocsánat	O
+...	O
+
+Veronika	B-PER
+,	O
+ezentúl	O
+nálunk	O
+maradsz	O
+.	O
+
+Örökre	O
+.	O
+
+Beköltözöl	O
+Borisz	B-PER
+szobájába	O
+.	O
+
+Mark	B-PER
+átmegy	O
+Fegyához	B-PER
+.	O
+
+Mark	B-PER
+,	O
+törődj	O
+egy	O
+kicsit	O
+vele	O
+.	O
+
+Irina	B-PER
+meg	O
+én	O
+szinte	O
+a	O
+kórházban	O
+lakunk	O
+.	O
+
+Igyekszem	O
+,	O
+Fegya	B-PER
+bácsi	O
+.	O
+
+Borisz	B-PER
+is	O
+megkért	O
+.	O
+

@@ -1,0 +1,1440 @@
+# global.columns = FORM ONPP:NER
+Furcsa	O
+,	O
+a	O
+törvény	O
+nevében	O
+teszik	O
+ezt	O
+velem	O
+!	O
+
+Velem	O
+,	O
+aki	O
+soha	O
+nem	O
+sütöttem	O
+fegyvert	O
+senkire	O
+soha	O
+életemben	O
+.	O
+
+Ezt	O
+rábíztam	O
+olyan	O
+fiatal	O
+fickókra	O
+,	O
+mint	O
+ezek	O
+ketten	O
+ott	O
+.	O
+
+Nézze	O
+meg	O
+őket	O
+!	O
+
+Billy	B-PER
+Jack	I-PER
+,	O
+nincs	O
+családja	O
+,	O
+iskolázatlan	O
+.	O
+
+Verekszik	O
+és	O
+csal	O
+,	O
+amióta	O
+csak	O
+járni	O
+tud	O
+.	O
+
+És	O
+Chink	B-PER
+ugyanaz	O
+.	O
+
+12	B-AGE
+éves	I-AGE
+volt	O
+,	O
+amikor	O
+az	O
+első	B-ORDINAL
+embert	O
+lelőtte	O
+.	O
+
+Az	O
+öregét	O
+.	O
+
+Rajtakapta	O
+,	O
+amint	O
+verte	O
+az	O
+anyját	O
+egy	O
+törött	O
+tequilás	O
+üveggel	O
+.	O
+
+Olyanok	O
+,	O
+mint	O
+az	O
+állatok	O
+.	O
+
+A	O
+maga	O
+emberei	O
+.	O
+
+Nos	O
+,	O
+nem	O
+tudom	O
+megváltoztatni	O
+őket	O
+.	O
+
+Senki	O
+nem	O
+segíthet	O
+a	O
+fajtájukon	O
+.	O
+
+Senki	O
+sem	O
+próbálja	O
+meg	O
+.	O
+
+Nos	O
+,	O
+nem	O
+tudom	O
+,	O
+miért	O
+kedvelem	O
+magát	O
+,	O
+Brennan	B-PER
+!	O
+
+Visszabeszél	O
+,	O
+önhitten	O
+viselkedik	O
+,	O
+amikor	O
+meg	O
+kéne	O
+hajolnia	O
+.	O
+
+Tényleg	O
+nem	O
+tudom	O
+,	O
+miért	O
+.	O
+
+De	O
+mondok	O
+valamit	O
+.	O
+
+Holnap	B-DATE
+nem	O
+szép	O
+nap	O
+virrad	O
+magára	O
+.	O
+
+Ha	O
+az	O
+a	O
+pénz	O
+ideér	O
+,	O
+Billy	B-PER
+Jack	I-PER
+és	O
+Chink	B-PER
+azon	O
+lesznek	O
+,	O
+hogy	O
+végezzenek	O
+magukkal	O
+.	O
+
+Ahogy	O
+mondta	O
+,	O
+én	O
+velük	O
+vagyok	O
+.	O
+
+Sajnálom	O
+,	O
+ahogy	O
+ma	B-TIME
+reggel	I-TIME
+viselkedtem	O
+!	O
+
+Remélem	O
+,	O
+megérti	O
+.	O
+
+Talán	O
+jobban	O
+,	O
+mint	O
+gondolná	O
+.	O
+
+De	O
+most	O
+meg	O
+kell	O
+találni	O
+a	O
+módját	O
+az	O
+életben	O
+maradáshoz	O
+,	O
+amihez	O
+nem	O
+elég	O
+a	O
+szimpátia	O
+.	O
+
+Olyan	O
+vagyok	O
+,	O
+amilyen	O
+vagyok	O
+.	O
+
+Szerette	O
+őt	O
+?	O
+
+Hozzámentem	O
+.	O
+
+Nem	O
+ezt	O
+kérdeztem	O
+.	O
+
+Igen	O
+,	O
+szerettem	O
+.	O
+
+Mims	B-PER
+,	O
+maga	O
+hazudik	O
+!	O
+
+Nem	O
+szerette	O
+őt	O
+,	O
+és	O
+soha	O
+egy	O
+percig	O
+sem	O
+hitte	O
+azt	O
+,	O
+hogy	O
+ő	O
+szereti	O
+magát	O
+.	O
+
+Így	O
+van	O
+,	O
+ugye	O
+?	O
+
+Tudja	O
+,	O
+milyen	O
+érzés	O
+egyedül	O
+lenni	O
+egy	O
+táborban	O
+goromba	O
+bányászokkal	O
+,	O
+és	O
+egy	O
+apával	O
+,	O
+aki	O
+csendes	O
+gyűlöletet	O
+érez	O
+irántam	O
+,	O
+mert	O
+nem	O
+fiaként	O
+születtem	O
+,	O
+amit	O
+mindig	O
+is	O
+akart	O
+?	O
+
+Igen	O
+,	O
+feleségül	O
+mentem	O
+Willard	B-PER
+Mimshez	I-PER
+,	O
+mert	O
+nem	O
+tudtam	O
+elviselni	O
+az	O
+egyedüllétet	O
+tovább	O
+.	O
+
+Tudtam	O
+végig	O
+,	O
+hogy	O
+nem	O
+szeret	O
+engem	O
+.	O
+
+De	O
+nem	O
+érdekelt	O
+.	O
+
+Azt	O
+hittem	O
+,	O
+majd	O
+megszeret	O
+.	O
+
+És	O
+amikor	O
+megkérte	O
+a	O
+kezem	O
+,	O
+azt	O
+hazudtam	O
+magamnak	O
+sokáig	O
+,	O
+hogy	O
+elhiszem	O
+,	O
+hogy	O
+magamért	O
+és	O
+nem	O
+a	O
+pénzért	O
+teszi	O
+.	O
+
+Most	O
+meg	O
+ez	O
+történt	O
+.	O
+
+Szóval	O
+,	O
+mit	O
+vesztett	O
+,	O
+egy	O
+kis	O
+büszkeségtől	O
+eltekintve	O
+?	O
+
+Attól	O
+tart	O
+,	O
+hogy	O
+nem	O
+talál	O
+másik	O
+férfit	O
+?	O
+
+Fél	O
+,	O
+hogy	O
+mit	O
+mondanak	O
+az	O
+emberek	O
+?	O
+
+Még	O
+ha	O
+Willard	B-PER
+a	O
+pénzéért	O
+is	O
+vette	O
+el	O
+,	O
+legalább	O
+elvette	O
+.	O
+
+Ő	O
+volt	O
+az	O
+első	B-ORDINAL
+és	O
+utolsó	O
+esélye	O
+,	O
+ami	O
+magát	O
+illeti	O
+,	O
+ezért	O
+megragadta	O
+az	O
+alkalmat	O
+.	O
+
+Azt	O
+hiszi	O
+,	O
+senkinek	O
+sem	O
+kell	O
+,	O
+mert	O
+az	O
+ajkába	O
+harap	O
+és	O
+szégyenkezik	O
+.	O
+
+De	O
+hadd	O
+mondjak	O
+valamit	O
+.	O
+
+Maga	O
+van	O
+olyan	O
+nő	O
+,	O
+mint	O
+bármelyikük	O
+.	O
+
+Sőt	O
+,	O
+sokkal	O
+több	O
+náluk	O
+.	O
+
+De	O
+ebben	O
+hinnie	O
+kell	O
+,	O
+ha	O
+nem	O
+hiszi	O
+el	O
+magáról	O
+,	O
+hogy	O
+várhatja	O
+el	O
+ezt	O
+mástól	O
+?	O
+
+Én	O
+nem	O
+...	O
+
+Ha	O
+maga	O
+nem	O
+,	O
+akkor	O
+ki	O
+?	O
+
+Nem	O
+dőlhet	O
+hátra	O
+mindig	O
+,	O
+várva	O
+,	O
+hogy	O
+történjen	O
+valami	O
+.	O
+
+Néha	O
+tenni	O
+is	O
+kell	O
+érte	O
+valamit	O
+.	O
+
+Visszajövök	O
+,	O
+és	O
+addigra	O
+ti	O
+ketten	O
+legyetek	O
+készen	O
+az	O
+indulásra	O
+.	O
+
+Frank	B-PER
+,	O
+biztosan	O
+nem	O
+akarod	O
+,	O
+hogy	O
+én	O
+menjek	O
+?	O
+
+Biztosan	O
+.	O
+
+Ötvenezer	O
+.	O
+
+Ez	O
+egy	O
+csomó	O
+pénz	O
+.	O
+
+Segítségre	O
+lehet	O
+szükséged	O
+,	O
+hogy	O
+visszajussál	O
+.	O
+
+Azt	O
+mondtam	O
+,	O
+nem	O
+kell	O
+.	O
+
+Vizet	O
+.	O
+
+Hát	O
+,	O
+vegyél	O
+!	O
+
+Brennan	B-PER
+,	O
+mostantól	O
+,	O
+ha	O
+járkálsz	O
+,	O
+zajosan	O
+tedd	O
+,	O
+egyébként	O
+szétloccsantom	O
+a	O
+fejed	O
+,	O
+mielőtt	O
+észbe	O
+kapnál	O
+!	O
+
+Fiúk	O
+,	O
+szeretni	O
+fogjátok	O
+Mexikót	B-GPE
+.	O
+
+Aztán	O
+,	O
+persze	O
+,	O
+ő	O
+megint	O
+csak	O
+északra	O
+menne	O
+.	O
+
+Nehéz	O
+az	O
+embert	O
+megtalálni	O
+azokban	O
+a	O
+fenyvesekben	O
+.	O
+
+Mit	O
+akarsz	O
+ezzel	O
+mondani	O
+?	O
+
+Frank	B-PER
+beszélgetett	O
+veled	O
+.	O
+
+Mondott	O
+valamit	O
+,	O
+amiért	O
+ezt	O
+megjegyezted	O
+?	O
+
+Nos	O
+,	O
+mondott	O
+?	O
+
+Mit	O
+gondolsz	O
+?	O
+
+Azt	O
+hiszem	O
+,	O
+csak	O
+jártatod	O
+a	O
+szád	O
+.	O
+
+Akkor	O
+nincs	O
+miért	O
+aggódnotok	O
+.	O
+
+Tartsd	O
+szemmel	O
+őket	O
+!	O
+
+Hova	O
+mész	O
+,	O
+Chink	B-PER
+?	O
+
+Teszek	O
+egy	O
+kört	O
+,	O
+és	O
+meggyőződöm	O
+arról	O
+,	O
+nehogy	O
+Frank	B-PER
+meglógjon	O
+gazdagon	O
+,	O
+mi	O
+pedig	O
+szegényen	O
+itt	O
+maradjunk	O
+!	O
+
+Chink	B-PER
+és	O
+Usher	B-PER
+elmentek	O
+.	O
+
+Most	O
+vagy	O
+...	O
+
+Gombold	O
+ki	O
+a	O
+ruhádat	O
+!	O
+
+Csak	O
+tedd	O
+,	O
+ahogy	O
+mondom	O
+!	O
+
+Billy	B-PER
+Jack	I-PER
+ide	O
+fog	O
+jönni	O
+.	O
+
+Lepd	O
+meg	O
+,	O
+hozd	O
+zavarba	O
+!	O
+
+Aztán	O
+mosolyogj	O
+rá	O
+!	O
+
+Amint	O
+bejött	O
+ezen	O
+az	O
+ajtón	O
+,	O
+ne	O
+hagyd	O
+,	O
+hogy	O
+megforduljon	O
+!	O
+
+Kávé	O
+?	O
+
+Mi	O
+a	O
+baj	O
+ezzel	O
+?	O
+
+Te	O
+csináltad	O
+?	O
+
+Nem	O
+akarod	O
+megnézni	O
+a	O
+nőt	O
+?	O
+
+Nem	O
+lehetsz	O
+olyan	O
+fiatal	O
+,	O
+hogy	O
+a	O
+szádba	O
+kell	O
+rágjam	O
+.	O
+
+Ők	O
+is	O
+voltak	O
+már	O
+nála	O
+?	O
+
+Tegnap	O
+reggel	O
+,	O
+amíg	O
+te	O
+nem	O
+voltál	O
+itt	O
+.	O
+
+Ne	O
+nézz	O
+rá	O
+!	O
+
+Befelé	O
+!	O
+
+Maradj	O
+itt	O
+,	O
+hozok	O
+neked	O
+egy	O
+lovat	O
+!	O
+
+Látod	O
+azt	O
+a	O
+magányos	O
+csúcsot	O
+?	O
+
+Menj	O
+arra	O
+!	O
+
+Sasabéba	B-LOC
+vezet	O
+.	O
+
+Ha	O
+odaértél	O
+,	O
+fordulj	O
+délnek	O
+!	O
+
+Eljutsz	O
+az	O
+én	O
+földemre	O
+.	O
+
+Ott	O
+biztonságban	O
+leszel	O
+.	O
+
+És	O
+veled	O
+mi	O
+lesz	O
+?	O
+
+Én	O
+befejezem	O
+ezt	O
+.	O
+
+Jönnek	O
+,	O
+és	O
+befejezem	O
+ezt	O
+egyszer	O
+és	O
+mindenkorra	O
+!	O
+
+Van	O
+,	O
+amit	O
+az	O
+ember	O
+nem	O
+tud	O
+elkerülni	O
+!	O
+
+Itt	O
+maradok	O
+veled	O
+!	O
+
+Két	O
+napig	O
+megmondtad	O
+,	O
+mit	O
+tegyek	O
+és	O
+mit	O
+ne	O
+tegyek	O
+.	O
+
+Tovább	O
+nem	O
+!	O
+
+Ha	O
+maradsz	O
+,	O
+én	O
+is	O
+.	O
+
+Vissza	O
+,	O
+vissza	O
+!	O
+
+Billy	B-PER
+Jack	I-PER
+?	O
+
+Fogd	O
+ezt	O
+!	O
+
+Chink	B-PER
+!	O
+
+Chink	B-PER
+,	O
+gyere	O
+ki	O
+!	O
+
+Megkerülöm	O
+azokat	O
+a	O
+sziklákat	O
+.	O
+
+Mikor	O
+odaérek	O
+Chink	B-PER
+lova	O
+közelébe	O
+,	O
+célozz	O
+az	O
+ajtóra	O
+,	O
+és	O
+ne	O
+hagyd	O
+abba	O
+a	O
+tüzelést	O
+,	O
+amíg	O
+van	O
+töltényed	O
+!	O
+
+Elfoglaltad	O
+magad	O
+,	O
+ugye	O
+?	O
+
+Dobd	O
+el	O
+a	O
+fegyvert	O
+!	O
+
+Most	O
+a	O
+nyeregtáskát	O
+!	O
+
+Ötvenezer	O
+!	O
+
+Milyen	O
+kár	O
+megszabadulni	O
+tőle	O
+!	O
+
+Mit	O
+tett	O
+az	O
+apámmal	O
+?	O
+
+Visszaküldtem	O
+Contentionbe	B-LOC
+,	O
+hölgyem	O
+!	O
+
+Mondtam	O
+neki	O
+,	O
+maga	O
+vele	O
+megy	O
+.	O
+
+Kár	O
+értük	O
+.	O
+
+Fordulj	O
+meg	O
+,	O
+Usher	B-PER
+!	O
+
+Ha	O
+megteszem	O
+,	O
+nem	O
+tudok	O
+innen	O
+békében	O
+ellovagolni	O
+.	O
+
+Pedig	O
+ez	O
+minden	O
+szándékom	O
+.	O
+
+Odasétálni	O
+a	O
+lovamhoz	O
+,	O
+és	O
+ellovagolni	O
+,	O
+mintha	O
+soha	O
+itt	O
+sem	O
+lettem	O
+volna	O
+.	O
+
+Én	O
+nem	O
+próbálnám	O
+meg	O
+a	O
+helyedben	O
+.	O
+
+Nem	O
+fogsz	O
+kicsinálni	O
+engem	O
+azzal	O
+a	O
+fegyverrel	O
+.	O
+
+A	O
+hátamba	O
+nem	O
+.	O
+
+Én	O
+tartottalak	O
+életben	O
+,	O
+Brennan	B-PER
+!	O
+
+Ha	O
+én	O
+nem	O
+vagyok	O
+,	O
+akkor	O
+ott	O
+lennél	O
+abban	O
+a	O
+kútban	O
+azon	O
+az	O
+állomáson	O
+.	O
+
+Emlékszel	O
+?	O
+
+Emlékszem	O
+.	O
+
+Rögtön	O
+gondoltam	O
+.	O
+
+Most	O
+elkezdek	O
+sétálni	O
+...	O
+
+Ne	O
+tedd	O
+,	O
+Frank	B-PER
+!	O
+
+Viszlát	O
+,	O
+Brennan	B-PER
+!	O
+
+Most	O
+már	O
+hagyd	O
+abba	O
+!	O
+
+Az	O
+egésznek	O
+vége	O
+.	O
+
+Vissza	O
+kell	O
+lovagolnunk	O
+Contentionbe	B-LOC
+.	O
+
+Tudni	O
+akarják	O
+majd	O
+,	O
+mi	O
+történt	O
+.	O
+
+Szép	O
+napunk	O
+lesz	O
+.	O
+
+Menjünk	O
+le	O
+a	O
+partra	O
+!	O
+
+Gyere	O
+te	O
+is	O
+!	O
+
+De	O
+szép	O
+itt	O
+!	O
+
+Szeretem	O
+a	O
+folyót	O
+.	O
+
+Giorgio	B-PER
+!	O
+
+Segítség	O
+,	O
+segítség	O
+!	O
+
+Egy	O
+fuldokló	O
+!	O
+
+Amilzare	B-PER
+!	O
+
+Segíts	O
+,	O
+gyere	O
+gyorsan	O
+!	O
+
+Fuldoklik	O
+egy	O
+lány	O
+.	O
+
+Nézd	O
+,	O
+ott	O
+van	O
+!	O
+
+Hívd	O
+Romoló-t	B-PER
+!	O
+
+Bement	O
+a	O
+városba	O
+.	O
+
+A	O
+városba	O
+?	O
+
+Éppen	O
+most	O
+!	O
+
+Egy	O
+nő	O
+az	O
+.	O
+
+Már	O
+elmerült	O
+.	O
+
+Gyorsan	O
+,	O
+keríts	O
+már	O
+elő	O
+még	O
+valakit	O
+!	O
+
+Valaki	O
+beesett	O
+a	O
+vízbe	O
+?	O
+
+Gyere	O
+gyorsan	O
+!	O
+
+Húzzuk	O
+ki	O
+!	O
+
+Ha	O
+az	O
+örvényhez	O
+ér	O
+,	O
+belefullad	O
+.	O
+
+Ott	O
+van	O
+,	O
+ni	O
+!	O
+
+Már	O
+el	O
+is	O
+merült	O
+!	O
+
+Gyere	O
+,	O
+ugorjunk	O
+be	O
+!	O
+
+Te	O
+fogd	O
+meg	O
+a	O
+karját	O
+!	O
+
+Próbáljuk	O
+kihúzni	O
+!	O
+
+Hé	O
+,	O
+Pascello	B-PER
+!	O
+
+Siess	O
+már	O
+!	O
+
+Ne	O
+így	O
+fogjátok	O
+!	O
+
+Fejjel	O
+lefelé	O
+kell	O
+tartani	O
+!	O
+
+Stefano	B-PER
+,	O
+rohanj	O
+!	O
+
+Mi	O
+történt	O
+vele	O
+?	O
+
+Tartsátok	O
+óvatosan	O
+!	O
+
+Fejjel	O
+lefelé	O
+,	O
+mondom	O
+!	O
+
+Majdnem	O
+belefulladt	O
+.	O
+
+Megcsúszott	O
+a	O
+parton	O
+.	O
+
+Mi	O
+húztuk	O
+ki	O
+.	O
+
+Beleesett	O
+és	O
+nem	O
+tud	O
+úszni	O
+.	O
+
+Nem	O
+szándékosan	O
+ugrott	O
+a	O
+vízbe	O
+?	O
+
+Dehogy	O
+is	O
+!	O
+
+Sokszor	O
+elmerült	O
+?	O
+
+Háromszor	O
+.	O
+
+Ugyan	O
+!	O
+
+7-szer	O
+,	O
+8-szor	B-CARDINAL
+.	O
+
+Volt	O
+az	O
+tíz	B-CARDINAL
+is	O
+!	O
+
+Akkor	O
+jó	O
+sokat	O
+ihatott	O
+.	O
+
+Gyorsan	O
+,	O
+hívjatok	O
+segítséget	O
+!	O
+
+Rajta	O
+,	O
+tegyük	O
+le	O
+!	O
+
+Stefano	B-PER
+!	O
+
+Mi	O
+az	O
+,	O
+mi	O
+történt	O
+?	O
+
+Gyere	O
+segíts	O
+!	O
+
+Gyorsabban	O
+a	O
+karját	O
+!	O
+
+Elvesztette	O
+az	O
+egyik	O
+cipőjét	O
+.	O
+
+Szerintem	O
+meghalt	O
+.	O
+

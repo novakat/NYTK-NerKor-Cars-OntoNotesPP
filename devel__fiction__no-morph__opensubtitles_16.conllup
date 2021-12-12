@@ -1,0 +1,1324 @@
+# global.columns = FORM ONPP:NER
+Mondd	O
+azt	O
+,	O
+nem	O
+hagyod	O
+békén	O
+őket	O
+.	O
+
+Nem	O
+akarom	O
+azt	O
+mondani	O
+.	O
+
+Nem	O
+komolyak	O
+.	O
+
+Így	O
+válaszoltam	O
+neki	O
+az	O
+előbb	O
+.	O
+
+Nem	O
+vagyok	O
+méltó	O
+rá	O
+,	O
+hogy	O
+miattam	O
+meghalj	O
+.	O
+
+Elfeldkezel	O
+rólam	O
+.	O
+
+Ilyen	O
+szíved	O
+van	O
+.	O
+
+Szégyen	O
+nélkül	O
+halok	O
+meg	O
+.	O
+
+Milyen	O
+kár	O
+.	O
+
+Könnyen	O
+ordibálsz	O
+.	O
+
+Milyen	O
+jó	O
+színész	O
+vagy	O
+.	O
+
+Nem	O
+hiszed	O
+el	O
+.	O
+
+Ez	O
+elég	O
+,	O
+hogy	O
+elmondd	O
+.	O
+
+Tudok	O
+mindent	O
+,	O
+mert	O
+elmondtad	O
+az	O
+igazságot	O
+.	O
+
+Hogyha	O
+hazudtam	O
+?	O
+
+Tudom	O
+az	O
+igazságot	O
+.	O
+
+Írigyelnek	O
+,	O
+ezért	O
+nem	O
+fognak	O
+elengedni	O
+.	O
+
+Ott	O
+,	O
+mondd	O
+el	O
+.	O
+
+Öregem	O
+megesküszöm	O
+.	O
+
+Ez	O
+az	O
+igazság	O
+.	O
+
+Aztán	O
+mit	O
+csinálsz	O
+vele	O
+?	O
+
+Rajta	O
+múlik	O
+.	O
+
+Miért	O
+hazudott	O
+?	O
+
+Sok	O
+dologra	O
+gondoltam	O
+.	O
+
+Kívánom	O
+,	O
+hogy	O
+igaz	O
+legyen	O
+egy	O
+nap	O
+.	O
+
+Szeretnék	O
+...	O
+találkozni	O
+egy	O
+jó	O
+emberrel	O
+holnap	B-DATE
+.	O
+
+Vagy	O
+váratlanul	O
+találkoznék	O
+néhány	O
+jó	O
+dologgal	O
+.	O
+
+Mindig	O
+megvárom	O
+mi	O
+történik	O
+.	O
+
+Én	O
+nem	O
+várok	O
+semmit	O
+.	O
+
+Minden	O
+jó	O
+elmúlt	O
+.	O
+
+Mostanában	O
+azt	O
+álmodom	O
+,	O
+hogy	O
+hirtelen	O
+meghalok	O
+.	O
+
+Nem	O
+vagyok	O
+jól	O
+.	O
+
+Szerencsétlen	O
+vagy	O
+.	O
+
+Hogy	O
+ilyen	O
+egy	O
+hugod	O
+van	O
+.	O
+
+Ki	O
+lesz	O
+boldog	O
+?	O
+
+Mindenki	O
+szerencsétlen	O
+.	O
+
+Mindenki	O
+?	O
+
+Baromságot	O
+beszélsz	O
+.	O
+
+Sok	O
+boldog	O
+ember	O
+van	O
+.	O
+
+Miért	O
+vagy	O
+dühös	O
+?	O
+
+Miért	O
+piszkálod	O
+őt	O
+?	O
+
+Akkor	O
+boldogabb	O
+ha	O
+sír	O
+.	O
+
+Unom	O
+,	O
+hogy	O
+róla	O
+beszélsz	O
+.	O
+
+Öreg	O
+ember	O
+,	O
+hol	O
+van	O
+ő	O
+?	O
+
+A	O
+bárban	O
+.	O
+
+Helyes	O
+káromkodnom	O
+kell	O
+.	O
+
+Emlékezz	O
+nehogy	O
+kárt	O
+tegyél	O
+benne	O
+.	O
+
+Kedves	O
+neked	O
+öreg	O
+ember	O
+.	O
+
+Mindig	O
+hazudozik	O
+,	O
+én	O
+nem	O
+tanulhatom	O
+meg	O
+.	O
+
+El	O
+kell	O
+mondanom	O
+az	O
+igazságot	O
+valamikor	O
+.	O
+
+Igazság	O
+?	O
+
+Az	O
+igazság	O
+én	O
+vagyok	O
+.	O
+
+Nincs	O
+pénz	O
+,	O
+nincs	O
+munka	O
+csak	O
+a	O
+halálra	O
+várok	O
+.	O
+
+Mi	O
+van	O
+ha	O
+elmondod	O
+az	O
+igazságot	O
+?	O
+ő	O
+bosszantó	O
+.	O
+
+Higgadj	O
+le	O
+.	O
+
+Nem	O
+érdekelnek	O
+a	O
+hazugságok	O
+vagy	O
+az	O
+igazságok	O
+.	O
+
+Mind	O
+elfogadhatatlan	O
+.	O
+
+Úgy	O
+látszik	O
+nem	O
+könnyen	O
+higgadsz	O
+le	O
+.	O
+
+Egy	O
+bolond	O
+.	O
+
+Mi	O
+van	O
+vele	O
+?	O
+
+Nem	O
+feledkezhet	O
+meg	O
+róla	O
+.	O
+
+Egy	O
+ács	O
+vagyok	O
+Azt	O
+gondolja	O
+jobb	O
+mint	O
+mi.	O
+Ka	B-PER
+,	O
+a	O
+két	B-CARDINAL
+szellem	O
+elment	O
+?	O
+
+A	O
+templomba	O
+.	O
+
+Csak	O
+néhány	O
+fillér	O
+és	O
+a	O
+mennyekbe	O
+akarsz	O
+menni	O
+.	O
+
+Ne	O
+légy	O
+olyan	O
+,	O
+ők	O
+olyan	O
+szánalmasak	O
+.	O
+
+Ez	O
+mutatja	O
+,	O
+hogy	O
+sajnálnak	O
+.	O
+
+Mindenki	O
+,	O
+elmegyek	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+az	O
+emberek	O
+mindig	O
+jobbat	O
+akarnak	O
+.	O
+
+Azt	O
+gondolod	O
+,	O
+megtalálhatom	O
+?	O
+
+Nem	O
+hinném	O
+.	O
+
+Csak	O
+ha	O
+akarod	O
+.	O
+
+Kívánságok	O
+.	O
+
+Könyörgök	O
+neked	O
+a	O
+vénember	O
+előtt	O
+.	O
+
+Kérem	O
+kövessenek	O
+.	O
+
+Börtönbe	O
+akarsz	O
+jutni	O
+?	O
+
+Bízz	O
+bennem	O
+,	O
+nem	O
+leszek	O
+többé	O
+tolvaj	O
+.	O
+
+A	O
+férfi	O
+tartja	O
+a	O
+szavát	O
+.	O
+
+Keményen	O
+fogok	O
+dolgozni	O
+.	O
+
+Tudom	O
+,	O
+ez	O
+a	O
+megélhetés	O
+nem	O
+jó	O
+.	O
+
+De	O
+sok	O
+rabló	O
+könnyedén	O
+él	O
+.	O
+
+Ettől	O
+jobban	O
+érzem	O
+magam	O
+.	O
+
+De	O
+nem	O
+lehetünk	O
+azok	O
+.	O
+
+Nem	O
+sajnálom	O
+,	O
+hogy	O
+nem	O
+egy	O
+tolvajként	O
+halok	O
+meg	O
+.	O
+
+De	O
+tényleg	O
+ezt	O
+érzem	O
+.	O
+
+Ezt	O
+lehetet	O
+lenne	O
+folytatni	O
+,	O
+különben	O
+is	O
+normális	O
+életre	O
+van	O
+szükségem	O
+.	O
+
+Jó	O
+testvér	O
+vagy	O
+.	O
+
+Találjuk	O
+meg	O
+az	O
+elfelejtett	O
+életet	O
+.	O
+
+Segítsd	O
+őt	O
+.	O
+
+A	O
+kettő	B-CARDINAL
+jobb	O
+mint	O
+az	O
+egy	B-CARDINAL
+.	O
+
+Nem	O
+bízok	O
+meg	O
+bárkiben	O
+.	O
+
+Komoly	O
+vagyok	O
+.	O
+
+Mellesleg	O
+miért	O
+hagynálak	O
+el	O
+?	O
+
+Jó	O
+kérdés	O
+,	O
+ha	O
+szeretlek	O
+téged	O
+.	O
+
+Ok	O
+,	O
+tanítani	O
+foglak	O
+mint	O
+te	O
+engem	O
+.	O
+
+Ígérd	O
+meg	O
+nekem	O
+.	O
+
+Minden	O
+jó	O
+lesz	O
+.	O
+
+Miután	O
+annyira	O
+szeretlek	O
+,	O
+ne	O
+aggódj	O
+.	O
+
+Hogy	O
+van	O
+a	O
+húgom.	O
+?	O
+
+Felejtsd	O
+el	O
+azt	O
+az	O
+embert	O
+.	O
+
+Ne	O
+aggódj	O
+a	O
+férfi	O
+,	O
+megváltoztathatja	O
+környezetét	O
+.	O
+
+Rossz	O
+emberként	O
+viselkedtem	O
+.	O
+
+Ígérd	O
+meg	O
+neki	O
+,	O
+hogy	O
+segíted	O
+őt	O
+.	O
+
+Egy	O
+jó	O
+lány	O
+vagy	O
+,	O
+segíts	O
+neki	O
+.	O
+
+Próbáld	O
+elképzelni	O
+:	O
+ami	O
+nem	O
+jó	O
+neki	O
+neked	O
+sem	O
+lehet	O
+az	O
+.	O
+
+Húgodnak	O
+és	O
+férjének	O
+kezében	O
+...	O
+
+El	O
+fogok	O
+hallgatni	O
+.	O
+
+Nem	O
+fogok	O
+engedni	O
+neki	O
+.	O
+
+Először	O
+megölöm	O
+őket	O
+.	O
+
+Nem	O
+megyek	O
+hozzád	O
+,	O
+ha	O
+meg	O
+akarsz	O
+ölni	O
+valakit	O
+.	O
+
+Nem	O
+értesz	O
+engem	O
+?	O
+
+Ha	O
+nem	O
+leszel	O
+jó	O
+hozzám	O
+,	O
+öngyilkos	O
+leszek	O
+.	O
+
+Mikor	O
+veszel	O
+el	O
+?	O
+
+Ne	O
+aggódj	O
+,	O
+nem	O
+hagyom	O
+hogy	O
+bárki	O
+is	O
+hozzád	O
+érjen	O
+.	O
+
+Ne	O
+törd	O
+magad	O
+Ka	B-PER
+,	O
+nem	O
+fogok	O
+fájdalmat	O
+okozni	O
+neked	O
+.	O
+
+De	O
+nagyon	O
+jól	O
+tudom	O
+,	O
+hogy	O
+nem	O
+fog	O
+téged	O
+boldoggá	O
+teni	O
+.	O
+
+Olyan	O
+mint	O
+egy	O
+mérges	O
+kígyó	O
+.	O
+
+Szeret	O
+jó	O
+mondásokat	O
+mondani	O
+.	O
+
+Mit	O
+csinálsz	O
+ott	O
+?	O
+
+Újra	O
+közmondásokat	O
+mondasz	O
+?	O
+
+Ne	O
+forralj	O
+több	O
+vizet	O
+.	O
+
+Azt	O
+mondtad	O
+este	O
+jössz	O
+.	O
+
+Nem	O
+a	O
+te	O
+dolgod	O
+,	O
+hogy	O
+mikor	O
+jövök	O
+haza	O
+.	O
+
+Ka	B-PER
+,	O
+felejstd	O
+el	O
+őt	O
+.	O
+
+Úgy	O
+kezelted	O
+őt	O
+mint	O
+egy	O
+rabszolgát	O
+éveken	B-DATE
+át	I-DATE
+.	O
+
+Ő	O
+most	O
+az	O
+enyém	O
+.	O
+
+Mikor	O
+vetted	O
+meg	O
+őt	O
+?	O
+
+Mennyit	O
+fizettél	O
+?	O
+
+Nagyon	O
+szörnyű	O
+.	O
+
+Még	O
+mindig	O
+nem	O
+érted	O
+,	O
+ugrat	O
+téged	O
+.	O
+
+Hogy	O
+haragra	O
+gerjesztsen	O
+téged	O
+.	O
+
+Nem	O
+vernek	O
+át	O
+.	O
+
+Óvatosnak	O
+kell	O
+lenned	O
+.	O
+
+Nagyszerű	O
+esküvőt	O
+rendezek	O
+neked	O
+.	O
+
+Nagyszerű	O
+esküvőt	O
+?	O
+
+Hogy	O
+vagy	O
+vénember	O
+?	O
+
+Tényleg	O
+szereted	O
+ezt	O
+az	O
+életet	O
+?	O
+
+Gondolom	O
+,	O
+hogy	O
+ráér	O
+.	O
+
+Kész	O
+vagy	O
+,	O
+hogy	O
+felmondj	O
+?	O
+
+Nem	O
+vagyok	O
+egy	O
+függöny	O
+.	O
+
+Úgy	O
+öltözöl	O
+mint	O
+egy	O
+vendég	O
+.	O
+
+De	O
+azt	O
+gondolom	O
+nem	O
+vagy	O
+egy	O
+jó	O
+ember	O
+.	O
+
+Nem	O
+vagyok	O
+olyan	O
+szörnyű	O
+mint	O
+te	O
+.	O
+
+Ne	O
+fenyegess	O
+engem	O
+.	O
+
+A	O
+nagybátyám	O
+egy	O
+őrmester	O
+.	O
+
+Mielőtt	O
+bármi	O
+történik	O
+,	O
+elmegyek	O
+.	O
+
+Minden	O
+rossz	O
+fickó	O
+szeretőt	O
+tart	O
+.	O
+
+De	O
+ha	O
+elmentek	O
+,	O
+neked	O
+véged	O
+.	O
+
+Elmész	O
+?	O
+
+Itt	O
+az	O
+ideje	O
+.	O
+
+Igen	O
+,	O
+menj	O
+ebben	O
+a	O
+percben	O
+.	O
+
+Rutinos	O
+vagyok	O
+.	O
+
+Épp	O
+jókor	O
+lépek	O
+le	O
+,	O
+hogy	O
+elkerüljem	O
+hogy	O
+letartótassanak	O
+.	O
+
+A	O
+feleségemnek	O
+viszonya	O
+volt	O
+a	O
+munkásommal	O
+.	O
+
+Ő	O
+jó	O
+a	O
+sakkban	O
+és	O
+a	O
+harcban	O
+.	O
+
+Nem	O
+verhetem	O
+meg	O
+.	O
+
+Meg	O
+akarom	O
+ölni	O
+a	O
+feleségem	O
+.	O
+
+Aztán	O
+ha	O
+megtisztultam	O
+,	O
+lelépek	O
+.	O
+
+Olyan	O
+okos	O
+mint	O
+te	O
+.	O
+
+De	O
+a	O
+bolt	O
+...	O
+zárva	O
+lesz	O
+egy	B-DATE
+napig	I-DATE
+.	O
+
+Továbbá	O
+nem	O
+szeretek	O
+dolgozni	O
+.	O
+
+Végül	O
+olyan	O
+leszek	O
+mint	O
+ez	O
+.	O
+
+Unom	O
+ezeket	O
+a	O
+hazugságokat	O
+.	O
+
+Mit	O
+mondtál	O
+neki	O
+?	O
+
+Nem	O
+hazudtam	O
+,	O
+te	O
+meséltél	O
+neki	O
+a	O
+templomról	O
+.	O
+
+Meg	O
+fogom	O
+találni	O
+.	O
+
+Dolgoznom	O
+kell	O
+ma	B-DATE
+,	O
+segíteni	O
+valakinek	O
+egy	O
+autó	O
+balesetbe	O
+.	O
+
+Nem	O
+iszok	O
+több	O
+alkoholt	O
+.	O
+
+Nézd	O
+.	O
+
+Kerestem	O
+13	B-MONEY
+centeet	I-MONEY
+.	O
+
+Segítek	O
+neked	O
+inni	O
+vagy	O
+játszani	O
+.	O
+
+Mi	O
+,	O
+ez	O
+az	O
+út	O
+szabad	O
+.	O
+
+Miért	O
+csúfolod	O
+ki	O
+őt	O
+?	O
+
+Imádkozz	O
+Istenhez	B-PER
+hogy	O
+könnyítsen	O
+fájdalmon	O
+,	O
+és	O
+Buddha	B-PER
+megáldhat	O
+téged	O
+.	O
+
+Vesztettem	O
+,	O
+tegnap	B-DATE
+mindent	O
+elvesztettem	O
+.	O
+
+Öreg	O
+ember	O
+ez	O
+a	O
+világ	O
+olyan	O
+furcsa	O
+.	O
+
+Találkozni	O
+egy	O
+műszaki	O
+emberrel	O
+.	O
+
+Nyitottabb	O
+vagy	O
+.	O
+
+Régen	O
+jó	O
+gyerek	O
+voltam	O
+.	O
+
+Mindenki	O
+a	O
+testvérének	O
+hívott	O
+.	O
+
+Mitől	O
+változtál	O
+meg	O
+?	O
+
+Miután	O
+más	O
+vagy	O
+.	O
+
+Olyan	O
+jó	O
+és	O
+olyan	O
+okos	O
+,	O
+miért	O
+...	O
+
+55	B-DATE
+hónapot	I-DATE
+börtönben	O
+voltam	O
+.	O
+
+Megöltem	O
+egy	O
+undorító	O
+személyt	O
+.	O
+
+Amiatt	O
+tartóztattak	O
+le	O
+?	O
+
+És	O
+van	O
+egy	O
+ajánlatom	O
+.	O
+
+Foe	B-PER
+egy	O
+nő	O
+?	O
+
+Felejstd	O
+el	O
+,	O
+mi	O
+volt	O
+10	B-DATE
+évvel	I-DATE
+ezelőtt	I-DATE
+.	O
+
+Egy	O
+play	O
+boy	O
+vagy	O
+.	O
+
+Teljesen	O
+különbözöl	O
+tőle	O
+.	O
+
+Gyorsan	O
+felhasználja	O
+ezt	O
+.	O
+
+Sim	B-PER
+mit	O
+csinálsz	O
+?	O
+
+Gondolkodom	O
+.	O
+
+Az	O
+összes	O
+pénzt	O
+a	O
+temetésre	O
+költöttem	O
+.	O
+
+Én	O
+tanítalak	O
+,	O
+nem	O
+dolgozol	O
+és	O
+valaki	O
+segítségét	O
+várod	O
+.	O
+
+Bárki	O
+csinálhatná	O
+ezt	O
+.	O
+
+Nem	O
+jó	O
+.	O
+
+Jó	O
+neked	O
+,	O
+hogy	O
+feladd	O
+?	O
+
+Egy	O
+reményveszett	O
+személy	O
+vagy	O
+.	O
+
+Mint	O
+Ka	B-PER
+.	O
+
+Ez	O
+nem	O
+egy	O
+normális	O
+dolog	O
+.	O
+

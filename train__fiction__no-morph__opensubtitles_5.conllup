@@ -1,0 +1,1351 @@
+# global.columns = FORM ONPP:NER
+Bármilyen	O
+autó	O
+jó	O
+.	O
+
+Tűzoltóautó	O
+,	O
+mentő	O
+,	O
+traktor	O
+,	O
+amit	O
+csak	O
+szerezni	O
+tud	O
+.	O
+
+Adjon	O
+reményt	O
+,	O
+ahol	O
+már	O
+nincs	O
+remény	O
+.	O
+
+Csak	O
+mi	O
+ketten	O
+?	O
+
+Körülöttünk	O
+minden	O
+kihalt	O
+.	O
+
+Megpróbálom	O
+.	O
+
+Tudja	O
+,	O
+hogy	O
+szeretem	O
+magát	O
+.	O
+
+Én	O
+sose	O
+táncolok	O
+,	O
+elnézést	O
+.	O
+
+Sok	O
+mindent	O
+ettem	O
+már	O
+életemben	O
+,	O
+de	O
+arany	O
+mogyorót	O
+még	O
+soha	O
+.	O
+
+Nocsak	O
+,	O
+egy	O
+levél	O
+!	O
+
+Biztosan	O
+a	O
+születésnapi	O
+köszöntés	O
+.	O
+
+Gratuláció	O
+.	O
+
+Hol	O
+a	O
+mókus	O
+?	O
+
+Hol	O
+a	O
+mókusom	O
+?	O
+
+Dehogy	O
+azt	O
+hidd	O
+,	O
+hogy	O
+én	O
+...	O
+
+Levél	O
+is	O
+volt	O
+benne	O
+,	O
+valami	O
+Borisz	B-PER
+írta	O
+.	O
+
+Mókuska	B-PER
+,	O
+egyetlenem	O
+,	O
+minden	O
+jót	O
+kívánok	O
+neked	O
+a	O
+születésnapodon	O
+.	O
+
+Ma	B-DATE
+18	B-DATE
+éve	I-DATE
+jöttél	O
+a	O
+világra	O
+.	O
+
+Nehezemre	O
+esik	O
+elhagyni	O
+téged	O
+,	O
+de	O
+nem	O
+tehetek	O
+róla	O
+,	O
+háború	O
+van	O
+.	O
+
+Nem	O
+lehetünk	O
+boldogok	O
+.	O
+
+Nem	O
+élhetjük	O
+a	O
+magunk	O
+életet	O
+,	O
+amikor	O
+körülöttünk	O
+tízezrek	O
+halnak	O
+meg	O
+.	O
+
+De	O
+egyszer	O
+majd	O
+boldogok	O
+leszünk	O
+.	O
+
+Szeretlek	O
+,	O
+bízom	O
+benned	O
+,	O
+a	O
+te	O
+Boriszod	B-PER
+.	O
+
+Kár	O
+volt	O
+fölizgatnod	O
+magad	O
+.	O
+
+Menj	O
+haza	O
+.	O
+
+Én	O
+is	O
+megyek	O
+mindjárt	O
+.	O
+
+Mi	O
+volt	O
+ez	O
+?	O
+
+Az	O
+a	O
+helyzet	O
+,	O
+hogy	O
+a	O
+filharmónia	O
+összes	O
+kocsija	O
+úton	O
+van	O
+,	O
+azonnal	O
+szükségem	O
+lenne	O
+egy	O
+autóra	O
+és	O
+arra	O
+gondoltam	O
+,	O
+kiutalhatna	O
+egy	O
+mentőautót	O
+.	O
+
+Még	O
+a	O
+betegszállítást	O
+se	O
+tudjuk	O
+megoldani	O
+.	O
+
+Én	O
+is	O
+oldottam	O
+már	O
+meg	O
+nehéz	O
+feladatot	O
+.	O
+
+Mennyit	O
+kilincseltem	O
+,	O
+amikor	O
+megkért	O
+...	O
+
+Mit	O
+kértem	O
+én	O
+?	O
+
+A	O
+felmentést	O
+.	O
+
+A	B-DATE
+napokban	I-DATE
+jár	O
+le	O
+,	O
+és	O
+ilyen	O
+körülmények	O
+közt	O
+lehetetlen	O
+lesz	O
+a	O
+megújítása	O
+.	O
+
+Milyen	O
+felmentésről	O
+beszél	O
+?	O
+
+Mark	B-PER
+Alekszandrovicséról	I-PER
+.	O
+
+Biztos	O
+lehet	O
+benne	O
+,	O
+hogy	O
+diszkréten	O
+kezelem	O
+az	O
+ügyet	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+önt	O
+nem	O
+tájékoztatta	O
+róla	O
+?	O
+
+Még	O
+pénzt	O
+is	O
+ajánlott	O
+az	O
+ön	O
+nevében	O
+.	O
+
+Pardon	O
+.	O
+
+Jó	O
+,	O
+hogy	O
+itt	O
+vagy	O
+,	O
+Fegya	B-PER
+bácsi	O
+.	O
+
+Kérlek	O
+,	O
+beszélj	O
+vele	O
+.	O
+
+Beront	O
+egy	O
+idegen	O
+lakásba	O
+és	O
+pofozkodik	O
+...	O
+
+Csukd	O
+be	O
+az	O
+ajtót	O
+.	O
+
+Mit	O
+gondolsz	O
+,	O
+van	O
+a	O
+világon	O
+egyetlen	O
+apa	O
+,	O
+aki	O
+könnyű	O
+szívvel	O
+küldi	O
+ki	O
+a	O
+fiát	O
+a	O
+frontra	O
+?	O
+
+Nem	O
+értelek	O
+.	O
+
+De	O
+azt	O
+érted	O
+,	O
+hogy	O
+a	O
+te	O
+kényelmedért	O
+,	O
+a	O
+te	O
+életedért	O
+,	O
+más	O
+áldozza	O
+fel	O
+a	O
+kezét	O
+,	O
+lábát	O
+,	O
+szeme	O
+világát	O
+,	O
+az	O
+életét	O
+?	O
+
+És	O
+cserébe	O
+te	O
+nem	O
+adsz	O
+semmit	O
+?	O
+
+Ha	O
+egyszer	O
+felmentésem	O
+van	O
+.	O
+
+És	O
+hogy	O
+szerezted	O
+?	O
+
+Mit	O
+akarsz	O
+tenni	O
+,	O
+Veronika	B-PER
+?	O
+
+Elmegyek	O
+.	O
+
+Bérelek	O
+egy	O
+szobát	O
+,	O
+és	O
+elviszem	O
+a	O
+kisfiút	O
+.	O
+
+Inkább	O
+más	O
+valaki	O
+költözik	O
+el	O
+!	O
+
+Boldogan	O
+.	O
+
+Legalább	O
+megszabadulok	O
+tőletek	O
+.	O
+
+Miért	O
+nem	O
+dobott	O
+ki	O
+akkor	O
+?	O
+
+Mert	O
+szerencsétlenség	O
+történt	O
+veled	O
+.	O
+
+Aki	O
+megítél	O
+,	O
+nagyobb	O
+gonoszságra	O
+is	O
+képes	O
+.	O
+
+Maradj	O
+velünk	O
+.	O
+
+Nem	O
+bírok	O
+.	O
+
+Nem	O
+bújhatok	O
+más	O
+háta	O
+mögé	O
+tovább	O
+.	O
+
+Elég	O
+volt	O
+.	O
+
+Gondold	O
+meg	O
+.	O
+
+Borozgyinék	B-PER
+ebben	O
+a	O
+barakkban	O
+laknak	O
+?	O
+
+Kit	O
+keres	O
+?	O
+
+Fjodor	B-PER
+lvanovicsot	I-PER
+.	O
+
+Ő	O
+még	O
+nincs	O
+itthon	O
+.	O
+
+Borisztól	B-PER
+jött	O
+?	O
+
+Csak	O
+magamtól	O
+jöttem	O
+.	O
+
+Dolgom	O
+van	O
+Fjodor	B-PER
+lvaniccsal	I-PER
+.	O
+
+Akkor	O
+üljön	O
+le	O
+.	O
+
+Pár	B-TIME
+percen	I-TIME
+belül	I-TIME
+itt	O
+lesz	O
+.	O
+
+Kimehetek	O
+egy	O
+kicsit	O
+?	O
+
+Magáé	O
+?	O
+
+Az	O
+enyém	O
+.	O
+
+Nagyon	O
+hasonlít	O
+.	O
+
+Maga	O
+Borozgyinék	B-PER
+rokona	O
+?	O
+
+Nekem	O
+véget	O
+ért	O
+a	O
+háború	O
+.	O
+
+Haza	O
+készül	O
+?	O
+
+Leningrádba	B-GPE
+még	O
+nem	O
+lehet	O
+.	O
+
+Nehéz	O
+feladat	O
+vár	O
+rám	O
+.	O
+
+Miért	O
+?	O
+
+Magának	O
+elmondhatom	O
+,	O
+nem	O
+tartozik	O
+hozzájuk	O
+.	O
+
+Fjodor	B-PER
+lvanovics	I-PER
+fia	O
+elesett	O
+.	O
+
+Hol	O
+történt	O
+?	O
+
+Szmolenszk	B-GPE
+közelében	O
+.	O
+
+Mit	O
+játsszak	O
+magának	O
+?	O
+
+Amit	O
+akar	O
+.	O
+
+Látta	O
+,	O
+amikor	O
+eltemették	O
+?	O
+
+Engem	O
+rögtön	O
+hordágyra	O
+tettek	O
+és	O
+kórházba	O
+vittek	O
+.	O
+
+A	O
+barátja	O
+volt	O
+vele	O
+,	O
+Sztyepan	B-PER
+.	O
+
+Sztyepan	B-PER
+...	O
+
+A	O
+menyasszonyát	O
+is	O
+meg	O
+kell	O
+keresnem	O
+.	O
+
+Hogy	O
+szerette	O
+szegény	O
+!	O
+
+Én	O
+vagyok	O
+.	O
+
+Látogass	O
+meg	O
+,	O
+ha	O
+Moszkvában	B-GPE
+jársz	O
+,	O
+Vologya	B-PER
+.	O
+
+Köszönöm	O
+,	O
+úgy	O
+lesz	O
+.	O
+
+Újra	O
+béke	O
+van	O
+.	O
+
+Különös	O
+érzés	O
+.	O
+
+Maga	O
+még	O
+mindig	O
+várja	O
+.	O
+
+Várom	O
+.	O
+
+Mi	O
+éltesse	O
+az	O
+embert	O
+,	O
+ha	O
+nem	O
+a	O
+remény	O
+?	O
+
+Mi	O
+értelme	O
+várni	O
+?	O
+
+A	O
+saját	O
+szememmel	O
+láttam	O
+.	O
+
+Mit	O
+látott	O
+?	O
+
+Hogy	O
+megsebesült	O
+.	O
+
+Összeesett	O
+.	O
+
+Azt	O
+nem	O
+,	O
+hogy	O
+meghalt	O
+és	O
+eltemették	O
+.	O
+
+Azt	O
+nem	O
+.	O
+
+De	O
+ha	O
+élne	O
+,	O
+már	O
+régen	O
+hírt	O
+adott	O
+volna	O
+magáról	O
+.	O
+
+Bármi	O
+történhetett	O
+.	O
+
+Sztyepan	B-PER
+se	O
+írt	O
+senkinek	O
+.	O
+
+Csak	O
+azt	O
+tudják	O
+,	O
+hogy	O
+különleges	O
+feladatot	O
+kapott	O
+.	O
+
+Dasa	B-PER
+majd	O
+értesít	O
+,	O
+ha	O
+visszajön	O
+.	O
+
+Borisz	B-PER
+él	O
+.	O
+
+Nézzétek	O
+!	O
+
+Jönnek	O
+a	O
+győztesek	O
+!	O
+
+Kolja	B-PER
+,	O
+életem	O
+,	O
+hát	O
+megjöttél	O
+!	O
+
+Szép	O
+csokor	O
+.	O
+
+Legyen	O
+a	O
+tiéd	O
+.	O
+
+No	O
+?	O
+
+Mi	O
+újság	O
+?	O
+
+Tudod	O
+...	O
+
+Szóval	O
+...	O
+
+Drágám	O
+!	O
+
+Drága	O
+édesanyák	O
+,	O
+apák	O
+,	O
+testvérek	O
+!	O
+
+Ezt	O
+az	O
+örömöt	O
+a	O
+győzelem	O
+hozta	O
+meg	O
+.	O
+
+Mióta	O
+várjuk	O
+ezt	O
+a	O
+pillanatot	O
+!	O
+
+Erről	O
+álmodtunk	O
+a	O
+legnehezebb	O
+percekben	O
+!	O
+
+És	O
+most	O
+emlékezzünk	O
+azokra	O
+,	O
+akik	O
+nem	O
+jöhettek	O
+haza	O
+velünk	O
+.	O
+
+De	O
+néhány	B-DATE
+év	I-DATE
+alatt	I-DATE
+újra	O
+felépítjük	O
+a	O
+városokat	O
+,	O
+és	O
+elmúlnak	O
+a	O
+háború	O
+ütötte	O
+sebek	O
+.	O
+
+Csak	O
+a	O
+háború	O
+iránti	O
+gyűlöletünk	O
+nem	O
+múlik	O
+el	O
+soha	O
+!	O
+
+Átérezzük	O
+azok	O
+bánatát	O
+,	O
+akik	O
+ma	B-DATE
+hiába	O
+várnak	O
+szeretteikre	O
+.	O
+
+Mindent	O
+megteszünk	O
+azért	O
+,	O
+hogy	O
+többé	O
+ne	O
+legyen	O
+olyan	O
+menyasszony	O
+,	O
+aki	O
+hiába	O
+várja	O
+vissza	O
+vőlegényét	O
+,	O
+ne	O
+legyen	O
+olyan	O
+anya	O
+,	O
+akinek	O
+rettegnie	O
+kell	O
+a	O
+fiáért	O
+,	O
+ne	O
+legyen	O
+olyan	O
+férj	O
+és	O
+apa	O
+,	O
+aki	O
+titokban	O
+nyeli	O
+fájó	O
+könnyeit	O
+.	O
+
+Mi	O
+győztünk	O
+és	O
+életben	O
+maradtunk	O
+,	O
+és	O
+nem	O
+akarunk	O
+többé	O
+rombolást	O
+!	O
+
+Új	O
+,	O
+szebb	O
+világot	O
+akarunk	O
+építeni	O
+!	O
+
+Mit	O
+állsz	O
+itt	O
+?	O
+
+Miért	O
+nem	O
+adod	O
+a	O
+virágot	O
+azoknak	O
+,	O
+akiknek	O
+hoztad	O
+?	O
+
+Köszönöm	O
+,	O
+angyalom	O
+.	O
+
+Te	O
+kis	O
+drága	O
+!	O
+
+Nincs	O
+is	O
+ennél	O
+szebb	O
+dolog	O
+!	O
+
+Szállnak	O
+a	O
+darvak	O
+Moszkva	B-GPE
+felett	O
+!	O
+
+Vége	O
+Munkát	O
+befejez	O
+!	O
+
+Kunyhóba	O
+!	O
+
+Okos	O
+húzás	O
+!	O
+
+Még	O
+elfutnak	O
+az	O
+új	O
+foglyok	O
+,	O
+ha	O
+sírt	O
+ásunk	O
+.	O
+
+Nincs	O
+idő	O
+viccre	O
+!	O
+
+Ás	O
+,	O
+ás	O
+!	O
+
+Nem	O
+mehetünk	O
+gyengélkedőre	O
+?	O
+
+Százados	O
+,	O
+küldjön	O
+a	O
+kórházba	O
+!	O
+
+Te	O
+nem	O
+vagy	O
+beteg	O
+.	O
+
+Sosem	O
+vagy	O
+beteg	O
+.	O
+
+Mióta	O
+játszol	O
+beteget	O
+,	O
+Shears	B-PER
+?	O
+
+Nem	O
+akarok	O
+ilyet	O
+a	O
+fejem	O
+fölé	O
+.	O
+
+Százados	O
+!	O
+
+Egy	O
+csikket	O
+?	O
+
+Adtam	O
+csikket	O
+reggel	O
+.	O
+
+Kettőt	O
+.	O
+
+Épp	O
+ez	O
+az	O
+!	O
+
+Viszonozni	O
+szeretném	O
+.	O
+
+Ha	O
+valaki	O
+jó	O
+szívvel	O
+ad	O
+valamit	O
+mint	O
+maga	O
+a	O
+csikket	O
+,	O
+arra	O
+szívből	O
+emlékezem	O
+.	O
+
+Ezért	O
+fogadja	O
+el	O
+ezt	O
+az	O
+öngyújtót	O
+.	O
+
+Azt	O
+hiszi	O
+,	O
+loptam	O
+?	O
+
+Azé	O
+az	O
+angol	B-NORP
+srácé	O
+volt	O
+.	O
+
+Nekem	O
+adta	O
+egy	O
+szívességért	O
+.	O
+
+Én	O
+meg	O
+magának	O
+,	O
+mielőtt	O
+kinyúlok	O
+.	O
+
+Te	O
+vicces	O
+ember	O
+vagy	O
+,	O
+Shears	B-PER
+!	O
+
+Mehet	O
+gyengélkedőre	O
+.	O
+
+Ő	O
+is	O
+.	O
+
+Ha	O
+Szaitó	B-PER
+ezredes	O
+rájön	O
+,	O
+hogy	O
+kened	O
+mi	O
+lesz	O
+velünk	O
+?	O
+
+Addigra	O
+elmegyünk	O
+innen	O
+,	O
+haver	O
+.	O
+
+Jó	O
+messzire	O
+!	O
+
+Na	O
+,	O
+fejezzük	O
+be	O
+!	O
+
+Itt	O
+nyugszik	O
+...	O
+
+Elfelejtettem	O
+.	O
+
+Ki	O
+is	O
+?	O
+
+Thomson	B-PER
+.	O
+
+Ja	O
+,	O
+igen	O
+!	O
+
+Thomson	B-PER
+tizedes	O
+.	O
+
+Azonosítási	O
+száma	O
+01234567	B-ID
+.	O
+
+A	O
+Király	B-PER
+vagy	O
+a	O
+Királyné	B-PER
+ilyen-olyan	O
+ezredének	O
+tagja	O
+.	O
+
+Meghalt	O
+beriberiben	O
+az	O
+Úr	B-PER
+1943.	B-DATE
+évében	I-DATE
+.	O
+
+Hogy	O
+dicsőséget	O
+...	O
+
+Miért	O
+halt	O
+meg	O
+?	O
+
+Ne	O
+!	O
+
+Ne	O
+gúnyold	O
+a	O
+sírját	O
+!	O
+
+Nem	O
+a	O
+sírját	O
+,	O
+nem	O
+is	O
+őt	O
+.	O
+
+Nyugodjék	O
+békében	O
+!	O
+
+Életében	O
+úgysem	O
+lelte	O
+meg	O
+.	O
+
+A-	B-DATE
+század	I-DATE
+,	O
+helyben	O
+járás	O
+!	O
+
+Helyben	O
+járás	O
+!	O
+
+Állj	O
+!	O
+
+Vonalba	O
+fejlődj	O
+,	O
+balra	O
+át	O
+!	O
+
+Pihenj	O
+!	O
+
+Lesz	O
+kinek	O
+sírt	O
+ásni	O
+,	O
+Weaver	B-PER
+.	O
+
+Még	O
+nem	O
+tudja	O
+,	O
+mi	O
+vár	O
+rá	O
+.	O
+
+Elmondja	O
+neki	O
+,	O
+kapitány	O
+?	O
+
+Természetesen	O
+nem	O
+.	O
+
+Se	O
+tiszt	O
+,	O
+se	O
+úriember	O
+.	O
+
+Nicholson	B-PER
+.	O
+

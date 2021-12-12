@@ -1,0 +1,1426 @@
+# global.columns = FORM ONPP:NER
+Nos	O
+,	O
+soha	O
+nem	O
+mennék	O
+át	O
+vizsgálaton	O
+,	O
+a	O
+Brooks	B-FAC
+Field-en	I-FAC
+sohasem	O
+.	O
+
+Lát	O
+valamit	O
+az	O
+orromon	O
+,	O
+Bibbs	B-PER
+?	O
+
+Nem	O
+tudja	O
+mi	O
+az	O
+?	O
+
+Olaj	O
+,	O
+uram	O
+.	O
+
+Nos	O
+,	O
+Bibbs	B-PER
+,	O
+mit	O
+tehetnénk	O
+vele	O
+?	O
+
+Mit	O
+javasol	O
+,	O
+Bibbs	B-PER
+?	O
+
+Azt	O
+javaslom	O
+,	O
+törölje	O
+le	O
+az	O
+orrát	O
+,	O
+uram	O
+.	O
+
+Azt	O
+,	O
+mi	O
+!	O
+
+?	O
+
+Rendben	O
+,	O
+emberek	O
+,	O
+elmondom	O
+még	O
+egyszer	O
+!	O
+
+Néhányan	O
+úgy	O
+gondolják	O
+,	O
+hogy	O
+ezek	O
+a	O
+gépek	O
+szemetes	O
+kannák	O
+.	O
+
+Maguk	O
+nem	O
+vigyáznak	O
+rájuk	O
+!	O
+
+Szeretjük	O
+őket	O
+,	O
+csiszoljuk	O
+őket	O
+,	O
+fényesítjük	O
+őket	O
+,	O
+formában	O
+tartjuk	O
+őket	O
+!	O
+
+A	O
+piszkos	O
+repülőgép	O
+a	O
+hanyag	O
+pilóta	O
+bűne	O
+,	O
+és	O
+én	O
+nem	O
+fogok	O
+hanyag	O
+pilótákat	O
+,	O
+kiképezni	O
+ezen	O
+a	O
+reptéren	O
+!	O
+
+Nem	O
+teheti	O
+hogy	O
+leszáll	O
+ide	O
+.	O
+
+Nem	O
+tudja	O
+,	O
+mi	O
+ez	O
+a	O
+reptér	O
+?	O
+
+Ez	O
+Brooks	B-FAC
+Field	I-FAC
+,	O
+nemde	O
+,	O
+uram	O
+?	O
+
+Ez	O
+a	O
+hadsereg	O
+területe	O
+!	O
+
+Tehát	O
+ki	O
+innen	O
+!	O
+
+Ide	O
+helyeztek	O
+,	O
+mint	O
+repülő	O
+kadétot	O
+,	O
+uram	O
+.	O
+
+Ó	O
+,	O
+nem	O
+.	O
+
+Mit	O
+gondol	O
+,	O
+hogy	O
+érzem	O
+magam	O
+?	O
+
+Letettem	O
+a	O
+vizsgákat	O
+a	O
+Chanute	B-FAC
+Field-en	I-FAC
+,	O
+Illinois-ban	B-GPE
+,	O
+uram	O
+.	O
+
+Elég	O
+törékeny	O
+,	O
+nem	O
+igaz	O
+?	O
+
+A	O
+papírok	O
+szerint	O
+ide	O
+helyezték	O
+.	O
+
+Oké	O
+,	O
+de	O
+nem	O
+fogom	O
+eltűrni	O
+ezt	O
+a	O
+mocsokládát	O
+ezen	O
+a	O
+reptéren	O
+!	O
+
+Ó	O
+,	O
+igazán	O
+nagyon	O
+jó	O
+kis	O
+gép	O
+,	O
+uram	O
+.	O
+
+Úgy	O
+repül	O
+,	O
+mint	O
+egy	O
+álom	O
+és	O
+soha	O
+nem	O
+hagy	O
+cserben	O
+.	O
+
+Mocskos	O
+!	O
+
+Vigye	O
+innen	O
+!	O
+
+Amire	O
+szüksége	O
+van	O
+,	O
+az	O
+a	O
+festés	O
+és	O
+néhány	O
+csavar	O
+,	O
+szavamra	O
+Ő	O
+...	O
+
+Vigye	O
+innen	O
+.	O
+
+Tolja	O
+,	O
+húzza	O
+,	O
+vontassa	O
+,	O
+de	O
+ki	O
+innen	O
+,	O
+most	O
+!	O
+
+Elnézést	O
+,	O
+uram	O
+,	O
+de	O
+van	O
+egy	O
+kis	O
+valami	O
+az	O
+orrán	O
+.	O
+
+Menjen	O
+már	O
+!	O
+
+Én	O
+türelmes	O
+ember	O
+vagyok	O
+,	O
+de	O
+pontosan	B-DUR
+30	I-DUR
+másodpercet	I-DUR
+kap	O
+,	O
+hogy	O
+ezt	O
+a	O
+disznóólat	O
+eltüntesse	O
+innen	O
+.	O
+
+Ha	O
+még	O
+egyszer	O
+idehozza	O
+ezt	O
+a	O
+koszlott	O
+roncsot	O
+a	O
+reptérre	O
+,	O
+én	O
+lövöm	O
+le	O
+magát	O
+személyesen	O
+!	O
+
+Tizennyolcadik	B-TIME
+óra	I-TIME
+.	O
+
+Már	O
+18	B-TIME
+órája	I-TIME
+repülök	O
+.	O
+
+Jég	O
+!	O
+
+A	O
+Spirit	B-PROD
+nem	O
+tud	O
+repülni	O
+jéggel	O
+a	O
+szárnyain	O
+!	O
+
+Mióta	O
+jegesedünk	O
+?	O
+
+Gyorsan	O
+rátapadt	O
+,	O
+túl	O
+gyorsan	O
+.	O
+
+Miért	O
+nem	O
+láttam	O
+ezt	O
+a	O
+hamarabb	O
+?	O
+
+Gyerünk	O
+,	O
+másszunk	O
+ki	O
+ebből	O
+,	O
+mielőtt	O
+túl	O
+nehéz	O
+lesz	O
+.	O
+
+Átesel	O
+!	O
+
+Fordulj	O
+meg	O
+.	O
+
+Ki	O
+kell	O
+jutni	O
+innen	O
+.	O
+
+Menj	O
+vissza	O
+a	O
+melegebb	O
+levegőbe	O
+.	O
+
+A	O
+jég	O
+lefojtja	O
+a	O
+karburátort	O
+.	O
+
+Égesd	O
+ki	O
+.	O
+
+Utógyújtást	O
+!	O
+
+Kirobbantani	O
+a	O
+dugulást	O
+!	O
+
+Nos	O
+,	O
+nem	O
+tudok	O
+vele	O
+tartani	O
+többé	O
+.	O
+
+Lemegyünk	O
+Gumi	O
+tutaj	O
+,	O
+pumpa	O
+,	O
+fáklyák	O
+,	O
+víztartály	O
+.	O
+
+Hol	O
+a	O
+kés	O
+?	O
+
+Most	O
+fordulj	O
+meg	O
+.	O
+
+Menj	O
+vissza	O
+az	O
+irányra	O
+.	O
+
+Valami	O
+baj	O
+van	O
+a	O
+földi	O
+iránytűvel	O
+.	O
+
+Fel	O
+kell	O
+olvasztani	O
+.	O
+
+A	O
+mágneses	O
+.	O
+
+A	O
+mágneses	O
+egészen	O
+megkergült	O
+.	O
+
+Mi	O
+történt	O
+itt	O
+mindennel	O
+?	O
+
+Rendben	O
+,	O
+repüljünk	O
+a	O
+csillagok	O
+szerint	O
+.	O
+
+Keressük	O
+meg	O
+a	O
+Nagy	B-LOC
+Göncölt	I-LOC
+.	O
+
+A	O
+csillagok	O
+ott	O
+vannak	O
+valahol	O
+.	O
+
+Mindig	O
+is	O
+ott	O
+voltak	O
+.	O
+
+Felmászni	O
+,	O
+és	O
+ott	O
+maradni	O
+.	O
+
+Az	O
+apró	O
+tűzpont	O
+a	O
+Göncöl	B-LOC
+felett	O
+a	O
+Sarkcsillag	B-LOC
+.	O
+
+Az	O
+északi	O
+félteke	O
+fő	O
+csillaga	O
+.	O
+
+Utat	O
+mutat	O
+.	O
+
+A	O
+hátam	O
+mögé	O
+,	O
+és	O
+délre	O
+megyünk	O
+.	O
+
+Legyen	O
+a	O
+bal	O
+szárnyvég	O
+fölött	O
+,	O
+és	O
+keleti	O
+irányban	O
+leszünk	O
+újra	O
+.	O
+
+Elhalványult	O
+,	O
+mikor	O
+közeledett	O
+a	O
+hajnal	O
+.	O
+
+És	O
+a	O
+földi	O
+iránytű	O
+is	O
+működik	O
+újra	O
+.	O
+
+Ez	O
+újra	O
+működik	O
+a	O
+mágneses	O
+is	O
+.	O
+
+És	O
+repülök	O
+kelet	O
+felé	O
+.	O
+
+De	O
+mit	O
+jelent	O
+ez	O
+?	O
+
+Repülök	O
+keletre	O
+,	O
+mit	O
+is	O
+jelent	O
+ez	O
+?	O
+
+Kíváncsi	O
+vagyok	O
+,	O
+mennyire	O
+tértem	O
+el	O
+az	O
+iránytól	O
+tegnap	B-TIME
+este	I-TIME
+?	O
+
+Hol	O
+vagyok	O
+?	O
+
+Földet	O
+kell	O
+találnom	O
+,	O
+valamilyen	O
+földet	O
+,	O
+valahol	O
+,	O
+mielőtt	O
+elfogy	O
+a	O
+benzin	O
+.	O
+
+Foglald	O
+el	O
+magad	O
+.	O
+
+Munkára	O
+.	O
+
+Az	O
+alvás	O
+kimászott	O
+a	O
+dobozból	O
+,	O
+most	O
+tedd	O
+vissza	O
+.	O
+
+Tartsd	O
+rajta	O
+a	O
+fedőt	O
+.	O
+
+Erőltesd	O
+magad	O
+a	O
+gondolkodásra	O
+.	O
+
+Nos	O
+,	O
+nézzük	O
+csak	O
+,	O
+milyen	O
+messze	O
+lehet	O
+Európa	B-LOC
+?	O
+
+Ez	O
+a	O
+25.	B-TIME
+óra	I-TIME
+,	O
+és	O
+St.	B-GPE
+John	I-GPE
+11	B-DUR
+és	I-DUR
+negyed	I-DUR
+órára	I-DUR
+volt	O
+New	B-GPE
+York-tól	I-GPE
+.	O
+
+Most	O
+vagyok	O
+25	B-TIME
+órára	I-TIME
+New	B-GPE
+York-tól	I-GPE
+.	O
+
+25-ből	B-CARDINAL
+11	B-CARDINAL
+Kétszer	B-CARDINAL
+11	B-CARDINAL
+az	O
+22	B-CARDINAL
+,	O
+és	O
+akkor	O
+11	B-CARDINAL
+meg	O
+14	B-CARDINAL
+az	O
+25	B-CARDINAL
+.	O
+
+Nos	O
+,	O
+mit	O
+akarok	O
+a	O
+25-tel	B-CARDINAL
+?	O
+
+Mire	O
+fogom	O
+használni	O
+?	O
+
+Ó	O
+,	O
+újra	O
+kell	O
+kezdenem	O
+.	O
+
+Most	O
+...	O
+
+Ó	O
+,	O
+csak	O
+egy-két	B-DUR
+perc	I-DUR
+.	O
+
+Utána	O
+eszembe	O
+jut	O
+.	O
+
+Lássuk	O
+.	O
+
+Délután	B-TIME
+...	O
+
+Majd	O
+délutánra	B-TIME
+kialakul	O
+..	O
+
+Egy	O
+sirály	O
+!	O
+
+Ott	O
+egy	O
+másik	O
+is	O
+,	O
+de	O
+...	O
+
+Nos	O
+,	O
+itt	O
+?	O
+
+Órákra	O
+vagyunk	O
+a	O
+szárazföldtől	O
+.	O
+
+Hogy	O
+lehet	O
+...	O
+
+Akkor	O
+a	O
+hajók	O
+.	O
+
+A	O
+sirályok	O
+követik	O
+hajókat	O
+.	O
+
+És	O
+ha	O
+lenne	O
+...	O
+
+Ha	O
+látnék	O
+..	O
+
+Nézd	O
+,	O
+valami	O
+van	O
+előttünk	O
+.	O
+
+Ezek	O
+halászhajók	O
+!	O
+
+Merre	O
+van	O
+Írország	B-GPE
+!	O
+
+Miért	O
+nem	O
+válaszolt	O
+?	O
+
+Hallhatott	O
+engem	O
+.	O
+
+Engem	O
+meghallottak	O
+azelőtt	O
+,	O
+ha	O
+a	O
+gépből	O
+kiáltottam	O
+.	O
+
+Talán	O
+soha	O
+nem	O
+látott	O
+még	O
+repülőgépet	O
+.	O
+
+Talán	O
+nem	O
+beszél	O
+angolul	B-LANGUAGE
+.	O
+
+Nos	O
+,	O
+Írország	B-GPE
+közelében	O
+vagyok	O
+vagy	O
+máshol	O
+.	O
+
+Talán	O
+nem	O
+..	O
+
+Túl	O
+messze	O
+vagyok	O
+,	O
+délen	O
+.	O
+
+Ott	O
+a	O
+föld	O
+!	O
+
+Ez	O
+föld	O
+!	O
+
+Nem	O
+délibáb	O
+.	O
+
+Ez	O
+szárazföld	O
+.	O
+
+Ez	O
+a	O
+zöld	O
+,	O
+élő	O
+föld	O
+.	O
+
+Nem	O
+,	O
+nem	O
+,	O
+várj	O
+egy	O
+percet	O
+.	O
+
+Most	O
+csak	O
+a	O
+...	O
+
+Ez	O
+nem	O
+lehetséges	O
+.	O
+
+Ez	O
+csak	O
+a	B-TIME
+28.	I-TIME
+óra	I-TIME
+.	O
+
+De	O
+a	O
+hátszél	O
+miatt	O
+hamarabb	O
+érkezhettem	O
+,	O
+de	O
+hogyan	O
+..	O
+
+Ez	O
+szárazföld	O
+,	O
+az	O
+biztos	O
+,	O
+de	O
+milyen	O
+föld	O
+?	O
+
+Bárhol	O
+lehetek	O
+Izlandtól	B-GPE
+az	O
+afrikai	O
+partokig	O
+.	O
+
+Lehetek	O
+Spanyolországban	B-GPE
+vagy	O
+Portugáliában	B-GPE
+.	O
+
+Ez	O
+a	O
+Dingle	B-LOC
+öböl	I-LOC
+lehet	O
+.	O
+
+Ez	O
+a	O
+pont	O
+itt	O
+északra	O
+..	O
+
+Az	O
+alakja	O
+olyan	O
+.	O
+
+Azok	O
+a	O
+szigetek	O
+ott	O
+jobbra	O
+,	O
+beleillenek	O
+.	O
+
+A	O
+vonalak	O
+jobbra	O
+fent	O
+.	O
+
+Ez	O
+Dingle-öböl	B-LOC
+!	O
+
+Ez	O
+Írország	B-GPE
+!	O
+
+Ez	O
+Plymouth	B-GPE
+,	O
+a	O
+zarándokok	O
+városa	O
+.	O
+
+Átrepültem	O
+a	O
+Plymouth-sziklán	B-LOC
+Bostontól	B-GPE
+jobbra	O
+.	O
+
+Mikor	O
+tettem	O
+ezt	O
+?	O
+
+Nos	O
+,	O
+tegnap	B-DATE
+.	O
+
+Száztizennyolc	B-QUANTITY
+mérföld	I-QUANTITY
+a	O
+csatornán	O
+túl	O
+Cherbourg	B-GPE
+.	O
+
+Száztizennyolc	B-QUANTITY
+mérföld	I-QUANTITY
+.	O
+
+Mi	O
+ez	O
+a	O
+kis	O
+csatorna	O
+?	O
+
+Most	O
+repültem	O
+át	O
+az	O
+Atlanti-óceánt	B-LOC
+.	O
+
+Adok	O
+egy	O
+kicsit	O
+több	O
+erőt	O
+.	O
+
+Most	O
+egy	O
+kis	O
+ebédet	O
+.	O
+
+Frank	B-PER
+Mahoney	I-PER
+.	O
+
+Franciaország	B-GPE
+partja	O
+.	O
+
+Ott	O
+van	O
+Cherbourg	B-GPE
+.	O
+
+Most	O
+pedig	O
+északkeletre	O
+a	O
+part	O
+mentén	O
+,	O
+megtalálni	O
+a	O
+Szajna	B-LOC
+torkolatát	O
+.	O
+
+Itt	O
+is	O
+van	O
+.	O
+
+Rendben	O
+,	O
+végigrepülök	O
+a	O
+folyón	O
+Párizsig	B-GPE
+.	O
+
+Az	O
+98	B-QUANTITY
+mérföld	I-QUANTITY
+,	O
+még	B-DUR
+egy	I-DUR
+óra	I-DUR
+.	O
+
+Nem	O
+,	O
+az	O
+csak	O
+58	B-DUR
+perc	I-DUR
+,	O
+58	B-DUR
+perc	I-DUR
+.	O
+
+Jobb	O
+ha	O
+megmosom	O
+az	O
+arcom	O
+egy	O
+kicsit	O
+.	O
+
+Most	O
+csak	O
+várj	O
+még	O
+egy	O
+órát	O
+,	O
+igen	O
+,	O
+még	O
+egy	O
+órát	O
+.	O
+
+Nem	O
+,	O
+nem	O
+,	O
+nem	O
+,	O
+ez	O
+a	O
+rossz	O
+tank	O
+!	O
+
+Kapcsold	O
+rá	O
+a	O
+jó	O
+tankot	O
+!	O
+
+Ítt	O
+van	O
+!	O
+
+Le	B-FAC
+Bourget	I-FAC
+.	I-FAC
+
+Merre	O
+van	O
+a	O
+Le	B-LOC
+Bourget	I-LOC
+?	O
+
+A	O
+város	O
+szívében	O
+vagyok	O
+.	O
+
+Északkeletre	O
+kell	O
+tartani	O
+.	O
+
+Jobb	O
+ellenőrizni	O
+a	O
+térképen	O
+.	O
+
+Mi	O
+történik	O
+velem	O
+?	O
+
+A	O
+szemem	O
+,	O
+alig	O
+látok	O
+.	O
+
+Repülök	O
+ezzel	O
+a	O
+géppel	O
+több	B-TIME
+mint	I-TIME
+33	I-TIME
+órája	I-TIME
+.	O
+
+Nem	O
+aludtam	O
+három	B-DATE
+napja	I-DATE
+.	O
+
+Nem	O
+hagyhatom	O
+hogy	O
+most	O
+utolérjen	O
+.	O
+
+Ott	O
+kell	O
+lennie	O
+Le	B-LOC
+Bourget-nek	I-LOC
+.	O
+
+Mik	O
+azok	O
+a	O
+fények	O
+?	O
+
+Biztosak	O
+kell	O
+lennem	O
+benne	O
+.	O
+
+Egy	O
+módon	O
+lehet	O
+megtudni	O
+.	O
+
+Most	O
+süllyedek	O
+.	O
+
+Óvatosan	O
+,	O
+most	O
+óvatosan	O
+.	O
+
+Amilyen	O
+alacsonyra	O
+csak	O
+merek	O
+.	O
+
+Ezek	O
+a	O
+fények	O
+,	O
+amik	O
+...	O
+
+Mik	O
+ezek	O
+a	O
+fények	O
+?	O
+
+Karnevál	O
+vagy	O
+cirkusz	O
+?	O
+
+Jobb	O
+ha	O
+átmegyek	O
+a	O
+hangárok	O
+felett	O
+.	O
+
+Állítsátok	O
+rövidre	O
+a	O
+fényeket	O
+és	O
+ne	O
+fordítsátok	O
+felém	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+mi	O
+az	O
+ott	O
+.	O
+
+Most	O
+negyed	O
+fordulat	O
+.	O
+
+Negyedfordulat	O
+.	O
+
+Megközelítés	O
+.	O
+
+Fordulat	O
+.	O
+
+Tartsd	O
+meg	O
+,	O
+tartsd	O
+meg	O
+.	O
+
+Nem	O
+,	O
+most	O
+vonalban	O
+vagy	O
+.	O
+
+Most	O
+le	O
+a	O
+gázt	O
+.	O
+
+Nem	O
+akadozz	O
+!	O
+
+Most	O
+ne	O
+...	O
+
+Mi	O
+a	O
+baj	O
+,	O
+elfelejtetted	O
+hogy	O
+kell	O
+leszállni	O
+?	O
+
+Nem	O
+érzem	O
+.	O
+
+Nem	O
+érzem	O
+a	O
+repülőgépet	O
+.	O
+
+Ne	O
+,	O
+süllyedsz	O
+.	O
+
+Süllyedsz	O
+.	O
+
+Húzd	O
+felfelé	O
+,	O
+húzd	O
+fel	O
+.	O
+

@@ -1,0 +1,164 @@
+# global.columns = FORM ONPP:NER
+A	O
+drezdai	O
+tyúk	O
+már	O
+meglévő	O
+tyúkfajtákból	O
+kitenyésztett	O
+házityúk	O
+.	O
+
+Alfred	B-PER
+Zumpe	I-PER
+tenyésztette	O
+ki	O
+már	O
+meglévő	O
+fajtákból	O
+Drezda	B-GPE
+környékén	O
+1955-ben	B-DATE
+.	O
+
+Tipikus	O
+kéthasznú	O
+tyúkfajta	O
+,	O
+melyek	O
+a	O
+takarmányukat	O
+jól	O
+hasznosítják	O
+.	O
+
+Télen	B-DATE
+csak	O
+minimálisan	O
+csökken	O
+a	O
+tojáshozamuk	O
+.	O
+
+Többek	O
+között	O
+new	B-GPE
+hampshire	I-GPE
+,	O
+wyandotten	B-GPE
+,	O
+rhodeländer	O
+fajtákkal	O
+is	O
+bekeresztezett	O
+.	O
+
+Háta	O
+közepesen	O
+hosszú	O
+,	O
+széles	O
+.	O
+
+Farktolla	B-GPE
+közepes	O
+méretű	O
+.	O
+
+Melltájéka	O
+széles	O
+,	O
+telt	O
+.	O
+
+A	O
+szárnyak	O
+vízszintesen	O
+és	O
+testhez	O
+húzva	O
+viseltek	O
+.	O
+
+A	O
+fej	O
+kicsi	O
+,	O
+finom	O
+formájú	O
+.	O
+
+Arca	O
+piros	O
+,	O
+kicsi	O
+tollacskákkal	O
+.	O
+
+Szeme	O
+vörös	O
+színű	O
+.	O
+
+Csőre	O
+erős	O
+,	O
+sárga	O
+,	O
+szarvszínű	O
+.	O
+
+Taraja	O
+erős	O
+rózsataraj	O
+,	O
+mely	O
+egy	O
+szarvban	O
+végződik	O
+.	O
+
+A	O
+füllebenyek	O
+pirosak	O
+,	O
+nem	O
+túl	O
+nagyok	O
+.	O
+
+Nyaka	O
+közepes	O
+méretű	O
+a	O
+testhez	O
+képest	O
+.	O
+
+A	O
+csüd	O
+sárga	O
+.	O
+
+Színváltozatok	O
+:	O
+vörös-arany	O
+,	O
+fehér	O
+.	O
+
+Gyors	O
+növekedésű	O
+,	O
+a	O
+különböző	O
+időjárási	O
+körülményeket	O
+jól	O
+viseli	O
+.	O
+
+Élénk	O
+természetű	O
+.	O
+

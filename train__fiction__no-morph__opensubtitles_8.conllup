@@ -1,0 +1,1318 @@
+# global.columns = FORM ONPP:NER
+De	O
+hát	O
+dolgoznak	O
+tisztek	O
+végig	O
+a	O
+vasút	O
+mentén	O
+.	O
+
+Ön	O
+is	O
+jól	O
+tudja	O
+.	O
+
+A	O
+többiért	O
+nem	O
+vagyok	O
+felelős	O
+.	O
+
+De	O
+felháborít	O
+.	O
+
+Ne	O
+izgassa	O
+fel	O
+magát	O
+!	O
+
+Kér	O
+szivart	O
+?	O
+
+Persze	O
+,	O
+amikor	O
+a	O
+tisztekről	O
+beszéltem	O
+nem	O
+értettem	O
+bele	O
+önt	O
+,	O
+a	O
+parancsnokot	O
+.	O
+
+A	O
+parancsom	O
+csak	O
+a	O
+beosztott	O
+tisztekre	O
+...	O
+
+Egyetlen	O
+tiszt	O
+sem	O
+.	O
+
+Nem	O
+azt	O
+akartam	O
+mondani	O
+.	O
+
+Átgondoltam	O
+a	O
+dolgot	O
+,	O
+és	O
+úgy	O
+döntöttem	O
+:	O
+Őrnagytól	O
+fölfelé	O
+adminisztratív	O
+teendőket	O
+látnak	O
+el	O
+csak	O
+az	O
+alatt	O
+dolgoznak	O
+.	O
+
+Az	O
+egyezmény	O
+szövege	O
+egyértelmü	O
+.	O
+
+Tudja	O
+,	O
+mi	O
+történik	O
+velem	O
+,	O
+ha	O
+nem	O
+lesz	O
+kész	O
+időben	O
+?	O
+
+Fogalmam	O
+sincs	O
+.	O
+
+Harakirit	O
+kell	O
+elkövetnem	O
+.	O
+
+Ön	O
+mit	O
+tenne	O
+a	O
+helyemben	O
+?	O
+
+Ha	O
+az	O
+ön	O
+helyében	O
+volnék	O
+megölném	O
+magam	O
+.	O
+
+Figyelmeztetem	O
+,	O
+ezredes	O
+.	O
+
+Ha	O
+meg	O
+kell	O
+halnom	O
+,	O
+előbb	O
+mások	O
+is	O
+meghalnak	O
+.	O
+
+Megértette	O
+?	O
+
+Clipton	B-PER
+említette	O
+.	O
+
+De	O
+az	O
+nem	O
+megoldás	O
+.	O
+
+Biztos	O
+találunk	O
+megoldást	O
+.	O
+
+Kérem	O
+,	O
+üljön	O
+le	O
+!	O
+
+Nos	O
+,	O
+egyetért	O
+velem	O
+,	O
+ezredes	O
+hogy	O
+a	O
+tiszt	O
+első	B-ORDINAL
+dolga	O
+az	O
+irányítás	O
+?	O
+
+Helyes	O
+.	O
+
+Nos	O
+...	O
+
+Vegyük	O
+az	O
+ön	O
+hídját	O
+!	O
+
+Hatalmas	O
+vállalkozás	O
+.	O
+
+Őszintén	O
+kétlem	O
+,	O
+hogy	O
+az	O
+ön	O
+hadnagya	O
+...	O
+
+Miura.	B-PER
+...képes	O
+megoldani	O
+egy	O
+ekkora	O
+feladatot	O
+.	O
+
+Másrészt	O
+,	O
+vannak	O
+tisztjeim	O
+,	O
+Reeves	B-PER
+és	O
+Hughes	B-PER
+akik	O
+számos	O
+hidat	O
+építettek	O
+Indiában	B-GPE
+.	O
+
+Tisztelik	O
+őket	O
+.	O
+
+Az	O
+lényeges	O
+egy	O
+tiszt	O
+esetében	O
+.	O
+
+Anélkül	O
+nem	O
+parancsol	O
+.	O
+
+Mi	O
+jön	O
+?	O
+
+Zürzavar	O
+és	O
+káosz	O
+.	O
+
+Rossz	O
+parancsnok	O
+volnék	O
+,	O
+ha	O
+hagynám	O
+.	O
+
+Talán	O
+nincs	O
+tudatában	O
+annak	O
+,	O
+hogy	O
+már	O
+enyém	O
+az	O
+irányítás	O
+.	O
+
+És	O
+elégedett	O
+az	O
+eredménnyel	O
+?	O
+
+Éppen	O
+ezt	O
+mondom	O
+.	O
+
+Gyülölöm	O
+a	O
+briteket	B-NORP
+!	O
+
+Legyőzték	O
+,	O
+de	O
+nem	O
+szégyelli	O
+!	O
+
+Makacs	O
+,	O
+de	O
+semmi	O
+büszkeség	O
+!	O
+
+Kitartó	O
+,	O
+de	O
+nincs	O
+bátorsága	O
+!	O
+
+Értelmetlen	O
+folytatni	O
+.	O
+
+Maradjon	O
+!	O
+
+Maradjanak	O
+!	O
+
+Kérem	O
+...	O
+
+Tudja	O
+,	O
+milyen	O
+nap	O
+van	O
+ma	B-DATE
+,	O
+ezredes	O
+?	O
+
+Az	O
+oroszok	B-NORP
+elleni	O
+1905-ös	B-DATE
+nagy	O
+győzelmünk	O
+évfordulója	O
+.	O
+
+Kelet-Ázsiában	B-LOC
+mindenütt	O
+megünnepeljük	O
+.	O
+
+Ez	O
+alkalomból	O
+egy	O
+nap	O
+pihenőt	O
+adtam	O
+.	O
+
+Általános	O
+amnesztiát	O
+hirdetek	O
+.	O
+
+Ön	O
+és	O
+a	O
+tisztjei	O
+visszatérhetnek	O
+.	O
+
+Az	O
+amnesztia	O
+részeként	O
+a	O
+tiszteknek	O
+nem	O
+kell	O
+fizikai	O
+munkát	O
+végezniük	O
+.	O
+
+Sikerült	O
+neki	O
+!	O
+
+Valaki	O
+kitett	O
+magáért	O
+.	O
+
+Hány	O
+embere	O
+van	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+uram	O
+.	O
+
+Általában	O
+tizenkettő	B-CARDINAL
+.	O
+
+Egyikük	O
+beteget	O
+jelentett	O
+,	O
+uram	O
+.	O
+
+Hárman	B-CARDINAL
+vagy	O
+négyen	B-CARDINAL
+kísérték	O
+a	O
+kórházba	O
+.	O
+
+Borzasztóan	O
+rosszul	O
+volt	O
+,	O
+uram	O
+.	O
+
+Egy	O
+tizedesnek	O
+tudnia	O
+kell	O
+,	O
+hány	O
+embere	O
+van	O
+.	O
+
+Maga	O
+idegbajos	O
+?	O
+
+Ne	O
+vágjon	O
+grimaszokat	O
+!	O
+
+Lehet	O
+,	O
+hogy	O
+vicces	O
+,	O
+de	O
+katonához	O
+nem	O
+illik	O
+.	O
+
+Nem	O
+,	O
+uram	O
+.	O
+
+Elég	O
+a	O
+demonstrációkból	O
+!	O
+
+Reeves	B-PER
+!	O
+
+Igen	O
+,	O
+uram	O
+?	O
+
+Épített	O
+hidat	O
+hasonló	O
+folyó	O
+fölött	O
+?	O
+
+Vagy	O
+fél	B-CARDINAL
+tucatot	I-CARDINAL
+,	O
+uram	O
+.	O
+
+Madrasz	B-GPE
+,	O
+Bengál	B-GPE
+.	O
+
+Ha	O
+magán	O
+múlna	O
+hogyan	O
+fogna	O
+hozzá	O
+?	O
+
+Először	O
+is	O
+nem	O
+ide	O
+építeném	O
+.	O
+
+Miért	O
+nem	O
+?	O
+
+Azért	O
+,	O
+mert	O
+rosszabb	O
+helyet	O
+nem	O
+is	O
+választhattak	O
+volna	O
+.	O
+
+Látja	O
+a	O
+cölöpöket	O
+?	O
+
+Süllyednek	O
+.	O
+
+Bármilyen	O
+mélyre	O
+vernék	O
+is	O
+be	O
+őket	O
+.	O
+
+Hol	O
+építené	O
+fel	O
+?	O
+
+Lejjebb	O
+,	O
+uram	O
+.	O
+
+Abban	O
+a	O
+szorosban	O
+.	O
+
+Ott	O
+sziklás	O
+mindkét	O
+part	O
+.	O
+
+Hughes	B-PER
+,	O
+ha	O
+magán	O
+múlna	O
+,	O
+hogyan	O
+szervezné	O
+a	O
+munkát	O
+?	O
+
+Nem	O
+így	O
+,	O
+ahogyan	O
+ők	O
+.	O
+
+Teljes	O
+a	O
+káosz	O
+.	O
+
+A	O
+szervezetlenség	O
+.	O
+
+Nincs	O
+csapatmunka	O
+.	O
+
+Az	O
+emberek	O
+egymást	O
+zavarják	O
+.	O
+
+Tehát	O
+,	O
+uraim	O
+,	O
+komoly	O
+a	O
+probléma	O
+.	O
+
+Hála	O
+a	O
+japánoknak	B-NORP
+,	O
+káosz	O
+van	O
+.	O
+
+Nincs	O
+rend	O
+,	O
+se	O
+fegyelem	O
+.	O
+
+Újra	O
+kell	O
+szerveznünk	O
+a	O
+zászlóaljat	O
+.	O
+
+Ami	O
+nem	O
+lesz	O
+könnyü	O
+.	O
+
+Szerencsére	O
+van	O
+hozzá	O
+eszközünk	O
+.	O
+
+A	O
+híd	O
+.	O
+
+A	O
+híd	O
+,	O
+uram	O
+?	O
+
+Kapnak	O
+egy	O
+kis	O
+leckét	O
+nyugati	O
+hatékonyságból	O
+.	O
+
+Hogy	O
+mire	O
+képes	O
+a	O
+brit	B-NORP
+katona	O
+.	O
+
+Értem	O
+már	O
+,	O
+uram	O
+.	O
+
+Tudom	O
+,	O
+nehéz	O
+lesz	O
+itt	O
+ahol	O
+sok	O
+minden	O
+hiányzik	O
+.	O
+
+Ez	O
+a	O
+kihívás	O
+.	O
+
+Azt	O
+akarja	O
+,	O
+hogy	O
+felépítsék	O
+?	O
+
+Gyorsabban	O
+szokott	O
+kapcsolni	O
+.	O
+
+El	O
+kell	O
+foglalnunk	O
+az	O
+embereket	O
+.	O
+
+Feladatot	O
+kell	O
+adnunk	O
+nekik	O
+.	O
+
+Az	O
+pedig	O
+van	O
+.	O
+
+Szerencsére	O
+!	O
+
+De	O
+igazi	O
+híd	O
+lesz	O
+.	O
+
+Ismerem	O
+az	O
+embereket	O
+.	O
+
+Büszkék	O
+akarnak	O
+lenni	O
+a	O
+munkájukra	O
+.	O
+
+Igaz	O
+?	O
+
+Reeves	B-PER
+,	O
+maga	O
+itt	O
+a	O
+kulcsember	O
+.	O
+
+Mondja	O
+meg	O
+,	O
+mire	O
+van	O
+szüksége	O
+!	O
+
+Belevághatunk	O
+?	O
+
+Igyekszünk	O
+.	O
+
+Elkészítjük	O
+a	O
+terveket	O
+.	O
+
+Azután	O
+összeülünk	O
+Szaitóval	B-PER
+és	O
+helyre	O
+tesszük	O
+.	O
+
+Ennyit	O
+az	O
+eljárási	O
+kérdésekről	O
+.	O
+
+A	O
+következő	O
+pont	O
+kellemetlen	O
+mindannyiunknak	O
+.	O
+
+Sajnos	O
+,	O
+a	O
+híd	O
+helyét	O
+túlzott	O
+sietséggel	O
+és	O
+tévesen	O
+jelölték	O
+ki	O
+.	O
+
+Tévesen	O
+?	O
+
+Sajnos	O
+,	O
+igen	O
+.	O
+
+A	O
+mérnökünk	O
+felmérte	O
+a	O
+terepet	O
+és	O
+szerinte	O
+a	O
+folyóágy	O
+nem	O
+elég	O
+szilárd	O
+.	O
+
+Nem	O
+szilárd	O
+?	O
+
+Iszapos	O
+!	O
+
+Értelmetlen	O
+munka	O
+.	O
+
+Reeves	B-PER
+,	O
+folytatná	O
+?	O
+
+Bármilyen	O
+mélyre	O
+vernék	O
+a	O
+cölöpöket	O
+,	O
+nem	O
+tartanának	O
+.	O
+
+Az	O
+első	B-ORDINAL
+vonat	O
+alatt	O
+összedőlne	O
+.	O
+
+A	O
+nyomás	O
+és	O
+a	O
+talajellenállás	O
+pontos	O
+adatai	O
+.	O
+
+Reeves	B-PER
+,	O
+mielőtt	O
+belemerülne	O
+...	O
+
+Ezredes	O
+,	O
+kaphatnánk	O
+teát	O
+?	O
+
+Ha	O
+el	O
+akarjuk	O
+kerülni	O
+a	O
+katasztrófát	O
+a	O
+Reeves	B-PER
+által	O
+kijelölt	O
+helyen	O
+kéne	O
+új	O
+hidat	O
+építeni	O
+.	O
+
+Nézzük	O
+a	O
+következő	O
+pontot	O
+!	O
+
+Változtatni	O
+kell	O
+a	O
+napi	O
+normán	O
+.	O
+
+Fel	O
+kell	O
+emelni	O
+.	O
+
+Másfélről	O
+két	B-QUANTITY
+köbméterre	I-QUANTITY
+.	O
+
+Bizonyára	O
+egyetért	O
+velem	O
+.	O
+
+Hughesnál	B-PER
+vannak	O
+az	O
+adatok	O
+.	O
+
+Felmérést	O
+készítettem	O
+.	O
+
+A	O
+munkaerő	O
+rosszul	O
+van	O
+elosztva	O
+.	O
+
+Újra	O
+kéne	O
+szervezni	O
+a	O
+munkacsoportokat	O
+.	O
+
+Egy	O
+pillanat	O
+!	O
+
+Időt	O
+takarítanánk	O
+meg	O
+,	O
+ha	O
+itt	O
+vacsoráznánk	O
+.	O
+
+Megkaphatjuk	O
+itt	O
+?	O
+
+Ha	O
+növeljük	O
+a	O
+számukat	O
+,	O
+és	O
+specializálódnak	O
+a	O
+napi	O
+teljesítményt	O
+30%-	B-PERCENT
+kal	I-PERCENT
+megnövelhetjük	O
+.	O
+
+Szaitó	B-PER
+ezredes	O
+,	O
+volna	O
+még	O
+valami	O
+...	O
+
+Még	O
+egy	O
+lényeges	O
+döntés	O
+,	O
+amelyet	O
+nem	O
+lehet	O
+halogatni	O
+.	O
+
+Mivel	O
+a	O
+hídon	O
+dolgozunk	O
+kevés	O
+brit	B-NORP
+jut	O
+a	O
+vasútépítésre	O
+.	O
+
+Adja	O
+kölcsön	O
+néhány	O
+emberét	O
+a	O
+vasútépítéshez	O
+hogy	O
+minél	O
+hamarabb	O
+elkészülhessen	O
+a	O
+vasúti	O
+pálya	O
+.	O
+
+Már	O
+kiadtam	O
+a	O
+parancsot	O
+.	O
+
+Náluk	O
+is	O
+meg	O
+kell	O
+szabni	O
+a	O
+normát	O
+.	O
+
+Először	O
+másfél	B-QUANTITY
+köbméterre	I-QUANTITY
+gondoltam	O
+.	O
+
+De	O
+jobb	O
+,	O
+ha	O
+annyi	O
+,	O
+mint	O
+nálunk	O
+.	O
+
+Egészséges	O
+versenyszellem	O
+jönne	O
+létre	O
+.	O
+
+Igyekszünk	O
+túlszárnyalni	O
+,	O
+igaz	O
+?	O
+
+Azt	O
+hiszem	O
+,	O
+mára	O
+végeztünk	O
+.	O
+
+Köszönöm	O
+a	O
+figyelmét	O
+,	O
+Szaitó	B-PER
+ezredes	O
+.	O
+
+Van	O
+még	O
+kérdés	O
+?	O
+
+Volna	O
+egy	O
+.	O
+
+Időre	O
+be	O
+tudják	O
+fejezni	O
+?	O
+
+Őszintén	O
+,	O
+úgy	O
+tünik	O
+,	O
+hogy	O
+az	O
+lehetetlen	O
+.	O
+
+De	O
+azért	O
+megpróbáljuk	O
+.	O
+
+Egy	O
+nézeteltérés	O
+miatt	O
+elvesztegettünk	O
+egy	B-DATE
+hónapot	I-DATE
+.	O
+
+Nem	O
+az	O
+én	O
+hibámból	O
+.	O
+
+A	O
+megbeszélést	O
+berekesztem	O
+.	O
+
+Jó	O
+éjszakát	O
+!	O
+
+Remélem	O
+,	O
+a	O
+japánok	B-NORP
+értékelik	O
+,	O
+amit	O
+értük	O
+teszünk	O
+.	O
+
+Az	O
+jelenleg	O
+engem	O
+nem	O
+érdekel	O
+.	O
+
+Jó	O
+éjt	O
+!	O
+
+Jó	O
+éjt	O
+,	O
+uram	O
+!	O
+
+Láttam	O
+itt	O
+olyan	O
+fát	O
+amely	O
+hasonló	O
+a	O
+szilfához	O
+.	O
+
+És	O
+a	O
+London	B-FAC
+Bridge	I-FAC
+cölöpei	O
+600	B-DATE
+évig	I-DATE
+bírták	O
+.	O
+
+Hatszáz	B-DATE
+évig	I-DATE
+?	O
+
+Hatszáz	B-DATE
+év	I-DATE
+!	O
+
+Az	O
+aztán	O
+valami	O
+!	O
+
+Egy	O
+amerikait	B-NORP
+keresek	O
+,	O
+Shears	B-PER
+kapitányt	O
+.	O
+
+A	O
+parton	O
+van	O
+.	O
+
+Csókot	O
+!	O
+
+Meglátják	O
+.	O
+
+Kaptam	O
+már	O
+tőled	O
+elég	O
+pirulát	O
+,	O
+injekciót	O
+...	O
+
+Szerelem	O
+kell	O
+!	O
+
+Így	O
+van	O
+.	O
+
+Neked	O
+csak	O
+az	O
+kell	O
+.	O
+
+Miért	O
+gondolod	O
+,	O
+hogy	O
+hazaengednek	O
+?	O
+
+A	O
+szívem	O
+a	O
+civilekhez	O
+húz	O
+.	O
+
+És	O
+a	O
+szívemet	O
+követem	O
+.	O
+
+Milyen	O
+volt	O
+,	O
+kapitány	O
+?	O
+
+Ne	O
+szólíts	O
+annak	O
+!	O
+
+Nem	O
+romantikus	O
+.	O
+
+Te	O
+is	O
+tiszt	O
+vagy	O
+.	O
+
+Szólítsalak	O
+Babám	B-PER
+hadnagynak	O
+?	O
+
+Azt	O
+ne	O
+!	O
+
+Szólíts	O
+uramnak	O
+"	O
+!	O
+
+Egy	O
+tiszt	O
+!	O
+
+Átadlak	O
+neki	O
+.	O
+
+Én	O
+úszom	O
+egyet	O
+.	O
+

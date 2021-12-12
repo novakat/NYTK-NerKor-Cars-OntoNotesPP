@@ -1,0 +1,1726 @@
+# global.columns = FORM ONPP:NER
+VÉGE	O
+
+Fordítás	O
+:	O
+Oldfan	B-PER
+
+A	O
+TOEI	B-ORG
+TÁRSASÁG	I-ORG
+BEMUTATJA	O
+
+A	O
+FILMET	O
+TELJESEN	O
+SZÍNESBEN	O
+FORGATTA	O
+A	O
+TOEI-KÖR	B-ORG
+
+ÁRNYÉK	B-WORK_OF_ART
+A	I-WORK_OF_ART
+FUJI	I-WORK_OF_ART
+FÖLÖTT	I-WORK_OF_ART
+(	O
+Fuji	B-WORK_OF_ART
+ni	I-WORK_OF_ART
+tatsu	I-WORK_OF_ART
+kage	I-WORK_OF_ART
+–	I-WORK_OF_ART
+Shadow	I-WORK_OF_ART
+Over	I-WORK_OF_ART
+Fuji	I-WORK_OF_ART
+)	O
+
+SHIRAI	B-PER
+Kyoji	I-PER
+OGAWA	B-PER
+Tadashi	I-PER
+YAMADA	B-PER
+Eiichi	I-PER
+Szereplők	O
+ICHIKAWA	B-PER
+Utaemon	I-PER
+KITAOJI	B-PER
+Kinya	I-PER
+,	O
+SHINDO	B-PER
+Eitaro	I-PER
+,	O
+OKOCHI	B-PER
+Denjiro	I-PER
+,	O
+MARUYAMA	B-PER
+Eiko	I-PER
+,	O
+HASEGAWA	B-PER
+Yumiko	I-PER
+OKA	B-PER
+Satomi	I-PER
+,	O
+SAKURAMACHI	B-PER
+Hiroko	I-PER
+SATOMI	B-PER
+Kotaro	I-PER
+,	O
+KAGA	B-PER
+Kunio	I-PER
+,	O
+YAMAGATA	B-PER
+Isao	I-PER
+,	O
+HOSHI	B-PER
+Juro	I-PER
+,	O
+SAKAI	B-PER
+Shunji	I-PER
+,	O
+SASAKI	B-PER
+Yasushi	I-PER
+(	O
+SASAKI	B-PER
+Ko	I-PER
+)	O
+spans:	O
+Az	B-DATE
+1805.	I-DATE
+évben	I-DATE
+hatalmas	O
+területeket	O
+irányít	O
+Európában	B-LOC
+Napóleon	B-PER
+.	O
+
+Japánban	B-GPE
+a	O
+11.	B-ORDINAL
+Tokugawa	B-PER
+Shogun	O
+,	O
+Ienari	B-PER
+uralkodott	O
+.	O
+
+Egy	O
+incidensre	O
+került	O
+sor	O
+a	O
+Fuji	B-LOC
+hegy	O
+lábánál	O
+,	O
+ami	O
+nyílt	O
+titokká	O
+vált	O
+.	O
+
+Tartva	O
+a	O
+külső	O
+és	O
+belső	O
+támadásoktól	O
+,	O
+a	O
+Shogunátus	O
+azt	O
+tervezte	O
+,	O
+gyakorlatozásra	O
+épít	O
+egy	O
+új	O
+várat	O
+,	O
+aminél	O
+a	O
+legtöbb	O
+haladó	O
+technikát	O
+hasznosítja	O
+.	O
+
+Két	B-CARDINAL
+várépítő	O
+mestert	O
+választottak	O
+ki	O
+Sato	B-PER
+Kikutaro-t	I-PER
+és	O
+Kumai	B-PER
+Hakuten-t	I-PER
+versenyezni	O
+azért	O
+a	O
+megtiszteltetésért	O
+,	O
+hogy	O
+megtervezze	O
+és	O
+felépítse	O
+a	O
+várat	O
+.	O
+
+A	O
+verseny	O
+nyertese	O
+Sato	B-PER
+Kikutaro	I-PER
+Edóból	B-GPE
+és	O
+Kumaki	B-PER
+Hakuten	I-PER
+Odawarából	B-GPE
+lesz	O
+az	O
+építtetője	O
+a	O
+Shogunátus	O
+Fuji	B-LOC
+várának	O
+.	O
+
+Mindenkinek	O
+megparancsolták	O
+működjön	O
+együtt	O
+a	O
+földfelméréseknél	O
+és	O
+az	O
+előkészületeknél	O
+.	O
+
+Mizuno	B-PER
+Dewa	I-PER
+nagyúr	O
+.	O
+
+1805	B-DATE
+szeptember	I-DATE
+2	I-DATE
+.	O
+
+Mit	O
+csinálnak	O
+?	O
+
+Kérem	O
+hagyják	O
+abba	O
+.	O
+
+Tönkreteszi	O
+a	O
+termést	O
+.	O
+
+Uram	O
+,	O
+ez	O
+az	O
+én	O
+földem	O
+.	O
+
+Kérem	O
+hagyják	O
+abba	O
+!	O
+
+Apám	O
+!	O
+
+Elég	O
+legyen	O
+!	O
+
+Felmérjük	O
+a	O
+területet	O
+a	O
+Fuji	B-LOC
+vár	O
+számára	O
+.	O
+
+Ha	O
+akadályozod	O
+,	O
+kivégeznek	O
+!	O
+
+Tehát	O
+kisajátítja	O
+a	O
+területünk	O
+a	O
+vár	O
+számára	O
+?	O
+
+Még	O
+nem	O
+tudjuk	O
+.	O
+
+Csak	O
+elkészítjük	O
+a	O
+felmérést	O
+a	O
+versenyhez	O
+.	O
+
+Az	O
+a	O
+személy	O
+a	O
+várépítő	O
+mester	O
+,	O
+Kumaki	B-PER
+Hakuten	I-PER
+,	O
+a	O
+Shogunátus	O
+parancsára	O
+.	O
+
+Bárkit	O
+,	O
+aki	O
+egy	B-CARDINAL
+szóval	O
+is	O
+ellenzi	O
+a	O
+munkáját	O
+,	O
+a	O
+Tokugawa	B-PER
+Shogunátus	O
+ellenségnek	O
+tekint	O
+!	O
+
+Kamarás	O
+,	O
+úgy	O
+tűnik	O
+Sato	B-PER
+nem	O
+fog	O
+megjelenni	O
+.	O
+
+Akkor	O
+Hakuten	B-PER
+úr	O
+lesz	O
+az	O
+építtető	O
+...	O
+ő	O
+fog	O
+nyerni	O
+alapból	O
+.	O
+
+Az	O
+lehet	O
+uram	O
+.	O
+
+De	O
+uram	O
+...	O
+és	O
+Kuga	B-PER
+oktató	O
+...	O
+kérem	O
+,	O
+nézzék	O
+meg	O
+ezt	O
+.	O
+
+Az	O
+a	O
+terület	O
+a	O
+piros	O
+vonalon	O
+belül	O
+ahol	O
+javaslom	O
+felépíteni	O
+a	O
+várat	O
+.	O
+
+Akkor	O
+a	O
+Fuji	B-LOC
+hegy	O
+lábánál	O
+a	O
+falvak	O
+és	O
+mezők	O
+mind	O
+megsemmisülnének	O
+.	O
+
+Hakuten	B-PER
+úr	O
+,	O
+ez	O
+nem	O
+okozna	O
+túlzott	O
+nehézséget	O
+?	O
+
+Uram	O
+,	O
+a	O
+Shogunátus	O
+parancsára	O
+az	O
+Ön	O
+Mizunó	B-PER
+nagyura	O
+az	O
+építésügyi	O
+miniszter	O
+.	O
+
+És	O
+..	O
+?	O
+
+A	O
+valóságban	O
+ez	O
+azt	O
+jelenti	O
+a	O
+Mizuno	B-PER
+klánnak	O
+kell	O
+kifizetnie	O
+ennek	O
+a	O
+várnak	O
+az	O
+építését	O
+.	O
+
+Valójában	O
+igen	O
+.	O
+
+Amikor	O
+Dewa	B-PER
+urunkat	O
+kinevezték	O
+,	O
+nekünk	O
+,	O
+csatlósainak	O
+,	O
+megparancsolták	O
+,	O
+adjuk	O
+fel	O
+járadékunk	O
+egy	O
+részét	O
+,	O
+amíg	O
+a	O
+vár	O
+építése	O
+befejeződik	O
+.	O
+
+Ez	O
+érint	O
+mind	O
+kettőnket	O
+.	O
+
+Tehát	O
+,	O
+mindnyájunk	O
+érdekében	O
+,	O
+ott	O
+kell	O
+megépíteni	O
+ahol	O
+az	O
+építkezés	O
+könnyű	O
+és	O
+a	O
+legkevésbé	O
+költséges	O
+.	O
+
+Az	O
+Ön	O
+nagyra	O
+becsült	O
+megítélése	O
+szerint	O
+nem	O
+ez	O
+lenne	O
+a	O
+legjobb	O
+megoldás	O
+?	O
+
+Egyetértek	O
+.	O
+
+Az	O
+építési	O
+vállalkozón	O
+múlik	O
+a	O
+döntés	O
+,	O
+hol	O
+lehet	O
+felépíteni	O
+a	O
+várat	O
+.	O
+
+Ha	O
+arra	O
+a	O
+földre	O
+építünk	O
+,	O
+amit	O
+felmértem	O
+...	O
+a	O
+falusiak	O
+igénybe	O
+vehetők	O
+mint	O
+munkaerő	O
+.	O
+
+Ily	O
+módon	O
+a	O
+pénzeszközök	O
+amiket	O
+a	O
+munkáért	O
+utaltak	O
+felszabadul	O
+,	O
+bölcsen	O
+felhasználható	O
+amit	O
+bölcsen	O
+odaítél	O
+a	O
+leginkább	O
+megfelelőnek	O
+.	O
+
+Hakuten	B-PER
+úr	O
+,	O
+magának	O
+kell	O
+megnyernie	O
+ezt	O
+a	O
+versenyt	O
+.	O
+
+Csak	O
+is	O
+a	O
+Mizuno	B-PER
+klánnak	O
+javára	O
+.	O
+
+Falusiak	O
+!	O
+
+Menjetek	O
+a	O
+szentélyhez	O
+!	O
+
+Találkozzunk	O
+a	O
+szentélynél	O
+mielőtt	O
+kimentek	O
+a	O
+földekre	O
+!	O
+
+A	O
+szentélyhez	O
+menjen	O
+minden	O
+ember	O
+!	O
+
+A	O
+keleti	O
+falunak	O
+is	O
+szóltatok	O
+.	O
+
+Aha	O
+,	O
+már	O
+szóltam	O
+.	O
+
+Az	O
+északi	O
+és	O
+déli	O
+falu	O
+emberei	O
+már	O
+ott	O
+vannak	O
+.	O
+
+Ne	O
+várakoztassuk	O
+meg	O
+őket	O
+.	O
+
+Rettenetes	O
+!	O
+
+Ha	O
+Hakuten	B-PER
+tervét	O
+választják	O
+örökre	O
+tönkreteszik	O
+az	O
+életünk	O
+.	O
+
+Ha	O
+sikerül	O
+neki	O
+...	O
+sohasem	O
+fogunk	O
+újra	O
+gazdálkodni	O
+itt	O
+.	O
+
+Engem	O
+nem	O
+érdekel	O
+,	O
+hogy	O
+ezt	O
+a	O
+Shógun	O
+nevében	O
+teszik	O
+.	O
+
+Ne	O
+hagyjuk	O
+,	O
+hogy	O
+megsemmisítsék	O
+otthonainkat	O
+és	O
+földjeinket	O
+.	O
+
+Maradj	O
+már	O
+!	O
+
+Meghallják	O
+a	O
+rendőrök	O
+.	O
+
+Nem	O
+érdekel	O
+!	O
+
+Nem	O
+csak	O
+a	O
+mi	O
+földjeink	O
+vannak	O
+itt	O
+.	O
+
+Építsenek	O
+valahol	O
+máshol	O
+.	O
+
+Igazad	O
+van	O
+!	O
+
+Építsék	O
+máshol	O
+!	O
+
+Ez	O
+túl	O
+sok	O
+.	O
+
+Nem	O
+bírom	O
+tovább	O
+!	O
+
+Megyek	O
+a	O
+kamaráshoz	O
+!	O
+
+Könyörögni	O
+fogok	O
+Dewa	B-PER
+nagyúrnak	O
+!	O
+
+Könyörögjünk	O
+a	O
+Shógunnál	O
+!	O
+
+Hülyék	O
+!	O
+
+Ha	O
+megteszitek	O
+...	O
+mindenkit	O
+megbüntetnek	O
+.	O
+
+Akkor	O
+mit	O
+tegyünk	O
+?	O
+
+Vagy	O
+nem	O
+tehetünk	O
+semmit	O
+?	O
+
+Nem	O
+azt	O
+mondtam	O
+.	O
+
+Ha	O
+eljön	O
+az	O
+ideje	O
+,	O
+majd	O
+én	O
+benyújtom	O
+a	O
+kérvényt	O
+!	O
+
+Elöljáró	O
+!	O
+
+Figyelj	O
+!	O
+
+Még	O
+nem	O
+Hakuten	B-PER
+úr	O
+az	O
+építő	O
+.	O
+
+Még	O
+meg	O
+kell	O
+nyernie	O
+a	O
+versenyt	O
+.	O
+
+De	O
+hát	O
+...	O
+hol	O
+van	O
+a	O
+versenytársa	O
+,	O
+Sato	B-PER
+tanár	O
+úr	O
+csak	O
+két	B-DATE
+nap	I-DATE
+van	O
+a	O
+verseny	O
+végéig	O
+,	O
+és	O
+még	O
+meg	O
+sem	O
+érkezett	O
+.	O
+
+És	O
+lehet	O
+,	O
+hogy	O
+ugyan	O
+olyan	O
+rossz	O
+mint	O
+Hakuten	B-PER
+.	O
+
+Nem	O
+,	O
+Sato	B-PER
+tanár	O
+úr	O
+nem	O
+olyan	O
+.	O
+
+Találkoztam	O
+vele	O
+,	O
+amikor	O
+Edóban	B-GPE
+voltam	O
+hivatalos	O
+ügyben	O
+.	O
+
+Tanult	O
+,	O
+arany	O
+szívű	O
+ember	O
+!	O
+
+Akkor	O
+Elöljáró	O
+,	O
+kérjük	O
+meg	O
+Sató	B-PER
+urat	O
+,	O
+nyerje	O
+meg	O
+mindenáron	O
+a	O
+versenyt	O
+.	O
+
+Ne	O
+légy	O
+együgyű	O
+.	O
+
+Hogy	O
+számíthatnánk	O
+valakire	O
+aki	O
+még	O
+itt	O
+sincs	O
+.	O
+
+Odaát	O
+van	O
+.	O
+
+Ishi	B-PER
+.	O
+
+Mondtam	O
+,	O
+hogy	O
+nő	O
+vagy	O
+gyerek	O
+ne	O
+jöjjön	O
+ide	O
+.	O
+
+De	O
+emberek	O
+vannak	O
+itt	O
+Edóból	B-GPE
+,	O
+hogy	O
+találkozzanak	O
+Sató	B-PER
+úrral	O
+.	O
+
+Sató	B-PER
+tanár	O
+úrral	O
+..	O
+?	O
+
+Az	O
+Edói	B-GPE
+építész	O
+iskolájából	O
+vagyunk	O
+.	O
+
+Ő	O
+,	O
+Sató	B-PER
+úr	O
+menyasszonya	O
+.	O
+
+Ó	O
+,	O
+Fuji	B-LOC
+...	O
+
+Kérlek	O
+!	O
+
+Some	B-PER
+kisasszony	O
+a	O
+néhai	O
+mester	O
+lánya	O
+.	O
+
+Akkor	O
+Sató	B-PER
+tanár	O
+úr	O
+már	O
+itt	O
+van	O
+?	O
+
+De	O
+hát	O
+hol	O
+van	O
+?	O
+
+Egy	B-DATE
+hónappal	I-DATE
+ezelőtt	I-DATE
+elhagyta	O
+Edót	B-GPE
+.	O
+
+Ezért	O
+jöttünk	O
+megkérdezni	O
+az	O
+elöljárót	O
+,	O
+hol	O
+szállt	O
+meg	O
+.	O
+
+Látjátok	O
+.	O
+
+Nem	O
+jött	O
+!	O
+
+Fél	O
+Hakutentől	B-PER
+és	O
+elmenekült	O
+.	O
+
+Elmegy	O
+Hakuten	B-PER
+!	O
+
+Hé	O
+,	O
+mindenki	O
+!	O
+
+Nyugodjatok	O
+meg	O
+és	O
+figyeljetek	O
+rám	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+Sató	B-PER
+tanár	O
+úr	O
+a	O
+közelben	O
+végez	O
+kutatást	O
+,	O
+titokban	O
+készül	O
+fel	O
+a	O
+versenyre	O
+.	O
+
+Két	B-DATE
+nap	I-DATE
+van	O
+hátra	O
+.	O
+
+Váljunk	O
+szét	O
+,	O
+és	O
+találjuk	O
+meg	O
+.	O
+
+De	O
+merre	O
+?	O
+
+Bárhol	O
+lehet	O
+.	O
+
+Nem	O
+felejtsd	O
+,	O
+éhes	O
+farkasok	O
+barangolnak	O
+a	O
+hegy	O
+lábánál	O
+.	O
+
+Kisasszony	O
+.	O
+
+Hallotta	O
+őket	O
+.	O
+
+Van	O
+valami	O
+ötlete	O
+hol	O
+lehet	O
+?	O
+
+Hol	O
+van	O
+az	O
+Ashitaka	B-LOC
+hegy	O
+?	O
+
+Az	O
+az	O
+a	O
+hegy	O
+,	O
+odaát	O
+.	O
+
+Ha	O
+nem	O
+maradt	O
+itt	O
+...	O
+abból	O
+,	O
+amit	O
+mondott	O
+,	O
+mielőtt	O
+elment	O
+,	O
+valahol	O
+azon	O
+a	O
+hegyen	O
+lesz	O
+ahonnan	O
+jó	O
+a	O
+kilátás	O
+a	O
+területre	O
+.	O
+
+Onnan	O
+a	O
+teljes	O
+stratégiáját	O
+meg	O
+tudja	O
+tervezni	O
+.	O
+
+Sató	B-PER
+tanár	O
+úr	O
+!	O
+
+Tanár	O
+úr	O
+!	O
+
+Sató	B-PER
+úr	O
+!	O
+
+Taiuemon	B-PER
+,	O
+a	O
+déli	O
+falu	O
+elöljárója	O
+vagyok	O
+.	O
+
+Tegnap	B-DATE
+óta	I-DATE
+keressük	O
+önt	O
+.	O
+
+Uram	O
+,	O
+a	O
+várat	O
+illetően	O
+,	O
+mi	O
+,	O
+ennek	O
+a	O
+hegynek	O
+lábainál	O
+élő	O
+összes	O
+falu	O
+népei	O
+szeretnénk	O
+magunkat	O
+a	O
+könyörületére	O
+bízni	O
+.	O
+
+Tanár	O
+úr	O
+,	O
+mond	O
+valamit	O
+.	O
+
+Önnek	O
+tényleg	O
+indulnia	O
+kellene	O
+.	O
+
+Csak	B-DATE
+egy	I-DATE
+nap	I-DATE
+van	O
+...	O
+holnap	B-DATE
+verseny	O
+.	O
+
+És	O
+ön	O
+a	O
+látványt	O
+nézi	O
+.	O
+
+Nekem	O
+rendben	O
+.	O
+
+Nagyon	O
+jól	O
+ismerem	O
+önt	O
+.	O
+
+Én	O
+azért	O
+vagyok	O
+itt	O
+,	O
+hogy	O
+bevegyem	O
+a	O
+tűzijáték	O
+üzletembe	O
+.	O
+
+De	O
+,	O
+tanár	O
+úr	O
+...	O
+
+Ryukichi	B-PER
+!	O
+
+Tüzelj	O
+a	O
+tűzijátékokkal	O
+körbe	O
+.	O
+
+Megszerveztünk	O
+körbe	O
+egy	O
+tüzet	O
+.	O
+
+Bishamonnál	B-LOC
+vár	O
+Tsuneta	B-PER
+a	O
+hegyi	O
+ember	O
+.	O
+
+A	O
+tónál	O
+Shosai	B-PER
+tanár	O
+úr	O
+van	O
+.	O
+
+És	O
+Domyo	B-LOC
+hegyen	O
+...	O
+
+Genroku	B-PER
+és	O
+a	O
+lánya	O
+,	O
+Roku	B-PER
+,	O
+és	O
+a	O
+marhapásztor	O
+,	O
+Bunroku	B-PER
+.	O
+
+És	O
+a	O
+Shirogane	B-LOC
+vízesés	O
+közelében	O
+...	O
+
+Tamaki	B-PER
+Sanae	I-PER
+úr	O
+és	O
+fia	O
+,	O
+Sanosuke	B-PER
+.	O
+
+Mindegyikük	O
+figyeli	O
+a	O
+tűzijátékot	O
+.	O
+
+És	O
+ha	O
+mindegyikük	O
+helyén	O
+látható	O
+a	O
+tűzijáték	O
+akkor	O
+azok	O
+lesznek	O
+a	O
+vár	O
+négy	B-CARDINAL
+előőrse	O
+.	O
+
+Ami	O
+viszont	O
+kijelöli	O
+a	O
+fővárat	O
+.	O
+
+Akkor	O
+az	O
+ön	O
+terve	O
+nem	O
+igényli	O
+...	O
+szétrombolni	O
+földjeinket	O
+a	O
+vár	O
+felépítéséhez	O
+?	O
+
+A	O
+legmegfelelőbb	O
+helye	O
+egy	O
+várnak	O
+nem	O
+kell	O
+kiszakítani	O
+a	O
+lakosságot	O
+...	O
+
+Sató	B-PER
+úr	O
+megnézett	O
+minden	O
+lehetséges	O
+helyet	O
+a	O
+hegy	O
+lábánál	O
+.	O
+
+Kisasszony	O
+!	O
+
+Nem	O
+,	O
+nem	O
+tudunk	O
+lejutni	O
+innen	O
+.	O
+
+Menjünk	O
+körbe	O
+.	O
+
+Fuji	B-PER
+vagyok	O
+.	O
+
+Some	B-PER
+kisasszony	O
+leesett	O
+a	O
+szikláról	O
+.	O
+
+Leesett	O
+?	O
+
+Igen	O
+,	O
+az	O
+erős	O
+hang	O
+megijesztette	O
+.	O
+
+A	O
+fenébe	O
+!	O
+
+Ez	O
+az	O
+ő	O
+kimonójából	O
+származik	O
+.	O
+
+Akkor	O
+elrabolták	O
+.	O
+
+Nézd	O
+ezt	O
+Sanpei	B-PER
+.	O
+
+Veszélyben	O
+van	O
+.	O
+
+Ő	O
+kicsoda	O
+?	O
+
+Ő	O
+Hakuten	B-PER
+kegyeltje	O
+,	O
+furcsa	O
+fickó	O
+,	O
+Sanpei	B-PER
+a	O
+neve	O
+.	O
+
+Hakutené	B-PER
+..	O
+?	O
+
+Akkor	O
+nincs	O
+ok	O
+aggodalomra	O
+.	O
+
+Ó	O
+,	O
+nem	O
+!	O
+
+Ki	O
+tudja	O
+,	O
+mit	O
+tesz	O
+vele	O
+.	O
+
+Some	B-PER
+kisasszonynál	O
+van	O
+a	O
+várépítés	O
+titkos	O
+kézikönyve	O
+az	O
+apja	O
+könyvtárából	O
+.	O
+
+Azt	O
+gondolta	O
+,	O
+szükség	O
+lesz	O
+rá	O
+,	O
+és	O
+elhozta	O
+magának	O
+.	O
+
+Nála	O
+van	O
+?	O
+
+Igen	O
+,	O
+bele	O
+van	O
+varrva	O
+az	O
+obijába	O
+.	O
+
+Az	O
+obijába	O
+?	O
+(	O
+szalagszerű	O
+öv	O
+a	O
+derékon	O
+)	O
+.	O
+
+Egy	B-DATE
+nappal	I-DATE
+a	O
+verseny	O
+előtt	O
+,	O
+megmentesz	O
+egy	O
+személyt	O
+.	O
+
+Ez	O
+jó	O
+ómen	O
+.	O
+
+Nos	O
+,	O
+nekem	O
+még	O
+mindig	O
+versenyeznem	O
+kell	O
+.	O
+
+Most	O
+módon	O
+.	O
+
+Holnap	B-DATE
+az	O
+első	B-ORDINAL
+nap	O
+,	O
+Mizuno	B-PER
+nagyúr	O
+bármelyik	B-TIME
+percben	I-TIME
+itt	O
+lehet	O
+.	O
+
+Mégsem	O
+hallottunk	O
+Satóról	B-PER
+egy	O
+szót	O
+sem	O
+.	O
+
+Sató	B-PER
+úr	O
+.	O
+
+A	O
+tűzijáték	O
+kísérlet	O
+működött	O
+.	O
+
+Tehát	O
+látható	O
+volt	O
+mind	O
+a	O
+négy	B-CARDINAL
+helyről	O
+?	O
+
+Igen	O
+,	O
+láttuk	O
+.	O
+
+Nagyon	O
+tisztán	O
+.	O
+
+Briliáns	O
+,	O
+hogy	O
+alig	B-DATE
+egy	I-DATE
+hónap	I-DATE
+alatt	I-DATE
+megtalálta	O
+a	O
+helyet	O
+.	O
+
+Egész	O
+életünkben	O
+a	O
+hegy	O
+lábánál	O
+éltünk	O
+.	O
+
+De	O
+az	O
+ön	O
+munkája	O
+meglepett	O
+minket	O
+.	O
+
+Sanosuke	B-PER
+,	O
+azonnal	O
+menj	O
+Sanpushába	B-GPE
+.	O
+
+Sató	B-PER
+úr	O
+,	O
+kérem	O
+azonnal	O
+menjen	O
+Some	B-PER
+kisasszonyért	O
+.	O
+
+Igen	O
+,	O
+sietnünk	O
+kell	O
+.	O
+
+Tehát	O
+Sanosuke	B-PER
+,	O
+milyen	O
+ez	O
+a	O
+Sató	B-PER
+?	O
+
+Még	O
+jobb	O
+is	O
+,	O
+mint	O
+amit	O
+képzeltünk	O
+.	O
+
+Apa	O
+mondta	O
+így	O
+.	O
+
+De	O
+a	O
+kamarás	O
+Hakutent	B-PER
+támogatja	O
+.	O
+
+Azt	O
+hiszi	O
+,	O
+Hakuten	B-PER
+fog	O
+majd	O
+győzni	O
+.	O
+
+Nem	O
+,	O
+Sató	B-PER
+tanár	O
+úr	O
+az	O
+építészet	O
+mestere	O
+.	O
+
+Kötelessége	O
+megnyerni	O
+a	O
+versenyt	O
+.	O
+
+Hakuten	B-PER
+tulajdona	O
+.	O
+
+Mindaddig	O
+,	O
+amíg	O
+...	O
+ez	O
+a	O
+tetoválás	O
+a	O
+karodon	O
+van	O
+,	O
+nem	O
+tudsz	O
+összeházasodni	O
+senki	O
+mással	O
+.	O
+
+Mester	O
+,	O
+itt	O
+van	O
+.	O
+
+Itt	O
+van	O
+Sató	B-PER
+.	O
+

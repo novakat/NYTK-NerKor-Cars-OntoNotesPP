@@ -1,0 +1,1709 @@
+# global.columns = FORM ONPP:NER
+Ez	O
+egy	O
+San	B-GPE
+Diegó-i	I-GPE
+újság	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+jobb	O
+ha	O
+beszélsz	O
+velük	O
+.	O
+
+Mit	O
+akarnak	O
+?	O
+
+Tudni	O
+szeretnék	O
+,	O
+hogy	O
+most	O
+megváltoztatod	O
+e	O
+a	O
+terved	O
+.	O
+
+Miért	O
+kéne	O
+most	O
+megváltoztatni	O
+?	O
+
+Nézd	O
+,	O
+te	O
+beszélj	O
+velük	O
+.	O
+
+Lindbergh	B-PER
+beszél	O
+.	O
+
+Megváltoztatja	O
+a	O
+terveit	O
+?	O
+
+Az	O
+a	O
+tervem	O
+,	O
+hogy	O
+elhagyom	O
+St.	B-GPE
+Louis-t	I-GPE
+ma	B-DATE
+délután	B-TIME
+.	O
+
+Hallotta	O
+?	O
+
+Mit	O
+hallottam	O
+?	O
+
+Van	O
+itt	O
+egy	O
+AP	B-ORG
+gyorshír	O
+Párizsból	B-GPE
+.	O
+
+Két	B-CARDINAL
+francia	B-NORP
+repülő	O
+a	O
+nevük	O
+Nungesser	B-PER
+és	O
+Coli	B-PER
+felszálltak	O
+New	B-GPE
+York	I-GPE
+felé	O
+ma	B-TIME
+reggel	I-TIME
+.	O
+
+Nungesser	B-PER
+és	O
+Coli	B-PER
+?	O
+
+Tudta	O
+ezt	O
+?	O
+
+Rendben	O
+,	O
+már	O
+tudom	O
+.	O
+
+Tovább	O
+.	O
+
+Mi	O
+a	O
+reakciója	O
+,	O
+most	O
+,	O
+hogy	O
+Nungesser	B-PER
+és	O
+Coli	B-PER
+az	O
+óceán	O
+felett	O
+jár	O
+?	O
+
+Úgy	O
+értem	O
+,	O
+el	O
+fog	O
+indulni	O
+a	O
+maga	O
+gépével	O
+ugyanúgy	O
+?	O
+
+Nos	O
+,	O
+nem	O
+tudom	O
+.	O
+
+Természetesen	O
+a	O
+dolog	O
+kissé	O
+másképp	O
+néz	O
+ki	O
+most	O
+.	O
+
+Ők	O
+tapasztalt	O
+repülők	O
+és	O
+biztos	O
+hogy	O
+elérik	O
+New	B-GPE
+York-ot	I-GPE
+a	O
+tervük	O
+szerint	O
+.	O
+
+Szóval	O
+azt	O
+tervezi	O
+,	O
+hogy	O
+mindenképp	O
+elindul	O
+?	O
+
+Köszönöm	O
+az	O
+interjút	O
+.	O
+
+Köszönöm	O
+,	O
+hogy	O
+hívott	O
+.	O
+
+Ez	O
+az	O
+első	B-ORDINAL
+eset	O
+,	O
+hogy	O
+ennyi	O
+benzinnel	O
+megrakott	O
+gép	O
+felszállt	O
+a	O
+földről	O
+.	O
+
+Ez	O
+egy	O
+tengeri	O
+gép	O
+.	O
+
+Olvastam	O
+valahol	O
+,	O
+hogy	O
+Nungesser	B-PER
+és	O
+Coli	B-PER
+ledobhatja	O
+a	O
+felszálló	O
+futóművét	O
+.	O
+
+Letehetik	O
+a	O
+vízre	O
+a	O
+New	B-GPE
+York-i	I-GPE
+kikötőben	O
+.	O
+
+Úgy	O
+tűnik	O
+,	O
+az	O
+iskolának	O
+vége	O
+.	O
+
+Nos	O
+,	O
+hadd	O
+csinálják	O
+meg	O
+azt	O
+a	O
+képet	O
+végre	O
+.	O
+
+Rendben	O
+,	O
+mindenki	O
+készen	O
+áll	O
+?	O
+
+Építette	O
+RYAN	B-ORG
+Repüli	O
+LINDBERGH	B-PER
+ELŐSZŐR	O
+AZ	O
+ATLANTI-ÓCEÁNON	B-LOC
+ÁT	O
+!	O
+
+Nagy	O
+mosolyt	O
+.	O
+
+Ne	O
+mozdulj	O
+.	O
+
+Na	O
+még	O
+egyet	O
+.	O
+
+Nem	O
+kellett	O
+volna	O
+eljátszanom	O
+a	O
+szervezet	O
+pénzét	O
+.	O
+
+Nos	O
+,	O
+ha	O
+el	O
+tudjuk	O
+adni	O
+a	O
+Spirit-et	B-PROD
+vissza	O
+tudom	O
+fizetni	O
+nekik	O
+,	O
+de	O
+én	O
+nem	O
+szeretném	O
+eladni	O
+.	O
+
+Nem	O
+mutatványos	O
+gép	O
+,	O
+hogy	O
+utasokat	O
+fuvarozzon	O
+egy	O
+unalmas	O
+vasárnap	B-DATE
+délután	B-TIME
+.	O
+
+Találunk	O
+valami	O
+mást	O
+,	O
+talán	O
+átrepülhetné	O
+a	O
+Csendes-óceánt	B-LOC
+.	O
+
+Szia	O
+,	O
+Harry	B-PER
+.	O
+
+Isten	B-PER
+hozott	O
+itthon	O
+,	O
+Slim	B-PER
+.	O
+
+Mennyi	O
+időbe	O
+telt	O
+az	O
+út	O
+?	O
+
+14	B-DUR
+óra	I-DUR
+,	I-DUR
+25	I-DUR
+perc	I-DUR
+.	O
+
+Szép	O
+munka	O
+.	O
+
+Szép	O
+a	O
+gép	O
+is	O
+.	O
+
+Biztosan	O
+szeret	O
+repülni	O
+.	O
+
+Bixby	B-PER
+és	O
+a	O
+többiek	O
+Louie-nál	B-PER
+vannak	O
+hallgatják	O
+a	O
+híreket	O
+Nungesserről	B-PER
+és	O
+Coliról	B-PER
+.	O
+
+New	B-GPE
+York-ban	I-GPE
+vannak	O
+már	O
+?	O
+
+Leszálltak	O
+?	O
+
+Már	O
+régóta	O
+esedékes	O
+,	O
+nemde	O
+?	O
+
+Körülbelül	B-TIME
+nyolc	I-TIME
+órája	I-TIME
+.	O
+
+Van	O
+valami	O
+jelentés	O
+?	O
+
+Kettő	O
+is	O
+.	O
+
+Az	O
+egyik	O
+,	O
+hogy	O
+lezuhantak	O
+valahol	O
+Új-Fundlandnál	B-GPE
+.	O
+
+A	O
+másik	O
+,	O
+hogy	O
+egy	O
+brit	B-NORP
+hajó	O
+felvette	O
+őket	O
+a	O
+tengeren	O
+.	O
+
+Senki	O
+sem	O
+tudja	O
+.	O
+
+Ahogy	O
+a	O
+párizsi	B-GPE
+felszállástól	O
+számított	O
+negyvenedik	B-TIME
+óra	I-TIME
+elmúlt	O
+,	O
+vált	O
+ijesztően	O
+bizonyossá	O
+,	O
+hogy	O
+valahol	O
+az	O
+Észak-Atlanti	B-LOC
+óceán	I-LOC
+felett	O
+tragédia	O
+történt	O
+.	O
+
+Talán	O
+a	O
+benzinhiány	O
+,	O
+okozhatta	O
+a	O
+rettenthetetlen	O
+franciák	B-NORP
+lezuhanását	O
+vagy	O
+más	O
+váratlan	O
+baleset	O
+?	O
+
+A	O
+szakértők	O
+véleménye	O
+szerint	O
+a	O
+szárnyak	O
+eljegesedése	O
+lehetett	O
+az	O
+Új-Fundlandtól	B-GPE
+keletre	O
+eső	O
+hideg	O
+,	O
+esős	O
+régióban	O
+,	O
+ami	O
+Nungessert	B-PER
+és	O
+Colit	B-PER
+a	O
+viharos	O
+tengerbe	O
+vetette	O
+.	O
+
+Eözben	O
+a	O
+Long	B-GPE
+Island-i	I-GPE
+Roosevelt	B-FAC
+reptéren	I-FAC
+,	O
+Clarence	B-PER
+Chamberlin	I-PER
+és	O
+Byrd	B-PER
+parancsnok	O
+,	O
+megrendültek	O
+a	O
+végzetes	O
+eseten	O
+ami	O
+a	O
+francia	B-NORP
+ászokat	O
+érte	O
+,	O
+de	O
+folytatják	O
+a	O
+saját	O
+felkészülésüket	O
+.	O
+
+Amint	O
+készen	O
+állnak	O
+,	O
+el	O
+fognak	O
+indulni	O
+gépükkel	O
+,	O
+a	O
+hosszú	O
+,	O
+titokzatos	O
+légi	O
+útra	O
+Párizsba	B-GPE
+,	O
+amely	O
+már	O
+oly	O
+sok	O
+repülős	O
+életét	O
+követelte	O
+.	O
+
+Még	O
+egy	O
+közlemény	O
+a	O
+kaliforniai	B-GPE
+San	B-GPE
+Diego-ból	I-GPE
+,	O
+a	O
+légipostai	O
+pilóta	O
+,	O
+Charles	B-PER
+A.	I-PER
+Lindbergh	I-PER
+,	O
+benevezte	O
+gépét	O
+a	O
+transzatlanti	O
+versenyre	O
+.	O
+
+Mit	O
+szólsz	O
+egy	O
+kis	O
+reggelihez	O
+,	O
+Slim	B-PER
+?	O
+
+Miért	O
+nem	O
+mégy	O
+be	O
+a	O
+városba	O
+?	O
+
+Elkelne	O
+egy	O
+kis	O
+pihenés	O
+.	O
+
+Nekünk	O
+meg	O
+egy	O
+hosszú	O
+beszélgetés	O
+.	O
+
+Hosszú	O
+beszélgetés	O
+?	O
+
+Jobb	O
+lesz	O
+ha	O
+bemegyek	O
+New	B-GPE
+York-ba	I-GPE
+,	O
+mielőtt	O
+Chamberlin	B-PER
+és	O
+Byrd	B-PER
+útrakel	O
+?	O
+
+Byrd	B-PER
+még	O
+mindig	O
+vár	O
+.	O
+
+Chamberlin	B-PER
+gépét	O
+a	O
+bíróság	O
+zárolta	O
+.	O
+
+Ez	O
+jó	O
+alkalom	O
+nekünk	O
+.	O
+
+Gondolom	O
+csak	O
+a	O
+hét	B-TIME
+óra	I-TIME
+New	B-GPE
+York-ig	I-GPE
+.	O
+
+Tényleg	O
+annyi	O
+.	O
+
+Gyere	O
+ki	O
+.	O
+
+Megmutatom	O
+a	O
+Spirit-et	O
+.	O
+
+Ülj	O
+le	O
+,	O
+Slim	B-PER
+.	O
+
+Nem	O
+akarod	O
+látni	O
+mire	O
+ment	O
+a	O
+pénzed	O
+?	O
+
+Hadd	O
+kérdezzek	O
+valamit	O
+,	O
+Slim	B-PER
+.	O
+
+Nem	O
+kéne	O
+felülvizsgálni	O
+ezt	O
+az	O
+egész	O
+ötletet	O
+?	O
+
+Nos	O
+,	O
+miért	O
+kellene	O
+felülvizsgálni	O
+?	O
+
+Az	O
+esélyeid	O
+,	O
+Slim	B-PER
+.	O
+
+Ha	O
+biztosítást	O
+akarnál	O
+kötni	O
+erre	O
+a	O
+repülésre	O
+,	O
+tudod	O
+,	O
+mennyi	O
+esélyed	O
+lenne	O
+.	O
+
+Ha	O
+nem	O
+lenne	O
+esély	O
+,	O
+soha	O
+nem	O
+kérem	O
+,	O
+hogy	O
+pénzt	O
+fektess	O
+bele	O
+.	O
+
+Felejtsd	O
+el	O
+a	O
+pénzt	O
+,	O
+Slim	B-PER
+.	O
+
+Négy	B-CARDINAL
+halott	O
+,	O
+mára	O
+valószínűleg	O
+hat	B-CARDINAL
+.	O
+
+Nem	O
+akarjuk	O
+a	O
+te	O
+neved	O
+is	O
+felírni	O
+a	O
+listára	O
+.	O
+
+Nos	O
+,	O
+persze	O
+jogod	O
+van	O
+leállítani	O
+,	O
+ha	O
+akarod	O
+.	O
+
+Ez	O
+a	O
+te	O
+gyermeked	O
+,	O
+Slim	B-PER
+.	O
+
+Tiéd	O
+a	O
+döntés	O
+.	O
+
+Mindent	O
+próbálunk	O
+megtenni	O
+a	O
+...	O
+
+Mindent	O
+amivel	O
+megkönnyítitek	O
+,	O
+hogy	O
+feladjam	O
+.	O
+
+Nos	O
+,	O
+köszönöm	O
+,	O
+nem	O
+kell	O
+.	O
+
+Csak	O
+nem	O
+úgy	O
+néz	O
+ki	O
+,	O
+mintha	O
+meg	O
+lehetne	O
+csinálni	O
+.	O
+
+Talán	O
+gépek	O
+még	O
+nem	O
+elég	O
+jók	O
+hozzá	O
+.	O
+
+10	B-DATE
+év	I-DATE
+múlva	I-DATE
+,	O
+talán	O
+,	O
+de	O
+most	O
+nem	O
+.	O
+
+De	O
+most	O
+kell	O
+megpróbálni	O
+!	O
+
+Újra	O
+és	O
+újra	O
+,	O
+amíg	O
+nem	O
+sikerül	O
+!	O
+
+Nem	O
+értitek	O
+meg	O
+?	O
+
+Nem	O
+tudjátok	O
+...	O
+
+Nem	O
+,	O
+azt	O
+hiszem	O
+,	O
+ezt	O
+nehéz	O
+nektek	O
+megérteni	O
+.	O
+
+Ti	O
+nem	O
+vagytok	O
+hivatásos	O
+repülők	O
+,	O
+Nungesser	B-PER
+és	O
+Coli	B-PER
+megértené	O
+.	O
+
+Csak	O
+egy	B-TIME
+óra	I-TIME
+van	O
+hátra	O
+.	O
+
+Próbálj	O
+...	O
+elmélyülni	O
+Miért	O
+nem	O
+kéri	O
+meg	O
+őket	O
+Frank	B-PER
+hogy	O
+ne	O
+gépeljenek	O
+?	O
+
+Mit	O
+írnak	O
+ilyenkor	O
+?	O
+
+Egy	B-DATE
+hete	I-DATE
+azt	O
+se	O
+tudták	O
+hogy	O
+élek	O
+,	O
+most	O
+meg	O
+már	O
+négy	B-CARDINAL
+különböző	O
+államba	O
+teszik	O
+a	O
+születési	O
+helyem	O
+Hirtelen	O
+Mázlis	B-PER
+Charlie	I-PER
+lettem	O
+.	O
+
+Meg	O
+a	O
+Magányos	B-PER
+sas	I-PER
+.	O
+
+Meg	O
+a	O
+Repülő	B-PER
+bolond	I-PER
+.	O
+
+Remélem	O
+,	O
+az	O
+időjós	O
+fiúk	O
+tudják	O
+,	O
+mit	O
+beszélnek	O
+.	O
+
+Talán	O
+kitisztul	O
+.	O
+
+Ne	O
+most	O
+kezdj	O
+aggódni	O
+az	O
+időjárás	O
+miatt	O
+.	O
+
+Nem	O
+,	O
+nem	O
+viszek	O
+fogkefét	O
+.	O
+
+Majd	O
+veszek	O
+Párizsban	B-GPE
+.	O
+
+Se	O
+borotvát	O
+,	O
+se	O
+inget	O
+.	O
+
+Semmi	O
+felesleges	O
+súlyt	O
+,	O
+akkor	O
+se	O
+,	O
+ha	O
+csak	O
+egy	B-QUANTITY
+font	I-QUANTITY
+.	O
+
+Egy	B-QUANTITY
+fonttal	I-QUANTITY
+kevesebb	O
+kiemelhet	O
+a	O
+sárból	O
+a	O
+kifutón	O
+.	O
+
+Ha	O
+most	O
+elállna	O
+az	O
+eső	O
+..	O
+
+Lesz	O
+e	O
+elég	O
+sebesség	O
+ebben	O
+a	O
+sárban	O
+,	O
+hogy	O
+felszálljon	O
+?	O
+
+Ez	O
+talán	O
+túl	O
+sok	O
+neki	O
+?	O
+
+Egy	O
+kis	O
+acél	O
+és	O
+fa	O
+és	O
+vászon	O
+,	O
+felemel	O
+5000	B-MONEY
+fontot	I-MONEY
+,	O
+elég	O
+magasra	O
+,	O
+elég	O
+gyorsan	O
+?	O
+
+Ó	O
+,	O
+aludj	O
+már	O
+.	O
+
+Mártsd	O
+csuklód	O
+meleg	O
+vízbe	O
+.	O
+
+Számold	O
+a	O
+bárányokat	O
+.	O
+
+Számold	O
+a	O
+fényeket	O
+a	O
+falon	O
+.	O
+
+Aludj	O
+már	O
+.	O
+
+Kedves	O
+Slim	B-PER
+,	O
+tegye	O
+bele	O
+ezt	O
+Szent	B-WORK_OF_ART
+Kristófot	I-WORK_OF_ART
+a	O
+repülős	O
+ruhájába	O
+.	O
+
+Ő	O
+segíti	O
+át	O
+az	O
+utazókat	O
+a	O
+végtelen	O
+vizeken	O
+.	O
+
+Hussman	B-PER
+atya	O
+.	O
+
+Hussman	B-PER
+atya	O
+.	O
+
+Ő	O
+volt	O
+a	O
+legrosszabb	O
+repülő	O
+.	O
+
+Adtam	O
+neki	O
+20	B-TIME
+órát	I-TIME
+de	O
+nem	O
+tanult	O
+meg	O
+semmit	O
+.	O
+
+Ő	O
+volt	O
+a	O
+legrosszabb	O
+tanuló	O
+,	O
+akit	O
+valaha	O
+láttam	O
+.	O
+
+Rendben	O
+,	O
+Atyám	O
+,	O
+Most	O
+próbáljunk	O
+egy	O
+másik	O
+leszállást	O
+.	O
+
+Még	O
+ne	O
+forduljon	O
+,	O
+túl	O
+magasan	O
+vagyunk	O
+.	O
+
+Csak	O
+süllyedjünk	O
+.	O
+
+Húzza	O
+felfelé	O
+.	O
+
+Szedje	O
+jobbra	O
+...	O
+
+Hová	O
+megy	O
+?	O
+
+Húzza	O
+felfelé	O
+!	O
+
+Rendben	O
+,	O
+most	O
+repüljön	O
+egyenes	O
+és	O
+síkban	O
+.	O
+
+Süllyedünk	O
+,	O
+Atyám	O
+!	O
+
+Húzza	O
+fel	O
+az	O
+orrát	O
+.	O
+
+Repüljön	O
+jobbra	O
+és	O
+egyenesen	O
+.	O
+
+Erre	O
+menjen	O
+.	O
+
+Húzza	O
+fel	O
+a	O
+jobbszárnyat	O
+!	O
+
+Húzza	O
+fel	O
+a	O
+jobbszárnyat	O
+,	O
+Atyám	O
+!	O
+
+Ne	O
+,	O
+most	O
+megint	O
+süllyedünk	O
+.	O
+
+Látja	O
+ott	O
+a	O
+fákat	O
+?	O
+
+A	O
+fák	O
+,	O
+látja	O
+őket	O
+?	O
+
+Nos	O
+,	O
+nem	O
+is	O
+olyan	O
+rossz	O
+,	O
+ugye	O
+?	O
+
+Azt	O
+hiszem	O
+,	O
+rájövök	O
+a	O
+nyitjára	O
+.	O
+
+Nem	O
+,	O
+Atyám	O
+,	O
+nem	O
+,	O
+és	O
+soha	O
+nem	O
+is	O
+fog	O
+.	O
+
+Nincs	O
+koordinációja	O
+,	O
+Nem	O
+érzi	O
+a	O
+repülőgépet	O
+.	O
+
+Csak	O
+szórja	O
+a	O
+pénzét	O
+.	O
+
+Nem	O
+akarok	O
+én	O
+műrepülő	O
+lenni	O
+.	O
+
+Elég	O
+annyit	O
+megtanulnom	O
+,	O
+hogy	O
+néha	O
+felszállhassak	O
+.	O
+
+Aztán	O
+minek	O
+?	O
+
+Szeretne	O
+berregni	O
+a	O
+gyülekezetének	O
+?	O
+
+Van	O
+egy	O
+csomó	O
+okom	O
+.	O
+
+Például	O
+,	O
+ha	O
+fenn	O
+vagyok	O
+,	O
+közelebb	O
+érzem	O
+magam	O
+Istenhez	B-PER
+.	O
+
+Akkor	O
+van	O
+legközelebb	O
+Istenhez	B-PER
+mikor	O
+éppen	O
+landol	O
+.	O
+
+Badarság	O
+!	O
+
+Finoman	O
+landoltam	O
+!	O
+
+Van	O
+egy	O
+különleges	O
+imám	O
+a	O
+landoláshoz	O
+.	O
+
+Nem	O
+gondolja	O
+,	O
+hogy	O
+egy	O
+kicsit	O
+többre	O
+van	O
+szükség	O
+,	O
+mint	O
+egy	O
+ima	O
+?	O
+
+Van	O
+egy	O
+imám	O
+felszálláshoz	O
+,	O
+motorhibához	O
+,	O
+erős	O
+szélhez	O
+,	O
+Mindenhez	O
+van	O
+imám	O
+.	O
+
+Szeretnél	O
+hallani	O
+egyet	O
+a	O
+landoláshoz	O
+?	O
+
+A	O
+zsoltárok	O
+közül	O
+van	O
+.	O
+
+Nem	O
+,	O
+köszönöm	O
+,	O
+Atyám	O
+.	O
+
+Slim	B-PER
+,	O
+nem	O
+szoktál	O
+imádkozni	O
+?	O
+
+Nekem	O
+nem	O
+kell	O
+,	O
+én	O
+le	O
+tudok	O
+szállni	O
+.	O
+
+Hogy	O
+lehet	O
+,	O
+hogy	O
+soha	O
+nem	O
+látlak	O
+a	O
+templom	O
+körül	O
+?	O
+
+Nem	O
+vagy	O
+hívő	O
+?	O
+
+Hát	O
+,	O
+azt	O
+hiszem	O
+nem	O
+.	O
+
+Úgy	O
+vélem	O
+,	O
+a	O
+műszerfal	O
+,	O
+a	O
+nyomásmérő	O
+,	O
+az	O
+iránytű	O
+,	O
+látható	O
+és	O
+megérinthető	O
+dolgok	O
+.	O
+
+Istent	B-PER
+nem	O
+tudom	O
+megérinteni	O
+.	O
+
+Nem	O
+is	O
+kell	O
+.	O
+
+Ő	O
+megérint	O
+téged	O
+.	O
+
+No	O
+akkor	O
+,	O
+mondja	O
+csak	O
+,	O
+atyám	O
+.	O
+
+Tegyük	O
+fel	O
+,	O
+hogy	O
+fenn	O
+van	O
+ezzel	O
+a	O
+géppel	O
+egyedül	O
+,	O
+leáll	O
+a	O
+motor	O
+és	O
+a	O
+gép	O
+dugóhúzóba	O
+esik	O
+.	O
+
+Maga	O
+zuhan	O
+,	O
+mint	O
+egy	O
+szikla	O
+,	O
+úgy	O
+gondolja	O
+hogy	O
+Ő	O
+kisegítené	O
+belőle	O
+?	O
+
+Nem	O
+mondhatok	O
+igent	O
+vagy	O
+nemet	O
+,	O
+de	O
+Ő	O
+tudná	O
+hogy	O
+zuhanok	O
+.	O
+
+Mi	O
+a	O
+baj	O
+,	O
+Slim	B-PER
+?	O
+
+Nincs	O
+még	O
+itt	O
+az	O
+idő	O
+.	O
+
+Ó	O
+,	O
+elég	O
+közel	O
+van	O
+.	O
+
+Valami	O
+új	O
+a	O
+reptéren	O
+?	O
+
+Van	O
+lent	O
+egy	O
+autó	O
+.	O
+
+Tudtál	O
+aludni	O
+?	O
+
+Becsomagoltál	O
+?	O
+
+Nem	O
+viszek	O
+semmit	O
+,	O
+Frank	B-PER
+.	O
+
+Még	O
+egy	O
+fogkefét	O
+se	O
+,	O
+csak	O
+amit	O
+viselek	O
+.	O
+
+Mi	O
+van	O
+a	O
+pénzzel	O
+,	O
+a	O
+karórával	O
+és	O
+a	O
+Szent	B-WORK_OF_ART
+Kristóffal	I-WORK_OF_ART
+?	O
+
+Szedd	O
+össze	O
+a	O
+holmim	O
+és	O
+tartsd	O
+meg	O
+nekem	O
+,	O
+oké	O
+?	O
+
+Ráteheted	O
+az	O
+az	O
+életed	O
+.	O
+
+Slim	B-PER
+,	O
+tegyük	O
+fel	O
+...	O
+
+Tegyük	O
+fel	O
+,	O
+mit	O
+?	O
+
+Oh	O
+,	O
+abban	O
+az	O
+esetben	O
+,	O
+küldd	O
+el	O
+a	O
+holmim	O
+anyámnak	O
+.	O
+
+Detroitban	B-GPE
+él	O
+.	O
+
+Ó	O
+hát	O
+elmegy	O
+,	O
+Mr.	O
+Lindbergh	B-PER
+?	O
+
+Elintézem	O
+a	O
+számlát	O
+.	O
+
+Milyen	O
+címre	O
+továbbítsuk	O
+ha	O
+levele	O
+jön	O
+ide	O
+?	O
+

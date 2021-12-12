@@ -1,0 +1,1689 @@
+# global.columns = FORM ONPP:NER
+Doki	O
+,	O
+nagyon	O
+meleg	O
+van	O
+.	O
+
+Ők	O
+legalább	O
+hűvösön	O
+vannak	O
+.	O
+
+Festett	O
+hajó	O
+a	O
+festett	O
+óceánon	O
+.	O
+
+Hogy	O
+mondja	O
+,	O
+Doki	O
+?	O
+
+"	O
+Az	B-WORK_OF_ART
+öreg	I-WORK_OF_ART
+tengerész	I-WORK_OF_ART
+"	O
+jutott	O
+az	O
+eszembe	O
+.	O
+
+Eléggé	O
+illik	O
+most	O
+ránk	O
+.	O
+
+Van	O
+valami	O
+valószerűtlen	O
+abban	O
+,	O
+ahogyan	O
+a	O
+kihalt	O
+tengeren	O
+várakozunk	O
+.	O
+
+Elég	O
+valóságos	O
+lenne	O
+,	O
+ha	O
+az	O
+a	O
+konzervdoboz	O
+belénk	O
+küldene	O
+egy	O
+torpedót	O
+.	O
+
+Fogott	O
+már	O
+valamit	O
+,	O
+Rimfire	B-PER
+?	O
+
+Az	O
+átkozott	O
+halak	O
+attól	O
+félnek	O
+,	O
+hogy	O
+zajt	O
+csapnának	O
+,	O
+ha	O
+ráharapnak	O
+.	O
+
+Adja	O
+csak	O
+,	O
+hagy	O
+próbáljam	O
+meg	O
+én	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+nehezen	O
+szokik	O
+hozzá	O
+az	O
+itteni	O
+napsütéshez	O
+az	O
+Észak-Atlanti-óceán	B-LOC
+után	O
+.	O
+
+Oh	O
+,	O
+nem	O
+számít	O
+.	O
+
+Ahol	O
+háború	O
+van	O
+,	O
+ott	O
+mindig	O
+vagy	O
+túl	O
+hideg	O
+,	O
+vagy	O
+túl	O
+meleg	O
+van	O
+.	O
+
+Van	O
+egy	O
+sótablettám	O
+.	O
+
+Már	O
+jó	O
+ideje	O
+úszkálunk	O
+itt	O
+.	O
+
+Nem	O
+gondolja	O
+,	O
+hogy	O
+a	O
+tengeralattjáró	O
+megint	O
+meglépett	O
+előlünk	O
+?	O
+
+Nem	O
+,	O
+szépen	O
+elvan	O
+odalent	O
+.	O
+
+Meglep	O
+,	O
+hogy	O
+találnak	O
+rá	O
+embert	O
+.	O
+
+Hogy	O
+lemenjen	O
+és	O
+ücsörögjön	O
+odalent	O
+abban	O
+a	O
+koporsóban	O
+.	O
+
+Oh	O
+,	O
+nem	O
+olyan	O
+rossz	O
+az	O
+.	O
+
+Tulajdonképpen	O
+előnyösebb	O
+helyzetben	O
+vannak	O
+,	O
+mint	O
+mi	O
+idefent	O
+.	O
+
+Elég	O
+nehéz	O
+egy	O
+hajónak	O
+meglepni	O
+őket	O
+.	O
+
+A	O
+parancsnokuk	O
+elintézhet	O
+minket	O
+,	O
+ha	O
+elég	O
+okos	O
+hozzá	O
+.	O
+
+Gondolja	O
+,	O
+hogy	O
+az	O
+?	O
+
+Hogy	O
+elég	O
+okos	O
+-e	O
+?	O
+
+Megtudjuk	O
+,	O
+ha	O
+úgy	O
+alakul	O
+.	O
+
+Azon	O
+töprengek	O
+milyen	O
+ember	O
+lehet	O
+ő	O
+.	O
+
+Nos	O
+,	O
+tudom	O
+,	O
+hogy	O
+merész	O
+.	O
+
+Ha	O
+nem	O
+ragaszkodna	O
+csökönyösen	O
+az	O
+1-4-0	B-CARDINAL
+irányhoz	O
+,	O
+már	O
+régen	O
+búcsút	O
+inthetett	O
+volna	O
+nekünk	O
+,	O
+ezt	O
+biztosra	O
+veszem	O
+.	O
+
+Nem	O
+tudom	O
+milyen	O
+ember	O
+is	O
+ő	O
+,	O
+vagy	O
+hogy	O
+mire	O
+gondol	O
+.	O
+
+Nem	O
+akarom	O
+megismerni	O
+.	O
+
+Megpróbálom	O
+megsemmisíteni	O
+.	O
+
+Hm	O
+?	O
+
+Igen	O
+,	O
+tudom	O
+.	O
+
+Az	O
+amerikai	B-NORP
+mostanra	O
+már	O
+messze	O
+járhat	O
+.	O
+
+Furcsa	O
+,	O
+de	O
+tudom	O
+,	O
+hogy	O
+ott	O
+van	O
+,	O
+és	O
+vár	O
+.	O
+
+Rendben	O
+,	O
+indulunk	O
+.	O
+
+Csendes	O
+rutin	O
+,	O
+1-4-0	O
+.	O
+
+Emelkedni	O
+!	O
+
+Csendes	O
+rutint	O
+folytatni	O
+.	O
+
+Lewis	B-PER
+,	O
+kelj	O
+fel	O
+!	O
+
+Fogtunk	O
+valamit	O
+.	O
+
+Híd	O
+,	O
+itt	O
+a	O
+szonár	O
+.	O
+
+Mondja	O
+,	O
+szonár	O
+.	O
+
+Hajtócsavarforgás	O
+,	O
+mély	O
+és	O
+lassú	O
+.	O
+
+Meg	O
+tudja	O
+mondani	O
+az	O
+irányt	O
+?	O
+
+Meg	O
+tudod	O
+mondani	O
+az	O
+irányt	O
+?	O
+
+Lewis	B-PER
+szerint	O
+délkelet	O
+felé	O
+megy	O
+.	O
+
+Visszatér	O
+1-4-0-ra	B-CARDINAL
+.	O
+
+Harci	O
+állásokat	O
+riasztani	O
+.	O
+
+Harci	O
+állásokat	O
+riasztani	O
+!	O
+
+Minimális	O
+fordulatszám	O
+mindkét	O
+oldalon	O
+.	O
+
+Hajtócsavarok	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Ördögi	O
+alak	O
+ez	O
+,	O
+Heini	B-PER
+.	O
+
+Valahogy	O
+...	O
+
+Valahogy	O
+le	O
+kell	O
+ráznunk	O
+.	O
+
+Vagy	O
+elpusztítani	O
+.	O
+
+Bemérték	O
+.	O
+
+Készüljünk	O
+az	O
+elfogásra	O
+,	O
+uram	O
+?	O
+
+Adják	O
+át	O
+:	O
+Megbeszélés	O
+minden	O
+tisztnek	O
+és	O
+vezetőnek	O
+a	O
+tiszti	O
+étkezdében	O
+.	O
+
+Itt	O
+a	O
+másod-fedélzetmester	O
+.	O
+
+Minden	O
+tiszt	O
+és	O
+vezető	O
+a	O
+tiszti	O
+étkezdébe	O
+,	O
+azonnal	O
+.	O
+
+Mi	O
+vagyunk	O
+hátrányban	O
+,	O
+mert	O
+mozgékonyabb	O
+,	O
+mint	O
+mi.	O
+Összezavarhatjuk	O
+,	O
+de	O
+a	O
+halálos	O
+csapás	O
+nagy	O
+szerencse	O
+lenne	O
+.	O
+
+A	O
+mélyvízi	O
+bombáink	O
+harmadát	B-PERCENT
+már	O
+elhasználtuk	O
+.	O
+
+A	O
+tengeralattjáró	O
+,	O
+ha	O
+úgy	O
+akarja	O
+,	O
+még	O
+24	B-DUR
+órát	I-DUR
+a	O
+mélyben	O
+maradhat	O
+.	O
+
+Ha	O
+elfogynak	O
+a	O
+mélyvízi	O
+bombáink	O
+,	O
+ők	O
+támadhatnak	O
+,	O
+és	O
+el	O
+kell	O
+szakadnunk	O
+tőle	O
+,	O
+hogy	O
+elmeneküljünk	O
+a	O
+torpedói	O
+elől	O
+.	O
+
+De	O
+nem	O
+követhetjük	O
+őt	O
+csak	O
+úgy	O
+,	O
+arra	O
+várva	O
+,	O
+hogy	O
+a	O
+hajóink	O
+csatlakozzanak	O
+hozzánk	O
+,	O
+mert	O
+egy	O
+német	B-NORP
+hajó	O
+csapdájába	O
+csalhatnak	O
+minket	O
+,	O
+mielőtt	O
+a	O
+segítség	O
+ideérne	O
+.	O
+
+Egyfajta	O
+késleltető	O
+hadműveletet	O
+fogunk	O
+alkalmazni	O
+.	O
+
+Az	O
+ellenség	O
+nagyjából	B-QUANTITY
+1000	I-QUANTITY
+yarddal	I-QUANTITY
+jár	O
+előttünk	O
+.	O
+
+Egy	O
+kis	O
+ideig	O
+tartjuk	O
+ezt	O
+a	O
+távolságot	O
+.	O
+
+Aztán	O
+utolérjük	O
+,	O
+ledobunk	O
+egy	O
+sorozat	O
+mélyvízi	O
+bombát	O
+,	O
+lemaradunk	O
+,	O
+egy	B-TIME
+órát	I-TIME
+várunk	O
+,	O
+majd	O
+újból	O
+támadunk	O
+.	O
+
+Ezt	O
+hét	B-DUR
+órán	I-DUR
+át	O
+tudjuk	O
+folytatni	O
+.	O
+
+Nem	O
+tud	O
+sehová	O
+sem	O
+gyorsan	O
+elmenekülni	O
+,	O
+és	O
+a	O
+végére	O
+már	O
+a	O
+hajóink	O
+ideérhetnek	O
+.	O
+
+Még	O
+az	O
+is	O
+lehet	O
+,	O
+hogy	O
+a	O
+felszínre	O
+jön	O
+.	O
+
+Egy	O
+megtámadott	O
+tengeralattjáróban	O
+lenni	O
+a	O
+lehető	O
+legrosszabb	O
+élmény	O
+.	O
+
+Miután	O
+rájönnek	O
+,	O
+mit	O
+csinálunk	O
+,	O
+lehet	O
+,	O
+megadják	O
+magukat	O
+,	O
+vagy	O
+tűzharcot	O
+vívnak	O
+velünk	O
+.	O
+
+Mindenkitől	O
+azt	O
+kérem	O
+,	O
+pihenjenek	O
+amennyit	O
+csak	O
+tudnak	O
+.	O
+
+Tartsák	O
+a	O
+pihenőt	O
+az	O
+állásaikon	O
+,	O
+de	O
+legyenek	O
+készen	O
+minden	O
+támadás	O
+alkalmával	O
+.	O
+
+Hosszú	O
+és	O
+unalmas	O
+munka	O
+,	O
+de	O
+a	O
+németek	B-NORP
+szemszögéből	O
+pokoli	O
+rossz	O
+lesz	O
+.	O
+
+Az	O
+akciót	O
+1500-kor	B-TIME
+kezdjük	O
+.	O
+
+Gondunk	O
+támadt	O
+a	O
+tattorpedó	O
+teremben	O
+.	O
+
+Vedd	O
+át	O
+a	O
+parancsnokságot	O
+.	O
+
+Ne	O
+gyertek	O
+közelebb	O
+!	O
+
+Ne	O
+gyertek	O
+!	O
+
+Nem	O
+jutunk	O
+vele	O
+semmire	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Jöjjön	O
+ide	O
+,	O
+fiam	O
+.	O
+
+Jöjjön	O
+ide	O
+!	O
+
+Adja	O
+ide	O
+a	O
+kulcsot	O
+!	O
+
+Vigyázzba	O
+vágja	O
+magát	O
+!	O
+
+A	O
+munkánk	O
+része	O
+a	O
+halál	O
+.	O
+
+De	O
+nem	O
+fogunk	O
+meghalni	O
+.	O
+
+Hisz	O
+nekem	O
+?	O
+
+Egyre	O
+precízebb	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Legközelebb	O
+darabokra	O
+tép	O
+minket	O
+.	O
+
+Mit	O
+javasol	O
+,	O
+Kunz	B-PER
+?	O
+
+A	O
+felszínre	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Megadni	O
+magunkat	O
+.	O
+
+Holem	B-PER
+?	O
+
+Én	O
+nem	O
+aggódom	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Én	O
+azt	O
+mondom	O
+,	O
+folytassuk	O
+.	O
+
+Ellie	B-PER
+,	O
+milyan	O
+a	O
+hajó	O
+állapota	O
+?	O
+
+Még	O
+semmi	O
+bajunk	O
+.	O
+
+De	O
+nem	O
+tudunk	O
+elmenekülni	O
+!	O
+
+Az	O
+önök	O
+kiváltsága	O
+meghalni	O
+az	O
+új	O
+Németországért	B-GPE
+.	O
+
+Rakd	O
+ezt	O
+fel	O
+a	O
+hajó	O
+lemezjátszójára	O
+.	O
+
+De	O
+a	O
+hang	O
+átadódik	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Segít	O
+az	O
+amerikaiaknak	B-NORP
+,	O
+hogy	O
+bemérjék	O
+a	O
+helyzetünket	O
+.	O
+
+Rakd	O
+fel	O
+!	O
+
+Herr	O
+Kapitän	O
+,	O
+ezt	O
+nem	O
+teheti	O
+!	O
+
+Énekelj	O
+,	O
+Heini	B-PER
+!	O
+
+For	O
+you	O
+,	O
+my	O
+friend	O
+,	O
+and	O
+you	O
+...	O
+...together	O
+,	O
+here's	O
+a	O
+toast	O
+to	O
+life	O
+and	O
+to	O
+laughter	O
+and	O
+song	O
+Good	O
+beer	O
+,	O
+my	O
+friend	O
+...	O
+
+Énekeljen	O
+,	O
+Kunz	B-PER
+!	O
+
+Énekeljen	O
+,	O
+Holem	B-PER
+!	O
+
+Énekeljen	O
+mindenki	O
+!	O
+...as	O
+we	O
+sing	O
+loud	O
+and	O
+strong	O
+Fill	O
+up	O
+the	O
+flowing	O
+steins	O
+again	O
+with	O
+foam	O
+on	O
+every	O
+lip	O
+We'll	O
+give	O
+askol	O
+and	O
+shout	O
+Jawohl	O
+!	O
+"	O
+in	O
+lasting	O
+fellowship	O
+And	O
+when	O
+we	O
+eye	O
+a	O
+Lorelei	O
+with	O
+captivating	O
+ways	O
+May	O
+we	O
+drink	O
+to	O
+love	O
+all	O
+our	O
+livelong	O
+days	O
+Jawohl	O
+!	O
+
+To	O
+you	O
+,	O
+my	O
+friend	O
+,	O
+and	O
+you	O
+,	O
+my	O
+friend	O
+,	O
+and	O
+all	O
+of	O
+us	O
+together	O
+Here's	O
+a	O
+toast	O
+to	O
+life	O
+and	O
+to	O
+laughter	O
+and	O
+song	O
+Good	O
+beer	O
+,	O
+my	O
+friend	O
+,	O
+good	O
+cheer	O
+,	O
+my	O
+friend	O
+,	O
+through	O
+every	O
+kind	O
+of	O
+Make	O
+the	O
+welkin	O
+ring	O
+as	O
+we	O
+sing	O
+loud	O
+and	O
+strong	O
+
+Furcsa	O
+hangokat	O
+hallok	O
+a	O
+hidrofonból	O
+.	O
+
+A	O
+szonár	O
+furcsa	O
+hangokat	O
+jelent	O
+a	O
+célponttól	O
+.	O
+
+Mondja	O
+meg	O
+neki	O
+zászlós	O
+,	O
+hogy	O
+hangosítsa	O
+ki	O
+.	O
+
+Hangosítsd	O
+ki	O
+,	O
+Lewis	B-PER
+.	O
+
+Báloznak	O
+odalent	O
+.	O
+
+Nem	O
+hiszem	O
+,	O
+hogy	O
+működik	O
+a	O
+trükk	O
+,	O
+kapitány	O
+.	O
+
+Dehogy	O
+,	O
+remekül	O
+működik	O
+.	O
+
+Már	O
+majdnem	O
+én	O
+is	O
+azt	O
+hittem	O
+.	O
+
+Mindenki	O
+készüljön	O
+a	O
+támadásra	O
+,	O
+Mr.	O
+
+Talán	O
+félbeszakíthatjuk	O
+a	O
+valcert	O
+.	O
+
+Schwaffer	B-PER
+!	O
+
+Kettes	B-ORDINAL
+és	O
+hármas	B-ORDINAL
+olajszelepeket	O
+biztosítani	O
+!	O
+
+A	O
+négyest	B-ORDINAL
+!	O
+
+A	O
+szelepek	O
+nem	O
+fogják	O
+megfékezni	O
+az	O
+olajat	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Tartályokat	O
+a	O
+tengerbe	O
+üríteni	O
+!	O
+
+Olajfolt	O
+a	O
+jobb	O
+térnegyedben	O
+,	O
+uram	O
+!	O
+
+Elég	O
+nagy	O
+!	O
+
+Szonár	O
+,	O
+súlyosan	O
+eltalálhattuk	O
+.	O
+
+Forognak	O
+még	O
+a	O
+hajtócsavarjai	O
+?	O
+
+Sajnálom	O
+,	O
+uram	O
+,	O
+de	O
+kicsit	O
+se	O
+tűnik	O
+harcképtelennek	O
+.	O
+
+Nagy	O
+léptékben	O
+halad	O
+jobbra	O
+.	O
+
+Kormánylapátot	O
+10	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+!	O
+
+Tüzelésre	O
+felkészülni	O
+,	O
+uram	O
+?	O
+
+Nem	O
+,	O
+megint	O
+hátulról	O
+támadjuk	O
+.	O
+
+Had	O
+eméssze	O
+meg	O
+ezt	O
+az	O
+utolsót	O
+.	O
+
+Már	O
+sokáig	O
+nem	O
+maradhat	O
+lent	O
+.	O
+
+Visszatérni	O
+1-4-0-ra	O
+.	O
+
+Kérdezd	O
+meg	O
+Braunt	B-PER
+merre	O
+fordultak	O
+az	O
+amerikaiak	B-NORP
+a	O
+támadás	O
+után	O
+.	O
+
+Jobbra	O
+fordult	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Mutatok	O
+neked	O
+valamit	O
+.	O
+
+Minden	O
+egyes	O
+támadáskor	O
+,	O
+balra	O
+vagy	O
+jobbra	O
+fordultunk	O
+,	O
+hogy	O
+elkerüljük	O
+a	O
+támadást	O
+.	O
+
+Ledobja	O
+a	O
+vízi	O
+bombákat	O
+,	O
+majd	O
+továbbmegy	O
+300-400	B-QUANTITY
+métert	I-QUANTITY
+,	O
+aztán	O
+elfordul	O
+,	O
+hogy	O
+visszatérjen	O
+a	O
+tatunkhoz	O
+.	O
+
+Nem	O
+mindig	O
+ugyanarra	O
+fordul	O
+,	O
+de	O
+kétszer	B-CARDINAL
+már	O
+megtette	O
+azért	O
+,	O
+hogy	O
+pár	B-DUR
+percig	I-DUR
+a	O
+mi	O
+irányunkkal	O
+párhuzamosan	O
+haladjon	O
+.	O
+
+Azokban	O
+a	O
+percekben	O
+sebezhető	O
+volt	O
+.	O
+
+Ha	O
+megint	O
+így	O
+tesz	O
+,	O
+készen	O
+állunk	O
+.	O
+
+Nem	O
+lesz	O
+idő	O
+periszkóp	O
+mélységbe	O
+emelkedni	O
+.	O
+
+De	O
+lehetséges	O
+.	O
+
+Ha	O
+szétterítjük	O
+a	O
+négy	B-CARDINAL
+orr-torpedót	O
+,	O
+egyszerre	O
+kilőve	O
+,	O
+egymástól	O
+pár	O
+foknyi	O
+eltéréssel	O
+,	O
+egy	O
+eltalálhatja	O
+.	O
+
+Egy	B-CARDINAL
+elég	O
+lesz	O
+.	O
+
+De	O
+...	O
+ha	O
+nem	O
+fordul	O
+az	O
+irányunkkal	O
+párhuzamosan	O
+,	O
+mit	O
+tudunk	O
+tenni	O
+?	O
+
+Túlélésre	O
+játszunk	O
+,	O
+amíg	O
+úgy	O
+nem	O
+tesz	O
+.	O
+
+Időjárás	O
+jelentés	O
+a	O
+flottától	O
+,	O
+uram	O
+.	O
+
+Hajnalra	B-TIME
+rosszabb	O
+lesz	O
+az	O
+idő	O
+.	O
+
+Szél	O
+lesz	O
+.	O
+
+Nehéz	O
+lesz	O
+a	O
+hajót	O
+a	O
+célponton	O
+tartani	O
+a	O
+háborgó	O
+tengeren	O
+.	O
+
+Meg	O
+kell	O
+próbálnunk	O
+elbánni	O
+vele	O
+,	O
+ha	O
+tudunk	O
+.	O
+
+Azonnal	O
+?	O
+
+Értesítse	O
+Mr.	O
+Craint	B-PER
+,	O
+mindent	O
+ledobunk	O
+a	O
+célpontra	O
+,	O
+amink	O
+maradt	O
+.	O
+
+Herr	O
+Kapitän	O
+,	O
+a	O
+romboló	O
+közeledik	O
+.	O
+
+Oh	O
+,	O
+korábban	O
+érkezik	O
+.	O
+
+Készen	O
+állunk	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Értem	O
+,	O
+nem	O
+a	O
+szokásos	O
+eljárást	O
+fogjuk	O
+alkalmazni	O
+.	O
+
+Torpedót	O
+lezárni	O
+.	O
+
+Lezárni	O
+!	O
+
+Ware	B-PER
+,	O
+állítsa	O
+a	O
+mélyvízi	O
+bombákat	O
+100-ra	B-CARDINAL
+.	O
+
+Túl	O
+sekélyre	O
+tüzel	O
+.	O
+
+Fel	O
+50-re	B-CARDINAL
+.	O
+
+50	B-CARDINAL
+!	O
+
+Amerikai	B-NORP
+,	O
+most	O
+fordulj	O
+jól	O
+,	O
+és	O
+szép	O
+ajándékot	O
+kapsz	O
+tőlem	O
+.	O
+
+A	O
+műveleti	O
+terem	O
+jelenti	O
+,	O
+hogy	O
+jobbra	O
+van	O
+a	O
+tattól	O
+.	O
+
+Az	O
+irány	O
+továbbra	O
+is	O
+1-4-0	B-CARDINAL
+.	O
+
+Kormánylapátot	O
+15	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+.	O
+
+Oldalról	O
+támadunk	O
+.	O
+
+Kormánylapátot	O
+15	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+!	O
+
+Fordul	O
+...	O
+
+20	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+!	O
+
+20	B-QUANTITY
+fokkal	I-QUANTITY
+jobbra	O
+!	O
+
+Megállni	O
+!	O
+
+Torpedókat	O
+...	O
+kilőni	O
+!	O
+
+Kilőni	O
+!	O
+
+Hallgatom	O
+,	O
+szonár	O
+.	O
+
+Gyors	O
+hajtócsavar	O
+hallatszik	O
+az	O
+egész	O
+jobb	O
+oldalon	O
+!	O
+
+Kormánylapátot	O
+teljesen	O
+balra	O
+!	O
+
+Találat	O
+!	O
+
+Csendet	O
+!	O
+
+Rajta	O
+!	O
+
+Mindkét	O
+kar	O
+alatt	O
+,	O
+ember	O
+!	O
+
+Mindkét	O
+kar	O
+alatt	O
+!	O
+
+Csak	O
+egy	B-CARDINAL
+karja	O
+van	O
+,	O
+uram	O
+.	O
+
+Vigyék	O
+jobbra	O
+.	O
+
+Óvatosan	O
+,	O
+fiúk	O
+.	O
+
+Az	O
+elülső	O
+kazánháznál	O
+kaptuk	O
+a	O
+találatot	O
+.	O
+
+Az	O
+első	O
+és	O
+hátsó	O
+válaszfal	O
+átszakadt	O
+.	O
+
+A	O
+kazánház	O
+és	O
+a	O
+gépterem	O
+megtelt	O
+vízzel	O
+.	O
+
+A	O
+szivattyúk	O
+a	O
+felszínen	O
+tarthatnak	O
+minket	O
+?	O
+
+Ha	O
+igen	O
+,	O
+akkor	O
+sem	O
+sokáig	O
+.	O
+
+Folytassák	O
+,	O
+amíg	O
+tudják	O
+.	O
+

@@ -1,0 +1,1221 @@
+# global.columns = FORM ONPP:NER
+Holnapután	B-DATE
+.	O
+
+Holnap	B-DATE
+a	O
+nagynénémhez	O
+utazom	O
+,	O
+vidékre	O
+.	O
+
+Az	O
+unokatestvérem	O
+hozzáment	O
+egy	O
+földbirtokoshoz	O
+.	O
+
+Fehér	O
+ruhában	O
+.	O
+
+Akkor	O
+,	O
+holnapután	B-DATE
+.	O
+
+Én	O
+is	O
+nagyon	O
+szeretnék	O
+...	O
+fehér	O
+ruhában	O
+férjhez	O
+menni	O
+.	O
+
+Mikor	O
+mentél	O
+férjhez	O
+?	O
+
+Réges-régen	O
+,	O
+két	B-DATE
+évvel	I-DATE
+ezelőtt	I-DATE
+.	O
+
+Mit	O
+csinál	O
+a	O
+férjed	O
+?	O
+
+Ő	O
+...	O
+ő	O
+egy	O
+egy	O
+magyar	B-NORP
+arisztokrata	O
+.	O
+
+A	O
+Képzőművészeti	B-ORG
+Főiskolán	I-ORG
+tanul	O
+.	O
+
+Van	O
+gyereked	O
+?	O
+
+Már	O
+folyamatban	O
+.	O
+
+Próbálja	O
+fel	O
+!	O
+
+4-es	B-CARDINAL
+fülke	O
+.	O
+
+Ne	O
+hordj	O
+feketét	O
+...	O
+
+A	O
+te	O
+alakoddal	O
+!	O
+
+Egy	O
+elvált	O
+asszony	O
+kicsit	O
+olyan	O
+,	O
+mint	O
+egy	O
+özvegyasszony	O
+.	O
+
+Attól	O
+függ	O
+,	O
+az	O
+előzményektőI	O
+.	O
+
+A	O
+körülmények	O
+határozzák	O
+meg	O
+.	O
+
+Bouboule	B-PER
+nagyon	O
+csúnyán	O
+viselkedett	O
+.	O
+
+Csak	O
+annyi	O
+,	O
+amennyivel	O
+férjhez	O
+mentem	O
+.	O
+
+Nyolc	B-DATE
+boldog	I-DATE
+hónap	I-DATE
+után	I-DATE
+...	O
+
+Bal	O
+oldalon	O
+lóg	O
+.	O
+
+Az	O
+úr	O
+,	O
+nem	O
+tud	O
+a	O
+telefonhoz	O
+jönni	O
+.	O
+
+A	O
+másik	O
+szám	O
+,	O
+nem	O
+válaszol	O
+.	O
+
+Ez	O
+nem	O
+könnyű	O
+.	O
+
+Egy	O
+nőnek	O
+,	O
+egyedül	O
+.	O
+
+Egy	O
+olyan	O
+szép	O
+nőnek	O
+,	O
+mint	O
+neked	O
+,	O
+nem	O
+lehetnek	O
+nehézségei	O
+,	O
+Nadine	B-PER
+.	O
+
+Nem	O
+kell	O
+egyedül	O
+maradnod	O
+.	O
+
+Monpti	B-PER
+?	O
+
+Csukd	O
+be	O
+a	O
+szemed	O
+!	O
+
+Tartsd	O
+szépen	O
+csukva	O
+.	O
+
+Bekötöm	O
+a	O
+szemed	O
+.	O
+
+Au	O
+,	O
+odacsípted	O
+az	O
+orromat	O
+!	O
+
+Bocs	O
+.	O
+
+De	O
+ne	O
+leskelődj	O
+!	O
+
+Ez	O
+egy	O
+...	O
+
+Az	O
+én	O
+dalom	O
+!	O
+
+Egy	B-WORK_OF_ART
+magyar	I-WORK_OF_ART
+Párizsban	I-WORK_OF_ART
+.	O
+
+Lehetne	O
+az	O
+enyém	O
+is	O
+?	O
+
+A	O
+mi	O
+dalunk	O
+!	O
+
+Minden	O
+megváltozott	O
+.	O
+
+Azzal	O
+,	O
+hogy	O
+már	O
+nem	O
+vagyok	O
+egyedül	O
+.	O
+
+Honnan	O
+szereztél	O
+ennyi	O
+pénzt	O
+?	O
+
+Csináltam	O
+egy	O
+jó	O
+üzletet	O
+.	O
+
+Kölcsönkértél	O
+!	O
+
+Igen	O
+,	O
+de	O
+ezt	O
+bontsd	O
+ki	O
+!	O
+
+Ez	O
+az	O
+enyém	O
+?	O
+
+Harisnyák	O
+.	O
+
+Három	B-CARDINAL
+pár	O
+.	O
+
+És	O
+ez	O
+mi	O
+?	O
+
+Nyisd	O
+ki	O
+.	O
+
+Egy	O
+kalap	O
+!	O
+
+Lila	O
+!	O
+
+Ha	O
+nem	O
+tetszik	O
+...	O
+
+Akkor	O
+odaadhatom	O
+a	O
+pótmamámnak	O
+...	O
+
+Nem	O
+..	O
+!	O
+
+Én	O
+is	O
+szeretlek	O
+...	O
+
+Tudod	O
+,	O
+miért	O
+kapod	O
+ezt	O
+a	O
+sok	O
+ajándékot	O
+?	O
+
+Inkább	O
+vedd	O
+vissza	O
+mindet	O
+!	O
+
+ÜIj	O
+le	O
+.	O
+
+Fogd	O
+meg	O
+.	O
+
+Vágd	O
+szét	O
+a	O
+közepén	O
+,	O
+az	O
+bizonyítja	O
+,	O
+hogy	O
+engem	O
+,	O
+igazán	O
+szeretsz	O
+.	O
+
+Látod	O
+...	O
+nem	O
+vagy	O
+rá	O
+képes	O
+!	O
+
+A	O
+következő	O
+pár	O
+...	O
+
+Utolsó	O
+.	O
+
+Ezt	O
+megtarthatod	O
+.	O
+
+Megcsináltam	O
+.	O
+
+Most	O
+már	O
+elhiszem	O
+neked.	O
+besötétítek	O
+.	O
+
+Igazán	O
+be	O
+akarom	O
+bizonyítani	O
+...	O
+
+Nem	O
+,	O
+ne	O
+ma	B-DATE
+!	O
+
+Akkor	O
+azt	O
+hiszem	O
+,	O
+hogy	O
+a	O
+sok	O
+ajándék	O
+miatt	O
+.	O
+
+Nyissunk	O
+ki	O
+egy	O
+üveg	O
+bort	O
+,	O
+jó	O
+?	O
+
+Azonnal	O
+hozok	O
+egyet	O
+.	O
+
+Neked	O
+is	O
+ennyire	O
+ünnepi	O
+?	O
+
+Bocsánat	O
+,	O
+ma	B-DATE
+reggel	O
+,	O
+itt	O
+felejtettem	O
+valamit	O
+.	O
+
+Itt	O
+van	O
+,	O
+talán	O
+ezt	O
+!	O
+
+A	O
+partvist	O
+!	O
+
+Anne-Claire	B-PER
+!	O
+
+Ott	O
+felejtetted	O
+nálam	O
+az	O
+öngyújtódat	O
+.	O
+
+8	B-DUR
+napja	I-DUR
+keresem	O
+.	O
+
+Már	O
+mindenkinél.	O
+kerestem	O
+.	O
+
+Nálam	O
+nem	O
+!	O
+
+Milyen	O
+különös	O
+.	O
+
+Nem	O
+is	O
+jutottál	O
+eszembe	O
+.	O
+
+Hol	O
+volt	O
+egyáltalán	O
+?	O
+
+A	O
+párnám	O
+alatt	O
+.	O
+
+Ez	O
+a	O
+te	O
+öngyújtód	O
+,	O
+Jacques	B-PER
+.	O
+
+Egyik	O
+program	O
+olyan	O
+,	O
+mint	O
+a	O
+másik	O
+.	O
+
+Mindig	O
+ugyanazok	O
+az	O
+arcok	O
+"	O
+.	O
+
+Jó	O
+reggelt	O
+,	O
+Napi	B-PER
+.	O
+
+Szép	O
+vasárnapot	B-DATE
+!	O
+
+Nincs	O
+a	O
+templomban	O
+,	O
+fiatalember	O
+?	O
+
+Felváltva	O
+imádkozunk	O
+.	O
+
+Ma	B-DATE
+az	O
+öregem	O
+a	O
+soros	O
+.	O
+
+Nem	O
+akarjuk	O
+,	O
+hogy	O
+a	O
+jó	O
+Isten	B-PER
+megúnjon	O
+minket	O
+.	O
+
+Elnézést	O
+,	O
+kopogtak	O
+.	O
+
+Zaza	B-PER
+,	O
+galambocskám	O
+...	O
+
+Akkor	O
+,	O
+most	O
+én	O
+jövök	O
+?	O
+
+Igen	O
+,	O
+mi	O
+ketten	O
+...	O
+
+Későn	O
+jöttem	O
+.	O
+
+Féltem	O
+,	O
+hogy	O
+kilötyög	O
+a	O
+metróban	O
+.	O
+
+Gyalog	O
+jöttem	O
+...	O
+
+Mi	O
+ömlött	O
+volna	O
+ki	O
+?	O
+
+A	O
+fazék	O
+leves	O
+.	O
+
+Neked	O
+főztem	O
+.	O
+
+Miért	O
+rohantál	O
+el	O
+?	O
+
+Itt	O
+van	O
+a	O
+krumpli	O
+is	O
+...	O
+
+Hagyjuk	O
+a	O
+hülye	O
+edényeket	O
+!	O
+
+Miért	O
+futottál	O
+el	O
+?	O
+
+Hiba	O
+volt	O
+.	O
+
+Csak	O
+ma	B-DATE
+jöttem	O
+rá	O
+.	O
+
+Hol	O
+voltál	O
+egész	O
+héten	O
+?	O
+
+Át	O
+kellett	O
+gondolnom	O
+...	O
+
+Még	O
+forró	O
+.	O
+
+Átgondolni	O
+,	O
+mit	O
+?	O
+
+Téged	O
+,	O
+és	O
+minket	O
+.	O
+
+És	O
+erre	O
+egy	B-DATE
+hét	I-DATE
+kellett	O
+?	O
+
+Hozzád	O
+,	O
+egy	O
+egész	O
+élet	O
+kell	O
+!	O
+
+Ne	O
+legyél	O
+szomorú	O
+!	O
+
+Sokkal	O
+bodogtalanabb	O
+,	O
+vagyok	O
+mint	O
+te	O
+.	O
+
+Megmondanád	O
+nekem	O
+,	O
+miért	O
+?	O
+
+Tényleg	O
+nem	O
+tudod	O
+?	O
+
+Anne-Claire	B-PER
+,	O
+ha	O
+nem	O
+mondod	O
+meg	O
+mi	O
+bajod	O
+,	O
+szétrobbanok	O
+!	O
+
+Undorító	O
+vagy	O
+!	O
+
+Szenvedek	O
+,	O
+és	O
+kiabálsz	O
+!	O
+
+Napóleonnal	B-PER
+nem	O
+tennéd	O
+ezt	O
+!	O
+
+Napóleont	B-PER
+ne	O
+keverd	O
+bele	O
+!	O
+
+Na	O
+látod	O
+...	O
+?	O
+
+Mielőtt	O
+orvost	O
+kell	O
+hívnom	O
+...	O
+mondd	O
+már	O
+meg	O
+,	O
+mi	O
+a	O
+bajod	O
+?	O
+
+Érts	O
+meg	O
+,	O
+Monpti	B-PER
+.	O
+
+Első	O
+pillanatra	O
+szörnyű	O
+sokk	O
+volt	O
+nekem	O
+...	O
+
+Ezért	O
+futottam	O
+el	O
+...	O
+
+De	O
+aztán	O
+utánagondoltam	O
+...	O
+
+A	B-DATE
+héten	I-DATE
+,	O
+sokkal	O
+bölcsebb	O
+lettem	O
+!	O
+
+Tudom	O
+,	O
+hogy	O
+szükséged	O
+van	O
+nőre	O
+...	O
+
+Ha	O
+én	O
+nem	O
+...	O
+
+Úgy	O
+értem	O
+,	O
+még	O
+nem	O
+...	O
+
+Bár	O
+nem	O
+hiszem	O
+,	O
+hogy	O
+ez	O
+korrekt	O
+!	O
+
+...	O
+
+De	O
+...	O
+megértem	O
+az	O
+egészet	O
+.	O
+
+Nem	O
+lehet	O
+ellenvetésem	O
+!	O
+
+Megmondanád	O
+,	O
+hogy	O
+milyen	O
+nőröl	O
+beszélsz	O
+?	O
+
+Arról	O
+a	O
+zöld	O
+bugyisról	O
+!	O
+
+Monpti	B-PER
+,	O
+mi	O
+nevetnivaló	O
+van	O
+ezen	O
+?	O
+
+A	O
+lány	O
+a	O
+zöld	O
+bugyijával	O
+!	O
+
+De	O
+kedvesem	O
+!	O
+
+Istenem	O
+,	O
+de	O
+vicces	O
+!	O
+
+Nincs	O
+zöld	O
+bugyis	O
+lány	O
+!	O
+
+Te	O
+...	O
+letagadod	O
+?	O
+
+A	O
+saját	O
+szememmel	O
+láttam	O
+!	O
+
+Mit	O
+láttál	O
+...	O
+?	O
+
+A	O
+zöld	O
+bugyit	O
+!	O
+
+Látod	O
+azt	O
+a	O
+tetőt	O
+?	O
+
+Igen	O
+,	O
+na	O
+és	O
+?	O
+
+Ott	O
+,	O
+rajta	O
+a	O
+bádogon	O
+,	O
+volt	O
+egy	O
+doboz	O
+tápszer	O
+.	O
+
+És	O
+amikor	O
+a	O
+zsinórt	O
+a	O
+horoggal	O
+lecsúsztattam	O
+...	O
+
+Nézz	O
+le	O
+!	O
+
+Látod	O
+ott	O
+lent	O
+a	O
+faállványt	O
+a	O
+szárítókötéllel	O
+?	O
+
+Onnan	O
+húztam	O
+fel	O
+a	O
+bugyit	O
+.	O
+
+Szégyelld	O
+magad	O
+!	O
+
+Ekkora	O
+képtelenséget	O
+mondasz	O
+!	O
+
+Mondtam	O
+már	O
+,	O
+hogy	O
+megértek	O
+mindent	O
+,	O
+és	O
+valahogy	O
+egyet	O
+is	O
+értek	O
+...	O
+
+Anne-Claire	B-PER
+...	O
+
+Monpti	B-PER
+,	O
+ígérd	O
+meg	O
+,	O
+soha	O
+többé	O
+nem	O
+beszélünk	O
+zöld	O
+bugyikról	O
+!	O
+
+Igen	O
+..	O
+!	O
+
+Most	O
+pedig	O
+,	O
+gyere	O
+azonnal	O
+,	O
+enni	O
+!	O
+
+Nem	O
+ízlik	O
+?	O
+
+Bouboules	B-PER
+.	O
+
+Bouboules	B-PER
+...	O
+!	O
+
+Ó	O
+,	O
+bocsánat	O
+...	O
+
+Bouboules	B-PER
+...	O
+
+Bouboules	B-PER
+az	O
+ágyban	O
+,	O
+Bouboules	B-PER
+diabetikus	O
+ételeit	O
+eszem	O
+,	O
+most	O
+pedig	O
+Bouboules-nak	B-MISC-PER
+hívsz	O
+.	O
+
+Sajnálom	O
+,	O
+Monpti	B-PER
+"	I-PER
+-	I-PER
+m.	I-PER
+Mintha	O
+nős	O
+lennék	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+elvesztettem	O
+vonzerőmet	O
+.	O
+
+Már	O
+nem	O
+vagyok	O
+a	O
+régi	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+így	O
+van	O
+.	O
+
+Kérsz	O
+egy	O
+konyakot	O
+?	O
+
+Egy	O
+Marie	B-PROD
+Brizard-t	I-PROD
+.	O
+
+Hozzámehetnék	O
+Jacques-hoz	B-PER
+.	O
+
+Ez	O
+,	O
+megoldás	O
+lehetne	O
+.	O
+
+Te	O
+lennél	O
+a	O
+szeretőm	O
+.	O
+
+Szomorú	O
+vasárnap	B-DATE
+...	O
+
+Leszedheti	O
+.	O
+
+Nagyon	O
+finom	O
+volt	O
+.	O
+
+Büszke	O
+vagyok	O
+rád	O
+.	O
+
+Akkor	O
+lehetsz	O
+is	O
+.	O
+
+Csinálok	O
+kávét	O
+.	O
+
+Úgy	O
+értem	O
+...	O
+
+Meg	O
+akartalak	O
+lepni	O
+vele	O
+.	O
+
+Átcseréltem	O
+a	O
+lila	O
+kalapot	O
+.	O
+
+Ne	O
+legyen	O
+a	O
+mostohamamácskáé	O
+.	O
+
+Nagyon	O
+kedves	O
+,	O
+köszönöm	O
+.	O
+
+Biztos	O
+,	O
+hogy	O
+ez	O
+...	O
+férfi	O
+kalap	O
+?	O
+
+Ezek	O
+a	O
+te	O
+rajzaid	O
+?	O
+
+Érdekes	O
+,	O
+fantáziadús	O
+elképzeléseid	O
+vannak	O
+.	O
+
+A	O
+megrendelő	O
+kívánsága	O
+.	O
+
+Igen	O
+,	O
+sajnos	O
+.	O
+
+Tetszenek	O
+neked	O
+ezek	O
+a	O
+lányok	O
+?	O
+
+Te	O
+tetszel	O
+nekem	O
+.	O
+

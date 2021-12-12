@@ -1,0 +1,1527 @@
+# global.columns = FORM ONPP:NER
+Hasznája	O
+a	O
+víz	O
+alatti	O
+járatokat	O
+a	O
+meneküléshez	O
+.	O
+
+Megpróbáljuk	O
+fentről	O
+felkelteni	O
+a	O
+figyelmét	O
+.	O
+
+Vigyázzon	O
+,	O
+kedves	O
+.	O
+
+Kezdjünk	O
+munkához	O
+.	O
+
+Én	O
+lerakom	O
+ezt	O
+,	O
+Önz	O
+ezt	O
+.	O
+
+Magányos	O
+vagyok	O
+.	O
+
+Mindenhol	O
+az	O
+.	O
+
+Szerintem	O
+maga	O
+még	O
+egy	O
+tömegben	O
+is	O
+az	O
+lenne	O
+.	O
+
+Persze	O
+csak	O
+addig	O
+,	O
+amíg	O
+meg	O
+nem	O
+találja	O
+az	O
+igazit	O
+.	O
+
+Megtalálta	O
+már	O
+?	O
+
+Miért	O
+kérdezi	O
+?	O
+
+Mert	O
+én	O
+...	O
+
+A	O
+fal	O
+mögött	O
+!	O
+
+Itt	O
+a	O
+megfelelő	O
+idő	O
+,	O
+högy	O
+gyűjtsünk	O
+kicsit	O
+a	O
+doktor	O
+higanyából	O
+.	O
+
+Ha	O
+nem	O
+élem	O
+túl	O
+,	O
+meneküljön	O
+ahogy	O
+csak	O
+tud	O
+.	O
+
+Hank	B-PER
+,	O
+maga	O
+...	O
+
+Be	O
+a	O
+vízbe	O
+!	O
+
+Víz	O
+van	O
+az	O
+alagútban	O
+!	O
+
+Dale	B-PER
+,	O
+pont	O
+most	O
+mentek	O
+át	O
+egy	O
+másik	O
+üregbe	O
+.	O
+
+Menjünk	O
+a	O
+tenger	O
+felőli	O
+bejárathoz	O
+.	O
+
+Nem	O
+a	O
+legjobb	O
+lövés	O
+,	O
+Dale	B-PER
+.	O
+
+A	O
+golyók	O
+átmennek	O
+rajta	O
+,	O
+mint	O
+a	O
+röntgen	O
+.	O
+
+Megsebesített	O
+.	O
+
+Új	O
+ollót	O
+kell	O
+növesztenem	O
+Még	O
+jó	O
+,	O
+hogy	O
+egy	B-DATE
+nap	I-DATE
+alatt	I-DATE
+meg	O
+tudom	O
+csinálni	O
+.	O
+
+Új	O
+életet	O
+is	O
+tud	O
+,	O
+ha	O
+elveszem	O
+magától	O
+?	O
+
+Azt	O
+hiszi	O
+sikerüle	O
+,	O
+Hank	B-PER
+?	O
+
+Igen.Minden	O
+összeállt	O
+.	O
+
+A	O
+generátorok	O
+mindig	O
+működtek	O
+.	O
+
+Csak	O
+a	O
+jelerősség	O
+miatt	O
+kell	O
+izgulnunk	O
+.	O
+
+Feltéve	O
+ha	O
+Dr.	B-PER
+Deveroux	I-PER
+és	O
+Carson	B-PER
+elég	O
+időt	O
+hagy	O
+kipróbálni	O
+.	O
+
+Attól	O
+tartok	O
+nem	O
+fog	O
+.	O
+
+Ahelyett	O
+hogy	O
+fognák	O
+a	O
+jeleket	O
+,	O
+jobban	O
+örülnének	O
+ha	O
+a	O
+hasukban	O
+lennénk	O
+.	O
+
+Gyerünk	O
+,	O
+Karl	B-PER
+,	O
+nézzük	O
+meg	O
+mi	O
+maradt	O
+a	O
+sziklából	O
+.	O
+
+Remélem	O
+maradt	O
+még	O
+hova	O
+lépnünk	O
+.	O
+
+Itt	O
+az	O
+ideje	O
+,	O
+hogy	O
+csináljak	O
+valami	O
+ételt	O
+.	O
+
+Egy	O
+gerincnek	O
+kéne	O
+itt	O
+lennie	O
+két	B-QUANTITY
+mérföldre	I-QUANTITY
+.	O
+
+Most	O
+már	O
+csak	O
+egy	O
+kisvárosnyi	O
+szikla	O
+.	O
+
+Nincs	O
+hová	O
+futnunk	O
+.	O
+
+Ez	O
+az	O
+ötlet	O
+,	O
+mi	O
+?	O
+
+Az	O
+ösvény	O
+még	O
+itt	O
+van	O
+.	O
+
+Igen	O
+,	O
+de	O
+hova	O
+vezet	O
+?	O
+
+Az	O
+üreghez	O
+és	O
+a	O
+tengerhez	O
+.	O
+
+Legalább	O
+a	O
+tengerhez	O
+.	O
+
+Mindjárt	O
+meglátjuk	O
+.	O
+
+Aloha	O
+,	O
+Malihinis	B-NORP
+.	O
+
+Ez	O
+itt	O
+a	O
+kedvenc	O
+Dj-jük	O
+,	O
+Pineapple	B-PER
+Joe	I-PER
+.	O
+
+Hallgassák	O
+meg	O
+a	O
+Mukakima	B-PER
+Ola'Kai	I-PER
+boys	I-PER
+Muana	B-WORK_OF_ART
+Loa	I-WORK_OF_ART
+Lover	I-WORK_OF_ART
+című	O
+számát	O
+.	O
+
+Működik	O
+.	O
+
+De	O
+csak	O
+a	O
+vevő	O
+.	O
+
+Az	O
+adó	O
+nem	O
+.	O
+
+Meg	O
+tudja	O
+javítani	O
+?	O
+
+Javítani	O
+.	O
+
+Talán	O
+egy	O
+telegráffal	O
+vagy	O
+morse-kóddal	O
+.	O
+
+Többé	O
+nem	O
+kell	O
+siütnünk	O
+az	O
+üreg	O
+miatt	O
+,	O
+Karl	B-PER
+.	O
+
+Nem.	O
+Indulhatunk	O
+?	O
+
+Ne	O
+pazaroljuk	O
+az	O
+időt	O
+.	O
+
+A	O
+hang	O
+onnan	O
+jött	O
+.	O
+
+Oh	O
+Hank	B-PER
+,	O
+nem	O
+tudom	O
+mit	O
+csinálnánk	O
+maga	O
+nélkül	O
+.	O
+
+Hol	O
+tanulta	O
+meg	O
+mindezt	O
+?	O
+
+A	O
+tengerészetnél	O
+a	O
+háborúban	O
+.	O
+
+És	O
+egy	O
+kicsit	O
+konyítok	O
+a	O
+rádiókhoz	O
+és	O
+TV-khez	O
+.	O
+
+És	O
+a	O
+Csendes-óceánon	B-LOC
+kötött	O
+ki	O
+?	O
+
+Miután	O
+Dale	B-PER
+és	O
+én	O
+lediplomáztunk	O
+,	O
+ugyanabban	O
+az	O
+intézetben	O
+maradtunk	O
+kutatni	O
+.	O
+
+Mindig	O
+együtt	O
+voltak	O
+?	O
+
+Un-huh	O
+.	O
+
+És	O
+amikor	O
+kitüntetést	O
+kapott	O
+,	O
+egy	O
+életre	O
+társak	O
+lettünk	O
+.	O
+
+Keressük	O
+meg	O
+Karlt	B-PER
+és	O
+Dale-t	B-PER
+és	O
+szóljünk	O
+hogy	O
+működik	O
+a	O
+gép	O
+.	O
+
+Ez	O
+nem	O
+olaj	O
+?	O
+
+De	O
+az	O
+,	O
+Karl	B-PER
+.	O
+
+Sosem	O
+hallottam	O
+,	O
+hogy	O
+lenne	O
+olaj	O
+a	O
+Csendes-óceán	B-LOC
+környékén	O
+.	O
+
+A	O
+robbanások	O
+valószínüleg	O
+a	O
+felszínre	O
+hozták	O
+.	O
+
+Nézze	O
+,	O
+mintha	O
+két	B-CARDINAL
+helyről	O
+is	O
+jönne	O
+.	O
+
+Nézzünk	O
+utána	O
+.	O
+
+A	O
+föld	O
+alá	O
+is	O
+utána	O
+akar	O
+menni	O
+?	O
+
+Úgy	O
+érzem	O
+muszáj	O
+lesz	O
+.	O
+
+De	O
+a	O
+rák	O
+,	O
+Karl	B-PER
+.	O
+
+Olyan	O
+mint	O
+egy	O
+csörgőkígyó	O
+.	O
+
+Hamarabb	O
+lehet	O
+látni	O
+,	O
+mint	O
+hallani	O
+.	O
+
+Ki	O
+tudjuk	O
+kerülni	O
+,	O
+ha	O
+elég	O
+óvatosak	O
+vagyunk	O
+.	O
+
+Jobban	O
+tudja	O
+,	O
+mint	O
+mi.	O
+Ezért	O
+próbálják	O
+a	O
+szigetet	O
+egyre	O
+kisebbre	O
+csinálni	O
+,	O
+hogy	O
+a	O
+végén	O
+már	O
+nem	O
+tudjunk	O
+hová	O
+menekülni	O
+.	O
+
+De	O
+először	O
+is	O
+gyerünk	O
+innen	O
+,	O
+ugye	O
+?	O
+
+Ígyvan.Ne	O
+aggódjon	O
+.	O
+
+Maga	O
+kövesse	O
+ezt	O
+a	O
+folyást	O
+,	O
+én	O
+pedig	O
+a	O
+másikat	O
+.	O
+
+Dale	B-PER
+,	O
+mi	O
+az	O
+?	O
+
+Karl	B-PER
+lent	O
+van	O
+a	O
+barlangban	O
+!	O
+
+Miért	O
+ment	O
+oda	O
+?	O
+
+Ne	O
+törődjön	O
+vele	O
+!	O
+
+A	O
+rák	O
+egyenesen	O
+felé	O
+megy	O
+.	O
+
+Ki	O
+kell	O
+mentenünk	O
+miélőtt	O
+késő	O
+lesz	O
+.	O
+
+Akkor	O
+menjünk	O
+!	O
+
+Maradjon	O
+itt	O
+,	O
+Martie	B-PER
+!	O
+
+Menjen	O
+innen	O
+!	O
+
+Menjen	O
+!	O
+
+Dale	B-PER
+,	O
+ne	O
+!	O
+
+Meggyujtom	O
+ott	O
+az	O
+olajat	O
+.	O
+
+Tudja	O
+mit	O
+csinál	O
+Megölte	O
+?	O
+
+Elkerülte	O
+a	O
+fő	O
+folyást	O
+.	O
+
+Azt	O
+hittem	O
+Karl	B-PER
+lesz	O
+az	O
+egyetlen	O
+,	O
+aki	O
+...	O
+
+A	O
+tűz	O
+nem	O
+fogja	O
+sokáig	O
+tartani	O
+.	O
+
+Ez	O
+már	O
+nem	O
+számít	O
+,	O
+Hank	B-PER
+.	O
+
+Talán	O
+tart	O
+még	O
+addig	O
+,	O
+amíg	O
+küldök	O
+egy	O
+utolsó	O
+üzenetet	O
+,	O
+még	O
+egy	O
+S-O-S-t	O
+.	O
+
+Hank	B-PER
+,	O
+megvan	O
+a	O
+rádió	O
+?	O
+
+Ez	O
+a	O
+gyors	O
+gondolkodás	O
+,	O
+Dale	B-PER
+.	O
+
+De	O
+sajnos	O
+minden	O
+tűz	O
+kialszik	O
+egyszer	O
+.	O
+
+Sikerül	O
+,	O
+Hank	B-PER
+?	O
+
+Honnan	O
+tudhatnám	O
+?	O
+
+Még	O
+nem	O
+értem	O
+a	O
+végére	O
+.	O
+
+Oh	O
+,	O
+Hank	B-PER
+,	O
+sikerülnie	O
+kell	O
+.	O
+
+Ez	O
+meghalt	O
+Szerintem	O
+nem	O
+fog	O
+segyteni	O
+,	O
+Hank	B-PER
+.	O
+
+Mire	O
+a	O
+hajók	O
+és	O
+repülők	O
+ideérnek	O
+,	O
+ez	O
+az	O
+egész	O
+sziget	O
+a	O
+hullámok	O
+rabja	O
+lesz	O
+.	O
+
+De	O
+nem	O
+fognak	O
+megfulladni	O
+.	O
+
+A	O
+részeim	O
+lesznek	O
+.	O
+
+És	O
+még	O
+csak	O
+bizonyítek	O
+sem	O
+lesz	O
+a	O
+létezésükre	O
+A	O
+barlangban	O
+fogunk	O
+pihenni	O
+,	O
+és	O
+tervet	O
+szövünk	O
+az	O
+emberek	O
+ellen	O
+!	O
+
+Futás	O
+!	O
+
+Menjenek	O
+!	O
+
+Nézzék	O
+!	O
+
+Emelkedik	O
+a	O
+víz	O
+.	O
+
+Másszunk	O
+!	O
+
+Hank	B-PER
+,	O
+tud	O
+még	O
+harcolni	O
+?	O
+
+Csak	O
+energia	O
+pazarlás	O
+lenne	O
+.	O
+
+Hogyne	O
+tudnék	O
+.	O
+
+Nem	O
+tudom	O
+mit	O
+tudnánk	O
+csinálni	O
+,	O
+Hank	B-PER
+,	O
+de	O
+nekem	O
+maradt	O
+2	B-CARDINAL
+gránátom	O
+.	O
+
+Magának	O
+?	O
+
+Négy	B-ORDINAL
+.	O
+
+Nézzük	O
+mi	O
+van	O
+a	O
+ládában	O
+.	O
+
+Az	O
+adó	O
+még	O
+működik	O
+.	O
+
+Itt.Ez	O
+jónak	O
+tűnik	O
+.	O
+
+Próbáljuk	O
+meg	O
+felrobbantani	O
+,	O
+Hank	B-PER
+.	O
+
+Bolondok	O
+.	O
+
+Vigyázzon	O
+,	O
+Hank	B-PER
+.	O
+
+Hank	B-PER
+!	O
+
+Az	O
+életét	O
+adta	O
+.	O
+
+Észrevétlenül	O
+csaptak	O
+le	O
+,	O
+tűz	O
+pusztít	O
+a	O
+negyedik	B-ORDINAL
+és	O
+ötödik	B-ORDINAL
+erődben	O
+.	O
+
+És	O
+a	O
+harmadik	B-ORDINAL
+erőd	O
+?	O
+
+A	O
+harmadik	B-ORDINAL
+erődöt	O
+nincs	O
+idő	O
+felkészíteni	O
+.	O
+
+És	O
+a	O
+második	B-ORDINAL
+erőd	O
+?	O
+
+Megszállottként	O
+harcolnak	O
+,	O
+a	O
+második	B-ORDINAL
+erőd	O
+parancsnoka	O
+Miki	B-PER
+,...	O
+átirányította	O
+az	O
+embereit	O
+a	O
+harmadik	B-ORDINAL
+erődhöz	O
+.	O
+
+Az	O
+első	B-ORDINAL
+erőd	O
+?	O
+
+Ugyanúgy	O
+lángol	O
+,	O
+mint	O
+a	O
+negyedik	B-ORDINAL
+és	O
+ötödik	B-ORDINAL
+erőd	O
+,	O
+Az	O
+első	B-ORDINAL
+erőd	O
+,	O
+Washizu	B-PER
+parancsnoksága	O
+alatt	O
+áll	O
+,	O
+lnui	B-PER
+emberei	O
+támadják	O
+,	O
+400	B-CARDINAL
+erős	O
+férfi	O
+,	O
+akik	O
+teljes	O
+csapattal	O
+vonultak	O
+át	O
+a	O
+határon	O
+.	O
+
+Hát	O
+ez	O
+Inui	B-PER
+terve	O
+.	O
+
+És	O
+hogy	O
+áll	O
+Washizu	B-PER
+a	O
+csatában	O
+?	O
+
+Elkeseredetten	O
+harcol	O
+.	O
+
+Vigyék	O
+el	O
+ezt	O
+a	O
+férfit	O
+.	O
+
+Támadjunk	O
+?	O
+
+Vagy	O
+zárkózzunk	O
+be	O
+ebbe	O
+a	O
+kastélyba	O
+?	O
+
+Be	O
+kell	O
+zárkóznunk	O
+ide	O
+.	O
+
+Megtámadni	O
+a	O
+megerősített	O
+térséget	O
+a	O
+győzelemért	O
+...	O
+csak	O
+ez	O
+embereink	O
+sérülését	O
+,	O
+elvesztését	O
+eredményezné	O
+.	O
+
+Előszöris	O
+,	O
+őröket	O
+állítunk	O
+a	O
+Pók-klán	B-ORG
+erdejének	O
+szélére	O
+,	O
+megosztjuk	O
+az	O
+ellenséget	O
+,	O
+és	O
+labirintusba	O
+csalogatjuk	O
+,	O
+megsebzünk	O
+annyit	O
+,	O
+amennyit	O
+tudunk	O
+.	O
+
+Azután	O
+visszavonulunk	O
+és	O
+elbarikádozzuk	O
+itt	O
+magunkat	O
+.	O
+
+Ez	O
+lenne	O
+az	O
+én	O
+stratégiám	O
+.	O
+
+Készleteink	O
+?	O
+
+3	B-DATE
+hónapig	I-DATE
+kitarthatunk	O
+,	O
+zabkásán	O
+.	O
+
+Hírt	O
+hoztam	O
+.	O
+
+Hírnök	O
+vagyok	O
+a	O
+második	B-ORDINAL
+erődből	O
+.	O
+
+Engedjétek	O
+be	O
+.	O
+
+Nagyúr	O
+,	O
+a	O
+csata	O
+folyama	O
+önnek	O
+kedvez	O
+.	O
+
+Ahogy	O
+Miki	B-PER
+embereinek	O
+bátor	O
+védekezése	O
+ellenállt	O
+az	O
+ellenség	O
+támadásainak	O
+,	O
+Washizu	B-PER
+könnyen	O
+átszakította	O
+Inui	B-PER
+vonalait	O
+az	O
+első	B-ORDINAL
+erődnél	O
+,	O
+nyílzivatarral	O
+áztatva	O
+a	O
+soraikat	O
+.	O
+
+Washizu	B-PER
+volt	O
+?	O
+
+Washizu-nak	B-PER
+sikerült	O
+.	O
+
+Washizu	B-PER
+áldozata	O
+könnyedén	O
+ellenségünk	O
+vesztét	O
+okozhatja	O
+,	O
+és	O
+a	O
+háború	O
+a	O
+mi	O
+javunkra	O
+dőlhet	O
+el	O
+.	O
+
+Nagyúr	O
+,	O
+Washizu	B-PER
+és	O
+Miki	B-PER
+emberei	O
+visszaszorítják	O
+az	O
+ellenséget	O
+,	O
+csapdába	O
+zárva	O
+a	O
+helyőrségen	O
+.	O
+
+Nagyúr	O
+.	O
+
+A	O
+helyőrségnél	O
+Fujimaki	B-PER
+megadásra	O
+készül	O
+...	O
+és	O
+békéért	O
+könyörög	O
+.	O
+
+Nem	O
+,	O
+nem	O
+beszélünk	O
+békéről	O
+.	O
+
+Noriyasu	B-PER
+.	O
+
+Vigye	O
+az	O
+embereit	O
+azonnal	O
+az	O
+északi	O
+helyőrséghez	O
+és	O
+pusztítsa	O
+el	O
+Fujimaki-t.	B-PER
+megerősítjük	O
+határainkat	O
+,	O
+és	O
+ha	O
+Inui	B-PER
+elutasítja	O
+az	O
+emberei	O
+visszahívását	O
+...	O
+
+Hozzátok	O
+ide	O
+Washizu-t	B-PER
+és	O
+Miki-t	B-PER
+.	O
+
+Én	O
+magam	O
+akarok	O
+köszönetet	O
+mondani	O
+nekik	O
+.	O
+
+Milyen	O
+nap	O
+ez	O
+?	O
+
+Még	O
+sosem	O
+láttam	O
+ilyen	O
+különös	O
+időjárást	O
+.	O
+
+Igyekezzünk	O
+.	O
+
+Látni	O
+akarom	O
+Urunk	O
+örömteli	O
+arcát	O
+.	O
+
+Ne	O
+,	O
+ez	O
+...	O
+az	O
+az	O
+ösvény	O
+,	O
+ahová	O
+legutóbb	O
+az	O
+állatokat	O
+tereltük	O
+.	O
+
+Valóban	O
+,	O
+nézd	O
+a	O
+patanyomokat	O
+,	O
+amiket	O
+a	O
+lovak	O
+tapostak	O
+.	O
+
+Ez	O
+elképesztő	O
+.	O
+
+Ez	O
+nem	O
+a	O
+Pók-klán	B-ORG
+erdeje	O
+?	O
+
+Nem	O
+kérdéses	O
+.	O
+
+Akkor	O
+a	O
+kastélynak	O
+nagyon	O
+közel	O
+kell	O
+lennie	O
+.	O
+
+Már	B-TIME
+két	I-TIME
+órája	I-TIME
+barangolunk	O
+az	O
+erdőben	O
+.	O
+
+Nem	O
+találtunk	O
+kivezető	O
+utat	O
+.	O
+
+A	O
+hírhedt	O
+Pók-klán	B-LOC
+Erdő	I-LOC
+.	O
+
+Úgy	O
+terjedt	O
+szét	O
+,	O
+mint	O
+a	O
+pók	O
+hálója	O
+,	O
+megvédve	O
+a	O
+Pók-klán	B-ORG
+kastélyát	O
+minden	O
+ellenségtől	O
+.	O
+
+Bár	O
+az	O
+ellenségeinknek	O
+veszélyes	O
+,	O
+mi	O
+jól	O
+ismerjük	O
+ezt	O
+az	O
+erdőt	O
+.	O
+
+A	O
+gonosz	O
+készülődik	O
+.	O
+
+Ez	O
+egy	O
+gonosz	O
+lélek	O
+volt	O
+.	O
+
+Én	O
+megbízom	O
+a	O
+dárdámban	O
+,	O
+megvívok	O
+vele	O
+és	O
+legyőzőm	O
+.	O
+
+Én	O
+számítok	O
+a	O
+megbízható	O
+íjamra	O
+és	O
+nyilaimra	O
+.	O
+
+Emlékszel	O
+ilyen	O
+kunyhóra	O
+?	O
+
+Nem	O
+,	O
+most	O
+látom	O
+először	O
+.	O
+
+A	O
+gonosz	O
+lélek	O
+munkája	O
+lehet	O
+.	O
+
+És	O
+mégis	O
+...	O
+
+Figyeld	O
+a	O
+lovakat	O
+.	O
+
+Megbokrosodnak	O
+.	O
+
+Ember	O
+vagy	O
+szellem	O
+?	O
+
+Beszéljen	O
+.	O
+
+Ha	O
+énekelni	O
+tud	O
+,	O
+akkor	O
+beszélni	O
+is	O
+.	O
+
+Washizu	B-PER
+Taketoki	I-PER
+.	O
+
+Az	O
+első	B-ORDINAL
+erőd	O
+parancsnoka	O
+.	O
+
+Ismer	O
+engem	O
+?	O
+

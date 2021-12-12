@@ -1,0 +1,1821 @@
+# global.columns = FORM ONPP:NER
+Megnézhetem	O
+?	O
+
+Ó	O
+,	O
+persze	O
+.	O
+
+Nos	O
+,	O
+megkérdem	O
+,	O
+mi	O
+tartja	O
+fenn	O
+őket	O
+?	O
+
+A	O
+levegő	O
+.	O
+
+A	O
+levegő	O
+?	O
+
+Talán	O
+semmit	O
+sem	O
+tudok	O
+a	O
+repülőgépekről	O
+,	O
+de	O
+azt	O
+tudom	O
+,	O
+mi	O
+tartja	O
+fenn	O
+a	O
+dolgokat	O
+.	O
+
+Ez	O
+az	O
+munkám	O
+.	O
+
+Ó	O
+,	O
+értem	O
+.	O
+
+A	O
+nevem	O
+Schultz	B-PER
+,	O
+O.	B-PER
+W.	I-PER
+Schultz	I-PER
+.	O
+
+Atlasz	B-ORG
+nadrágtartó	O
+társaság	O
+.	O
+
+Mi	O
+tartjuk	O
+fenn	O
+a	O
+nadrágokat	O
+a	O
+középnyugaton	O
+...	O
+
+Az	B-DATE
+elmúlt	I-DATE
+75	I-DATE
+évben	I-DATE
+.	I-DATE
+
+Nos	O
+,	O
+el	O
+tudja	O
+képzelni	O
+,	O
+hogy	O
+az	O
+ügyfeleink	O
+nadrágja	O
+a	O
+levegőn	O
+lógjon	O
+?	O
+
+Elég	O
+rémisztő	O
+gondolat	O
+,	O
+különösen	O
+az	O
+ilyen	O
+időben	O
+.	O
+
+Itt	O
+a	O
+.,	O
+
+Ó	O
+,	O
+nem	O
+,	O
+tartsa	O
+meg	O
+.	O
+
+Ó	O
+,	O
+köszönöm	O
+.	O
+
+Meg	O
+kell	O
+mondjam	O
+,	O
+Mr.	O
+Schultz	B-PER
+,	O
+Én	O
+az	O
+öv	O
+pártján	O
+állok	O
+.	O
+
+Őv	O
+?	O
+
+Miért	O
+választja	O
+a	O
+biztos	O
+halált	O
+.	O
+
+Elszorítja	O
+a	O
+beleit	O
+,	O
+emésztési	O
+zavart	O
+kaphat	O
+,	O
+és	O
+kész	O
+a	O
+vakbélgyulladás	O
+,	O
+Ha	O
+kint	O
+van	O
+valahol	O
+az	O
+őserdőben	O
+,	O
+és	O
+nincs	O
+orvos	O
+a	O
+közelben	O
+,	O
+oda	O
+kell	O
+repülnie	O
+az	O
+orvosnak	O
+a	O
+legközelebbi	O
+városból	O
+.	O
+
+A	O
+repülőgép	O
+lezuhan	O
+,	O
+az	O
+orvos	O
+meghal	O
+,	O
+és	O
+akkor	O
+,	O
+nos	O
+,	O
+akkor	O
+maga	O
+is	O
+meghal	O
+.	O
+
+A	O
+vakbelemet	O
+kivették	O
+még	O
+iskolás	O
+korormban	O
+.	O
+
+Nos	O
+,	O
+egyébként	O
+,	O
+amit	O
+mondani	O
+akarok	O
+,	O
+az	O
+emberek	O
+manapság	O
+mind	O
+bolondokházába	O
+valók	O
+.	O
+
+Övek	O
+,	O
+repülő	O
+"	O
+-	O
+gépek	O
+.	O
+
+Ezek	O
+a	O
+fickók	O
+Párizsba	B-GPE
+akarnak	O
+repülni	O
+Párizsba	B-GPE
+,	O
+Franciaországba	B-GPE
+!	O
+
+Keresztül	O
+az	O
+egész	O
+óceánon	O
+.	O
+
+Nos	O
+,	O
+ez	O
+bolondokháza	O
+,	O
+egyszerüen	O
+bolondokháza	O
+.	O
+
+Nem	O
+mennék	O
+3	B-QUANTITY
+méternél	I-QUANTITY
+magasabbra	O
+.	O
+
+Nincs	O
+igazam	O
+?	O
+
+Csak	O
+valami	O
+rosszul	O
+sült	O
+el	O
+,	O
+Mr.	O
+Schultz	B-PER
+.	O
+
+Megmondom	O
+hogy	O
+mi.	O
+Annak	O
+a	O
+gépnek	O
+több	O
+kell	O
+,	O
+mint	O
+egy	O
+kis	O
+levegő	O
+,	O
+hogy	O
+fenntartsa	O
+.	O
+
+Olyasmi	O
+,	O
+mint	O
+egy	O
+pár	O
+jó	O
+nadrágtartó	O
+.	O
+
+Szia	O
+,	O
+Slim	B-PER
+.	O
+
+Jó	O
+reggelt	O
+,	O
+Louie	B-PER
+.	O
+
+Jó	O
+reggelt	O
+,	O
+colos	O
+.	O
+
+Jonesy	B-PER
+,	O
+hogy	O
+vagy	O
+?	O
+
+Mit	O
+szeretnél	O
+?	O
+
+Nos	O
+,	O
+egy	O
+pár	O
+tojást	O
+,	O
+pirítóst	O
+,	O
+vaj	O
+nélkül	O
+.	O
+
+Tojás	O
+kettő	B-CARDINAL
+,	O
+és	O
+tartsd	O
+lenyomva	O
+a	O
+zsírcsapot	O
+.	O
+
+Operátor	O
+!	O
+
+Adja	O
+a	O
+távolsági	O
+operátort	O
+.	O
+
+Valaki	O
+beteg	O
+?	O
+
+Operátor	O
+.	O
+
+-.Igen	O
+.	O
+
+Halló	O
+,	O
+ez	O
+a	O
+távolsági	O
+?	O
+
+Meg	O
+tudja	O
+mondani	O
+,	O
+mibe	O
+kerül	O
+felhívni	O
+New	B-GPE
+York	I-GPE
+Cityt	I-GPE
+.	O
+
+Három	B-TIME
+perc	I-TIME
+,	O
+öt	B-MONEY
+dollár	I-MONEY
+.	O
+
+Fizethetek	O
+másfél	B-TIME
+percet	I-TIME
+?	O
+
+Nem	O
+,	O
+mi	O
+?	O
+
+Biztos	O
+benne	O
+?	O
+
+Jól	O
+van	O
+,	O
+legyen	O
+három	B-TIME
+perc	I-TIME
+.	O
+
+Kapcsolja	O
+a	O
+Columbia	B-ORG
+Aircraft	I-ORG
+Corporationt	I-ORG
+,	O
+Woolworth	B-LOC
+épület	O
+,	O
+New	B-GPE
+York	I-GPE
+.	O
+
+Igen	O
+,	O
+hölgyem	O
+,	O
+tartom	O
+.	O
+
+Kit	O
+hívtál	O
+,	O
+Slim	B-PER
+?	O
+
+Ne	O
+aggódj	O
+a	O
+pénz	O
+miatt	O
+.	O
+
+Bedobsz	O
+mindent	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Meg	O
+akarok	O
+győzni	O
+valakit	O
+.	O
+
+Az	O
+embereket	O
+lenyűgözi	O
+ha	O
+távolságin	O
+hívjuk	O
+őket	O
+.,	O
+különösen	O
+New	B-GPE
+Yorkban	I-GPE
+.	O
+
+5	B-MONEY
+dolcsi	I-MONEY
+ára	O
+lenyűgözés	O
+?	O
+
+Azt	O
+akarom	O
+,	O
+hogy	O
+eladjon	O
+nekem	O
+egy	O
+repülőgépet	O
+.	O
+
+Repülőgépet	O
+?	O
+
+Ez	O
+nonstop	O
+és	O
+hosszú	O
+utakra	O
+épült	O
+Mint	O
+például	O
+,	O
+innen	O
+St.	B-GPE
+Louisból	I-GPE
+New	B-GPE
+Yorkba	I-GPE
+.	O
+
+Ami	O
+azt	O
+illeti	O
+,	O
+ez	O
+sokkal	O
+messzebbre	O
+repül	O
+majd	O
+.	O
+
+Ha	O
+kidobok	O
+mindent	O
+,	O
+és	O
+póttartályokal	O
+szerelem	O
+fel	O
+,	O
+átalakítom	O
+,	O
+és	O
+el	O
+fog	O
+repülni	O
+háromszor	O
+olyan	O
+messzire	O
+.	O
+
+Egy	B-CARDINAL
+,	O
+kettő	B-CARDINAL
+,	O
+három	B-CARDINAL
+.	O
+
+Minden	O
+út	O
+ebbe	O
+a	O
+lyukba	O
+vezet	O
+.	O
+
+Mi	O
+az	O
+a	O
+lyuk	O
+?	O
+
+Párizs	B-GPE
+.	O
+
+Párizs	B-GPE
+?	O
+
+Operátor	O
+.	O
+
+Halló	O
+.	O
+
+Halló	O
+!	O
+
+Ez	O
+a	O
+Columbia	B-ORG
+Aircraft	I-ORG
+New	B-GPE
+Yorkban	I-GPE
+?	O
+
+Nos	O
+,	O
+szeretnék	O
+beszélni	O
+az	O
+egyik	O
+tisztviselőjükkel	O
+.	O
+
+Nem	O
+érdekes	O
+melyikkel	O
+.	O
+
+Legjobb	O
+lenne	O
+,	O
+ha	O
+adna	O
+nekem	O
+egy	O
+vezető	O
+tisztviselőt	O
+.	O
+
+Nagyon	O
+fontos	O
+.	O
+
+Nézze	O
+,	O
+kisasszony	O
+,	O
+távolságin	O
+beszélek	O
+.	O
+
+Uhmm	O
+.,	O
+
+Kapcsold	O
+ki	O
+a	O
+rádiót	O
+,	O
+oké	O
+?	O
+
+Hé	O
+,	O
+fogd	O
+be	O
+a	O
+szád	O
+!	O
+
+Távolságin	O
+beszél	O
+!	O
+
+Ön	O
+egy	O
+vezető	O
+tisztviselő	O
+?	O
+
+Maga	O
+az	O
+elnök	O
+!	O
+
+Nos	O
+,	O
+a	O
+nevem	O
+Charles	B-PER
+Lindbergh	I-PER
+,	O
+és	O
+a	O
+Missouri	B-GPE
+St.	B-GPE
+Louis.	I-GPE
+ból	I-GPE
+beszélek	O
+.	O
+Prominens	O
+üzletemberek	O
+csoportját	O
+képviselem	O
+,	O
+egy	O
+New	B-GPE
+York	I-GPE
+–	O
+Párizs	B-GPE
+repülést	O
+szervezünk	O
+,	O
+és	O
+figyelembe	O
+vettük	O
+az	O
+önök	O
+Bellancáját	B-PROD
+is	O
+.	O
+
+Ó	O
+,	O
+persze	O
+,	O
+persze	O
+.	O
+
+Azt	O
+is	O
+elvárjuk	O
+ha	O
+megvásároljuk	O
+,	O
+de	O
+tudna	O
+adni	O
+egy	O
+árajánlatot	O
+?	O
+
+Most	O
+találnom	O
+kell	O
+egy	O
+csapat	O
+prominens	O
+üzletembert	O
+15.000	B-MONEY
+dollárral	I-MONEY
+,	O
+ennyi	O
+az	O
+egész	O
+.	O
+
+Soha	O
+nem	O
+voltam	O
+nagy	O
+szónok	O
+,	O
+azt	O
+hiszem	O
+,	O
+de	O
+hat	B-DATE
+hét	I-DATE
+múlva	I-DATE
+már	O
+több	O
+emberrel	O
+beszéltem	O
+,	O
+mint	O
+valaha	O
+életemben	O
+.	O
+
+Sokan	O
+nemet	O
+mondtak	O
+,	O
+sokan	O
+talán-t	O
+,	O
+nagyjából	O
+ennyi	O
+volt	O
+amit	O
+kaptam	O
+.	O
+
+Harry	B-PER
+Knight	I-PER
+,	O
+egy	O
+repülő	O
+tanítványom	O
+,	O
+elintézte	O
+hogy	O
+találkozzak	O
+néhány	O
+emberrel	O
+az	O
+Állami	B-ORG
+Nemzeti	I-ORG
+Bankban	I-ORG
+.	O
+
+Slim	B-PER
+.	O
+
+Slim	B-PER
+,	O
+ez	O
+itt	O
+Harold	B-PER
+Bixby	I-PER
+a	O
+banktól	O
+.	O
+
+Harold	B-PER
+a	O
+Kereskedelmi	B-ORG
+Kamara	I-ORG
+elnöke	O
+is	O
+.	O
+
+Hogysmint	O
+,	O
+Mr.	O
+Bixby	B-PER
+?	O
+
+Örülök	O
+,	O
+hogy	O
+megismerem	O
+,	O
+Mr.	O
+Lindbergh	B-PER
+.	O
+
+Ő	O
+Lansing	B-PER
+Ray	I-PER
+,	O
+a	O
+St.	B-MEDIA
+Louis	I-MEDIA
+Globe	I-MEDIA
+kiadója	O
+.	O
+
+Hogysmint	O
+,	O
+uram	O
+?	O
+
+Hogysmint	O
+?	O
+
+Earl	B-PER
+Thompsont	I-PER
+ismeri	O
+.	O
+
+Lambert	B-PER
+őrnagy	O
+.	O
+
+Örvendek	O
+,	O
+kapitány	O
+.	O
+
+Bill	B-PER
+Robertson	I-PER
+.	O
+
+Ó	O
+,	O
+helló	O
+,	O
+Bill	B-PER
+.	O
+
+Szervusz	O
+,	O
+Slim	B-PER
+.	O
+
+Üljön	O
+le	O
+,	O
+uram	O
+.	O
+
+Ide	O
+,	O
+Mr.	O
+Egy	O
+szivart	O
+?	O
+
+Lindbergh	B-PER
+,	O
+átnéztük	O
+a	O
+vázlatát	O
+a	O
+tervezetéről	O
+,	O
+és	O
+azt	O
+mondja	O
+itt	O
+,	O
+az	O
+egyik	O
+oldalon	O
+,	O
+
+Annak	O
+érdekében	O
+,	O
+hogy	O
+bemutassuk	O
+a	O
+repülés	O
+lehetőségeit	O
+,	O
+annak	O
+érdekében	O
+,	O
+hogy	O
+demonstráljuk	O
+a	O
+nagy	O
+nyilvánosság	O
+előtt	O
+,	O
+a	O
+kereskedelmi	O
+repülés	O
+lehetőségeit	O
+,	O
+
+Azt	O
+mondja	O
+,	O
+a	O
+repülés	O
+már	O
+nem	O
+egy	O
+újszülött.	O
+fennáll	O
+a	O
+veszély	O
+hogy	O
+törpenövésű	O
+mostohagyerekké	O
+válik	O
+,	O
+kivéve	O
+,	O
+ha	O
+a	O
+tőke	O
+eléggé	O
+előrelátó	O
+.,	O
+
+Jobb	O
+,	O
+ha	O
+leharapod	O
+a	O
+végét	O
+,	O
+Slim	B-PER
+.	O
+
+Óh	O
+.	O
+
+Aztán	O
+azt	O
+mondja	O
+,	O
+
+Ha	O
+a	O
+St.	B-GPE
+Louis-i	I-GPE
+emberek	O
+finanszíroznák	O
+ezt	O
+a	O
+repülést	O
+,	O
+az	O
+segítene	O
+létrehozni	O
+városunkban	O
+a	O
+központját	O
+,	O
+a	O
+jövő	O
+nemzeti	O
+légijáratainak	O
+.	O
+
+Mindez	O
+józan	O
+észre	O
+vall	O
+,	O
+Mr.	O
+Lindbergh	B-PER
+,	O
+és	O
+persze	O
+csodáljuk	O
+a	O
+szellemét	O
+,	O
+de	O
+megvalósítható	O
+e	O
+egy	O
+ilyen	O
+repülés	O
+?	O
+
+Meg	O
+lehet	O
+-e	O
+tenni	O
+?	O
+
+Természetesen	O
+megértheti	O
+Mr.	O
+Lindbergh	B-PER
+,	O
+hogy	O
+mielőtt	O
+a	O
+Globe-Democrat	B-MEDIA
+támogatást	O
+nyújtana	O
+,	O
+biztosnak	O
+kell	O
+lennünk	O
+abban	O
+,	O
+hogy	O
+nem	O
+egy	O
+öngyilkosságot	O
+finanszírozunk	O
+Nos	O
+,	O
+az	O
+öngyilkosság	O
+ötlete	O
+soha	O
+nem	O
+fordult	O
+meg	O
+a	O
+fejemben	O
+,	O
+kivéve	O
+talán	O
+,	O
+amikor	O
+elvettem	O
+ezt	O
+a	O
+szivart	O
+.	O
+
+Sajnálom	O
+,	O
+uraim	O
+.	O
+
+Nem	O
+dohányzom	O
+.	O
+
+Lindbergh	B-PER
+,	O
+ha	O
+a	O
+repülés	O
+ösztönzéséről	O
+beszélünk	O
+,	O
+mintegy	B-CARDINAL
+1921	I-CARDINAL
+ember	O
+próbált	O
+átmenni	O
+a	O
+Niagarán	B-LOC
+egy	O
+hordóban	O
+.	O
+
+Nem	O
+emlékszem	O
+,	O
+hogy	O
+ez	O
+különösebben	O
+ösztönözte	O
+volna	O
+a	O
+hordók	O
+forgalmát	O
+.	O
+
+Ó	O
+,	O
+dehát	O
+az	O
+egy	O
+kaszkadőrmutatvány	O
+,	O
+Mr.	O
+Thompson	B-PER
+.	O
+
+Nem	O
+azt	O
+ajánlottam	O
+hogy	O
+zászlórúdon	O
+lógok	O
+vagy	O
+aranyhalat	O
+nyelek	O
+.	O
+
+Nem	O
+vagyok	O
+kaszkadőr	O
+.	O
+
+Repülő	O
+vagyok	O
+Ön	O
+egy	O
+szárazföldi	O
+géppel	O
+akarja	O
+átrepülni	O
+az	O
+óceánt	O
+.	O
+
+Nem	O
+egy	O
+tengeri	O
+gép	O
+lenne	O
+biztonságosabb	O
+?	O
+
+Ha	O
+valami	O
+történik	O
+,	O
+még	O
+mindig	O
+leszállhat	O
+a	O
+vízre	O
+.	O
+
+Igen	O
+,	O
+de	O
+az	O
+ötlet	O
+nem	O
+az	O
+,	O
+hogy	O
+a	O
+vízre	O
+szálljak	O
+le	O
+.	O
+
+Az	O
+ötlet	O
+az	O
+,	O
+hogy	O
+a	O
+párizsi	B-GPE
+Le	B-FAC
+Bourget	I-FAC
+reptérre	I-FAC
+.	O
+
+Ha	O
+pontosan	O
+értem	O
+,	O
+a	O
+Bellanca	B-PROD
+,	O
+amit	O
+meg	O
+akar	O
+vásárolni	O
+,	O
+egyszárnyu	O
+?	O
+
+Kissebb	O
+ellenállás	O
+,	O
+nagyobb	O
+emelkedés	O
+.	O
+
+És	O
+egymotoros	O
+?	O
+
+Így	O
+van	O
+,	O
+uram	O
+.	O
+
+És	O
+megkapható	O
+15000	B-MONEY
+$-ért	I-MONEY
+.	O
+
+Most	O
+van	O
+2,000	B-MONEY
+$-om	I-MONEY
+.	O
+
+Szeretném	O
+belefektetni	O
+.	O
+
+2,070	B-MONEY
+$,	I-MONEY
+hogy	O
+pontos	O
+legyek	O
+.	O
+
+Ismerem	O
+a	O
+számláját	O
+.	O
+
+Azt	O
+a	O
+70	B-MONEY
+$-	I-MONEY
+t	I-MONEY
+megtartanám	O
+az	O
+esős	O
+napokra	O
+.	O
+
+Nos	O
+,	O
+tudom	O
+,	O
+13,000	B-MONEY
+$	I-MONEY
+nagy	O
+csomó	O
+pénz	O
+fedezet	O
+nélkül	O
+.	O
+De	O
+ha	O
+megnyerjük	O
+az	O
+Orteig-díjat	B-AWARD
+,	O
+ami	O
+25.000	B-MONEY
+$	I-MONEY
+,	O
+az	O
+első	B-ORDINAL
+New	B-GPE
+York	I-GPE
+és	O
+Párizs	B-GPE
+közötti	O
+nonstop	O
+repülésért	O
+,	O
+
+Nos	O
+,	O
+akkor	O
+visszakapnák	O
+a	O
+pénzüket	O
+,	O
+még	O
+többet	O
+is	O
+.	O
+
+Lindbergh	B-PER
+kapitány	O
+,	O
+ha	O
+úgy	O
+döntünk	O
+hogy	O
+finanszírozzuk	O
+a	O
+kisérletét	O
+,	O
+nem	O
+minden	O
+lenne	O
+a	O
+pénz	O
+.	O
+
+Szükségünk	O
+van	O
+ugyanolyan	O
+,	O
+valamire	O
+,	O
+vagy	O
+hogy	O
+is	O
+nevezte	O
+,	O
+Harold	B-PER
+?	O
+
+Szellemnek	O
+.	O
+
+Ugyanolyan	O
+szellemre	O
+,	O
+ami	O
+magának	O
+is	O
+van	O
+.,	O
+
+Tudja	O
+mire	O
+gondolok	O
+.	O
+
+Köszönöm	O
+,	O
+Lambert	B-PER
+őrnagy	O
+.	O
+
+Lindbergh	B-PER
+,	O
+Én	O
+a	O
+biztosítási	O
+szakmában	O
+vagyok	O
+.	O
+
+Érdekelne	O
+százalékos	O
+arányban	O
+,	O
+hogy	O
+az	O
+egy	O
+egymotoros	O
+gép	O
+jó	O
+ötlet	O
+e	O
+?	O
+
+Nem	O
+a	O
+három	B-CARDINAL
+hajtóműves	O
+gép	O
+a	O
+biztonságosabb	O
+?	O
+
+Úgy	O
+értem	O
+,	O
+ha	O
+az	O
+egyik	O
+motor	O
+lerobban	O
+?	O
+
+Hát	O
+persze	O
+,	O
+mindig	O
+van	O
+esélye	O
+egy	O
+motorhibának	O
+,	O
+de	O
+három	B-CARDINAL
+motorral	O
+,	O
+csak	O
+megháromszorozzuk	O
+a	O
+veszélyt	O
+.	O
+
+Egyedül	O
+akar	O
+menni	O
+.	O
+
+Se	O
+navigátor	O
+,	O
+se	O
+másodpilóta	O
+?	O
+
+Abszolút	O
+.	O
+
+Meddig	O
+tarthat	O
+a	O
+repülés	O
+?	O
+
+Nos	O
+,	O
+ez	O
+a	O
+széltől	O
+függ	O
+.	O
+
+Azt	O
+mondanám	O
+,	O
+körülbelül	B-TIME
+40	I-TIME
+óra	I-TIME
+.	O
+
+Negyven	B-TIME
+óra	I-TIME
+?	O
+
+Egy	B-CARDINAL
+ember	O
+egyedül	O
+irányítja	O
+a	O
+gépet	O
+majdnem	O
+két	B-DATE
+nap	I-DATE
+és	I-DATE
+éjszaka	I-DATE
+?	O
+
+Nos	O
+,	O
+azt	O
+mondom	O
+,	O
+egy	O
+másodpilóta	O
+,	O
+vagy	O
+egy	O
+navigátor	O
+,	O
+súlya	O
+legalább	B-QUANTITY
+70	I-QUANTITY
+kg	I-QUANTITY
+,	O
+
+Ilyen	O
+súlyu	O
+benzin	O
+elég	O
+hogy	O
+200	B-QUANTITY
+mérföldet	I-QUANTITY
+repüljek	O
+.	O
+
+200	B-QUANTITY
+mérfölddel	I-QUANTITY
+tovább	O
+érek	O
+.	O
+
+Lindbergh	B-PER
+kapitány	O
+,	O
+átkeltem	O
+az	O
+óceánon	O
+jó	O
+néhány	O
+alkalommal	O
+,	O
+hajóval	O
+,	O
+természetesen	O
+.	O
+
+Az	O
+idő	O
+nagy	O
+részében	O
+,	O
+a	O
+szivarja	O
+végét	O
+sem	O
+látja	O
+.	O
+
+Köd	O
+,	O
+köd	O
+,	O
+köd	O
+.	O
+
+A	O
+légipostánál	O
+sokszor	O
+repültem	O
+ködben	O
+,	O
+néha	O
+olyanban	O
+mint	O
+a	O
+krumplileves	O
+,	O
+különösen	O
+télen	O
+.	O
+
+Én	O
+nem	O
+aggódnék	O
+Slim-ért	B-PER
+.	O
+
+Tud	O
+repülni	O
+bármilyen	O
+levesben	O
+és	O
+főételben	O
+,	O
+még	O
+a	O
+desszertben	O
+is	O
+.	O
+
+Csak	O
+ilyen	O
+távon	O
+a	O
+desszert	O
+már	O
+sok	O
+lehet	O
+.	O
+
+Nos	O
+,	O
+uraim	O
+,	O
+azt	O
+hiszem	O
+jobb	O
+lesz	O
+.,	O
+
+Köszönöm	O
+az	O
+idejüket	O
+.	O
+
+Lindbergh	B-PER
+,	O
+elnevezte	O
+már	O
+a	O
+gépet	O
+?	O
+
+Elnevezni	O
+?	O
+
+Nem	O
+,	O
+uram	O
+,	O
+még	O
+nem	O
+.	O
+
+Hogyan	O
+nézne	O
+ez	O
+ki	O
+,	O
+uraim	O
+?	O
+
+Úgy	O
+értem	O
+,	O
+ha	O
+átérünk	O
+vele	O
+.	O
+
+St.	B-GPE
+Louis	I-GPE
+szelleme	O
+.	O
+
+Tetszik	O
+.	O
+
+Igen	O
+,	O
+ez	O
+jól	O
+mutatna	O
+mikor	O
+leszállunk	O
+Párizsban	B-GPE
+.	O
+
+Kevésbé	O
+mutatna	O
+jól	O
+az	O
+óceán	O
+fenekén	O
+.	O
+
+Megteszem	O
+az	O
+utat	O
+rendben	O
+.	O
+
+Miért	O
+olyan	O
+biztos	O
+hogy	O
+meg	O
+tudja	O
+tenni	O
+?	O
+
+Bixby	B-PER
+,	O
+mikor	O
+gyerek	O
+voltam	O
+és	O
+a	O
+legkisebb	O
+az	O
+osztályban	O
+,	O
+eldöntöttem	O
+hogy	O
+187	B-QUANTITY
+centi	I-QUANTITY
+magas	O
+leszek	O
+.	O
+
+És	O
+3	B-MONEY
+centit	I-MONEY
+még	O
+rá	O
+is	O
+tettem	O
+.	O
+
+A	O
+vállalat	O
+elnökéhez	O
+jöttem	O
+.	O
+
+Nos	O
+,	O
+ő	O
+nagyon	O
+elfoglalt	O
+.	O
+
+Nos	O
+,	O
+már	O
+vár	O
+rám	O
+.	O
+
+A	O
+missouri	B-GPE
+St.	B-GPE
+Louis-ból	I-GPE
+jöttem	O
+.	O
+Mondtam	O
+neki	O
+,	O
+hogy	O
+közvetlenül	O
+ide	O
+jövök	O
+,	O
+amint	O
+megérkeztem	O
+.	O
+
+Mi	O
+a	O
+neve	O
+?	O
+
+Itt	O
+a	O
+névkártyám	O
+.	O
+
+Biztos	O
+,	O
+hogy	O
+jó	O
+helyre	O
+jött	O
+?	O
+
+Igen	O
+,	O
+hölgyem	O
+.	O
+
+Többször	O
+is	O
+hívtam	O
+távolságin	O
+.	O
+
+Erre	O
+kérem	O
+.	O
+
+Egyenesen	O
+ide	O
+jöttem	O
+az	O
+állomásról	O
+.	O
+
+Még	O
+a	O
+hotelszobámat	O
+se	O
+foglaltam	O
+el	O
+.	O
+
+Igen	O
+,	O
+és	O
+miről	O
+van	O
+szó	O
+?	O
+
+Nos	O
+,	O
+uram	O
+,	O
+a	O
+Bellanca	B-PROD
+megvásárlásáról	O
+.	O
+

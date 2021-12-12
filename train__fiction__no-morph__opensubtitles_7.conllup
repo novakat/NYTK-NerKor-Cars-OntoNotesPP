@@ -1,0 +1,1242 @@
+# global.columns = FORM ONPP:NER
+Túl	O
+sok	O
+a	O
+tanú	O
+.	O
+
+Nem	O
+állíthatja	O
+be	O
+szökésnek	O
+.	O
+
+Járni	O
+se	O
+tudnak	O
+.	O
+
+Ez	O
+az	O
+illemkódexe	O
+?	O
+
+Fegyverteleneket	O
+megölni	O
+?	O
+
+Látod	O
+,	O
+Jennings	B-PER
+,	O
+van	O
+előnye	O
+a	O
+gyengélkedőnek	O
+.	O
+
+Azért	O
+az	O
+öregben	O
+van	O
+kurázsi	O
+!	O
+
+A	O
+könnyülovasság	O
+rohama	O
+.	O
+
+Hogyan	O
+,	O
+uram	O
+?	O
+
+Olyan	O
+kurázsi	O
+.	O
+
+Vagy	O
+mint	O
+1914-ben	B-DATE
+amikor	O
+tőrrel	O
+indultak	O
+harcba	O
+.	O
+
+Értem	O
+én	O
+.	O
+
+Egyáltalán	O
+nem	O
+érti	O
+.	O
+
+Mindannyiunk	O
+halálát	O
+okozhatja	O
+.	O
+
+Elnézést	O
+,	O
+uram	O
+,	O
+én	O
+is	O
+csatlakoznék	O
+!	O
+
+Már	O
+majdnem	O
+meggyógyult	O
+a	O
+karom	O
+.	O
+
+Na	O
+és	O
+ő	O
+?	O
+
+Nem	O
+tiltotta	O
+meg	O
+,	O
+csak	O
+javasolta	O
+.	O
+
+Ha	O
+az	O
+ezredese	O
+javasol	O
+valamit	O
+,	O
+az	O
+paranccsal	O
+ér	O
+fel	O
+.	O
+
+Kezdődik	O
+.	O
+
+A	O
+tisztek	O
+a	O
+büntetőkunyhóba	O
+!	O
+
+Mondja	O
+meg	O
+nekik	O
+!	O
+
+Maga	O
+nem	O
+!	O
+
+Hagyják	O
+békén	O
+!	O
+
+Bezárják	O
+a	O
+katlanba	O
+.	O
+
+Mert	O
+ő	O
+egy	O
+karakán	O
+fickó	O
+,	O
+mert	O
+ő	O
+egy	O
+karakán	O
+fickó	O
+Mert	O
+ő	O
+egy	O
+karakán	O
+fickó	O
+Ezt	O
+mondjuk	O
+itt	O
+mi	O
+mind	O
+Ezt	O
+mondjuk	O
+itt	O
+mi	O
+mind	O
+,	O
+ezt	O
+mondjuk	O
+itt	O
+mi	O
+mind	O
+Ezt	O
+mondjuk	O
+itt	O
+mi	O
+mind	O
+!	O
+
+Dől	O
+a	O
+fa	O
+!	O
+
+Egy	B-CARDINAL
+,	O
+kettő	B-CARDINAL
+,	O
+három	B-CARDINAL
+,	O
+négy	B-CARDINAL
+!	O
+
+Nem	O
+,	O
+nem	O
+,	O
+nem	O
+!	O
+
+Eresszék	O
+el	O
+!	O
+
+Óhajt	O
+valamit	O
+?	O
+
+Már	O
+három	B-DATE
+napja	I-DATE
+.	O
+
+Az	O
+ezredes	O
+.	O
+
+Be	O
+van	O
+zárva	O
+abba	O
+a	O
+...	O
+
+Főbe	O
+lövethetném	O
+.	O
+
+Maga	O
+felelős	O
+azokért	O
+,	O
+akik	O
+szökni	O
+próbáltak	O
+.	O
+
+Nem	O
+tudtam	O
+róla	O
+.	O
+
+Az	O
+nem	O
+számít	O
+.	O
+
+Minden	O
+tisztelet	O
+az	O
+övék	O
+.	O
+
+A	O
+szökés	O
+és	O
+a	O
+halál	O
+között	O
+,	O
+egy	O
+pillanatra	O
+újra	O
+katonák	O
+voltak	O
+.	O
+
+De	O
+akkor	O
+is	O
+őrültség	O
+!	O
+
+Kettőt	B-CARDINAL
+lelőttek	O
+és	O
+a	O
+harmadik	B-ORDINAL
+vízbe	O
+fúlt	O
+.	O
+
+Elszöktek	O
+a	O
+valóság	O
+elől	O
+.	O
+
+Ez	O
+itt	O
+a	O
+valóság	O
+.	O
+
+Ez	O
+mutatja	O
+,	O
+hogy	O
+hol	O
+kéne	O
+tartanunk	O
+ma	B-TIME
+délben	I-TIME
+.	O
+
+Ez	O
+pedig	O
+azt	O
+,	O
+hol	O
+tartunk	O
+valójában	O
+.	O
+
+Az	O
+ezredes	O
+makacssága	O
+miatt	O
+tetemes	O
+a	O
+lemaradásunk	O
+.	O
+
+Sőt	O
+!	O
+
+A	O
+katonák	O
+szabotálják	O
+a	O
+munkát	O
+.	O
+
+Igen	O
+,	O
+láttam	O
+.	O
+
+Mind	O
+főbe	O
+lövethetném	O
+.	O
+
+Akkor	O
+ki	O
+építené	O
+a	O
+hidat	O
+?	O
+
+És	O
+hogy	O
+szabotázs	O
+?	O
+
+Nem	O
+dolgoznak	O
+jól	O
+a	O
+tisztek	O
+nélkül	O
+.	O
+
+A	O
+tisztjeim	O
+irányítanak	O
+.	O
+
+A	O
+brit	B-NORP
+tisztek	O
+dolgozni	O
+fognak	O
+.	O
+
+Az	O
+ezredesen	O
+áll	O
+.	O
+
+De	O
+szabályellenes	O
+.	O
+
+Hagyjuk	O
+a	O
+szabályokat	O
+!	O
+
+Ez	O
+háború	O
+!	O
+
+Nem	O
+krikett	O
+meccs	O
+.	O
+
+Őrült	O
+a	O
+maguk	O
+ezredese	O
+!	O
+
+Komplett	O
+őrült	O
+!	O
+
+Üljön	O
+le	O
+!	O
+
+Megengedem	O
+,	O
+hogy	O
+beszéljen	O
+az	O
+ezredessel	O
+.	O
+
+Mondja	O
+meg	O
+,	O
+hogy	O
+ha	O
+a	O
+tisztek	O
+nem	O
+dolgoznak	O
+bezáratom	O
+a	O
+kórházat	O
+és	O
+a	O
+betegei	O
+dolgoznak	O
+majd	O
+helyettük	O
+.	O
+
+Sokan	O
+meg	O
+fognak	O
+halni	O
+,	O
+és	O
+ő	O
+lesz	O
+a	O
+felelős	O
+.	O
+
+Beszéljen	O
+vele	O
+!	O
+
+Kap	O
+öt	B-TIME
+percet	I-TIME
+.	O
+
+A	O
+doki	O
+bemegy	O
+az	O
+öreghez	O
+.	O
+
+Uram	O
+!	O
+
+Clipton	B-PER
+vagyok	O
+.	O
+
+Hoztam	O
+néhány	O
+dolgot	O
+.	O
+
+Az	O
+emberek	O
+?	O
+
+Jól	O
+bírják	O
+,	O
+uram	O
+.	O
+
+Szereztünk	O
+egy	O
+kis	O
+húst	O
+és	O
+egy	O
+kókuszdiót	O
+.	O
+
+És	O
+a	O
+tisztek	O
+?	O
+
+Nem	O
+annyira	O
+jól	O
+.	O
+
+Még	O
+a	O
+fogdában	O
+.	O
+
+És	O
+Jennings	B-PER
+hadnagy	O
+...	O
+
+Jennings	B-PER
+meghalt	O
+.	O
+
+Szökni	O
+próbált	O
+.	O
+
+És	O
+még	O
+ketten	O
+.	O
+
+Weaver	B-PER
+és	O
+az	O
+amerikai	B-NORP
+.	O
+
+Jennings	B-PER
+!	O
+
+Szegény	O
+,	O
+bátor	O
+fiú	O
+!	O
+
+Figyelmeztettem	O
+,	O
+nem	O
+?	O
+
+Uram	O
+,	O
+nincs	O
+sok	O
+időnk	O
+!	O
+
+Letisztogatom	O
+,	O
+míg	O
+beszélünk	O
+.	O
+
+Valamit	O
+el	O
+kell	O
+mondanom	O
+!	O
+
+Beszéltem	O
+Szaitóval	B-PER
+.	O
+
+Rosszabb	O
+parancsnokot	O
+soha	O
+nem	O
+láttam	O
+.	O
+
+Szerintem	O
+őrült	O
+.	O
+
+Folytassa	O
+!	O
+
+Zsarolás	O
+!	O
+
+Tudom	O
+,	O
+uram	O
+,	O
+de	O
+komolyan	O
+gondolja	O
+.	O
+
+Egész	O
+biztosan	O
+.	O
+
+Nem	O
+teheti	O
+meg	O
+,	O
+hogy	O
+ő	O
+engedjen	O
+.	O
+
+Akkor	O
+is	O
+zsarolás	O
+!	O
+
+Uram	O
+,	O
+ezt	O
+már	O
+nem	O
+sokáig	O
+fogja	O
+bírni	O
+!	O
+
+Nem	O
+jobb	O
+a	O
+tiszteknek	O
+,	O
+ha	O
+dolgoznak	O
+,	O
+mint	O
+ott	O
+megfulladni	O
+?	O
+
+Az	O
+emberek	O
+lazsálnak	O
+,	O
+amennyire	O
+csak	O
+mernek	O
+.	O
+
+De	O
+megnyirbálták	O
+az	O
+ételadagokat	O
+és	O
+ha	O
+a	O
+betegek	O
+...	O
+
+Meg	O
+fognak	O
+halni	O
+.	O
+
+Kétség	O
+nem	O
+férhet	O
+hozzá	O
+.	O
+
+Értem	O
+,	O
+Clipton	B-PER
+.	O
+
+Igazán	O
+.	O
+
+De	O
+nem	O
+látja	O
+?	O
+
+Ez	O
+elvi	O
+kérdés	O
+.	O
+
+Ha	O
+most	O
+engedünk	O
+,	O
+többé	O
+nincs	O
+megállás	O
+.	O
+
+A	O
+dzsungelben	O
+vagyunk	O
+,	O
+ezer	B-QUANTITY
+mérföldre	I-QUANTITY
+bármitől	O
+.	O
+
+Szaitó	B-PER
+nem	O
+fog	O
+visszariadni	O
+semmitől	O
+.	O
+
+Elvek	O
+!	O
+
+Senki	O
+se	O
+fogja	O
+tudni	O
+,	O
+mi	O
+történik	O
+velünk	O
+.	O
+
+Adja	O
+fel	O
+!	O
+
+Nem	O
+engedek	O
+.	O
+
+Nem	O
+fognak	O
+a	O
+tisztjeim	O
+kuliként	O
+dolgozni	O
+.	O
+
+Idő	O
+!	O
+
+Köszönje	O
+meg	O
+mindenkinek	O
+!	O
+
+Minden	O
+beteg	O
+hozzájárult	O
+.	O
+
+Ezt	O
+Reynolds	B-PER
+lopta	O
+.	O
+
+Küldünk	O
+majd	O
+még	O
+ennivalót	O
+.	O
+
+Megvesztegettük	O
+az	O
+őröket	O
+.	O
+
+Ég	O
+áldja	O
+,	O
+uram	O
+!	O
+
+Nagyon	O
+köszönöm	O
+.	O
+
+Az	O
+amerikai	B-NORP
+is	O
+meghalt	O
+?	O
+
+A	O
+vízbe	O
+fúlt	O
+.	O
+
+Őrültség	O
+szökést	O
+tervezni	O
+.	O
+
+Hárman	B-CARDINAL
+meghaltak	O
+,	O
+és	O
+mi	O
+végre	O
+?	O
+
+Itt	O
+kell	O
+diadalmaskodnunk	O
+.	O
+
+A	O
+Doki	B-PER
+megrázta	O
+a	O
+fejét	O
+.	O
+
+Vajon	O
+mit	O
+jelenthet	O
+?	O
+
+Csak	O
+egyet	B-CARDINAL
+.	O
+
+Az	O
+ezredes	O
+nem	O
+adja	O
+fel	O
+.	O
+
+Nos	O
+?	O
+
+Elmondom	O
+.	O
+
+Nem	O
+adja	O
+be	O
+a	O
+derekát	O
+.	O
+
+Ez	O
+számára	O
+elvi	O
+kérdés	O
+.	O
+
+Tiltakozom	O
+a	O
+büntetés	O
+módja	O
+ellen	O
+.	O
+
+Csoda	O
+,	O
+hogy	O
+még	O
+él	O
+!	O
+
+Ha	O
+tragédia	O
+történik	O
+,	O
+az	O
+gyilkossággal	O
+ér	O
+fel	O
+.	O
+
+Ő	O
+a	O
+felelős	O
+érte	O
+.	O
+
+Nem	O
+én	O
+.	O
+
+Rosszul	O
+van	O
+?	O
+
+Mindkettő	O
+megőrült	O
+?	O
+
+Vagy	O
+én	O
+őrültem	O
+meg	O
+?	O
+
+A	O
+nap	O
+teszi	O
+?	O
+
+Zászlóalj	O
+,	O
+vigyázz	O
+!	O
+
+Felteszem	O
+a	O
+kérdést	O
+:	O
+Miért	O
+nem	O
+halad	O
+a	O
+híd	O
+építése	O
+?	O
+
+Tudják	O
+a	O
+választ	O
+.	O
+
+Mert	O
+lusták	O
+a	O
+tisztjeik	O
+!	O
+
+Nem	O
+hajlandóak	O
+megosztani	O
+a	O
+terheket	O
+a	O
+katonákkal	O
+.	O
+
+Ez	O
+nem	O
+igazság	O
+!	O
+
+Ezért	O
+nem	O
+dolgoznak	O
+boldogan	O
+.	O
+
+Ezért	O
+nem	O
+halad	O
+a	O
+híd	O
+építése	O
+.	O
+
+De	O
+van	O
+egy	O
+másik	O
+ok	O
+is	O
+.	O
+
+Nem	O
+rejtem	O
+el	O
+az	O
+igazságot	O
+.	O
+
+Szégyenkezve	O
+vallom	O
+be	O
+hogy	O
+hibákat	O
+követett	O
+el	O
+a	O
+japán	B-NORP
+tisztek	O
+egyike	O
+.	O
+
+Vagyis	O
+Miura	B-PER
+hadnagy	O
+.	O
+
+Rossz	O
+mérnök	O
+.	O
+
+Nem	O
+méltó	O
+a	O
+megbízatásra	O
+.	O
+
+Ezért	O
+megvonom	O
+tőle	O
+a	O
+parancsnoki	O
+tisztet	O
+.	O
+
+Holnap	B-DATE
+újrakezdjük	O
+.	O
+
+Személyesen	O
+irányítom	O
+az	O
+építést	O
+.	O
+
+Ma	B-DATE
+pihenünk	O
+.	O
+
+Csak	O
+munka	O
+,	O
+semmi	O
+móka	O
+,	O
+Jack	B-PER
+halálra	O
+unja	O
+!	O
+
+Jövőbeni	O
+erőfeszítéseik	O
+jutalmául	O
+mindannyian	O
+ajándékot	O
+kapnak	O
+.	O
+
+Dolgozzunk	O
+boldogan	O
+!	O
+
+Század	O
+,	O
+oszolj	O
+!	O
+
+Vöröskereszt	B-ORG
+!	O
+
+A	O
+saját	O
+...	O
+
+A	O
+saját	O
+vöröskeresztes	O
+csomagjaink	O
+!	O
+
+Harry	B-PER
+,	O
+nézd	O
+!	O
+
+Kiengedik	O
+az	O
+öreget	O
+.	O
+
+Biztos	O
+megint	O
+verést	O
+kap	O
+.	O
+
+Jó	O
+estét	O
+,	O
+ezredes	O
+!	O
+
+Foglaljon	O
+helyet	O
+!	O
+
+Ma	B-DATE
+meglehetősen	O
+későn	O
+vacsorázom	O
+.	O
+
+Angol	B-NORP
+marhahús	O
+konzerv	O
+.	O
+
+Köszönöm	O
+,	O
+nem	O
+.	O
+
+Valódi	O
+skót	O
+whisky	O
+.	O
+
+Jobb	O
+'	O
+szeretem	O
+a	O
+szakénál	O
+.	O
+
+Három	B-DATE
+évet	I-DATE
+töltöttem	O
+Londonban	B-GPE
+.	O
+
+A	O
+Politechnikumban	B-ORG
+tanultam	O
+.	O
+
+Egészségére	O
+!	O
+
+Sajnálom	O
+.	O
+
+Később	O
+talán	O
+?	O
+
+Talán	O
+.	O
+
+Festőnek	O
+nem	O
+voltam	O
+jó	O
+.	O
+
+Apám	O
+ellenezte	O
+.	O
+
+Katonának	O
+szánt	O
+.	O
+
+Hát	O
+áttértem	O
+a	O
+mérnöki	O
+tudományra	O
+.	O
+
+Meg	O
+kell	O
+mondanom	O
+valamit	O
+,	O
+Szaitó	B-PER
+ezredes	O
+.	O
+
+Jelentést	O
+szándékozom	O
+írni	O
+a	O
+ténykedéséről	O
+.	O
+
+Úgy	O
+érzem	O
+,	O
+nincs	O
+tisztában	O
+a	O
+helyzetemmel	O
+.	O
+
+Teljesítenem	O
+kell	O
+a	O
+parancsot	O
+.	O
+
+Óh	O
+!	O
+
+Május	B-DATE
+12-ére	I-DATE
+a	O
+hídnak	O
+készen	O
+kell	O
+állnia	O
+.	O
+
+Már	O
+csak	O
+12	B-CARDINAL
+hetem	O
+van	O
+rá	O
+.	O
+
+Ezért	O
+kénytelen	O
+vagyok	O
+mindenkit	O
+munkába	O
+állítani	O
+.	O
+
+A	O
+tiszteket	O
+csak	O
+irányításra	O
+.	O
+

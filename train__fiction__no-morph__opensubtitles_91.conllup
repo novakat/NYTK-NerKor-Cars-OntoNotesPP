@@ -1,0 +1,1482 @@
+# global.columns = FORM ONPP:NER
+Mert	O
+ki	O
+viselné	O
+a	O
+kor	O
+gúny-csapásait	O
+,	O
+zsarnok	O
+bosszúját	O
+,	O
+gőgös	O
+ember	O
+dölyfét	O
+,	O
+útált	O
+szerelme	O
+kínját	O
+,	O
+pör-halasztást	O
+,	O
+a	O
+hivatalnok	O
+packázásait	O
+,	O
+a	O
+rúgást	O
+,	O
+mellyel	O
+méltatlanok	O
+bántalmazzák	O
+a	O
+tűrő	O
+érdemet	O
+,	O
+ha	O
+nyugalomba	O
+küldhetné	O
+magát.	O
+egy	O
+puszta	O
+tőrrel	O
+.	O
+
+Ki	O
+hordaná	O
+e	O
+terheket	O
+,	O
+izzadva	O
+,	O
+nyögve	O
+élte	O
+fáradalmin	O
+,	O
+ha	O
+rettegésünk	O
+egy	O
+halál	O
+utáni	O
+valamitől	O
+,	O
+a	O
+nem	O
+ismert	O
+tudomány	O
+,	O
+melyből	O
+nem	O
+tér	O
+meg	O
+az	O
+utazó	O
+,	O
+le	O
+nem	O
+lohasztja	O
+kedvünk	O
+,	O
+inkább	O
+tűrni	O
+a	O
+jelen	O
+gonoszt	O
+,	O
+mint	O
+ismeretlenek	O
+felé	O
+sietni	O
+?	O
+
+Eképp	O
+az	O
+öntudat	O
+...	O
+
+Oh	O
+,	O
+folytassa	O
+!	O
+
+Hamlet	B-PER
+monológját	O
+,	O
+Shahdov	B-PER
+király	O
+adta	O
+elő	O
+A	O
+szünetjel	O
+után	O
+visszakapcsoljuk	O
+Ann	B-PER
+Kay	I-PER
+Élő	B-WORK_OF_ART
+parti-ját.	I-WORK_OF_ART
+a	O
+rádióállomás	O
+ellenőrzése	O
+után	O
+.	O
+
+Itt	O
+a	O
+KXPA	B-LOC
+stúdió	O
+.	O
+
+Millió	B-CARDINAL
+köszönet	O
+.	O
+
+Hatalmas	O
+élmény	O
+volt	O
+.	O
+
+Tetszett	O
+?	O
+
+Annyi	O
+szenvedély	O
+feszül	O
+Önben	O
+,	O
+remek	O
+sikere	O
+lenne	O
+színészként	O
+!	O
+
+De	O
+a	O
+színpadi	O
+sikerhez	O
+nem	O
+elég	O
+a	O
+tehetség	O
+.	O
+
+Fontos	O
+a	O
+hibátlan	O
+fogsor	O
+.	O
+
+Biztos	O
+-e	O
+abban	O
+,	O
+hogy	O
+sohasem	O
+kelt	O
+másokban	O
+visszataszító	O
+érzést	O
+?	O
+
+Már	O
+megint	O
+kezdi	O
+.	O
+
+Hogy	O
+néz	O
+szembe	O
+egy	O
+színész	O
+a	O
+primadonnával	O
+,	O
+ha	O
+nem	O
+biztos	O
+magában	O
+?	O
+
+De	O
+az	O
+OXYTONE	B-PROD
+fogpaszta	O
+teljes	O
+biztonságot	O
+nyújt	O
+.	O
+
+Az	O
+OXYTONE	B-PROD
+fogpaszta	O
+ibolya	O
+illatot	O
+áraszt	O
+,	O
+meggátolja	O
+a	O
+fog	O
+szuvasodását	O
+és	O
+megsárgulását	O
+,	O
+visszavarázsolja	O
+a	O
+fogzománc	O
+fehérségét	O
+.	O
+
+Nem	O
+fogja	O
+megbánni	O
+,	O
+ha	O
+OXYTONE	B-PROD
+fogpasztát	O
+használ	O
+.	O
+
+Gátlásokat	O
+fog	O
+itt	O
+adni	O
+nekem	O
+.	O
+
+Azt	O
+hittem	O
+,	O
+őrült	O
+,	O
+de	O
+tévedtem	O
+.	O
+
+Kedveli	O
+az	O
+őrülteket	O
+?	O
+
+Igen	O
+,	O
+de	O
+hogy	O
+tud	O
+hirtelen	O
+fogpasztára	O
+váltani	O
+?	O
+
+Gondolattársítás	O
+.	O
+
+Holnap	B-DATE
+fogorvoshoz	O
+megyek	O
+.	O
+
+Kellemetlen	O
+.	O
+
+Az	O
+,	O
+sajnos	O
+.	O
+
+Tudja	O
+ön	O
+olyan	O
+mulatságos	O
+!	O
+
+Szívesen	O
+elmesélnék	O
+néhány	O
+pajkosabb	O
+történetet	O
+.	O
+
+Beszállhatnánk	O
+mi	O
+is	O
+a	O
+társalgásba	O
+?	O
+
+A	O
+fogorvosokról	O
+beszélgettünk	O
+.	O
+
+Utálatos	O
+tehetetlenség	O
+,	O
+a	O
+szánk	O
+tele	O
+műszerekkel	O
+,	O
+s	O
+az	O
+orvost	O
+telefonhoz	O
+hívják	O
+.	O
+
+Így	O
+...	O
+
+Kis	O
+illusztráció	O
+.	O
+
+Megkérhetném	O
+,	O
+hogy	O
+nyissa	O
+ki	O
+a	O
+száját	O
+?	O
+
+Így	O
+ül	O
+,	O
+miközben	O
+szól	O
+tehát	O
+a	O
+telefon	O
+.	O
+
+Ő	O
+fölveszi	O
+,	O
+minket	O
+pöcegödörnek	O
+tekint	O
+...	O
+
+Shahdov	B-PER
+király	O
+társaságát	O
+élveztük	O
+Ann	B-PER
+Kay	I-PER
+Élő	B-MEDIA
+meglepetés	I-MEDIA
+partiján	I-MEDIA
+.	O
+
+Itt	O
+a	O
+KXPA	B-LOC
+állomás	O
+.	O
+
+Még	O
+ébren	O
+van	O
+?	O
+
+Le	O
+sem	O
+hunytam	O
+a	O
+szemem	O
+.	O
+
+Előbb	O
+visszautasít	O
+minden	O
+TV	O
+szereplést	O
+,	O
+majd	O
+Hamletet	B-WORK_OF_ART
+szaval	O
+és	O
+kést	O
+töm	O
+egy	O
+szerencsétlen	O
+nő	O
+torkába	O
+.	O
+
+Megőrült	O
+?	O
+
+Azok	O
+után	O
+,	O
+amit	O
+láttam	O
+,	O
+Felség	O
+nem	O
+csoda	O
+.	O
+
+Engem	O
+látott	O
+a	O
+TV-n	O
+?	O
+
+Észbontó	O
+.	O
+
+Én	O
+idióta	O
+!	O
+
+Éreztem	O
+,	O
+hogy	O
+volt	O
+valami	O
+furcsa	O
+.	O
+
+Rejtett	O
+kamerájuk	O
+lehetett	O
+!	O
+
+Fogalmam	O
+sem	O
+volt	O
+.	O
+
+Rémes	O
+!	O
+
+Kérjen	O
+kártérítést	O
+!	O
+
+Menjünk	O
+ki	O
+a	O
+levegőre	O
+.	O
+
+Felség	O
+,	O
+késő	O
+van	O
+.	O
+
+Nem	O
+vagyok	O
+álmos	O
+.	O
+
+Öltözzön	O
+,	O
+megyünk	O
+.	O
+
+Térjünk	O
+vissza	O
+Európába	B-LOC
+.	O
+
+Ugyan	O
+,	O
+ahhoz	O
+pénz	O
+kell	O
+.	O
+
+Ezután	O
+nincs	O
+üzletember	O
+,	O
+aki	O
+komolyan	O
+vegye	O
+.	O
+
+Egy	O
+király	O
+,	O
+mint	O
+Hamlet	B-PER
+a	O
+TV-ben	O
+?	O
+
+Nem	O
+hiszik	O
+,	O
+hogy	O
+épeszű	O
+.	O
+
+Aki	O
+épeszű	O
+,	O
+egy	O
+golflabdát	O
+terelget	O
+ütővel	O
+a	O
+lukba	O
+?	O
+
+Leszek	O
+inkább	O
+Hamlet	B-PER
+mint	O
+golfozó	O
+!	O
+
+Tönkrementünk	O
+.	O
+
+John	B-PER
+,	O
+ő	O
+az	O
+!	O
+
+Hadd	O
+gratuláljak	O
+!	O
+
+Láttuk	O
+a	O
+nejemmel	O
+a	O
+tévében	O
+.	O
+
+Uram	O
+,	O
+hogy	O
+maga	O
+micsoda	O
+tehetség	O
+!	O
+
+És	O
+ha	O
+mondhatom	O
+,	O
+ráadásul	O
+igazi	O
+demokrata	B-NORP
+!	O
+
+Hadd	O
+szorítsuk	O
+meg	O
+a	O
+kezét	O
+a	O
+feleségemmel	O
+!	O
+
+Drágám	O
+,	O
+ez	O
+itt	O
+Őfelsége	O
+,...	O
+
+Elnézést	O
+királyom	O
+,	O
+mi	O
+is	O
+a	O
+neve	O
+?	O
+
+Ez	O
+az	O
+,	O
+Shahdov	B-PER
+király	O
+.	O
+
+Hogy	O
+van	O
+,	O
+uram	O
+?	O
+
+Kérhetnék	O
+egy	O
+autogramot	O
+a	O
+fiamnak	O
+?	O
+
+Papírja	O
+van	O
+?	O
+
+Csak	O
+papír	O
+zsebkendőm	O
+.	O
+
+CSak	O
+egy	O
+Kleenex-em	B-PROD
+van	O
+.	O
+
+Az	O
+megteszi	O
+.	O
+
+És	O
+tolla	O
+?	O
+
+Tollam	O
+nincs	O
+.	O
+
+Drágám	O
+,	O
+toll	O
+nélkül	O
+nem	O
+lehet	O
+írni	O
+!	O
+
+Remélem	O
+,	O
+nem	O
+fog	O
+megártani	O
+a	O
+tollának	O
+.	O
+
+Kérhetek	O
+én	O
+is	O
+egy	O
+autogramot	O
+?	O
+
+Mondana	O
+erről	O
+többet	O
+is	O
+?	O
+
+Még	O
+jött	O
+posta	O
+uram	O
+.	O
+
+Tegye	O
+le	O
+a	O
+másik	O
+szobába	O
+.	O
+
+Egy	B-DATE
+hete	I-DATE
+megállás	O
+nélkül	O
+csöng	O
+.	O
+
+Nem	O
+hagynak	O
+nyugtot	O
+.	O
+
+Időben	O
+válaszolunk	O
+.	O
+
+A	O
+Jupiter	B-ORG
+Porhintő	I-ORG
+kínál	O
+5000	B-MONEY
+$-	I-MONEY
+t	I-MONEY
+egy	O
+hirdetési	O
+fellépésért	O
+.	O
+
+Porhintő	O
+.	O
+
+Ez	O
+a	O
+Királyi	B-ORG
+Sör	I-ORG
+ajánlata	O
+.	O
+
+Még	O
+hogy	O
+Királyi	B-PROD
+Sör	I-PROD
+!	O
+
+Átmegyek	O
+a	O
+másik	O
+szobába	O
+.	O
+
+Felség	O
+,	O
+Johnson	B-PER
+vagyok	O
+a	O
+Korona	B-ORG
+Sajt	I-ORG
+képviselője	O
+.	O
+
+Egy	O
+2	B-CARDINAL
+szónyi	O
+TV	O
+megjelenésért	O
+,	O
+ami	O
+40	B-TIME
+másodpercébe	I-TIME
+kerül	O
+,	O
+a	O
+Korona	B-ORG
+Sajt	I-ORG
+felajánl	O
+Önnek	O
+10.000	B-MONEY
+dollárt	I-MONEY
+.	O
+
+Mindössze	O
+ráteszi	O
+a	O
+sajtot	O
+a	O
+pirítósra	O
+,	O
+Nyám-nyám	O
+kiáltással	O
+beleharap	O
+és	O
+Öné	O
+a	O
+tízezer	B-CARDINAL
+.	O
+
+Vezesse	O
+ki	O
+az	O
+urat	O
+!	O
+
+Elment	O
+az	O
+esze	O
+?	O
+
+10.000	B-MONEY
+$	I-MONEY
+két	B-CARDINAL
+szóért	O
+!	O
+
+Be	O
+sem	O
+kell	O
+tanulnia	O
+,	O
+ott	O
+lesz	O
+a	O
+feliraton	O
+:	O
+Nyám-nyám	O
+!	O
+
+Erre	O
+parancsoljon	O
+,	O
+uram	O
+.	O
+
+Kay	B-PER
+kisasszony	O
+,	O
+aki	O
+Önnel	O
+volt	O
+a	O
+TV-n	O
+.	O
+
+Jöhet	O
+.	O
+
+Engedje	O
+fel	O
+Kay	B-PER
+kisasszonyt	O
+.	O
+
+Ide	O
+merészel	O
+jönni	O
+a	O
+múlt	O
+heti	O
+dolog	O
+után	O
+.	O
+
+Új	O
+világ	O
+,	O
+új	O
+értékek	O
+,	O
+Felség	O
+.	O
+
+Úgy	O
+látszik	O
+.	O
+
+Ez	O
+nekik	O
+megér	O
+tízezer	B-MONEY
+dollárt	I-MONEY
+!	O
+
+Nos	O
+jöjjön	O
+be	O
+.	O
+
+Gratulálok	O
+,	O
+Felség	O
+!	O
+
+Felvillanyozta	O
+az	O
+országot	O
+.	O
+
+Hála	O
+a	O
+maga	O
+furcsa	O
+ötleteinek	O
+.	O
+
+Nem	O
+az	O
+én	O
+ötletem	O
+volt	O
+,	O
+felség	O
+.	O
+
+Hogy	O
+érti	O
+ezt	O
+?	O
+
+Cromwellné	B-PER
+megbízott	O
+,	O
+adjam	O
+át	O
+ezt	O
+.	O
+
+Úgy	O
+tudom	O
+,	O
+egy	O
+20.000	B-MONEY
+dolláros	I-MONEY
+csekk	O
+van	O
+benne	O
+.	O
+
+Legalább	O
+megkímél	O
+egy	O
+újabb	O
+látogatás	O
+gondjától	O
+.	O
+
+Megharagudott	O
+rám	O
+.	O
+
+Magára	O
+se	O
+nem	O
+haragszom	O
+,	O
+Miss	O
+Kay.	B-PER
+se	O
+nem	O
+vetem	O
+meg	O
+.	O
+
+Ez	O
+nem	O
+volt	O
+hosszú	O
+tárgyalás	O
+.	O
+
+Jaume	B-PER
+,	O
+dobja	O
+ezt	O
+a	O
+papírkosárba	O
+.	O
+
+Felség	O
+,	O
+12-kor	B-TIME
+várják	O
+a	O
+Haladó	B-FAC
+Fiúiskolában	I-FAC
+.	O
+
+Szinte	O
+jól	O
+jön	O
+a	O
+rémes	O
+TV	O
+ügy	O
+után	O
+.	O
+
+Van	O
+hír	O
+az	O
+Atombizottságtól	B-ORG
+?	O
+
+Nincs	O
+,	O
+pedig	O
+egy	B-DATE
+hete	O
+hívom	O
+őket	O
+,	O
+sikertelenül	O
+.	O
+
+Jobb	O
+híján	O
+elfogadjuk	O
+az	O
+egyik	O
+ajánlatot	O
+.	O
+
+Ott	O
+még	O
+nem	O
+tartunk	O
+.	O
+
+Összetépett	O
+egy	O
+20.000	B-MONEY
+$-	I-MONEY
+os	I-MONEY
+csekket	O
+!	O
+
+Igen	O
+,	O
+a	O
+Cromwellné	B-PER
+csekkjét	O
+.	O
+
+Apropó	O
+,	O
+mennyi	O
+van	O
+a	O
+bankban	O
+?	O
+
+Pontosan	O
+912	B-MONEY
+dollár	I-MONEY
+.	O
+
+Micsoda	O
+?	O
+
+Ragasztót	O
+!	O
+
+Köszönje	O
+meg	O
+a	O
+csekket	O
+Cromwellnénak	B-PER
+!	O
+
+Csak	O
+nem	O
+fogadja	O
+el	O
+?	O
+
+Dédelgetem	O
+,	O
+barátom	O
+!	O
+
+Hova	O
+tette	O
+a	O
+büszkeségét	O
+felség	O
+?	O
+
+A	O
+büszkeségemet	O
+?	O
+
+Le	O
+az	O
+önteltséggel	O
+!	O
+
+Hívja	O
+csak	O
+fel	O
+.	O
+
+Negyed	B-TIME
+12	I-TIME
+múlt	O
+.	O
+
+Készülnie	O
+kéne	O
+a	O
+Haladó	B-LOC
+Iskolába	I-LOC
+.	O
+
+Hívja	O
+fel	O
+Cromwellnét	B-PER
+.	O
+
+Felség	O
+,	O
+egy	O
+pillanatra	O
+!	O
+
+Isten	O
+hozta	O
+,	O
+Felség	O
+!	O
+
+A	O
+...	O
+nagykövetem	O
+.	O
+
+Nos	O
+,	O
+fiatalember	O
+?	O
+
+Talán	O
+tekintse	O
+meg	O
+előbb	O
+kiállításunkat	O
+s	O
+azután	O
+jönnének	O
+a	O
+gyerekek	O
+.	O
+
+Remélem	O
+,	O
+nem	O
+zavarja	O
+a	O
+sajtó	O
+.	O
+
+A	O
+huszadik	B-DATE
+század	I-DATE
+velejáró	O
+átka	O
+.	O
+
+Vége	O
+,	O
+uraim	O
+,	O
+sajnálom	O
+.	O
+
+Ez	O
+volt	O
+az	O
+utolsó	O
+felvétel	O
+.	O
+
+Ugye	O
+,	O
+nem	O
+haragszik	O
+a	O
+fotókért	O
+?	O
+
+Egy	O
+királyi	O
+TV	O
+szár	O
+nagy	O
+öröm	O
+nekünk	O
+!	O
+
+Ha	O
+megengedi	O
+Felség	O
+,	O
+elmagyaráznám	O
+céljainkat	O
+.	O
+
+A	O
+haladó	O
+iskola	O
+a	O
+gyermekek	O
+egyéniségét	O
+igyekszik	O
+felszabadítani	O
+,	O
+vágyaikat	O
+,	O
+érzéseiket	O
+,	O
+ezzel	O
+ösztökéli	O
+a	O
+tehetség	O
+kibontakozását	O
+.	O
+
+Önállóságra	O
+biztatjuk	O
+a	O
+kicsinyeket	O
+.	O
+
+Egyesekben	O
+több	O
+a	O
+művészi	O
+hajlam	O
+,	O
+másokban	O
+a	O
+kézügyesség	O
+.	O
+
+Ez	O
+a	O
+gyermek	O
+szeretné	O
+megmutatni	O
+néhány	O
+alkotását	O
+.	O
+
+Hogyne	O
+,	O
+köszönöm	O
+,	O
+nagyon	O
+kedves	O
+.	O
+
+Oh	O
+,	O
+elnézést	O
+!	O
+
+Takarodj	O
+a	O
+szobádba	O
+!	O
+
+Hisszük	O
+,	O
+hogy	O
+minden	O
+gyerek	O
+képes	O
+alkotni	O
+.	O
+
+Ezért	O
+bátorítjuk	O
+ösztöneiket	O
+,	O
+impulzusaikat	O
+.	O
+
+Ez	O
+meg	O
+egy	O
+ambiciózus	O
+kis	O
+szobrász	O
+.	O
+
+Fügefalevelet	O
+.	O
+
+Egy	O
+fügefalevél	O
+nem	O
+érdekes	O
+.	O
+
+Legyenek	O
+,	O
+nyíltak	O
+,	O
+őszinték	O
+,	O
+gátlástalanok	O
+.	O
+
+Telefonüzenet	O
+Jaume	B-PER
+úrnak	O
+.	O
+
+Név	O
+nem	O
+volt	O
+?	O
+
+Ann	B-PER
+Kay	I-PER
+.	O
+
+A	O
+csekk	O
+ügy	O
+.	O
+
+Nézzen	O
+utána	O
+.	O
+
+Hol	O
+van	O
+egy	O
+telefon	O
+?	O
+
+Vezesse	O
+az	O
+urat	O
+az	O
+irodámba	O
+.	O
+
+Erre	O
+tessék	O
+,	O
+Felség	O
+.	O
+
+Ez	O
+itt	O
+a	O
+pékműhelyünk	O
+.	O
+
+Bocsásson	O
+meg	O
+,	O
+Felség	O
+.	O
+
+Ez	O
+a	O
+fiatalember	O
+pedig	O
+péksütemény	O
+szakértő	O
+.	O
+
+Lássuk	O
+ifjú	O
+barátunk	O
+készítményeit	O
+.	O
+
+Most	O
+is	O
+kitűnően	O
+sikerült	O
+.	O
+
+Kis	O
+kóstolót	O
+?	O
+
+Van	O
+itt	O
+egy	O
+csodagyerek	O
+.	O
+
+Egy	O
+tíz	B-AGE
+éves	I-AGE
+tehetség	O
+.	O
+
+Kész	O
+kis	O
+történész	O
+,	O
+folyóiratunk	O
+szerkesztője	O
+.	O
+
+Nagyon	O
+érdekes	O
+.	O
+
+Ő	O
+Rupert	B-PER
+,	O
+Felség	B-GPE
+,	O
+a	O
+mi	O
+szerkesztőnk	O
+.	O
+
+Jó	O
+napot	O
+,	O
+Rupert	B-PER
+.	O
+
+Jó	O
+napot	O
+.	O
+
+Ülj	O
+le	O
+.	O
+
+Mit	O
+olvas	O
+éppen	O
+?	O
+
+Marx	B-MISC-PER
+Károlyt	I-MISC-PER
+.	O
+
+Kommunista	B-NORP
+lenne	O
+?	O
+
+Csak	O
+kommunisták	B-NORP
+olvashatják	O
+Marxot	B-MISC-PER
+?	O
+
+Jó	O
+a	O
+válasz	O
+.	O
+
+Mi	O
+,	O
+ha	O
+nem	O
+kommunista	O
+?	O
+
+Elvetek	O
+minden	O
+államformát	O
+.	O
+
+Kormányozni	O
+kell	O
+valakinek	O
+!	O
+
+A	O
+'	O
+kormányozni	O
+'	O
+szót	O
+sem	O
+szeretem	O
+.	O
+
+Jó	O
+,	O
+akkor	O
+helyette	O
+inkább	O
+hívjuk	O
+vezetésnek	O
+.	O
+

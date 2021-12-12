@@ -1,0 +1,1604 @@
+# global.columns = FORM ONPP:NER
+Ön	O
+adott	O
+nekünk	O
+árajánlatot	O
+.	O
+
+Adtam	O
+önnek	O
+egy	O
+árajánlatot	O
+,	O
+Mr.	O
+Schultz	B-PER
+?	O
+
+Igen	O
+uram	O
+,	O
+adott	O
+.	O
+
+Ki	O
+az	O
+a	O
+Mr.	O
+Azt	O
+hiszem	O
+maga	O
+.	O
+
+Itt	O
+az	O
+áll	O
+,	O
+O.	B-PER
+W.	I-PER
+Schultz	I-PER
+.	O
+
+Mi	O
+tartjuk	O
+a	O
+nadrágot	O
+a	O
+Közép-Nyugaton	B-LOC
+.	O
+
+Oh	O
+!	O
+
+Rossz	O
+kártyát	O
+adtam	O
+.	O
+
+Charles	B-PER
+Lindbergh	I-PER
+vagyok	O
+.	O
+
+Ó	O
+,	O
+Mr.	O
+Lindbergh	B-PER
+,	O
+St.	B-GPE
+Louis-ból	I-GPE
+.	O
+
+Ez	O
+...	O
+
+Nos	O
+,	O
+üljön	O
+le	O
+.	O
+
+Nos	O
+,	O
+kész	O
+megkötni	O
+üzletet	O
+?	O
+
+A	O
+finanszírozásról	O
+gondoskodtunk	O
+.	O
+
+Itt	O
+van	O
+egy	O
+pénztárcsekk	O
+,	O
+15.000	B-MONEY
+$-ról	I-MONEY
+.	O
+
+Remélem	O
+,	O
+meg	O
+tudjuk	O
+kötni	O
+az	O
+üzletet	O
+ma	B-DATE
+.	O
+
+Nem	O
+látom	O
+okát	O
+,	O
+miért	O
+ne	O
+.	O
+
+Az	O
+ügyvédünk	O
+elkészíti	O
+a	O
+papírokat	O
+.	O
+
+Türelmetlenűl	O
+várják	O
+a	O
+gépet	O
+St.	B-GPE
+Louis-ban	I-GPE
+,	O
+hogy	O
+elkezdjék	O
+a	O
+szükséges	O
+módosításokat	O
+,	O
+a	O
+tankok	O
+telepítését	O
+.	O
+
+Mi	O
+eről	O
+gondoskodunk	O
+,	O
+már	O
+itt	O
+New	B-GPE
+Yorkban	I-GPE
+.	O
+
+Repülhet	O
+,	O
+amint	O
+kiválasztottuk	O
+a	O
+pilótát	O
+.	O
+
+Ez	O
+rendben	O
+van	O
+.	O
+
+Van	O
+pilótánk	O
+.	O
+
+Ön	O
+az	O
+?	O
+
+Nézze	O
+,	O
+Mr.	O
+Lindbergh	B-PER
+,	O
+mi	O
+készek	O
+vagyunk	O
+leszállítani	O
+a	O
+gépet	O
+,	O
+de	O
+a	O
+pilóta	O
+kiválasztását	O
+ránk	O
+kell	O
+hagyják	O
+,	O
+természetesen	O
+.	O
+
+Nos	O
+,	O
+Ön	O
+erről	O
+nem	O
+szólt	O
+azelőtt	O
+.	O
+
+Nem	O
+gondoltam	O
+,	O
+hogy	O
+szükséges	O
+.	O
+
+Én	O
+azt	O
+hiszem	O
+,	O
+igen	O
+.	O
+
+Csak	O
+még	O
+nincs	O
+emberünk	O
+aki	O
+átrepűlne	O
+az	O
+óceán	O
+fölött	O
+.	O
+
+Nos	O
+,	O
+eladó	O
+a	O
+repülőgép	O
+,	O
+vagy	O
+nem	O
+?	O
+
+Csak	O
+ezzel	O
+a	O
+feltétellel	O
+.	O
+
+Megspórolhatott	O
+volna	O
+nekem	O
+egy	O
+hosszú	O
+vonatozást	O
+.	O
+
+Egész	O
+pontosan	O
+kit	O
+gondoltak	O
+megtenni	O
+pilótának	O
+?	O
+
+Engem	O
+.	O
+
+Magát	O
+?	O
+
+A	O
+St.	B-ORG
+Louis	I-ORG
+–	I-ORG
+Chicagó	I-ORG
+légiposta	I-ORG
+főpilótája	O
+.	O
+
+Lindbergh	B-PER
+,	O
+Nem	O
+akarom	O
+Önt	O
+lekicsinyleni	O
+,	O
+de	O
+a	O
+New	B-GPE
+York	I-GPE
+–	O
+Párizs	B-GPE
+út	O
+nem	O
+olyan	O
+,	O
+mint	O
+postazsákokat	O
+vinni	O
+,	O
+az	O
+lowai	O
+Keokukba	B-GPE
+...	O
+
+Nos	O
+,	O
+akar	O
+valaki	O
+venni	O
+egy	O
+szép	O
+ruhát	O
+a	O
+temetésre	O
+?	O
+
+Nem	O
+vagyunk	O
+még	O
+halottak	O
+,	O
+Slim	B-PER
+.	O
+
+Nem	O
+adják	O
+el	O
+a	O
+repülőgépet	O
+,	O
+ahogy	O
+a	O
+telefonon	O
+mondták	O
+.	O
+
+Persze	O
+,	O
+folytathatják	O
+velük	O
+,	O
+ha	O
+akarják	O
+.	O
+
+Megkaphatják	O
+az	O
+egészet	O
+New	B-GPE
+Yorkból	I-GPE
+,	O
+pilótát	O
+meg	O
+mindent	O
+.	O
+
+Itt	O
+van	O
+,	O
+jobb	O
+ha	O
+odaadom	O
+ezt	O
+mielőtt	O
+elköltöm	O
+.	O
+
+Ezt	O
+átrágtuk	O
+már	O
+,	O
+Slim	B-PER
+.	O
+
+Nem	O
+akarunk	O
+másik	O
+pilótát	O
+.	O
+
+Kell	O
+egy	O
+másik	O
+gép	O
+.	O
+
+Nincs	O
+másik	O
+gép	O
+.	O
+
+Erre	O
+a	O
+feladatra	O
+nincs	O
+.	O
+
+Ennyi	O
+pénzért	O
+nincs	O
+.	O
+
+Miért	O
+nem	O
+építünk	O
+egyet	O
+?	O
+
+Építsünk	O
+?	O
+
+Tudod	O
+,	O
+mennyi	O
+ideig	O
+tartana	O
+?	O
+
+Nem	O
+sokan	O
+tudnak	O
+megtervezni	O
+egy	O
+repülőt	O
+.	O
+
+Byrd	B-PER
+,	O
+Chamberlin	B-PER
+,	O
+Wooster	B-PER
+és	O
+Davis	B-PER
+,	O
+és	O
+a	O
+két	B-CARDINAL
+francia	B-NORP
+,	O
+Nungesser	B-PER
+és	O
+Coli	B-PER
+.	O
+
+Ők	O
+mind	O
+előttünk	O
+járhatnak	O
+.	O
+
+Találtunk	O
+más	O
+repülőgépgyárat	O
+.	O
+
+Kaliforniában	B-GPE
+,	O
+San	B-GPE
+Diegóban	I-GPE
+,	O
+A	O
+Ryan	B-ORG
+társaság	O
+.	O
+
+Meg	O
+tudják	O
+csinálni	O
+90	B-DATE
+nap	I-DATE
+alatt	I-DATE
+,	O
+vagy	O
+hamarabb	O
+.	O
+
+Ryan	B-ORG
+?	O
+
+Sose	O
+hallottam	O
+róluk	O
+.	O
+
+Nos	O
+,	O
+akkor	O
+borzasztó	O
+nagyot	O
+mondtak	O
+ebben	O
+a	O
+táviratban	O
+,	O
+hogy	O
+a	O
+gyártelepük	O
+10	B-QUANTITY
+mérföld	I-QUANTITY
+hosszú	O
+és	O
+10,000	B-CARDINAL
+munkás	O
+dolgozik	O
+ott	O
+.	O
+
+Talán	O
+meg	O
+tudják	O
+csinálni	O
+.	O
+
+Nos	O
+,	O
+nem	O
+szeretném	O
+kockáztatni	O
+a	O
+pénzüket	O
+.	O
+
+Tegyük	O
+fel	O
+,	O
+elmegy	O
+oda	O
+és	O
+körülnéz	O
+.	O
+
+Nos	O
+,	O
+csak	O
+kidobnék	O
+újabb	O
+200	B-MONEY
+$-t	I-MONEY
+.	O
+Itt	O
+a	O
+jegye	O
+San	B-GPE
+Diegóba	I-GPE
+.	O
+
+Nem	O
+gondolja	O
+,	O
+hogy	O
+le	O
+kéne	O
+ülni	O
+,	O
+és	O
+megbeszélni	O
+ezt	O
+a	O
+dolgot	O
+?	O
+
+Jó	O
+lesz	O
+,	O
+ha	O
+gyorsan	O
+beszél	O
+,	O
+mert	O
+megy	O
+a	O
+vonata	O
+.	O
+
+Úgy	O
+érti	O
+,	O
+ez	O
+az	O
+...	O
+
+Nos	O
+,	O
+jobb	O
+,	O
+ha	O
+felszállok	O
+.	O
+
+Viszlát	O
+,	O
+Slim	B-PER
+.	O
+
+Elnézést	O
+,	O
+merre	O
+vannak	O
+az	O
+igazgatói	O
+irodák	O
+?	O
+
+Hogy	O
+hol	O
+vannak	O
+a	O
+micsodák	O
+?	O
+
+A	O
+főnököt	O
+keresem	O
+.	O
+
+Mahoney-t	B-PER
+.	O
+
+Az	O
+iroda	O
+ott	O
+van	O
+fent	O
+,	O
+de	O
+Ő	O
+ott	O
+van	O
+,	O
+a	O
+szemüveges	O
+.	O
+
+Milyen	O
+a	O
+halak	O
+ezek	O
+?	O
+
+Homoki	O
+lepényhalak	O
+.	O
+
+Még	O
+sose	O
+láttam	O
+ezelőtt	O
+.	O
+
+Kaliforniai	B-GPE
+?	O
+
+Ez	O
+kaliforniai	B-GPE
+hal	O
+.	O
+
+Jó	O
+az	O
+illata	O
+.	O
+
+Éhes	O
+?	O
+
+Nem	O
+bánnám	O
+.	O
+
+Maga	O
+repülőgépeket	O
+épít	O
+,	O
+ugye	O
+?	O
+
+Fogadhat	O
+rá	O
+.	O
+
+Nagyszárnyu	O
+monoplánokat	O
+.	O
+
+A	O
+posta	O
+használja	O
+felalá	O
+a	O
+tengerparton	O
+.	O
+
+Túl	O
+tökéletes	O
+eredményekkel	O
+.	O
+
+A	O
+dolgok	O
+egy	O
+kicsit	O
+csendesek	O
+most	O
+,	O
+mi	O
+?	O
+
+Nos	O
+,	O
+biztos	O
+azért	O
+,	O
+mert	O
+túl	O
+jókat	O
+építünk	O
+.	O
+
+Igazi	O
+kemény	O
+gépek	O
+.	O
+
+Örökké	O
+fennmaradnak	O
+.	O
+
+Munkát	O
+keres	O
+?	O
+
+Maga	O
+repülőgépszerelő	O
+?	O
+
+Ó	O
+,	O
+az	O
+is	O
+voltam	O
+.	O
+
+Nos	O
+,	O
+nézzen	O
+be	O
+újra	O
+.	O
+
+Úgy	O
+tűnik	O
+,	O
+felvehetjük	O
+hamarosan	O
+.	O
+
+Nagy	O
+melóra	O
+számítok	O
+St.	B-GPE
+Louis-ból	I-GPE
+.	O
+
+Egy	O
+különleges	O
+gépet	O
+akarnak	O
+4000	B-QUANTITY
+mérföldes	I-QUANTITY
+hatótávval	O
+.	O
+
+Ó	O
+,	O
+ne	O
+.	O
+
+Ne	O
+tartsa	O
+közel	O
+.	O
+
+Hé	O
+,	O
+Don	B-PER
+!	O
+
+Gyere	O
+kajálni	O
+!	O
+
+Ehhez	O
+a	O
+különleges	O
+géphez	O
+megvan	O
+mindene	O
+ami	O
+kell	O
+?	O
+
+Ráteheti	O
+az	O
+életét	O
+,	O
+kivéve	O
+,	O
+ha	O
+valami	O
+csicsát	O
+akarnak	O
+,	O
+mint	O
+egy	O
+beépített	O
+zuhany	O
+vagy	O
+egy	O
+kristálycsillár	O
+.	O
+
+Nos	O
+,	O
+gondolom	O
+az	O
+nem	O
+kell	O
+.	O
+
+Ó	O
+,	O
+ez	O
+a	O
+srác	O
+,	O
+aki	O
+megtervezi	O
+nekik	O
+.	O
+
+Donald	B-PER
+Hall	I-PER
+.	O
+
+Ő	O
+a	O
+főmérnökünk	O
+.	O
+
+A	O
+legjobb	O
+a	O
+szakmában	O
+.	O
+
+Citromlé	O
+vagy	O
+ketchup	O
+?	O
+
+Mikor	O
+jön	O
+az	O
+a	O
+St.	B-GPE
+Louis-i	I-GPE
+nagyfejü	O
+körülnézni	O
+?	O
+
+Valamikor	O
+ma	B-DATE
+.	O
+
+Csináltam	O
+egy	O
+durva	O
+számítást	O
+.	O
+
+Nem	O
+tudjuk	O
+a	O
+szabvány	O
+Ryan	B-PROD
+törzset	O
+használni	O
+,	O
+azzal	O
+a	O
+sok	O
+benzinnel	O
+.	O
+
+Nagyobb	O
+szárnyakra	O
+lesz	O
+szükség	O
+,	O
+hogy	O
+megemelje	O
+a	O
+terhet	O
+,	O
+meg	O
+kell	O
+erősíteni	O
+a	O
+futóművet	O
+is	O
+.	O
+
+Sok	O
+a	O
+probléma	O
+.	O
+
+Meg	O
+tudja	O
+építeni	O
+90	B-DATE
+nap	I-DATE
+alatt	I-DATE
+,	O
+vagy	O
+hamarabb	O
+?	O
+
+Ráteheti	O
+az	O
+életét	O
+.	O
+
+Fog	O
+repülni	O
+?	O
+
+Biztos	O
+.	O
+
+Nem	O
+pont	O
+úgy	O
+ahogy	O
+maga	O
+gondolja	O
+.	O
+
+Tudja	O
+,	O
+én	O
+lennék	O
+a	O
+pilóta	O
+.	O
+
+Ki	O
+ez	O
+?	O
+
+Én	O
+vagyok	O
+a	O
+nagyfejü	O
+St.	B-GPE
+Louis-ból	I-GPE
+.	O
+
+Ó	O
+,	O
+az	O
+Istenért	B-PER
+,	O
+Frank	B-PER
+.	O
+
+Kapunk	O
+egy	O
+esélyt	O
+egy	O
+jó	O
+melóra	O
+,	O
+és	O
+te	O
+halat	O
+sütsz	O
+.	O
+
+Nos	O
+,	O
+honnan	O
+tudtam	O
+volna	O
+?	O
+
+Nos	O
+,	O
+mit	O
+csináljunk	O
+?	O
+
+Nos	O
+,	O
+talán	O
+együk	O
+meg	O
+a	O
+homoki	O
+lepényhalat	O
+és	O
+lássunk	O
+munkához	O
+.	O
+
+Hé	O
+,	O
+Fredék	B-PER
+most	O
+dolgoznak	O
+a	O
+fő	O
+benzintankon	O
+.	O
+
+Biztos	O
+hogy	O
+a	O
+pilótafülke	O
+elé	O
+akarjátok	O
+?	O
+
+Slim	B-PER
+ötlete	O
+.	O
+
+Egész	O
+jó	O
+.	O
+
+Nos	O
+,	O
+ha	O
+lezuhanok	O
+,	O
+nem	O
+akarok	O
+egy	O
+szendvicsben	O
+lenni	O
+a	O
+motor	O
+és	O
+az	O
+összes	O
+benzin	O
+között	O
+.	O
+
+Akkor	O
+egy	O
+vak	O
+fülkében	O
+repül	O
+.	O
+
+Nem	O
+fog	O
+kilátni	O
+.	O
+
+Nos	O
+,	O
+van	O
+ablak	O
+mindkét	O
+oldalán	O
+,	O
+nem	O
+emlékszik	O
+?	O
+
+Nos	O
+,	O
+tegyük	O
+fel	O
+,	O
+ezt	O
+beépítjük	O
+a	O
+műszerfalba	O
+.	O
+
+Egy	O
+afféle	O
+periszkóp	O
+.	O
+
+Csak	O
+egy	O
+pár	O
+tükör	O
+egy	O
+dobozban	O
+,	O
+az	O
+öreg	O
+Randolph	B-PER
+tervezte	O
+.	O
+
+Segít	O
+előre	O
+látni	O
+.	O
+
+Talán	O
+még	O
+a	O
+leszállásban	O
+is	O
+.	O
+
+Mennyi	O
+a	O
+súlya	O
+?	O
+
+Semmiség	O
+,	O
+egy-két	B-QUANTITY
+font	I-QUANTITY
+.	O
+
+Mit	O
+gondolsz	O
+,	O
+Don	B-PER
+?	O
+
+Azt	O
+hiszem	O
+kibírjuk	O
+.	O
+
+Rendben	O
+,	O
+tegyék	O
+bele	O
+Mi	O
+van	O
+a	O
+rádióval	O
+?	O
+
+Nem	O
+,	O
+úgy	O
+döntöttünk	O
+,	O
+nem	O
+lesz	O
+.	O
+
+Nem	O
+lesz	O
+rádió	O
+?	O
+
+Byrd	B-PER
+,	O
+Chamberlin	B-PER
+,	O
+Wooster	B-PER
+és	O
+Davis	B-PER
+,	O
+mind	O
+használnak	O
+rádiót	O
+.	O
+
+Igen	O
+,	O
+de	O
+ezek	O
+nagy	O
+gépek	O
+,	O
+nem	O
+növelhetjük	O
+a	O
+súlyt	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+a	O
+szextánsra	O
+mindenképp	O
+szükség	O
+van	O
+.	O
+
+Nem	O
+,	O
+nem	O
+használhatunk	O
+szextánst	O
+.	O
+
+Nem	O
+tudja	O
+használni	O
+a	O
+szextánst	O
+és	O
+vezetni	O
+a	O
+repülőgépet	O
+egyidejűleg	O
+.	O
+
+Hogy	O
+fog	O
+navigálni	O
+?	O
+
+Halott	O
+számítás	O
+.	O
+
+Beállítom	O
+az	O
+irányt	O
+65	B-QUANTITY
+fokra	I-QUANTITY
+New	B-GPE
+Yorktól	I-GPE
+,	O
+korrigálom	O
+az	O
+irányt	O
+100	B-QUANTITY
+mérföldenként	I-QUANTITY
+.	O
+
+Mi	O
+lesz	O
+a	O
+víz	O
+fölött	O
+?	O
+
+A	O
+víz	O
+fölött	O
+,	O
+figyelem	O
+a	O
+hullámokat	O
+is	O
+,	O
+hogy	O
+melyik	O
+irányba	O
+fúj	O
+a	O
+szél	O
+,	O
+kiszámítom	O
+a	O
+sodródást	O
+...	O
+
+És	O
+reméli	O
+,	O
+az	O
+Úr	B-PER
+majd	O
+elvégzi	O
+a	O
+többit	O
+.	O
+
+Nem	O
+,	O
+soha	O
+nem	O
+zavarnám	O
+az	O
+Urat	B-PER
+.	O
+
+Csinálom	O
+a	O
+többit	O
+.	O
+
+Szüksége	O
+lehet	O
+egy	O
+kis	O
+segítségre	O
+ott	O
+fenn	O
+,	O
+nem	O
+gondolja	O
+?	O
+
+Nem	O
+,	O
+csak	O
+útban	O
+lenne	O
+.	O
+
+Itt	O
+vannak	O
+a	O
+részletek	O
+a	O
+lengéscsillapítókhoz	O
+.	O
+
+Jobb	O
+,	O
+ha	O
+belehúzunk	O
+.	O
+
+Le	O
+vagyunk	O
+maradva	O
+.	O
+
+Wooster	B-PER
+és	O
+Davis	B-PER
+készek	O
+a	O
+saját	O
+gépük	O
+tesztelésére	O
+.	O
+
+Talán	O
+túl	O
+későn	O
+kezdtük	O
+.	O
+
+Nos	O
+,	O
+tegyünk	O
+rá	O
+egy	O
+lapáttal	O
+valahogy	O
+.	O
+
+Frank	B-PER
+,	O
+azt	O
+mondtuk	O
+,	O
+megcsináljuk	O
+90	B-DATE
+nap	I-DATE
+alatt	I-DATE
+,	O
+vagy	O
+hamarabb	O
+.	O
+
+Csináljuk	O
+meg	O
+hamarabb	O
+.	O
+
+Mennyivel	O
+hamarabb	O
+?	O
+
+Sokkal	O
+hamarabb	O
+.	O
+
+Mégis	O
+,	O
+mit	O
+tehetünk	O
+többet	O
+.	O
+
+Oké	O
+.	O
+
+Hadd	O
+beszéljek	O
+az	O
+emberekkel	O
+odalent	O
+.	O
+
+Megkérdezem	O
+,	O
+bejönnek	O
+e	O
+24	B-TIME
+órás	I-TIME
+váltásban	O
+.	O
+
+Itt	O
+van	O
+!	O
+
+Úgy	O
+tudom	O
+,	O
+egy	O
+ilyen	O
+J-5-ös	B-PROD
+forgószelet	O
+a	O
+próbapadon	O
+több	B-TIME
+mint	I-TIME
+150	I-TIME
+órán	I-TIME
+át	I-TIME
+folyamatosan	O
+futtattak	O
+.	O
+
+Nos	O
+,	O
+mindössze	O
+40	B-TIME
+óra	I-TIME
+elég	O
+lenne	O
+nekem	O
+.	O
+
+Slim	B-PER
+...	O
+
+Kár	O
+,	O
+hogy	O
+azonnal	O
+be	O
+kell	O
+építeni	O
+.	O
+
+Felkaszthatnánk	O
+a	O
+karácsonyfára	O
+.	O
+
+Slim	B-PER
+,	O
+nem	O
+láttad	O
+az	O
+újságot	O
+?	O
+
+Wooster	B-PER
+és	O
+Davis	B-PER
+.	O
+
+Kiestek	O
+a	O
+versenyből	O
+.	O
+
+Összetörték	O
+a	O
+gépet	O
+?	O
+
+Teljes	O
+terheléssel	O
+tesztelték	O
+a	O
+gépet	O
+Rendben	O
+,	O
+emberek	O
+.	O
+
+Április	B-DATE
+28	I-DATE
+.	I-DATE
+
+A	B-DATE
+63.	I-DATE
+nap	I-DATE
+délutánjára	B-TIME
+a	O
+Spirit	B-PROD
+valósságá	O
+vált	O
+.	O
+
+Kivittük	O
+a	O
+a	O
+Dutch	B-LOC
+síkságra	I-LOC
+tesztelni	O
+.	O
+
+Ma	B-DATE
+délután	B-TIME
+elmegyünk	O
+St.	B-GPE
+Louisba	I-GPE
+,	O
+majd	O
+New	B-GPE
+Yorkba	I-GPE
+,	O
+aztán	O
+megpróbáljuk	O
+a	O
+nagy	O
+ugrást	O
+.	O
+
+Mi	O
+,	O
+tehát	O
+én	O
+és	O
+a	O
+gép	O
+és	O
+maguk	O
+is	O
+,	O
+mert	O
+bizonyos	O
+értelemben	O
+,	O
+együtt	O
+repüljük	O
+át	O
+az	O
+Atlanti-óceánt	B-LOC
+,	O
+mindannyiukkal	O
+.	O
+
+Csinálunk	O
+egy	O
+képet	O
+.	O
+
+Álljjanak	O
+be	O
+a	O
+gép	O
+elé	O
+!	O
+
+Alacsonyak	O
+előre	O
+,	O
+magasak	O
+hátra	O
+.	O
+
+Slim	B-PER
+,	O
+szeretnének	O
+beszélni	O
+veled	O
+.	O
+
+Nos	O
+,	O
+várjanak	O
+.	O
+
+Gyerünk	O
+,	O
+állj	O
+be	O
+a	O
+képbe	O
+,	O
+ide	O
+.	O
+

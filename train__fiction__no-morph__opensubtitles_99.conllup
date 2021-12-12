@@ -1,0 +1,1444 @@
+# global.columns = FORM ONPP:NER
+Nem	O
+semmi	O
+,	O
+igaz	O
+?	O
+
+Kérem	O
+a	O
+törölközőt	O
+!	O
+
+Mindenki	O
+nagyra	O
+értékeli	O
+az	O
+életem	O
+.	O
+
+Mondja	O
+,	O
+Wyatt	B-PER
+,	O
+mennyit	O
+keres	O
+maga	O
+?	O
+
+Havi	O
+száz	B-MONEY
+dollárt	I-MONEY
+,	O
+és	O
+kettőt	B-CARDINAL
+fejpénzként	O
+?	O
+
+Meg	O
+akar	O
+vesztegetni	O
+?	O
+
+Nem	O
+,	O
+magát	O
+soha	O
+.	O
+
+Egy	O
+tisztességes	O
+üzleti	O
+ajánlatom	O
+van	O
+a	O
+maga	O
+számára	O
+.	O
+
+Nem	O
+is	O
+rossz	O
+!	O
+
+Van	O
+félretett	O
+pénze	O
+?	O
+
+Akad	O
+.	O
+
+Egy	O
+kis	O
+farmot	O
+vesz	O
+belőle	O
+?	O
+
+Vagy	O
+egy	O
+szatócsboltot	O
+?	O
+
+Megkönnyítem	O
+a	O
+dolgát	O
+.	O
+
+Adjon	O
+1000	B-MONEY
+dollárt	I-MONEY
+,	O
+és	O
+megosztozunk	O
+a	O
+nyereményen	O
+.	O
+
+Jönnek	O
+a	O
+cowboyok	O
+,	O
+és	O
+nagy	O
+lesz	O
+a	O
+tét	O
+.	O
+
+Felezünk	O
+?	O
+
+Nagyon	O
+sokan	O
+megelégednének	O
+...	O
+
+10%	B-PERCENT
+-kal	O
+is	O
+,	O
+de	O
+kedvelem	O
+magát	O
+,	O
+Wyatt	B-PER
+Earp	I-PER
+.	O
+
+Tetszik	O
+a	O
+stílusa	O
+.	O
+
+Miért	O
+lenne	O
+ilyen	O
+bőkezű	O
+?	O
+
+A	O
+borbélynak	O
+ez	O
+kell	O
+.	O
+
+A	O
+rendőrbírónak	O
+a	O
+fegyverre	O
+.	O
+
+Én	O
+kártyás	O
+vagyok	O
+.	O
+
+A	O
+pénz	O
+csak	O
+munkaeszköz	O
+.	O
+
+Azt	O
+persze	O
+garantálja	O
+,	O
+hogy	O
+nem	O
+veszít	O
+.	O
+
+Soha	O
+nem	O
+veszítek	O
+.	O
+
+Pókerezni	O
+kétségbeesett	O
+,	O
+és	O
+pénzéhes	O
+emberek	O
+szoktak	O
+.	O
+
+Nekem	O
+nincs	O
+vesztenivalóm	O
+,	O
+beleértve	O
+az	O
+életemet	O
+is	O
+.	O
+
+Benne	O
+van	O
+?	O
+
+Micsoda	O
+pimasz	O
+egy	O
+alak	O
+maga	O
+!	O
+
+Akkor	O
+fizesse	O
+ki	O
+a	O
+vonatjegyemet	O
+!	O
+
+Holliday	B-PER
+,	O
+sok	O
+marhaságot	O
+csináltam	O
+már	O
+az	O
+életben	O
+,	O
+és	O
+most	O
+megfejelem	O
+eggyel	O
+.	O
+
+Hagyom	O
+,	O
+hogy	O
+itt	O
+maradjon	O
+.	O
+
+Miért	O
+ilyen	O
+nagylelkű	O
+?	O
+
+Maradhat	O
+,	O
+és	O
+kártyázhat	O
+is	O
+,	O
+egy	O
+feltétellel	O
+.	O
+
+Se	O
+kés	O
+,	O
+se	O
+pisztoly	O
+,	O
+se	O
+gyilkolás	O
+.	O
+
+Úri	O
+becsületszavam	O
+adom	O
+.	O
+
+Még	O
+valami	O
+!	O
+
+Vagy	O
+bánjon	O
+jól	O
+azzal	O
+a	O
+nővel	O
+,	O
+vagy	O
+hagyja	O
+el	O
+!	O
+
+Kate-re	B-PER
+gondol	O
+?	O
+
+Szegény	O
+Kate	B-PER
+!	O
+
+O	O
+testesíti	O
+meg	O
+azt	O
+,	O
+amit	O
+utálok	O
+Doc	B-PER
+Hollidayben	I-PER
+.	O
+
+Adjon	O
+25	B-MONEY
+centet	I-MONEY
+a	O
+borbélynak	O
+!	O
+
+Megtudtam	O
+valamit	O
+a	O
+szép	O
+hölgyről	O
+.	O
+
+Honnan	O
+van	O
+ez	O
+az	O
+új	O
+pisztoly	O
+?	O
+
+Buntline	B-PER
+nekem	O
+készítette	O
+.	O
+
+Milyen	O
+hölgyről	O
+?	O
+
+Nem	O
+hosszú	O
+a	O
+csöve	O
+egy	O
+kicsit	O
+?	O
+
+Jó	O
+az	O
+egyensúlya	O
+.	O
+
+Mi	O
+szép	O
+?	O
+
+Kézzel	O
+csinálta	O
+,	O
+igaz	O
+?	O
+
+Miről	O
+beszélsz	O
+?	O
+
+Arról	O
+a	O
+nőről	O
+,	O
+aki	O
+a	O
+postakocsival	O
+érkezett	O
+.	O
+
+Majd	O
+el	O
+is	O
+felejtettem	O
+.	O
+
+Deedsnél	B-PER
+szállt	O
+meg	O
+.	O
+
+Azt	O
+beszélik	O
+,	O
+a	O
+ládája	O
+tele	O
+van	O
+finom	O
+ruhákkal	O
+.	O
+
+Egyenesen	O
+Párizsból	B-GPE
+,	O
+Franciaországból	B-GPE
+.	O
+
+168	B-QUANTITY
+centi	I-QUANTITY
+magas	O
+,	O
+54	B-QUANTITY
+kiló	I-QUANTITY
+,	O
+vörös	O
+a	O
+haja	O
+,	O
+Mit	O
+keres	O
+itt	O
+?	O
+
+Kártyázik	O
+.	O
+
+Nagyon	O
+vicces	O
+.	O
+
+Ha	O
+tényleg	O
+azt	O
+hiszed	O
+,	O
+akkor	O
+menj	O
+el	O
+a	O
+Long	B-LOC
+Branch	I-LOC
+mulatóba	I-LOC
+!	O
+
+Halálra	O
+röhögöd	O
+majd	O
+magad	O
+.	O
+
+Kelly	B-PER
+,	O
+ezt	O
+le	O
+kell	O
+állítanom	O
+.	O
+
+A	O
+törvény	O
+nem	O
+tiltja	O
+,	O
+hogy	O
+nők	O
+is	O
+kártyázzanak	O
+.	O
+
+Tudom	O
+,	O
+de	O
+ha	O
+egy	O
+no	O
+leül	O
+az	O
+asztalhoz	O
+,	O
+abból	O
+csak	O
+baj	O
+van	O
+.	O
+
+Sajnálom	O
+,	O
+vége	O
+a	O
+játéknak	O
+.	O
+
+Wyatt	B-PER
+,	O
+a	O
+hölgy	O
+Laura	B-PER
+Denbow	I-PER
+.	O
+
+Kelly	B-PER
+,	O
+te	O
+vagy	O
+a	O
+polgármester	O
+.	O
+
+Megegyeztünk	O
+,	O
+hogy	O
+nők	O
+nem	O
+kártyázhatnak	O
+északon	O
+.	O
+
+Miss	O
+Denbow	B-PER
+váltója	O
+10000	B-MONEY
+dollárig	I-MONEY
+mindenütt	O
+jó	O
+a	O
+Vadnyugaton	B-LOC
+.	O
+
+Vele	O
+kivételt	O
+teszünk	O
+.	O
+
+De	O
+nem	O
+Dodge	B-GPE
+Cityben	I-GPE
+.	O
+
+Tehát	O
+maga	O
+az	O
+a	O
+híres	O
+Wyatt	B-PER
+Earp	I-PER
+.	O
+
+Rendőr	O
+,	O
+bíró	O
+és	O
+esküdt	O
+is	O
+egyben	O
+.	O
+
+Pontosan	O
+,	O
+Miss	B-PER
+Szerencselovag	I-PER
+.	O
+
+Ha	O
+magának	O
+engedek	O
+,	O
+a	O
+csavargók	O
+...	O
+mind	O
+ide	O
+szoknak	O
+délről	O
+.	O
+
+Kit	O
+nevezett	O
+csavargónak	O
+?	O
+
+Fogja	O
+be	O
+,	O
+és	O
+maradjon	O
+ki	O
+ebből	O
+!	O
+
+Így	O
+nem	O
+beszélhet	O
+egy	O
+hölggyel	O
+!	O
+
+Úgy	O
+tűnik	O
+,	O
+a	O
+rendőrbíró	O
+még	O
+nem	O
+találkozott	O
+úrinővel	O
+.	O
+
+Egy	O
+csehóban	O
+ül	O
+,	O
+és	O
+férfiakkal	O
+játszik	O
+.	O
+
+Miért	O
+bánnék	O
+magával	O
+másképp	O
+?	O
+
+Maga	O
+nem	O
+úriember	O
+!	O
+
+Mára	O
+ennyi	O
+volt	O
+,	O
+Miss	O
+Denbow	B-PER
+.	O
+
+Vegye	O
+le	O
+róla	O
+a	O
+kezét	O
+!	O
+
+Hagyd	O
+,	O
+Charlie	B-PER
+!	O
+
+Elegem	O
+van	O
+abból	O
+,	O
+hogy	O
+mindenkit	O
+utasítgat	O
+!	O
+
+Nyúljon	O
+a	O
+fegyveréért	O
+!	O
+
+Nincs	O
+nálam	O
+fegyver	O
+,	O
+cowboy	O
+!	O
+
+Fegyvertelen	O
+vagyok	O
+.	O
+
+Maradjon	O
+ott	O
+!	O
+
+Maga	O
+részeg	O
+,	O
+és	O
+nem	O
+tudja	O
+,	O
+mit	O
+csinál	O
+.	O
+
+Adja	O
+ide	O
+a	O
+pisztolyt	O
+,	O
+míg	O
+komoly	O
+baj	O
+nem	O
+lesz	O
+!	O
+
+Senki	O
+sem	O
+beszélhet	O
+így	O
+egy	O
+hölggyel	O
+!	O
+
+Ne	O
+mozduljon	O
+,	O
+és	O
+adja	O
+át	O
+a	O
+fegyverét	O
+!	O
+
+Nem	O
+vagyok	O
+pisztolyhős	O
+.	O
+
+Nem	O
+tudnék	O
+lelőni	O
+senkit	O
+.	O
+
+Tudom	O
+,	O
+cowboy	O
+.	O
+
+Csak	O
+jó	O
+benyomást	O
+akart	O
+tenni	O
+a	O
+hölgyre	O
+.	O
+
+Charlie	B-PER
+,	O
+vidd	O
+a	O
+fogdába	O
+!	O
+
+Józanodjon	O
+ki	O
+,	O
+és	O
+tűnjön	O
+el	O
+a	O
+városból	O
+!	O
+
+Magát	O
+letartóztatom	O
+.	O
+
+Miért	O
+is	O
+,	O
+Mr.	O
+Rendzavarásért	O
+.	O
+
+Maga	O
+is	O
+látta	O
+.	O
+
+Várjunk	O
+csak	O
+,	O
+Wyatt	B-PER
+!	O
+
+Semmi	O
+baj	O
+,	O
+polgármester	O
+úr	O
+.	O
+
+A	O
+rendőrbíró	O
+csak	O
+Dodge	B-GPE
+City	I-GPE
+jó	O
+hírét	O
+védi	O
+.	O
+
+A	O
+fogdájukat	O
+pedig	O
+még	O
+nem	O
+láttam	O
+belülről	O
+.	O
+
+Nem	O
+kellene	O
+erősítést	O
+hívnia	O
+?	O
+
+Még	O
+kárt	O
+teszek	O
+magában	O
+.	O
+
+Elengedem	O
+,	O
+ha	O
+megígéri	O
+,	O
+hogy	O
+a	O
+határvonaltól	O
+délre	O
+játszik	O
+.	O
+
+A	O
+határvonaltól	O
+délre	O
+?	O
+
+Nem	O
+,	O
+inkább	O
+maradok	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+a	O
+bíró	O
+engedékenyebb	O
+,	O
+mint	O
+a	O
+rendőrbíró	O
+.	O
+
+Nem	O
+nyitja	O
+hát	O
+ki	O
+a	O
+rácsot	O
+?	O
+
+Erre	O
+itt	O
+nem	O
+lesz	O
+szükségem	O
+.	O
+
+Vegyen	O
+belőle	O
+egy	O
+új	O
+glóriát	O
+!	O
+
+Ez	O
+a	O
+régi	O
+már	O
+szűk	O
+egy	O
+kicsit	O
+.	O
+
+Zárja	O
+be	O
+a	O
+rácsot	O
+,	O
+rendőrbíró	O
+úr	O
+!	O
+
+Letartóztatta	O
+?	O
+
+Én	O
+ki	O
+tudom	O
+hozni	O
+.	O
+
+Van	O
+rá	O
+ötszáz	B-MONEY
+dollárom	I-MONEY
+,	O
+hogy	O
+nem	O
+.	O
+
+Legyen	O
+ezer	O
+.	O
+
+Ennyivel	O
+tartozom	O
+.	O
+
+Dupla	O
+vagy	O
+semmi	O
+.	O
+
+Benne	O
+vagyok	O
+!	O
+
+Félóra	O
+múlva	O
+itt	O
+vagyok	O
+.	O
+
+Jó	O
+estét	O
+,	O
+Charlie	B-PER
+!	O
+
+Üdv	O
+,	O
+Doc	B-PER
+!	O
+
+Ez	O
+a	O
+12	B-TIME
+órás	I-TIME
+műszak	O
+kikészít	O
+.	O
+
+A	O
+fél	O
+életemet	O
+elveszi	O
+a	O
+papírmunka	O
+.	O
+
+Egy	O
+kortyot	O
+?	O
+
+Doc	B-PER
+,	O
+tudja	O
+,	O
+hogy	O
+szolgálatban	O
+nem	O
+lehet	O
+.	O
+
+Óvadékot	O
+tennék	O
+le	O
+Miss	O
+Denbow-ért	B-PER
+.	O
+
+Lapot	O
+!	O
+
+Tizenkilencem	O
+van	O
+.	O
+
+Húsz	O
+.	O
+
+Nem	O
+megy	O
+,	O
+Doc	B-PER
+!	O
+
+Holnap	B-DATE
+a	O
+bíróságon	O
+van	O
+jelenése	O
+.	O
+
+Még	O
+nem	O
+állapították	O
+meg	O
+az	O
+óvadékot	O
+.	O
+
+Nekem	O
+elég	O
+.	O
+
+Huszonegy	O
+.	O
+
+Megvárom	O
+Wyattet	B-PER
+.	O
+
+Remélem	O
+,	O
+Bat	B-PER
+még	O
+a	O
+cowboyok	O
+előtt	O
+visszaér	O
+a	O
+fiúkkal	O
+.	O
+
+Blackjack	O
+!	O
+
+Tudja	O
+,	O
+Doc	B-PER
+,	O
+ha	O
+ez	O
+pénzre	O
+menne	O
+,	O
+meg	O
+kellene	O
+néznem	O
+a	O
+paklit	O
+.	O
+
+Én	O
+meg	O
+azt	O
+mondanám	O
+,	O
+hogy	O
+próbálja	O
+csak	O
+meg	O
+!	O
+
+Használja	O
+az	O
+enyémet	O
+!	O
+
+Még	O
+jó	O
+,	O
+hogy	O
+Wyatt	B-PER
+miatt	O
+nem	O
+hordhatjuk	O
+.	O
+
+Valakinek	O
+még	O
+baja	O
+esne	O
+.	O
+
+Meg	O
+kell	O
+néznem	O
+a	O
+lovakat	O
+,	O
+és	O
+a	O
+foglyokat	O
+.	O
+
+Vigyázzon	O
+az	O
+irodára	O
+,	O
+Doc	B-PER
+!	O
+
+Persze	O
+,	O
+Charlie	B-PER
+!	O
+
+Soha	O
+nem	O
+tudtam	O
+ezekkel	O
+bánni	O
+.	O
+
+Letenném	O
+az	O
+óvadékot	O
+Miss	O
+Denbow-ért	B-PER
+.	O
+
+Hiszen	O
+egy	O
+úrinő	O
+.	O
+
+Nem	O
+fog	O
+menni	O
+,	O
+Holliday	B-PER
+.	O
+
+És	O
+ha	O
+cserébe	O
+információt	O
+adok	O
+?	O
+
+Nem	O
+tud	O
+olyat	O
+mondani	O
+,	O
+ami	O
+érdekelne	O
+.	O
+
+Tegyük	O
+fel	O
+,	O
+hogy	O
+tudom	O
+,	O
+hogy	O
+Shanghai	B-PER
+Pierce	I-PER
+erre	O
+hajtja	O
+a	O
+csordáját	O
+.	O
+
+Shanghai	B-PER
+Pierce	I-PER
+?	O
+
+Ezek	O
+szerint	O
+volt	O
+már	O
+vele	O
+dolga	O
+.	O
+
+Egyszer-kétszer	O
+rápirítottam	O
+,	O
+amikor	O
+részegen	O
+szét	O
+akarta	O
+lőni	O
+Wichitát	B-LOC
+.	O
+
+Soha	O
+nem	O
+no	O
+be	O
+a	O
+feje	O
+lágya	O
+.	O
+
+Most	O
+Dodge	B-GPE
+City	I-GPE
+következik	O
+,	O
+és	O
+felbérelte	O
+Ringót	B-PER
+is	O
+,	O
+a	O
+biztonság	O
+kedvéért	O
+.	O
+
+Ja	O
+,	O
+és	O
+még	O
+valami	O
+:	O
+1000	B-MONEY
+dolláros	I-MONEY
+vérdíjat	O
+tűzött	O
+ki	O
+a	O
+maga	O
+fejére	O
+.	O
+
+Ez	O
+nem	O
+újdonság	O
+.	O
+
+Szerintem	O
+mókás	O
+,	O
+hogy	O
+egy	O
+rendőrbíró	O
+fejére	O
+vérdíjat	O
+tűztek	O
+ki	O
+.	O
+
+Nézze	O
+,	O
+Holliday	B-PER
+,	O
+amíg	O
+én	O
+vagyok	O
+a	O
+törvény	O
+őre	O
+,	O
+egy	O
+cowboy	O
+sem	O
+lépi	O
+át	O
+a	O
+határvonalat	O
+fegyverrel	O
+a	O
+kezében	O
+.	O
+
+És	O
+az	O
+sem	O
+érdekel	O
+,	O
+ha	O
+éppen	O
+Shanghai	B-PER
+Pierce	I-PER
+a	O
+neve	O
+.	O
+
+Szép	O
+szavak	O
+.	O
+
+Majd	O
+elmondom	O
+a	O
+temetésén	O
+.	O
+
+Nem	O
+engedi	O
+el	O
+Miss	O
+Denbow-t	B-PER
+?	O
+
+Nem	O
+bizony	O
+.	O
+
+Megegyeztünk	O
+!	O
+
+Maga	O
+egyezett	O
+meg	O
+.	O
+
+Én	O
+nem	O
+mondtam	O
+igent	O
+.	O
+
+Charlie	B-PER
+,	O
+a	O
+főnöke	O
+egy	O
+gazember	O
+.	O
+
+Menj	O
+haza	O
+,	O
+Charlie	B-PER
+,	O
+majd	O
+én	O
+befejezem	O
+!	O
+
+Minden	O
+csendes	O
+.	O
+
+Wyatt	B-PER
+,	O
+el	O
+kellene	O
+engedned	O
+.	O
+
+Nincs	O
+itt	O
+semmi	O
+keresnivalója	O
+.	O
+
+Szerintem	O
+igaza	O
+van	O
+.	O
+
+Eressze	O
+ki	O
+!	O
+
+Lelkiismeret	O
+?	O
+
+Talán	O
+megkedveltem	O
+.	O
+
+Mondja	O
+meg	O
+Kellynek	B-PER
+,	O
+hogy	O
+csak	O
+a	O
+kisteremben	O
+!	O
+
+Nem	O
+kártyázhat	O
+a	O
+nagyteremben	O
+.	O
+
+Jó	O
+estét	O
+,	O
+Miss	O
+Denbow	B-PER
+!	O
+
+Jó	O
+estét	O
+,	O
+Doc	B-PER
+!	O
+
+Jöjjön	O
+,	O
+Laura	B-PER
+,	O
+van	O
+egy	O
+kis	O
+dolgunk	O
+!	O
+
+Jó	O
+estét	O
+,	O
+Mr.	O
+Egy	B-CARDINAL
+kettes	O
+pár	O
+.	O
+
+Tartom	O
+a	O
+tétet	O
+.	O
+
+Ötven	B-MONEY
+dollár	I-MONEY
+.	I-MONEY
+
+Tartom	B-WORK_OF_ART
+.	O
+
+Nekem	O
+sok	O
+.	O
+
+Bent	O
+vagyok	O
+.	O
+
+Ötven	B-MONEY
+dollár	I-MONEY
+,	O
+és	O
+még	O
+ötven	B-CARDINAL
+.	O
+
+Beszállok	O
+ötvennel	O
+.	O
+
+Osszon	O
+!	O
+

@@ -1,0 +1,1784 @@
+# global.columns = FORM ONPP:NER
+Magának	O
+viszont	O
+nem	O
+volt	O
+rá	O
+pénze	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Nos	O
+,	O
+megszorultam	O
+.	O
+
+Már	O
+mondtam	O
+.	O
+
+Ennek	O
+ellenére	O
+mégis	O
+felkereste	O
+azt	O
+a	O
+bizonyos	O
+utazási	O
+irodát	O
+,	O
+melynek	O
+során	O
+társa	O
+egy	O
+csimpaszkodó	O
+barna	O
+lány	O
+volt	O
+.	O
+
+Csimpaszkodó	O
+barna	O
+lány	O
+,	O
+Mr.	O
+Bíró	O
+úr	O
+,	O
+így	O
+jellemezték	O
+számomra	O
+a	O
+hölgyet	O
+.	O
+
+Szemmel	O
+láthatóan	O
+vonzódott	O
+a	O
+vádlotthoz	O
+,	O
+egyfolytában	O
+a	O
+karjába	O
+csimpaszkodott	O
+.	O
+
+Beismeri	O
+tehát	O
+,	O
+hogy	O
+drága	O
+luxusutak	O
+után	O
+érdeklődött	O
+?	O
+
+Mit	O
+gondolt	O
+,	O
+miből	O
+fogja	O
+majd	O
+kifizetni	O
+?	O
+
+Ha	O
+maga	O
+nem	O
+tudja	O
+,	O
+talán	O
+én	O
+segíthetek	O
+.	O
+
+Ugyanezen	B-DATE
+nap	I-DATE
+reggelén	B-TIME
+maga	O
+megtudta	O
+,	O
+hogy	O
+Mrs.	O
+French	B-PER
+új	O
+végrendeletet	O
+kíván	O
+írni	O
+,	O
+melyben	O
+az	O
+összes	O
+pénzét	O
+magára	O
+hagyja	O
+.	O
+
+Nem	O
+igaz	O
+.	O
+
+Délután	B-TIME
+pedig	O
+nekilátott	O
+megtervezni	O
+,	O
+hogyan	O
+is	O
+fogja	O
+majd	O
+elkölteni	O
+.	O
+
+Semmi	O
+ilyesmiről	O
+nem	O
+volt	O
+szó	O
+.	O
+
+Betértem	O
+egy	O
+bárba	O
+,	O
+ott	O
+találkoztam	O
+egy	O
+lánnyal	O
+.	O
+
+A	O
+nevére	O
+már	O
+nem	O
+emlékszem	O
+.	O
+
+Megittunk	O
+együtt	O
+pár	O
+pohár	O
+italt	O
+,	O
+aztán	O
+távoztunk	O
+.	O
+
+Elsétáltunk	O
+egy	O
+kirakat	O
+előtt	O
+,	O
+megláttunk	O
+egy	O
+plakátot	O
+,	O
+kék	O
+tengert	O
+meg	O
+pálmafákat	O
+ábrázolt	O
+.	O
+
+A	O
+Zöld-foki	B-LOC
+szigeteken	I-LOC
+készülhetett	O
+.	O
+
+Bementem	O
+,	O
+hogy	O
+prospektusokat	O
+kérjek	O
+.	O
+
+A	O
+férfi	O
+viszont	O
+furcsán	O
+nézett	O
+rám	O
+,	O
+gondolom	O
+,	O
+mert	O
+enyhén	O
+szólva	O
+is	O
+viseltes	O
+volt	O
+az	O
+öltözékem	O
+.	O
+
+A	O
+viselkedése	O
+felbosszantott	O
+,	O
+ezért	O
+elkezdtem	O
+kérdezősködni	O
+a	O
+legdrágább	O
+utakról	O
+,	O
+teljes	O
+ellátást	O
+és	O
+lakosztályokat	O
+emlegettem	O
+,	O
+de	O
+mindez	O
+csak	O
+színjáték	O
+volt	O
+.	O
+
+Színjáték	O
+?	O
+
+Hiszen	O
+pontosan	O
+tudta	O
+,	O
+hogy	O
+egy	B-DATE
+héten	I-DATE
+belül	I-DATE
+80.000	B-MONEY
+fontot	I-MONEY
+fog	O
+örökölni	O
+.	O
+
+Dehogyis	O
+.	O
+
+Egyáltalán	O
+nem	O
+így	O
+volt	O
+.	O
+
+Igen	O
+,	O
+nevetséges	O
+és	O
+gyerekes	O
+lépés	O
+volt	O
+,	O
+de	O
+egyben	O
+mókás	O
+is	O
+,	O
+és	O
+én	O
+igazán	O
+jót	O
+szórakoztam	O
+rajta	O
+.	O
+
+Soha	O
+meg	O
+sem	O
+fordult	O
+a	O
+fejemben	O
+,	O
+hogy	O
+megöljek	O
+valakit	O
+,	O
+pláne	O
+,	O
+hogy	O
+ennyi	O
+pénzt	O
+fogok	O
+örökölni	O
+.	O
+
+Vagyis	O
+azt	O
+állítja	O
+,	O
+hogy	O
+merő	O
+véletlenség	O
+,	O
+hogy	O
+Mrs.	O
+French	B-PER
+pontosan	B-DATE
+egy	I-DATE
+héttel	I-DATE
+a	O
+történtek	O
+után	O
+halt	O
+meg	O
+?	O
+
+Mondtam	O
+már	O
+.	O
+
+Nem	O
+én	O
+öltem	O
+meg	O
+őt	O
+.	O
+
+Van	O
+esetleg	O
+ötlete	O
+,	O
+hogy	O
+Christine	B-PER
+Helm	I-PER
+miért	O
+állította	O
+ezt	O
+a	O
+vallomásában	O
+,	O
+ha	O
+egyszer	O
+nem	O
+igaz	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+hogy	O
+a	O
+feleségem	O
+miért	O
+...	O
+
+Nem	O
+tudom	O
+,	O
+miért	O
+nevezem	O
+még	O
+mindig	O
+a	O
+feleségemnek	O
+.	O
+
+Valószínűleg	O
+hazudott	O
+,	O
+vagy	O
+egyszerűen	O
+csak	O
+elvesztette	O
+a	O
+józan	O
+eszét	O
+.	O
+
+Rendkívül	O
+józannak	O
+és	O
+magabiztosnak	O
+tűnt	O
+.	O
+
+Az	O
+elmebaj	O
+az	O
+egyetlen	O
+ötlete	O
+?	O
+
+Én	O
+nem	O
+értem	O
+ezt	O
+.	O
+
+Istenem	O
+.	O
+
+Mitől	O
+változott	O
+meg	O
+ennyire	O
+?	O
+
+Állítom	O
+,	O
+hogy	O
+nagyon	O
+meggyőző	O
+.	O
+
+De	O
+ezen	O
+a	O
+bíróságon	O
+mi	O
+a	O
+tényekkel	O
+foglalkozunk	O
+.	O
+
+A	O
+tény	O
+pedig	O
+az	O
+,	O
+Mr.	O
+Vole	B-PER
+,	O
+hogy	O
+az	O
+ártatlansága	O
+mellett	O
+kizárólag	O
+a	O
+maga	O
+szava	O
+szól	O
+.	O
+
+Amellett	O
+,	O
+hogy	O
+Mrs.	O
+Frenchtől	B-PER
+akkor	O
+távozott	O
+,	O
+amikor	O
+maga	O
+állítja	O
+,	O
+és	O
+amellett	O
+,	O
+hogy	O
+maga	O
+9	B-TIME
+óra	I-TIME
+után	I-TIME
+25	I-TIME
+perccel	I-TIME
+tért	O
+haza	O
+,	O
+és	O
+nem	O
+hagyta	O
+el	O
+újból	O
+a	O
+házat	O
+.	O
+
+Valakinek	O
+látnia	O
+kellett	O
+az	O
+utcán	O
+,	O
+vagy	O
+ahogy	O
+belépek	O
+a	O
+házba	O
+.	O
+
+Egyvalaki	O
+valóban	O
+látta	O
+is	O
+.	O
+
+Azonban	O
+ez	O
+az	O
+egy	B-CARDINAL
+ember	O
+,	O
+aki	O
+szemtanúja	O
+volt	O
+annak	O
+,	O
+ahogy	O
+hazatér	O
+akkor	O
+éjszaka	B-TIME
+,	O
+azt	O
+állítja	O
+,	O
+hogy	O
+az	O
+óra	O
+10	B-TIME
+óra	I-TIME
+10	I-TIME
+percet	I-TIME
+mutatott	O
+,	O
+és	O
+véres	O
+volt	O
+a	O
+keze	O
+.	O
+
+Megvágtam	O
+a	O
+csuklómat	O
+!	O
+
+Szándékosan	O
+vágta	O
+meg	O
+a	O
+csuklóját	O
+!	O
+
+Nem	O
+,	O
+ez	O
+nem	O
+igaz	O
+!	O
+
+Semmi	O
+ilyesmit	O
+nem	O
+tettem	O
+.	O
+
+De	O
+ahogy	O
+maga	O
+előadja	O
+,	O
+valóban	O
+úgy	O
+hangzik	O
+,	O
+mintha	O
+ezt	O
+tettem	O
+volna	O
+.	O
+
+A	O
+saját	O
+fülemmel	O
+hallom	O
+.	O
+
+10	B-TIME
+óra	I-TIME
+után	I-TIME
+10	I-TIME
+perccel	I-TIME
+tért	O
+haza	O
+.	O
+
+Nem	O
+,	O
+nem	O
+akkor	O
+.	O
+
+Hinniük	O
+kell	O
+nekem	O
+.	O
+
+Megölte	O
+Emily	B-PER
+Frenchet	I-PER
+.	O
+
+Nem	O
+én	O
+tettem	O
+!	O
+
+Nem	O
+én	O
+öltem	O
+meg	O
+őt	O
+!	O
+
+Soha	O
+senkit	O
+nem	O
+öltem	O
+meg	O
+.	O
+
+Istenem	O
+,	O
+akárcsak	O
+egy	O
+rémálom	O
+.	O
+
+Egy	O
+rettenetes	O
+és	O
+borzasztó	O
+álom	O
+.	O
+
+Jó	O
+estét	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+Hogy	O
+ment	O
+ma	B-DATE
+?	O
+
+A	O
+Hawks	B-ORG
+and	I-ORG
+Hilltől	I-ORG
+jöttem	O
+,	O
+uram	O
+,	O
+elhoztam	O
+a	O
+bermuda	O
+nadrágját	O
+,	O
+hogy	O
+felpróbálhassa	O
+.	O
+
+Bújjon	O
+csak	O
+bele	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+szüksége	O
+lesz	O
+rá	O
+.	O
+
+Egy	O
+gyilkossági	O
+tárgyalás	O
+kellős	O
+közepén	O
+tartok	O
+.	O
+
+Holnap	B-TIME
+délutánra	B-TIME
+annak	O
+úgyis	O
+vége	O
+lesz	O
+,	O
+a	O
+hajó	O
+pedig	O
+9.40-kor	B-TIME
+fog	O
+indulni	O
+,	O
+addig	O
+a	O
+vonat	O
+is	O
+odaér	O
+.	O
+
+Ez	O
+a	O
+maga	O
+műve	O
+.	O
+
+Ismeri	O
+jól	O
+minden	O
+porcikámat	O
+,	O
+épp	O
+eleget	O
+bökdöste	O
+.	O
+
+Langyos	O
+fürdőre	O
+és	O
+a	O
+kalcium	O
+injekciójára	O
+van	O
+szüksége	O
+.	O
+
+És	O
+még	O
+be	O
+is	O
+kell	O
+csomagolni	O
+.	O
+
+Nevetséges	O
+ilyenkor	O
+hajóutat	O
+lefoglalni	O
+.	O
+
+Az	O
+esküdtszék	O
+talán	O
+még	O
+napokig	B-DATE
+nem	O
+fog	O
+ítéletet	O
+hozni	O
+.	O
+
+Attól	O
+tartok	O
+,	O
+ebben	O
+az	O
+ügyben	O
+nem	O
+ez	O
+lesz	O
+a	O
+helyzet	O
+.	O
+
+Túlságosan	O
+is	O
+nyilvánvaló	O
+.	O
+
+Figyeltem	O
+őket	O
+,	O
+amikor	O
+Frau	O
+Helm	B-PER
+állt	O
+a	O
+tanúk	O
+padján	O
+.	O
+
+Nem	O
+kedvelték	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+nem	O
+kedvelték	O
+,	O
+de	O
+hittek	O
+neki	O
+.	O
+
+Leonard	B-PER
+Vole-t	I-PER
+kedvelik	O
+ugyan	O
+,	O
+de	O
+nem	O
+hisznek	O
+neki	O
+.	O
+
+Ez	O
+az	O
+utazási	O
+irodás	O
+ügy	O
+sem	O
+segített	O
+sokat	O
+rajta	O
+.	O
+
+Szivart	O
+?	O
+
+Wilfrid	B-PER
+,	O
+maga	O
+szerint	O
+a	O
+nő	O
+hazudott	O
+?	O
+
+Maga	O
+szerint	O
+nem	O
+?	O
+
+Nem	O
+vagyok	O
+biztos	O
+benne	O
+.	O
+
+Én	O
+viszont	O
+az	O
+vagyok	O
+.	O
+
+Hazudott	O
+.	O
+
+Nevezheti	O
+Meineidnak	O
+vagy	O
+hamis	O
+tanúzásnak	O
+,	O
+de	O
+hazudott	O
+.	O
+
+Az	O
+egyetlen	O
+kérdés	O
+,	O
+hogy	O
+miért	O
+.	O
+
+Milyen	O
+játékot	O
+játszik	O
+?	O
+
+Mire	O
+készül	O
+?	O
+
+Mire	O
+?	O
+
+Remélem	O
+,	O
+hogy	O
+a	O
+záróbeszéde	O
+során	O
+nem	O
+engedi	O
+majd	O
+,	O
+hogy	O
+az	O
+érzelmei	O
+túlságosan	O
+eluralkodjanak	O
+magán	O
+.	O
+
+Gondolnia	O
+kell	O
+az	O
+egészségi	O
+állapotára	O
+.	O
+
+Vigyáznia	O
+kell	O
+magára	O
+.	O
+
+Nem	O
+ez	O
+lesz	O
+az	O
+utolsó	O
+ügye	O
+.	O
+
+Viszont	O
+amíg	O
+tart	O
+,	O
+addig	O
+még	O
+ügyvéd	O
+vagyok	O
+.	O
+
+Az	O
+ügyfelem	O
+élete	O
+forog	O
+kockán	O
+.	O
+
+Ezért	O
+csak	O
+ez	O
+számít	O
+,	O
+az	O
+ügyfelem	O
+élete	O
+.	O
+
+Megilleti	O
+őt	O
+tudásom	O
+és	O
+képességeim	O
+legjava	O
+.	O
+
+Ha	O
+nem	O
+leszek	O
+képes	O
+állva	O
+elmondani	O
+a	O
+záróbeszédemet	O
+,	O
+hát	O
+elmondom	O
+ülve	O
+.	O
+
+Ha	O
+nem	O
+kapok	O
+levegőt	O
+,	O
+majd	O
+beveszek	O
+egy	O
+tablettát	O
+,	O
+vagy	O
+kettőt	B-CARDINAL
+,	O
+vagy	O
+akár	O
+az	O
+egész	O
+dobozzal	O
+,	O
+sőt	O
+még	O
+a	O
+dobozt	O
+is	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+Robarts	I-PER
+rezidenciája	O
+?	O
+
+Hadd	O
+beszéljek	O
+a	O
+vén	O
+lókötővel	O
+.	O
+
+Ki	O
+beszél	O
+,	O
+kérem	O
+?	O
+
+Azzal	O
+ne	O
+törődjön	O
+.	O
+
+Hadd	O
+beszéljek	O
+vele	O
+.	O
+
+Attól	O
+tartok	O
+,	O
+ez	O
+lehetetlen	O
+.	O
+
+Milyen	O
+ügyben	O
+keresi	O
+őt	O
+?	O
+
+Fontos	O
+ügyben	O
+.	O
+
+Van	O
+valamim	O
+,	O
+amit	O
+szeretnék	O
+neki	O
+eladni	O
+.	O
+
+Valóban	O
+,	O
+asszonyom	O
+?	O
+
+És	O
+amit	O
+én	O
+el	O
+akarok	O
+neki	O
+adni	O
+,	O
+higgyen	O
+nekem	O
+,	O
+ő	O
+meg	O
+akarja	O
+venni	O
+.	O
+
+Leonard	B-PER
+Vole-lal	I-PER
+kapcsolatos	O
+.	O
+
+Leonard	B-PER
+Vole-lal	I-PER
+?	O
+
+A	O
+német	B-NORP
+feleségéről	O
+van	O
+szó	O
+.	O
+
+Van	O
+valamim	O
+vele	O
+kapcsolatban	O
+,	O
+ami	O
+eladó	O
+.	O
+
+Itt	O
+Wilfrid	B-PER
+Robarts	I-PER
+beszél	O
+.	O
+
+Mi	O
+folyik	O
+itt	O
+?	O
+
+Helló	O
+,	O
+aranyom	O
+.	O
+
+Mit	O
+is	O
+mondott	O
+Mrs.	O
+Leonard	B-PER
+Vole-lal	I-PER
+kapcsolatban	O
+?	O
+
+Nem	O
+csak	O
+mondom	O
+.	O
+
+Feketén-fehéren	O
+itt	O
+áll	O
+előttem	O
+.	O
+
+Hallgasson	O
+ide	O
+,	O
+de	O
+nagyon	O
+,	O
+aranyom	O
+.	O
+
+Egy	O
+büfében	O
+vagyok	O
+a	O
+Euston	B-FAC
+Stationnél	I-FAC
+,	O
+a	O
+bár	O
+túlsó	O
+felénél	O
+állok	O
+.	O
+
+Még	O
+fél	B-TIME
+óráig	I-TIME
+leszek	O
+itt	O
+,	O
+ugyanis	O
+fél	B-TIME
+óra	I-TIME
+múlva	I-TIME
+indul	O
+a	O
+vonatom	O
+.	O
+
+Ha	O
+érdekli	O
+az	O
+információ	O
+,	O
+amit	O
+arról	O
+a	O
+német	B-NORP
+banyáról	O
+szereztem	O
+,	O
+jöjjön	O
+ide	O
+.	O
+
+Milyen	O
+információ	O
+?	O
+
+Mit	O
+tudott	O
+meg	O
+róla	O
+?	O
+
+Telefonban	O
+nem	O
+.	O
+
+Jöjjön	O
+ide	O
+,	O
+és	O
+hozzon	O
+magával	O
+sok	O
+pénzt	O
+.	O
+
+Egy	O
+pillanat	O
+.	O
+
+Halló	O
+?	O
+
+Badarság	B-GPE
+.	O
+
+Csak	O
+egy	O
+részeg	O
+bolond	O
+.	O
+
+Minden	O
+egyes	O
+gyilkossági	O
+tárgyalás	O
+során	O
+felbukkan	O
+egy	O
+ilyen	O
+.	O
+
+Ultimátumot	O
+adott	O
+,	O
+legyek	O
+a	O
+Euston	B-FAC
+Stationön	I-FAC
+fél	B-TIME
+órán	I-TIME
+belül	I-TIME
+.	O
+
+Akkor	O
+megkapom	O
+az	O
+információt	O
+Mrs.	O
+Vole-ról	B-PER
+.	O
+
+Mese	O
+habbal	O
+.	O
+
+Túl	O
+öreg	O
+és	O
+túl	O
+beteg	O
+vagyok	O
+én	O
+már	O
+az	O
+ilyen	O
+játékokhoz	O
+.	O
+
+Gyerünk	O
+,	O
+Mayhew	B-PER
+.	O
+
+Hova	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+?	O
+
+A	O
+Euston	B-FAC
+Stationhöz	I-FAC
+,	O
+maga	O
+mit	O
+gondolt	O
+?	O
+
+Most	O
+,	O
+uram	O
+?	O
+
+Nem	O
+sokára	O
+.	O
+
+Szivart	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+hova	O
+megy	O
+?	O
+
+A	O
+fürdője	O
+,	O
+a	O
+masszázsa	O
+,	O
+a	O
+vacsorája	O
+,	O
+az	O
+injekciója	O
+.	O
+
+Köszönöm	O
+,	O
+Miss	O
+Plimsoll	B-PER
+.	O
+
+Maga	O
+nem	O
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+ugye	O
+?	O
+
+De	O
+,	O
+én	O
+vagyok	O
+.	O
+
+Nem	O
+ismertem	O
+fel	O
+a	O
+parókája	O
+nélkül	O
+.	O
+
+Olyan	O
+édesek	O
+azokban	O
+a	O
+parókákban	O
+.	O
+
+Két	B-CARDINAL
+ügyvéd	O
+?	O
+
+Két	B-CARDINAL
+ügyvédnek	O
+semmit	O
+sem	O
+mondok	O
+el	O
+.	O
+
+Mayhew	B-PER
+,	O
+Leonard	B-PER
+Vole	I-PER
+jogtanácsosa	O
+.	O
+
+Akkor	O
+rendben	O
+.	O
+
+És	O
+a	O
+maga	O
+neve	O
+?	O
+
+Az	O
+nem	O
+fontos	O
+.	O
+
+Ha	O
+megmondanám	O
+is	O
+a	O
+nevem	O
+,	O
+úgysem	O
+az	O
+igazi	O
+lenne	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Igyanak	O
+valamit	O
+,	O
+fiúk	O
+.	O
+
+Két	B-CARDINAL
+whiskyt	O
+az	O
+uraknak	O
+,	O
+a	O
+barátaim	O
+.	O
+
+Mi	O
+az	O
+,	O
+amit	O
+állítólag	O
+megtudott	O
+a	O
+feleségről	O
+?	O
+
+Tisztában	O
+van	O
+vele	O
+,	O
+hogy	O
+ha	O
+bármiféle	O
+bizonyítékot	O
+birtokol	O
+,	O
+köteles	O
+azt	O
+átadni	O
+?	O
+
+Ezt	O
+befejezheti	O
+.	O
+
+Hozott	O
+pénzt	O
+?	O
+
+Mije	O
+van	O
+,	O
+asszonyom	O
+?	O
+
+Levelek	O
+.	O
+
+Levelek	O
+,	O
+amiket	O
+az	O
+a	O
+német	B-NORP
+nő	O
+írt	O
+a	O
+férjének	O
+.	O
+
+Ennyi	O
+.	O
+
+Christine	B-PER
+Helmtől	I-PER
+a	O
+vádlottnak	O
+írt	O
+levelek	O
+?	O
+
+A	O
+vádlottnak	O
+?	O
+
+Ne	O
+nevettessen	O
+.	O
+
+Szegény	O
+fickó	O
+,	O
+szépen	O
+behálózta	O
+az	O
+a	O
+nő	O
+.	O
+
+Ezek	O
+a	O
+levelek	O
+rá	O
+a	O
+bizonyíték	O
+.	O
+
+Ha	O
+megnézhetnénk	O
+azokat	O
+a	O
+leveleket	O
+,	O
+megbeszélhetnénk	O
+,	O
+mennyire	O
+hasznosak	O
+számunkra	O
+.	O
+
+Nos	O
+,	O
+nem	O
+hittem	O
+,	O
+hogy	O
+...	O
+
+Nos	O
+,	O
+ahogy	O
+már	O
+említettem	O
+,	O
+nem	O
+hittem	O
+,	O
+hogy	O
+fizetni	O
+fognak	O
+még	O
+azelőtt	O
+,	O
+hogy	O
+látták	O
+volna	O
+,	O
+de	O
+így	O
+a	O
+tisztességes	O
+.	O
+
+Ha	O
+ezek	O
+a	O
+levelek	O
+felmentik	O
+a	O
+fiút	O
+,	O
+100	B-MONEY
+fontot	I-MONEY
+kérek	O
+,	O
+rendben	O
+?	O
+
+Ha	O
+azok	O
+a	O
+levelek	O
+a	O
+védelem	O
+számára	O
+hasznos	O
+információkat	O
+tartalmaznak	O
+,	O
+kész	O
+vagyok	O
+felajánlani	O
+értük	O
+10	B-MONEY
+fontot	I-MONEY
+.	O
+
+10	B-CARDINAL
+istenverte	O
+font	O
+ezekért	O
+a	O
+levelekért	O
+?	O
+
+Törölje	O
+ki	O
+a	O
+fenekét	O
+azokkal	O
+a	O
+bankókkal	O
+.	O
+
+Jó	O
+éjszakát	O
+.	O
+
+Ha	O
+ezek	O
+a	O
+levelek	O
+bebizonyítják	O
+,	O
+hogy	O
+ügyfelem	O
+ártatlan	O
+,	O
+úgy	O
+gondolom	O
+,	O
+20	B-MONEY
+font	I-MONEY
+megfelelő	O
+összeg	O
+lehet	O
+a	O
+költségei	O
+fedezésére	O
+.	O
+
+50	B-CARDINAL
+és	O
+ez	O
+a	O
+vége	O
+.	O
+
+Persze	O
+csak	O
+ha	O
+meg	O
+van	O
+elégedve	O
+velük	O
+.	O
+
+40	B-CARDINAL
+font	O
+.	O
+
+Rendben	O
+,	O
+vén	O
+lókötő	O
+.	O
+
+Tessék	O
+,	O
+tegye	O
+el	O
+őket	O
+.	O
+
+Azt	O
+meg	O
+adja	O
+ide	O
+.	O
+
+Honnan	O
+tudjuk	O
+,	O
+hogy	O
+valóban	O
+Mrs.	O
+Vole-tól	B-PER
+származnak	O
+?	O
+
+Ő	O
+írta	O
+mindegyiket	O
+.	O
+
+Becsületszavamra	O
+.	O
+
+Remélem	O
+ez	O
+majd	O
+elintézi	O
+őt	O
+,	O
+ahogy	O
+azt	O
+megérdemli	O
+.	O
+
+Üzenetek	O
+Mrs.	O
+Vole-tól	B-PER
+.	O
+
+Úgy	O
+tűnik	O
+,	O
+hogy	O
+az	O
+ő	O
+kézírása	O
+.	O
+
+Szent	O
+ég	O
+,	O
+ezt	O
+nézze	O
+.	O
+
+Érdekes	O
+,	O
+mi	O
+?	O
+
+Van	O
+egy	O
+,	O
+ami	O
+mindennél	O
+jobb	O
+.	O
+
+Honnan	O
+szerezte	O
+ezeket	O
+?	O
+
+Mit	O
+számít	O
+az	O
+már	O
+,	O
+ha	O
+egyszer	O
+megkapja	O
+azt	O
+,	O
+amit	O
+megérdemel	O
+?	O
+
+Mit	O
+tud	O
+még	O
+mondani	O
+róla	O
+?	O
+

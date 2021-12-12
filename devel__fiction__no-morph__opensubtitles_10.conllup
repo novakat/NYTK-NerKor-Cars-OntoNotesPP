@@ -1,0 +1,1150 @@
+# global.columns = FORM ONPP:NER
+Ami	O
+a	O
+rangját	O
+illeti	O
+az	O
+osztagnál	O
+arra	O
+nem	O
+adunk	O
+sokat	O
+.	O
+
+Lehet	O
+akár	O
+őrnagy	O
+is	O
+.	O
+
+Akár	O
+őrnagy	O
+is	O
+!	O
+
+Ügyes	O
+húzás	O
+!	O
+
+Mit	O
+tehetnék	O
+?	O
+
+Önként	O
+jelentkezem	O
+.	O
+
+Áh	O
+,	O
+Green	B-PER
+ezredes	O
+!	O
+
+Shears	B-PER
+őrnagy	O
+.	O
+
+Önként	O
+jelentkezett	O
+a	O
+hídrobbantásra	O
+.	O
+
+Nagyszerü	O
+,	O
+őrnagy	O
+!	O
+
+A	O
+kórházba	O
+!	O
+
+Elfertőződött	O
+a	O
+lába	O
+.	O
+
+Még	O
+szimulánsnak	O
+néznek	O
+.	O
+
+Én	O
+vagyok	O
+az	O
+orvos	O
+.	O
+
+Indulás	O
+!	O
+
+Vajon	O
+miért	O
+akarja	O
+rendesen	O
+megépíteni	O
+?	O
+
+Ne	O
+félj	O
+,	O
+az	O
+öreg	O
+tudja	O
+,	O
+mit	O
+csinál	O
+!	O
+
+Jó	O
+napot	O
+,	O
+Clipton	B-PER
+!	O
+
+A	O
+legfőbb	O
+ideje	O
+!	O
+
+Szép	O
+munkát	O
+végeznek	O
+.	O
+
+Hogy	O
+viselkedik	O
+?	O
+
+Azóta	O
+egész	O
+rendesen	O
+.	O
+
+Mire	O
+gondolhat	O
+?	O
+
+Köszönöm	O
+,	O
+Reeves	B-PER
+.	O
+
+Mit	O
+szól	O
+hozzá	O
+?	O
+
+Komoly	O
+kihívás	O
+!	O
+
+Tényleg	O
+jó	O
+ötletnek	O
+tartja	O
+felépíteni	O
+a	O
+hidat	O
+?	O
+
+Komolyan	O
+kérdi	O
+?	O
+
+Jó	O
+ötlet	O
+-e	O
+?	O
+
+Nézzen	O
+jól	O
+körül	O
+!	O
+
+Megnőtt	O
+a	O
+munkamorál	O
+?	O
+
+Fegyelmezettebbek	O
+?	O
+
+Jobbak	O
+a	O
+körülmények	O
+?	O
+
+Nem	O
+boldogabbak	O
+így	O
+?	O
+
+Többet	O
+esznek	O
+,	O
+nem	O
+kiszolgáltatottak	O
+.	O
+
+Néha	O
+képtelen	O
+vagyok	O
+megérteni	O
+magát	O
+.	O
+
+Hogy	O
+is	O
+mondjam	O
+?	O
+
+Amit	O
+teszünk	O
+,	O
+az	O
+felfogható	O
+úgy	O
+is	O
+hogy	O
+kollaborálunk	O
+az	O
+ellenséggel	O
+.	O
+
+Egyenesen	O
+árulás	O
+!	O
+
+Mint	O
+hadifoglyok	O
+,	O
+nem	O
+tagadhatjuk	O
+meg	O
+a	O
+munkát	O
+.	O
+
+Értem	O
+,	O
+uram	O
+.	O
+
+De	O
+muszáj	O
+jól	O
+dolgozni	O
+?	O
+
+Jobban	O
+,	O
+mint	O
+ahogy	O
+ők	O
+csinálnák	O
+?	O
+
+Ha	O
+meg	O
+kéne	O
+operálnia	O
+Szaitót	B-PER
+,	O
+hagyná	O
+meghalni	O
+?	O
+
+Essünk	O
+szét	O
+a	O
+semmittevéstől	O
+?	O
+
+Ne	O
+végezzünk	O
+rendes	O
+munkát	O
+?	O
+
+Meg	O
+kell	O
+mutatnunk	O
+nekik	O
+,	O
+hogy	O
+nem	O
+tudnak	O
+megtörni	O
+.	O
+
+Nézzen	O
+körül	O
+,	O
+Clipton	B-PER
+!	O
+
+Egy	O
+nap	O
+véget	O
+ér	O
+a	O
+háború	O
+.	O
+
+Remélem	O
+,	O
+akik	O
+később	O
+használják	O
+emlékeznek	O
+majd	O
+,	O
+kik	O
+építették	O
+.	O
+
+Nem	O
+rabszolgák	O
+,	O
+katonák	O
+.	O
+
+Brit	B-NORP
+katonák	O
+,	O
+még	O
+ha	O
+foglyok	O
+is	O
+.	O
+
+Ertem	O
+.	O
+
+Maga	O
+jó	O
+orvos	O
+,	O
+Clipton	B-PER
+.	O
+
+De	O
+van	O
+mit	O
+tanulnia	O
+a	O
+hadseregről	O
+.	O
+
+Fogja	O
+!	O
+
+Használja	O
+a	O
+bakancsát	O
+!	O
+
+A	O
+bakancsát	O
+,	O
+hallja	O
+?	O
+
+Jó	O
+reggelt	O
+!	O
+
+Maguk	O
+meg	O
+mit	O
+bámulnak	O
+?	O
+
+Elnézést	O
+,	O
+késtem	O
+.	O
+
+Négy	B-TIME
+percet	I-TIME
+!	O
+
+Még	O
+kezelésre	O
+van	O
+szüksége	O
+?	O
+
+Uram	O
+?	O
+
+A	O
+nővérre	O
+értettem	O
+.	O
+
+Ötletes	O
+!	O
+
+Wardennek	B-PER
+igaza	O
+volt	O
+.	O
+
+Ki	O
+kell	O
+választanunk	O
+a	O
+csapat	O
+negyedik	B-ORDINAL
+tagját	O
+.	O
+
+Mr.	B-PER
+Joyce	I-PER
+jöjjön	O
+be	O
+!	O
+
+Vannak	O
+kétségeim	O
+.	O
+
+Túl	O
+fantáziadús	O
+,	O
+nem	O
+hidegen	O
+számító	O
+.	O
+
+Mint	O
+mondtam	O
+itt	O
+,	O
+még	O
+ha	O
+végeztek	O
+is	O
+,	O
+akad	O
+még	O
+egy	O
+feladat	O
+.	O
+
+Kitünően	O
+úszik	O
+.	O
+
+Tudom	O
+,	O
+mi	O
+a	O
+véleménye	O
+.	O
+
+Shearsére	B-PER
+vagyok	O
+kíváncsi	O
+.	O
+
+Egy	O
+kis	O
+kirándulásra	O
+akarják	O
+elvinni	O
+.	O
+
+Könyvelő	O
+volt	O
+Montrealban	B-GPE
+?	O
+
+Nem	O
+igazán	O
+könyvelő	O
+.	O
+
+Nem	O
+volt	O
+diplomám	O
+.	O
+
+Mit	O
+csinált	O
+?	O
+
+Végtelen	O
+számoszlopokat	O
+ellenőriztem	O
+melyeket	O
+előttem	O
+is	O
+átnéztek	O
+és	O
+utánam	O
+is	O
+ellenőrizte	O
+valaki	O
+.	O
+
+Unalmas	O
+lehetett	O
+!	O
+
+Az	O
+volt	O
+,	O
+uram	O
+.	O
+
+Hogy	O
+került	O
+ide	O
+?	O
+
+1939-ben	B-DATE
+Londonban	B-GPE
+bevonultam	O
+.	O
+
+Ide	O
+önként	O
+jelentkeztem	O
+.	O
+
+A	O
+hadsereg	O
+...	O
+
+Folytassa	O
+csak	O
+!	O
+
+Nos	O
+,	O
+a	O
+hadsereg	O
+a	O
+civil	O
+életemre	O
+emlékeztetett	O
+.	O
+
+Gondolkodás	O
+kizárva	O
+.	O
+
+Gondoljon	O
+erre	O
+!	O
+
+Képes	O
+lenne	O
+hidegvérrel	O
+használni	O
+?	O
+
+Tanultam	O
+.	O
+
+Nem	O
+arra	O
+gondoltam	O
+.	O
+
+Hidegvérrel	O
+használni	O
+?	O
+
+Gondolkodás	O
+nélkül	O
+ölni	O
+?	O
+
+Ezt	O
+én	O
+is	O
+megkérdeztem	O
+magamtól	O
+.	O
+
+Aggaszt	O
+egy	O
+kissé	O
+.	O
+
+És	O
+a	O
+válasz	O
+?	O
+
+Őszintén	O
+,	O
+nem	O
+tudom	O
+.	O
+
+Próbáltam	O
+elképzelni	O
+...	O
+
+Nem	O
+tudom	O
+meggyőzni	O
+magam	O
+,	O
+hogy	O
+ölni	O
+nem	O
+bün	O
+.	O
+
+Régi	O
+katonadilemma	O
+.	O
+
+Végeztünk	O
+.	O
+
+Köszönöm	O
+,	O
+Joyce	B-PER
+.	O
+
+Velük	O
+megyek	O
+?	O
+
+Értesítjük	O
+.	O
+
+Értik	O
+,	O
+ugye	O
+?	O
+
+Legalább	O
+őszinte	O
+.	O
+
+Egyikünk	O
+se	O
+tudja	O
+a	O
+választ	O
+,	O
+míg	O
+el	O
+nem	O
+jön	O
+az	O
+ideje	O
+.	O
+
+Mit	O
+szól	O
+hozzá	O
+,	O
+Shears	B-PER
+?	O
+
+Kanadai	B-NORP
+.	O
+
+Az	O
+illik	O
+a	O
+csapat	O
+nemzetközi	O
+jellegéhez	O
+.	O
+
+Mehet	O
+akár	O
+helyettem	O
+is	O
+!	O
+
+Ha	O
+elfogadják	O
+Joyce-ot	B-PER
+,	O
+a	O
+maguké	O
+.	O
+
+A	O
+légi	O
+felderítők	O
+megnézték	O
+a	O
+falut	O
+.	O
+
+Van	O
+elég	O
+tisztás	O
+az	O
+ugráshoz	O
+.	O
+
+Kapott	O
+ejtőernyős	O
+kiképzést	O
+?	O
+
+Az	O
+ördögbe	O
+!	O
+
+Fura	O
+helyzet	O
+.	O
+
+Eszembe	O
+se	O
+jutott	O
+!	O
+
+Akkor	O
+tán	O
+...	O
+
+Igaza	O
+van	O
+.	O
+
+Kell	O
+némi	O
+gyakorlás	O
+.	O
+
+Máris	O
+utánanézek	O
+.	O
+
+Jó	O
+,	O
+Chapman	B-PER
+,	O
+elmehet	O
+.	O
+
+Van	O
+kedve	O
+levegőzni	O
+?	O
+
+Maga	O
+aranyat	O
+ér	O
+nekünk	O
+.	O
+
+Ismeri	O
+a	O
+környéket	O
+,	O
+a	O
+falut	O
+.	O
+
+Mintha	O
+ránk	O
+gondolt	O
+volna	O
+,	O
+amikor	O
+megszökött	O
+.	O
+
+Ez	O
+biztos	O
+érdekelni	O
+fogja	O
+.	O
+
+Az	O
+új	O
+H-pirula	O
+.	O
+
+H-pirula	O
+?	O
+
+Halálos	O
+.	O
+
+Azonnal	O
+hat	O
+.	O
+
+Jobb	O
+,	O
+mint	O
+a	O
+korábbiak	O
+.	O
+
+Ha	O
+elfognák	O
+.	O
+
+Tehát	O
+élve	O
+nem	O
+foghatnak	O
+el	O
+.	O
+
+Nem	O
+ajánlanám	O
+.	O
+
+Ha	O
+bármelyikük	O
+megsebesül	O
+,	O
+hátra	O
+kell	O
+hagyniuk	O
+.	O
+
+A	O
+cél	O
+mindennél	O
+fontosabb	O
+.	O
+
+Lehetek	O
+őszinte	O
+?	O
+
+Előttük	O
+nem	O
+akartam	O
+.	O
+
+Chapman	B-PER
+tökéletes	O
+.	O
+
+Hidegvérü	O
+.	O
+
+Joyce	B-PER
+...	O
+
+Be	O
+fog	O
+válni	O
+.	O
+
+Wardent	B-PER
+nem	O
+értem	O
+.	O
+
+Cambridge-i	B-GPE
+prof	O
+.	O
+
+Egy	O
+dolog	O
+robbanószerekkel	O
+kísérletezni	O
+...	O
+
+Van	O
+némi	O
+gyakorlata	O
+.	O
+
+Szingapúr	B-GPE
+eleste	O
+után	O
+felrobbantott	O
+pár	O
+hidat	O
+.	O
+
+Más	O
+létesítményeket	O
+is	O
+.	O
+
+Lebilincselő	O
+...	O
+
+Uram	O
+,	O
+rém	O
+bosszantó	O
+!	O
+
+Túl	O
+kevés	O
+az	O
+idő	O
+,	O
+nem	O
+érdemes	O
+gyakorolni	O
+az	O
+ugrást	O
+.	O
+
+Egy	O
+ugrásnál	O
+50%	B-PERCENT
+az	O
+esély	O
+a	O
+sérülésre	O
+.	O
+
+Kettőnél	O
+80%	B-PERCENT
+.	O
+
+Háromnál	B-CARDINAL
+még	O
+rosszabb	O
+.	O
+
+Úgy	O
+vélik	O
+,	O
+Shears	B-PER
+számára	O
+az	O
+lesz	O
+a	O
+legjobb	O
+ha	O
+gyakorlás	O
+nélkül	O
+ugrik	O
+.	O
+
+Ernyővel	O
+vagy	O
+anélkül	O
+?	O
+
+Nagyon	O
+jó	O
+!	O
+
+Vagy	O
+anélkül	O
+!	O
+
+A	O
+fáknál	O
+van	O
+!	O
+
+Yai	B-PER
+szerint	O
+arra	O
+nem	O
+mehetünk	O
+.	O
+
+Túl	O
+sok	O
+a	O
+japán	B-NORP
+járőr	O
+.	O
+
+Északra	O
+fogunk	O
+kerülni	O
+.	O
+
+Ki	O
+a	O
+vezető	O
+?	O
+
+Yai	B-PER
+.	O
+
+Gyülöli	O
+a	O
+japánokat	B-NORP
+.	O
+
+Csak	O
+nők	O
+maradtak	O
+teherhordónak	O
+.	O
+
+Nők	O
+!	O
+
+Ügyesek	O
+!	O
+
+Veszélyes	O
+itt	O
+tölteni	O
+az	O
+éjszakát	O
+.	O
+
+A	O
+közelben	O
+vannak	O
+.	O
+
+A	O
+dzsungelben	O
+kell	O
+aludnunk	O
+.	O
+
+És	O
+Chapman	B-PER
+?	O
+
+Yai	B-PER
+eltemeti	O
+az	O
+ernyővel	O
+együtt	O
+.	O
+
+Valami	O
+baj	O
+van	O
+?	O
+
+Csak	O
+elgondolkodtam	O
+.	O
+
+Maga	O
+beszéli	O
+Yai	B-PER
+nyelvét	O
+.	O
+
+Én	O
+nem	O
+.	O
+
+Ezt	O
+az	O
+útvonalat	O
+én	O
+nem	O
+is	O
+ismerem	O
+.	O
+
+Megmondaná	O
+,	O
+mi	O
+szükség	O
+van	O
+itt	O
+rám	O
+?	O
+
+Mindig	O
+jöhet	O
+valami	O
+váratlan	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Mondja	O
+Chapmannek	B-PER
+!	O
+
+Induljunk	O
+!	O
+
+Szép	O
+vagy	O
+!	O
+
+Szép	O
+!	O
+
+Piócák	O
+!	O
+
+Azt	O
+mondja	O
+,	O
+maradjon	O
+nyugton	O
+!	O
+
+Leszedi	O
+őket	O
+.	O
+
+Mit	O
+keresel	O
+te	O
+itt	O
+?	O
+
+Megtanítom	O
+rá	O
+sziámiul	O
+.	O
+
+A	O
+túl	O
+sok	O
+beszéd	O
+mindent	O
+elront	O
+.	O
+
+Mi	O
+a	O
+baj	O
+vele	O
+?	O
+
+Nagyot	O
+esett	O
+.	O
+
+Nem	O
+elég	O
+erős	O
+a	O
+jel	O
+.	O
+
+Nedves	O
+,	O
+az	O
+a	O
+baj	O
+.	O
+
+Átázott	O
+!	O
+
+Mint	O
+minden	O
+itt	O
+a	O
+dzsungelben	O
+.	O
+

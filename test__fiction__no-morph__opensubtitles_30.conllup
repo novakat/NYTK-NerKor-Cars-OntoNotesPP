@@ -1,0 +1,1251 @@
+# global.columns = FORM ONPP:NER
+A	O
+patkány	O
+az	O
+oltártól	O
+futott	O
+ki	O
+!	O
+
+Biztosan	O
+valami	O
+átok	O
+!	O
+
+Nem	O
+így	O
+van	O
+!	O
+
+Mostanában	O
+rosszakat	O
+álmodsz	O
+,	O
+most	O
+meg	O
+ez	O
+az	O
+eset	O
+...	O
+
+Biztos	O
+,	O
+hogy	O
+átok	O
+!	O
+
+Képtelenség	O
+!	O
+
+Ne	O
+sírj	O
+...	O
+
+Drágám	O
+,	O
+kérlek	O
+,	O
+keríts	O
+egy	O
+orvost	O
+!	O
+
+Ne	O
+csinálj	O
+ilyen	O
+nagy	O
+ügyet	O
+ebből	O
+!	O
+
+Szívtelen	O
+!	O
+
+Többet	O
+nem	O
+kérem	O
+!	O
+
+Majd	O
+én	O
+magam	O
+megyek	O
+!	O
+
+Drágám	O
+,	O
+úgy	O
+sajnálom	O
+a	O
+lányt	O
+.	O
+
+Miatta	O
+vagyunk	O
+ilyen	O
+helyzetben	O
+.	O
+
+Az	O
+lehet	O
+,	O
+de	O
+attól	O
+még	O
+az	O
+unokahúgom	O
+.	O
+
+Simabara	B-GPE
+nagyon	O
+messze	O
+van	O
+.	O
+
+Minél	O
+messzebb	O
+,	O
+annál	O
+jobb	O
+.	O
+
+Ha	O
+Edóban	B-GPE
+marad	O
+,	O
+Kamio	B-PER
+úr	O
+emberei	O
+megtalálhatják	O
+.	O
+
+Ebben	O
+igazad	O
+van	O
+.	O
+
+Kétszáz	B-MONEY
+aranyat	I-MONEY
+kapunk	O
+!	O
+
+Hé	O
+,	O
+hé	O
+...	O
+!	O
+
+Johacsi	B-PER
+,	O
+előre	O
+mennél	O
+?	O
+
+Megfeledkeztem	O
+valamiről	O
+.	O
+
+Jó	O
+,	O
+rendben	O
+.	O
+
+Semmiség	O
+.	O
+
+Most	O
+már	O
+jól	O
+vagy	O
+.	O
+
+Rendbejöttél	O
+.	O
+
+Jobban	O
+van	O
+már	O
+?	O
+
+Igen	O
+,	O
+sokkal	O
+jobban	O
+.	O
+
+Örömmel	O
+hallom	O
+.	O
+
+Johacsi	B-PER
+merre	O
+van	O
+?	O
+
+Segít	O
+a	O
+kocsit	O
+húzni	O
+.	O
+
+Történt	O
+valami	O
+szokatlan	O
+?	O
+
+Nem	O
+...	O
+semmi	O
+.	O
+
+Most	O
+távozom	O
+...	O
+
+Fölösleges	O
+vagyok	O
+itt	O
+.	O
+
+Bár	O
+hiányérzetem	O
+van	O
+,	O
+ha	O
+nem	O
+ugrathatom	O
+egy	O
+kicsit	O
+azt	O
+a	O
+nagydarab	O
+fickót	O
+.	O
+
+Bushuból	B-LOC
+való	O
+,	O
+ugye	O
+?	O
+
+Igen	O
+,	O
+Szawaj	B-GPE
+faluból	O
+.	O
+
+Óh	O
+,	O
+értem	O
+...	O
+
+A	O
+szawajiak	B-NORP
+furcsa	O
+népség	O
+.	O
+
+Hogyhogy	O
+?	O
+
+Egy	O
+szawaji	B-GPE
+ronin	O
+gyermekét	O
+patkány	O
+harapta	O
+meg	O
+.	O
+
+Komor	O
+,	O
+félelmetes	O
+alak	O
+volt	O
+.	O
+
+Cukue	B-PER
+Rjunoszukének	I-PER
+hívták	O
+?	O
+
+Nem	O
+,	O
+Josida	B-PER
+...	O
+
+Rjutarónak	B-PER
+.	O
+
+Josida	B-PER
+Rjutaro	I-PER
+...	O
+
+Rjutaro	B-PER
+!	O
+
+Tudja	O
+,	O
+hogy	O
+hol	O
+lakik	O
+?	O
+
+A	O
+Siba	B-LOC
+Zozo-dzsi	I-LOC
+fenyőerdő	O
+végénél	O
+.	O
+
+Kérem	O
+,	O
+mutassa	O
+meg	O
+nekem	O
+!	O
+
+Kérem	O
+...	O
+!	O
+
+Nyugalom	O
+...	O
+
+Nyugodjon	O
+meg	O
+...	O
+
+Most	O
+itt	O
+a	O
+lehetőségünk	O
+.	O
+
+Doktor	O
+!	O
+
+A	O
+gesztenyefa	O
+melletti	O
+ház	O
+az	O
+.	O
+
+JOSIDA	B-PER
+Rjutaro	I-PER
+Serizawa	I-PER
+mester	O
+...	O
+
+A	O
+sógornőm	O
+!	O
+
+Kérhetnék	O
+valamit	O
+?	O
+
+Kérem	O
+,	O
+a	O
+férjemet	O
+ne	O
+vigyék	O
+magukkal	O
+Kiotóba	B-GPE
+...	O
+
+Nem	O
+tarthatja	O
+vissza	O
+.	O
+
+Ő	O
+fogja	O
+eldönteni	O
+.	O
+
+Ez	O
+a	O
+hang	O
+...	O
+!	O
+
+Simada	B-PER
+mester	O
+,	O
+köszönöm	O
+.	O
+
+Értem	O
+már	O
+,	O
+mi	O
+a	O
+szándéka	O
+.	O
+
+Ragaszkodsz	O
+hozzá	O
+,	O
+hogy	O
+Kiotóba	B-GPE
+menj	O
+a	O
+Sincsogumival	B-ORG
+?	O
+
+Velünk	O
+mi	O
+lesz	O
+?	O
+
+Ti	O
+nem	O
+jöhettek	O
+velem	O
+.	O
+
+Annyira	O
+a	O
+halálunkat	O
+kívánod	O
+,	O
+hogy	O
+magunkra	O
+hagysz	O
+minket	O
+?	O
+
+A	O
+nők	O
+és	O
+gyerekek	O
+olyan	O
+értetlenek	O
+.	O
+
+Kifogyott	O
+a	O
+szaké	O
+.	O
+
+Ha	O
+ragaszkodsz	O
+az	O
+elmenetelhez	O
+,	O
+előtte	O
+válj	O
+el	O
+tőlem	O
+.	O
+
+Én	O
+nem	O
+bánom	O
+.	O
+
+Akkor	O
+írd	O
+meg	O
+a	O
+válási	O
+iratot	O
+.	O
+
+Szükségtelen	O
+...	O
+
+Teljesen	O
+fölösleges	O
+.	O
+
+Mi	O
+csak	O
+úgy	O
+összeálltunk	O
+.	O
+
+Fölösleges	O
+egy	O
+második	B-ORDINAL
+válólevélért	O
+nyaggatnod	O
+.	O
+
+Ha	O
+te	O
+nem	O
+lettél	O
+volna	O
+,	O
+boldogan	O
+élhetnék	O
+,	O
+Ucugi	B-PER
+feleségeként	O
+!	O
+
+Boldogabb	O
+lenne	O
+a	O
+házasságod	O
+Bunnojóval	B-PER
+?	O
+
+A	O
+gyerek	O
+nem	O
+lett	O
+volna	O
+kitéve	O
+mindezeknek	O
+...	O
+
+Hama	B-PER
+,	O
+Bunnojo	B-PER
+halálának	O
+te	O
+vagy	O
+az	O
+oka	O
+!	O
+
+Hogy	O
+mondhatsz	O
+ilyet	O
+?	O
+
+Az	O
+elkeseredett	O
+támadása	O
+a	O
+haragjából	O
+fakadt	O
+,	O
+mert	O
+szeretett	O
+téged	O
+!	O
+
+Az	O
+én	O
+kardomat	O
+pedig	O
+egy	O
+gonosz	O
+nő	O
+lelke	O
+vezérelte	O
+.	O
+
+Miattad	O
+kezdődött	O
+az	O
+egész	O
+.	O
+
+Hogy	O
+mondhatsz	O
+ilyeneket	O
+?	O
+
+Ha	O
+te	O
+nem	O
+lettél	O
+volna	O
+,	O
+Bunnojo	B-PER
+és	O
+én	O
+békében	O
+élnénk	O
+,	O
+és	O
+minden	O
+rendben	O
+volna	O
+!	O
+
+Te	O
+,	O
+a	O
+gonosz	O
+nő	O
+,	O
+vagy	O
+az	O
+oka	O
+mindennek	O
+!	O
+
+Átkozott	O
+!	O
+
+Az	O
+,	O
+hogy	O
+most	O
+azt	O
+mondod	O
+,	O
+mennyire	O
+hiányzik	O
+Bunnojo	B-PER
+,	O
+mutatja	O
+,	O
+milyen	O
+félelmetes	O
+vagy	O
+.	O
+
+Megmutatom	O
+én	O
+neked	O
+,	O
+mennyire	O
+vagyok	O
+félelmetes	O
+!	O
+
+Mi	O
+a	O
+fenét	O
+...	O
+?	O
+
+Kicsim	O
+,	O
+halj	O
+meg	O
+anyáddal	O
+együtt	O
+!	O
+
+Omacu	B-PER
+,	O
+visszajöttem	O
+.	O
+
+Omacu	B-PER
+,	O
+nyisd	O
+ki	O
+!	O
+
+Nyiss	O
+ajtót	O
+!	O
+
+Omacu	B-PER
+!	O
+
+Johacsi	B-PER
+,	O
+itt	O
+felejtettél	O
+valamit	O
+?	O
+
+Zárva	O
+van	O
+az	O
+ajtó	O
+.	O
+
+Nem	O
+értem	O
+...	O
+
+Nem	O
+tudsz	O
+róla	O
+?	O
+
+Miről	O
+nem	O
+tudok	O
+?	O
+
+Arról	O
+,	O
+hogy	O
+elköltöztek	O
+.	O
+
+Ne	O
+ugrass	O
+...	O
+
+Omacu	B-PER
+beteg	O
+.	O
+
+Elköszönt	O
+a	O
+szomszédoktól	O
+és	O
+hordszéket	O
+hívott	O
+.	O
+
+Semmiről	O
+nem	O
+tudok	O
+.	O
+
+Megdöbbentő	O
+...	O
+
+Téged	O
+itt	O
+hagytak	O
+.	O
+
+A	O
+kedves	O
+Omacu	B-PER
+sosem	O
+tenne	O
+ilyesmit	O
+!	O
+
+Most	O
+mit	O
+mondjak	O
+erre	O
+?	O
+
+Hjoma	B-PER
+úr	O
+,	O
+Omacu	B-PER
+minden	O
+szó	O
+nélkül	O
+elment	O
+.	O
+
+Hallottam	O
+az	O
+imént	O
+.	O
+
+Mondanivalóm	O
+van	O
+számodra	O
+.	O
+
+Johacsi	B-PER
+,	O
+mostanáig	O
+nem	O
+beszéltem	O
+erről	O
+.	O
+
+Azért	O
+keresem	O
+Rjunoszukét	B-PER
+,	O
+mert	O
+Ucugi	B-PER
+Bunnojo	I-PER
+öccse	O
+vagyok	O
+,	O
+Hjoma	B-PER
+!	O
+
+Tehát	O
+ezért	O
+kutat	O
+utána	O
+?	O
+
+Lehet	O
+,	O
+hogy	O
+neked	O
+a	O
+gazdád	O
+,	O
+de	O
+nekem	O
+a	O
+halálos	O
+ellenségem	O
+.	O
+
+Bosszút	O
+kell	O
+állnom	O
+a	O
+fivéremért	O
+!	O
+
+Ön	O
+és	O
+a	O
+sógornője	O
+meg	O
+fogják	O
+ölni	O
+Rjunoszuke	B-PER
+urat	O
+?	O
+
+Muszáj	O
+megölnie	O
+Rjunoszuke	B-PER
+urat	O
+?	O
+
+Kérem	O
+,	O
+ne	O
+kövessen	O
+el	O
+ilyen	O
+kegyetlenséget	O
+!	O
+
+Nem	O
+szeretném	O
+látni	O
+egyikük	O
+halálát	O
+sem	O
+!	O
+
+A	O
+szamuráji	O
+büszkeség	O
+.	O
+
+Mostanra	O
+megkaphatta	O
+a	O
+kihívólevelemet	O
+.	O
+
+Időpont	O
+:	O
+Reggel	B-TIME
+hat	I-TIME
+óra	I-TIME
+,	O
+a	O
+Siba	B-LOC
+fenyőerdőben	O
+.	O
+
+KIHÍVÓLEVÉL	O
+Hama	B-PER
+.	O
+
+Bunnojónak	B-PER
+volt	O
+öccse	O
+?	O
+
+Hjomának	B-PER
+hívják	O
+.	O
+
+Hány	B-AGE
+éves	I-AGE
+?	O
+
+Tizenhat	B-CARDINAL
+vagy	O
+tizenhét	B-CARDINAL
+lehet	O
+.	O
+
+Olvasd	O
+el	O
+!	O
+
+Nem	O
+hiszem	O
+,	O
+hogy	O
+Hjoma	B-PER
+képes	O
+megölni	O
+engem	O
+.	O
+
+Végül	O
+mindkét	O
+testvérrel	O
+végzek	O
+.	O
+
+Hogy	O
+tudsz	O
+ilyet	O
+...	O
+?	O
+
+Öld	O
+meg	O
+a	O
+fiadat	O
+!	O
+
+Öljem	O
+meg	O
+a	O
+fiamat	O
+?	O
+
+Igen	O
+,	O
+és	O
+engem	O
+is	O
+!	O
+
+Igen	O
+,	O
+velem	O
+is	O
+végezz	O
+!	O
+
+Kérlek	O
+,	O
+bocsáss	O
+meg	O
+!	O
+
+Bocsáss	O
+meg	O
+nekem	O
+...	O
+
+Megöllek	O
+,	O
+aztán	O
+magammal	O
+végzek	O
+!	O
+
+Ostoba	O
+!	O
+
+Átkozott	O
+bolond	O
+...	O
+!	O
+
+Hama	B-PER
+!	O
+
+Hjoma	B-PER
+...	O
+!	O
+
+Szörnyeteg	O
+!	O
+
+Gyűlöllek	O
+!	O
+
+Szuka	O
+!	O
+
+Sógornőm	O
+!	O
+
+Térj	O
+magadhoz	O
+!	O
+
+Johacsi	B-PER
+...	O
+
+Hjoma	B-PER
+..	O
+
+Ohama	B-PER
+asszony	O
+...	O
+!	O
+
+Ikutaro	B-PER
+...	O
+
+Igen	O
+!	O
+
+A	O
+fiam	O
+...	O
+
+Igen	O
+,	O
+igen	O
+!	O
+
+Az	O
+ott	O
+a	O
+Nagy	B-LOC
+Buddha	I-LOC
+hágó	I-LOC
+!	O
+
+Úgy	O
+terveztem	O
+,	O
+az	O
+apukáddal	O
+együtt	O
+jövök	O
+vissza	O
+.	O
+
+Omacunak	B-PER
+azt	O
+ígértem	O
+,	O
+vele	O
+együtt	O
+megyek	O
+át	O
+a	O
+hágón	O
+,	O
+de	O
+hát	O
+nem	O
+tudom	O
+,	O
+hogy	O
+ő	O
+hová	O
+lett	O
+.	O
+
+Annyi	O
+váratlan	O
+dolog	O
+történt	O
+.	O
+
+Most	O
+már	O
+van	O
+örököse	O
+a	O
+Cukue	B-PER
+családnak	O
+.	O
+
+Kiváló	O
+szamuráj	O
+legyél	O
+majd	O
+,	O
+úgy	O
+,	O
+mint	O
+a	O
+nagypapád	O
+!	O
+
+Addig	O
+én	O
+fogok	O
+vigyázni	O
+rád	O
+.	O
+
+Gyerekeknek	O
+nem	O
+szabad	O
+ezt	O
+látni	O
+.	O
+
+Menjetek	O
+!	O
+
+Menjetek	O
+innen	O
+!	O
+
+A	O
+nőt	O
+sikerült	O
+megmenteni	O
+,	O
+a	O
+férfit	O
+nem	O
+.	O
+
+Jön	O
+a	O
+daju	O
+!	O
+
+Jön	O
+a	O
+főgésa	O
+!	O
+
+Isten	B-PER
+hozta	O
+ismét	O
+.	O
+
+Egy	O
+palack	O
+szakét	O
+.	O
+
+Enni	O
+mit	O
+parancsol	O
+?	O
+
+Bármi	O
+megteszi	O
+.	O
+
+Sok	O
+fogadó	O
+van	O
+errefelé	O
+.	O
+
+Mibu	B-LOC
+másból	O
+sem	O
+áll	O
+,	O
+mint	O
+fogadókból	O
+.	O
+
+Kik	O
+vannak	O
+a	O
+legnagyobban	O
+?	O
+
+Az	O
+biztos	O
+a	O
+nanbui	B-GPE
+fogadó	O
+lesz	O
+.	O
+
+Egy	O
+fekete	O
+jelvény	O
+van	O
+az	O
+elején	O
+.	O
+
+Úgy	O
+olvastam	O
+,	O
+Sinszengumi	B-ORG
+"	O
+.	O
+
+Az	O
+lesz	O
+.	O
+
+Régebben	O
+Sincsogumi	B-ORG
+"	O
+voltak	O
+.	O
+
+Jól	O
+megy	O
+nekik	O
+.	O
+
+Ömlik	O
+hozzájuk	O
+az	O
+arany	O
+.	O
+
+Arany	O
+,	O
+mi	O
+?	O
+
+Bizony	O
+!	O
+
+Az	O
+pompás	O
+.	O
+
+Csak	O
+Omacu	B-PER
+lehetett	O
+...	O
+
+Túl	O
+sokat	O
+adott	O
+.	O
+
+Tartsa	O
+meg	O
+.	O
+
+Tényleg	O
+?	O
+
+Fizetek	O
+,	O
+kérem	O
+!	O
+
+Már	O
+megy	O
+is	O
+?	O
+
+Omacu	B-PER
+...	O
+?	O
+
+Hjoma	B-PER
+vagyok	O
+.	O
+
+Mi	O
+baj	O
+van	O
+,	O
+Omacu	B-PER
+?	O
+
+Honnan	O
+tudjam	O
+,	O
+ha	O
+csak	O
+sírsz	O
+?	O
+

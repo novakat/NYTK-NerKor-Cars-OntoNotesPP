@@ -1,0 +1,1743 @@
+# global.columns = FORM ONPP:NER
+Álljon	O
+a	O
+falhoz	O
+,	O
+kérem	O
+.	O
+
+Maradjon	O
+.	O
+
+Még	O
+egyet	O
+profilból	O
+,	O
+kérem	O
+.	O
+
+Valóban	O
+szükség	O
+van	O
+erre	O
+?	O
+
+A	O
+feleségem	O
+tudja	O
+,	O
+hány	B-TIME
+órakor	I-TIME
+értem	O
+haza	O
+akkor	O
+este	O
+.	O
+
+Egy	O
+olyan	O
+tanú	O
+,	O
+aki	O
+nem	O
+érdekelt	O
+az	O
+ügyben	O
+,	O
+értékesebb	O
+lehet	O
+.	O
+
+Igen	O
+,	O
+Christine	B-PER
+természetesen	O
+érdekelt	O
+benne	O
+.	O
+
+A	O
+negatívokért	O
+később	O
+felkeresem	O
+.	O
+
+Miért	O
+nem	O
+látogat	O
+meg	O
+?	O
+
+Maguk	O
+tiltották	O
+meg	O
+neki	O
+,	O
+hogy	O
+bejöjjön	O
+?	O
+
+Úgy	O
+értem	O
+,	O
+most	O
+már	O
+2	B-DATE
+hete	I-DATE
+,	O
+hogy	O
+itt	O
+vagyok	O
+.	O
+
+Mayhew	B-PER
+,	O
+kérem	O
+a	O
+jelentéseket	O
+.	O
+
+Beszéltek	O
+vele	O
+?	O
+
+Csak	O
+nem	O
+esett	O
+baja	O
+?	O
+
+Szeretnék	O
+felolvasni	O
+egy	O
+részletet	O
+Janet	B-PER
+McKenzie	I-PER
+,	O
+a	O
+házvezetőnő	O
+vallomásából	O
+.	O
+
+Vole	B-PER
+segített	O
+Mrs.	O
+Frenchnek	B-PER
+az	O
+üzleti	O
+ügyeit	O
+intézni	O
+,	O
+ezen	O
+belül	O
+is	O
+elsősorban	O
+a	O
+jöveledemadó-bevallását	O
+megírni	O
+.	O
+
+Igen	O
+,	O
+így	O
+volt	O
+.	O
+
+Némelyik	O
+nyomtatvány	O
+rendkívül	O
+bonyolult	O
+.	O
+
+A	O
+hölgy	O
+célozgatott	O
+arra	O
+is	O
+,	O
+hogy	O
+esetleg	O
+maga	O
+segített	O
+Mrs.	O
+Frenchnek	B-PER
+megfogalmazni	O
+az	O
+új	O
+végrendeletét	O
+.	O
+
+De	O
+ez	O
+nem	O
+igaz	O
+.	O
+
+Ha	O
+Janet	B-PER
+ezt	O
+mondta	O
+,	O
+hazudott	O
+.	O
+
+Sosem	O
+kedvelt	O
+engem	O
+,	O
+nem	O
+tudom	O
+,	O
+miért	O
+.	O
+
+Pedig	O
+nyilvánvaló	O
+.	O
+
+A	O
+habverőjével	O
+tulajdonképpen	O
+porszemet	O
+juttatott	O
+a	O
+hölgy	O
+viktoriánus	O
+háztartásának	O
+gépezetébe	O
+.	O
+
+Nos	O
+,	O
+ez	O
+a	O
+karcolás	O
+a	O
+csuklóján	O
+.	O
+
+Azt	O
+mondja	O
+,	O
+egy	O
+késsel	O
+vágta	O
+meg	O
+magát	O
+?	O
+
+Igen	O
+,	O
+így	O
+van	O
+,	O
+így	O
+történt	O
+.	O
+
+Kenyeret	O
+vágtam	O
+,	O
+és	O
+a	O
+kés	O
+megcsúszott	O
+.	O
+
+De	O
+ez	O
+2	B-DATE
+nappal	I-DATE
+a	O
+gyilkosság	O
+után	O
+történt	O
+.	O
+
+Christine	B-PER
+is	O
+ott	O
+volt	O
+.	O
+
+Elmondhatja	O
+ezt	O
+is	O
+a	O
+vallomásában	O
+.	O
+
+Valamit	O
+titkolnak	O
+előlem	O
+?	O
+
+Megbetegedett	O
+?	O
+
+Megrázták	O
+a	O
+történtek	O
+?	O
+
+Összességében	O
+jól	O
+viselte	O
+.	O
+
+Noha	O
+előfordulhat	O
+,	O
+hogy	O
+ez	O
+csak	O
+a	O
+felszín	O
+.	O
+
+A	O
+feleségek	O
+gyakran	O
+összezavarodnak	O
+ilyen	O
+esetekben	O
+.	O
+
+Igen	O
+,	O
+biztosan	O
+nehéz	O
+lehet	O
+neki	O
+.	O
+
+Sosem	O
+voltunk	O
+még	O
+ilyen	O
+hosszú	O
+ideig	O
+távol	O
+egymástól	O
+.	O
+
+A	O
+megismerkedésünk	O
+óta	O
+nem	O
+fordult	O
+elő	O
+.	O
+
+Hogyan	O
+ismerkedett	O
+meg	O
+a	O
+feleségével	O
+,	O
+Mr.	O
+Németországban	B-GPE
+,	O
+1945-ben	B-DATE
+.	O
+
+Igazán	O
+mulatságos	O
+.	O
+
+Amikor	O
+legelőször	O
+találkoztunk	O
+,	O
+fejemre	O
+esett	O
+a	O
+mennyezet	O
+.	O
+
+Hamburgban	B-GPE
+állomásoztam	O
+,	O
+a	O
+légierő	O
+ellátó	O
+egységével	O
+.	O
+
+Felszereltem	O
+egy	O
+zuhanyzót	O
+a	O
+tiszti	O
+szállás	O
+fürdőjébe	O
+,	O
+úgyhogy	O
+eltávozást	O
+kaptam	O
+a	B-DATE
+hétvégére	I-DATE
+.	O
+
+Gyerünk	O
+.	O
+
+Hé	O
+,	O
+Fräulein	B-PER
+,	O
+mutasson	O
+nekünk	O
+valamit	O
+a	O
+lábából	O
+.	O
+
+Meglopnak	O
+,	O
+aztán	O
+odadobnak	O
+a	O
+semmirekellő	O
+tengerészeknek	O
+.	O
+
+Gyerünk	O
+,	O
+hadd	O
+lássuk	O
+őket	O
+.	O
+
+Lábakat	O
+akarunk	O
+.	O
+
+Gyerünk	O
+,	O
+segítsük	O
+ki	O
+a	O
+látnivalót	O
+a	O
+nadrágjából	O
+.	O
+
+Jól	O
+van	O
+,	O
+Fräulein	B-PER
+,	O
+ha	O
+maga	O
+nem	O
+mutatja	O
+meg	O
+őket	O
+,	O
+majd	O
+én	O
+megmutatom	O
+.	O
+
+Jól	O
+van	O
+,	O
+kifelé	O
+,	O
+mindenki	O
+.	O
+
+Gyerünk	O
+,	O
+mozgás	O
+.	O
+
+Őt	O
+a	O
+másik	O
+kocsihoz	O
+vidd	O
+.	O
+
+Visszajövünk	O
+még	O
+,	O
+drága	O
+.	O
+
+Visszajövünk	O
+még	O
+.	O
+
+Gesundheit	O
+.	O
+
+Mit	O
+keres	O
+?	O
+
+A	O
+harmonikámat	O
+.	O
+
+Hadd	O
+segítsek	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+megtaláltam	O
+.	O
+
+Lépjen	O
+rá	O
+még	O
+egyszer	O
+,	O
+még	O
+lélegzik	O
+.	O
+
+Szörnyen	O
+sajnálom	O
+.	O
+
+Jobb	O
+,	O
+ha	O
+most	O
+inkább	O
+elmegy	O
+.	O
+
+Épp	O
+elég	O
+gondot	O
+okoztak	O
+már	O
+.	O
+
+Nos	O
+,	O
+csak	O
+magának	O
+köszönheti	O
+.	O
+
+A	O
+plakáton	O
+az	O
+a	O
+ruha	O
+beindította	O
+a	O
+fiúk	O
+fantáziáját	O
+,	O
+nagyot	O
+csalódtak	O
+,	O
+mikor	O
+meglátták	O
+a	O
+nadrágot	O
+.	O
+
+Azt	O
+a	O
+ruhát	O
+az	O
+elsők	O
+között	O
+támadták	O
+meg	O
+.	O
+
+Támadás	O
+támadást	O
+követett	O
+,	O
+míg	O
+nem	O
+maradt	O
+más	O
+csak	O
+ez	O
+a	O
+nadrág	O
+,	O
+de	O
+ma	B-DATE
+ezt	O
+is	O
+lebombázták	O
+.	O
+
+Cigarettát	O
+?	O
+
+Rágót	O
+?	O
+
+Megégeti	O
+az	O
+orromat	O
+.	O
+
+Semmi	O
+baj	O
+.	O
+
+Mit	O
+szólna	O
+egy	O
+csésze	O
+kávéhoz	O
+?	O
+
+Van	O
+egy	O
+doboz	O
+kávém	O
+.	O
+
+Mennyibe	O
+kerül	O
+?	O
+
+Mennyi	O
+a	O
+beváltási	O
+árfolyam	O
+?	O
+
+Attól	O
+függ	O
+,	O
+hogy	O
+friss	O
+vagy	O
+porból	O
+készült	O
+.	O
+
+Instant	O
+kávé	O
+.	O
+
+Van	O
+meleg	O
+vize	O
+?	O
+
+Előfordul	O
+.	O
+
+Tegyünk	O
+egy	O
+próbát	O
+.	O
+
+Hol	O
+lakik	O
+?	O
+
+A	O
+közelben	O
+.	O
+
+Jöjjön	O
+.	O
+
+Ne	O
+haragudjon	O
+,	O
+de	O
+a	O
+bejárónő	O
+éjszakára	O
+kimenőt	O
+kapott	O
+.	O
+
+Ez	O
+borzalmas	O
+.	O
+
+A	O
+maga	O
+gemütlich	O
+módján	O
+.	O
+
+Már	O
+megszoktam	O
+.	O
+
+Régebben	O
+volt	O
+egy	O
+szobatársam	O
+is	O
+.	O
+
+Egy	O
+táncoslány	O
+.	O
+
+Szerencséje	O
+volt	O
+,	O
+férjhez	O
+ment	O
+egy	O
+kanadaihoz	B-NORP
+.	O
+
+Most	O
+Torontóban	B-GPE
+él	O
+.	O
+
+Ford	B-PROD
+autóval	O
+jár	O
+.	O
+
+Helyezze	O
+magát	O
+kényelembe	O
+,	O
+mostanság	O
+elég	O
+lassan	O
+melegít	O
+ez	O
+a	O
+tűzhely	O
+.	O
+
+Semmi	O
+gond	O
+,	O
+hétvégére	B-DATE
+eltávozást	O
+kaptam	O
+.	O
+
+Ne	O
+,	O
+ne	O
+abba	O
+a	O
+székbe	O
+.	O
+
+Azt	O
+a	O
+gerendát	O
+támasztja	O
+,	O
+ami	O
+a	O
+plafont	O
+tartja	O
+.	O
+
+Üljön	O
+inkább	O
+a	O
+kempingágyra	O
+.	O
+
+A	O
+kempingágyra	O
+?	O
+
+Egyre	O
+inkább	O
+gemütlich	O
+ez	O
+a	O
+szoba	O
+.	O
+
+Férjnél	O
+van	O
+?	O
+
+Nos	O
+,	O
+a	O
+...	O
+
+Ja	O
+,	O
+ez	O
+.	O
+
+Nem	O
+,	O
+nem	O
+,	O
+nem	O
+vagyok	O
+férjnél	O
+.	O
+
+Akkor	O
+szoktam	O
+felvenni	O
+,	O
+ha	O
+dolgozom	O
+.	O
+
+Ad	O
+némi	O
+védelmet	O
+a	O
+férfiakkal	O
+szemben	O
+.	O
+
+A	O
+ma	B-DATE
+este	O
+nem	O
+sikerült	O
+túl	O
+jól	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Nem	O
+,	O
+a	O
+ma	B-DATE
+este	O
+borzalmas	O
+volt	O
+.	O
+
+De	O
+ennél	O
+már	O
+csak	O
+jobb	O
+lehet	O
+.	O
+
+Hol	O
+van	O
+a	O
+kávé	O
+?	O
+
+A	O
+kávé	O
+,	O
+ja	O
+voll	O
+.	O
+
+A	O
+legfinomabb	O
+brazíliai	B-GPE
+keverék	O
+.	O
+
+Montgomery	B-PER
+tábornagy	O
+is	O
+ezt	O
+a	O
+márkát	O
+issza	O
+.	O
+
+Ez	O
+a	O
+beváltási	O
+árfolyam	O
+megfelelő	O
+?	O
+
+Nagyon	O
+is	O
+megfelelő	O
+.	O
+
+Nem	O
+kéri	O
+esetleg	O
+az	O
+egész	O
+dobozzal	O
+?	O
+
+De	O
+kérem	O
+.	O
+
+Hogy	O
+szereti	O
+,	O
+cukorral	O
+?	O
+
+Szoktam	O
+beletenni	O
+.	O
+
+Tejet	O
+?	O
+
+Azt	O
+is	O
+.	O
+
+Tej	O
+.	O
+
+Cukor	O
+.	O
+
+Öröm	O
+magával	O
+üzletet	O
+kötni	O
+.	O
+
+Van	O
+még	O
+itt	O
+kétszersült	O
+,	O
+tojáspor	O
+,	O
+szalonna	O
+,	O
+lekvár	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+megengedhetem	O
+-e	O
+magamnak	O
+.	O
+
+Ne	O
+aggódjon	O
+,	O
+kitalálunk	O
+valamit	O
+,	O
+mondjuk	O
+fizetheti	O
+részletekben	O
+is	O
+.	O
+
+Leszakadt	O
+a	O
+plafonja	O
+.	O
+
+Talán	O
+helyre	O
+tudom	O
+hozni	O
+,	O
+értek	O
+hozzá	O
+.	O
+
+Miért	O
+kéne	O
+helyrehozni	O
+?	O
+
+Nem	O
+esik	O
+.	O
+
+Minden	O
+rendben	O
+?	O
+
+Kicsit	O
+fáj	O
+a	O
+fejem	O
+.	O
+
+Talán	O
+helyre	O
+tudom	O
+hozni	O
+.	O
+
+Értek	O
+hozzá	O
+.	O
+
+Hétvégi	B-DATE
+eltávozáson	O
+voltam	O
+,	O
+egyhavi	B-DATE
+fizetésemmel	O
+a	O
+zsebemben	O
+.	O
+
+Ő	O
+pedig	O
+már	O
+hordott	O
+egy	O
+jeggyűrűt	O
+.	O
+
+Igen	O
+,	O
+így	O
+van	O
+.	O
+
+Összeházasodtunk	O
+.	O
+
+Amikor	O
+leszereltem	O
+,	O
+hazahoztam	O
+magammal	O
+.	O
+
+Csodálatos	O
+volt	O
+.	O
+
+Az	O
+Edgware	B-FAC
+Roadon	I-FAC
+béreltem	O
+egy	O
+kis	O
+lakást	O
+.	O
+
+Amikor	O
+először	O
+megpillantotta	O
+,	O
+olyan	O
+boldog	O
+volt	O
+,	O
+hogy	O
+elsírta	O
+magát	O
+.	O
+
+Végre	O
+rendes	O
+tető	O
+volt	O
+a	O
+feje	O
+felett	O
+,	O
+ráadásul	O
+még	O
+brit	B-NORP
+útlevelet	O
+is	O
+kapott	O
+.	O
+
+Maga	O
+nem	O
+ismeri	O
+Christine-t	B-PER
+,	O
+nem	O
+tudja	O
+,	O
+mit	O
+érez	O
+irántam	O
+.	O
+
+De	O
+majd	O
+megtudja	O
+,	O
+ha	O
+vallomást	O
+tesz	O
+.	O
+
+Vole	B-PER
+,	O
+az	O
+a	O
+helyzet	O
+,	O
+hogy	O
+nem	O
+fogom	O
+beidézni	O
+őt	O
+tanúnak	O
+.	O
+
+Nem	O
+fogja	O
+beidézni	O
+?	O
+
+Külföldi	O
+,	O
+nem	O
+látja	O
+át	O
+nyelvünk	O
+bonyolultságát	O
+.	O
+
+A	O
+vád	O
+könnyedén	O
+kikezdi	O
+majd	O
+a	O
+vallomását	O
+.	O
+
+Úgy	O
+hallottam	O
+,	O
+hogy	O
+Mr.	O
+Myers	B-PER
+fogja	O
+képviselni	O
+a	O
+vádat	O
+.	O
+
+Nem	O
+kockáztathatunk	O
+.	O
+
+Jobb	O
+,	O
+ha	O
+most	O
+megyünk	O
+.	O
+
+Miss	O
+Plimsoll	B-PER
+már	O
+vár	O
+a	O
+kocsiban	O
+a	O
+piruláival	O
+meg	O
+egy	O
+termosz	O
+langyos	O
+kakaóval	O
+.	O
+
+Biztos	O
+úr	O
+.	O
+
+De	O
+Christine-nek	B-PER
+muszáj	O
+tanúskodnia	O
+.	O
+
+Vole	B-PER
+,	O
+tanuljon	O
+meg	O
+bízni	O
+bennem	O
+.	O
+
+Ha	O
+másért	O
+nem	O
+,	O
+hát	O
+azért	O
+,	O
+mert	O
+egy	O
+zsugori	O
+,	O
+mogorva	O
+vénember	O
+vagyok	O
+,	O
+aki	O
+nem	O
+tud	O
+veszíteni	O
+.	O
+
+Kívánjunk	O
+egymásnak	O
+sok	O
+szerencsét	O
+.	O
+
+Nézze	O
+,	O
+én	O
+nem	O
+tudok	O
+ezzel	O
+szembenézni	O
+,	O
+ha	O
+Christine	B-PER
+nincs	O
+mellettem	O
+.	O
+
+Szükségem	O
+van	O
+rá	O
+.	O
+
+Nélküle	O
+elvesztem	O
+.	O
+
+Megindító	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Hogy	O
+mennyire	O
+számít	O
+a	O
+feleségére	O
+.	O
+
+De	O
+.	O
+
+Mint	O
+a	O
+fuldokló	O
+,	O
+aki	O
+a	O
+borotvapengébe	O
+is	O
+belekapaszkodik	O
+.	O
+
+Leonard	B-PER
+Stephen	I-PER
+Vole	I-PER
+,	O
+a	O
+maga	O
+ellen	O
+felhozott	O
+vádak	O
+szerint	O
+október	B-DATE
+14.	I-DATE
+napján	I-DATE
+,	O
+London	B-GPE
+megyéjében	I-GPE
+,	O
+meggyilkolta	O
+Emily	B-PER
+Jane	I-PER
+Frenchet	I-PER
+.	O
+
+Hogyan	O
+vélekedik	O
+,	O
+Leonard	B-PER
+Stephen	I-PER
+Vole	I-PER
+?	O
+
+Bűnös	O
+vagy	O
+nem	O
+bűnös	O
+?	O
+
+Nem	O
+vagyok	O
+bűnös	O
+.	O
+
+Tisztelt	O
+esküdtek	O
+,	O
+a	O
+vádirat	O
+értelmében	O
+az	O
+itt	O
+jelenlévő	O
+vádlott	O
+október	B-DATE
+14.	I-DATE
+napján	I-DATE
+meggyilkolta	O
+Emily	B-PER
+Jane	I-PER
+Frenchet	I-PER
+.	O
+
+Állítása	O
+szerint	O
+az	O
+ismertetett	O
+vádpontban	O
+nem	O
+bűnös	O
+.	O
+
+A	O
+maguk	O
+feladata	O
+lesz	O
+eldönteni	O
+,	O
+miután	O
+végighallgatták	O
+a	O
+tanúvallomásokat	O
+,	O
+hogy	O
+a	O
+vádlott	O
+bűnös	O
+avagy	O
+nem	O
+bűnös	O
+.	O
+
+Tisztelt	O
+esküdtszék	O
+,	O
+az	O
+önök	O
+által	O
+tett	O
+eskü	O
+értelmében	O
+az	O
+ítéletet	O
+csak	O
+és	O
+kizárólag	O
+a	O
+tanúvallomások	O
+alapján	O
+hozhatják	O
+meg	O
+.	O
+
+Semmiről	O
+nem	O
+szabad	O
+tudomást	O
+venniük	O
+,	O
+csak	O
+és	O
+kizárólag	O
+arról	O
+,	O
+ami	O
+itt	O
+,	O
+ezen	O
+a	O
+bíróságon	O
+,	O
+a	O
+tárgyalás	O
+folyamán	O
+történik	O
+.	O
+
+Ismertesse	O
+a	O
+vádat	O
+,	O
+Mr.	O
+Myers	B-PER
+.	O
+
+Ahogy	O
+óhajtja	O
+,	O
+bíró	O
+úr	O
+.	O
+
+Tisztelt	O
+esküdtszék	O
+,	O
+én	O
+és	O
+rendkívül	O
+nagy	O
+tudású	O
+barátom	O
+,	O
+Mr.	O
+Barton	B-PER
+,	O
+ezen	O
+ügyben	O
+a	O
+vád	O
+képviselőiként	O
+vagyunk	O
+jelen	O
+.	O
+
+Másik	O
+két	B-CARDINAL
+nagy	O
+tudású	O
+barátom	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+Robarts	I-PER
+és	O
+Mr.	O
+Brogan-Moore	B-PER
+pedig	O
+a	O
+védelem	O
+képviselőiként	O
+.	O
+
+Bízom	O
+benne	O
+,	O
+hogy	O
+a	O
+nagy	O
+tudású	O
+és	O
+mindig	O
+tettrekész	O
+Sir	B-PER
+Wilfrid	I-PER
+jelenléte	O
+ellenére	O
+is	O
+lehetőségünk	O
+nyílik	O
+majd	O
+álláspontunk	O
+minél	O
+teljesebb	O
+felvázolására	O
+.	O
+
+Bíró	O
+úr	O
+,	O
+biztosítani	O
+szeretném	O
+affelől	O
+,	O
+hogy	O
+nagy	O
+tudású	O
+barátom	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+jelenleg	O
+az	O
+Old	B-FAC
+Bailey-ben	I-FAC
+tartózkodik	O
+.	O
+
+Egészségi	O
+állapota	O
+ezt	O
+követeli	O
+,	O
+de	O
+nemsokára	O
+elfoglalja	O
+mellettem	O
+a	O
+helyét	O
+.	O
+
+Bíró	O
+úr	O
+,	O
+ha	O
+megengedi	O
+,	O
+kifejezném	O
+sajnálatomat	O
+Sir	B-PER
+Wilfrid	I-PER
+ilyetén	O
+egészségi	O
+állapota	O
+miatt	O
+.	O
+
+Fejezze	O
+ki	O
+,	O
+Mr.	O
+És	O
+megkérem	O
+,	O
+folytassa	O
+a	O
+vád	O
+ismertetését	O
+.	O
+
+Köszönöm	O
+,	O
+bíró	O
+úr	O
+.	O
+
+Az	O
+ügy	O
+során	O
+felmerült	O
+tények	O
+egyszerűek	O
+és	O
+egyértelműen	O
+kétségbe	O
+vonhatatlanok	O
+.	O
+
+A	O
+tárgyalás	O
+során	O
+hallani	O
+fogják	O
+majd	O
+,	O
+a	O
+vádlott	O
+hogyan	O
+kötött	O
+ismeretséget	O
+Mrs.	O
+Emily	B-PER
+French-csel	I-PER
+,	O
+egy	O
+56	B-AGE
+éves	I-AGE
+hölggyel	O
+.	O
+
+Hallani	O
+fogják	O
+,	O
+hogy	O
+az	O
+asszony	O
+milyen	O
+szeretettel	O
+és	O
+ragaszkodással	O
+viseltetett	O
+iránta	O
+.	O
+
+Október	B-DATE
+14.	I-DATE
+napjának	I-DATE
+estéjén	B-TIME
+,	O
+9.30	B-TIME
+és	I-TIME
+10	I-TIME
+óra	I-TIME
+között	O
+,	O
+Mrs.	O
+Frenchet	B-PER
+meggyilkolták	O
+.	O
+
+Meg	O
+fogunk	O
+hallgatni	O
+egy	O
+orvosi	O
+szakvéleményt	O
+acélból	O
+,	O
+hogy	O
+bebizonyítsuk	O
+,	O
+a	O
+halál	O
+oka	O
+egy	O
+tompa	O
+,	O
+de	O
+nehéz	O
+eszközzel	O
+mért	O
+csapás	O
+volt	O
+,	O
+illetőleg	O
+,	O
+hogy	O
+bebizonyítsuk	O
+a	O
+vád	O
+álláspontjának	O
+helyességét	O
+,	O
+miszerint	O
+ezt	O
+a	O
+csapást	O
+nem	O
+más	O
+,	O
+mint	O
+a	O
+vádlott	O
+,	O
+Leonard	B-PER
+Vole	I-PER
+mérte	O
+az	O
+asszonyra	O
+.	O
+
+Ez	O
+nem	O
+igaz	O
+.	O
+
+A	O
+vád	O
+tanújaként	O
+ezen	O
+kívül	O
+megjelenik	O
+majd	O
+egy	O
+rendőrtiszt	O
+,	O
+French	B-PER
+házvezetőnője	O
+,	O
+Janet	B-PER
+McKenzie	I-PER
+,	O
+orvosok	O
+,	O
+és	O
+laboratóriumi	O
+szakemberek	O
+,	O
+illetőleg	O
+a	O
+meggyilkolt	O
+asszony	O
+ügyvédje	O
+,	O
+aki	O
+megírta	O
+a	O
+végrendeletét	O
+.	O
+
+Most	O
+pedig	O
+szólítom	O
+Hearne	B-PER
+főfelügyelőt	O
+,	O
+a	O
+Bűnügyi	B-ORG
+Osztálytól	I-ORG
+,	O
+a	O
+New	B-ORG
+Scotland	I-ORG
+Yardtól	I-ORG
+.	O
+
+Hearne	B-PER
+főfelügyelő	O
+.	O
+
+Nevetséges	O
+.	O
+
+Csak	O
+egy	O
+kis	O
+gyomorégés	O
+.	O
+
+A	O
+tárgyalások	O
+első	B-DATE
+napján	I-DATE
+mindig	O
+tapasztaltam	O
+.	O
+
+240/130	B-CARDINAL
+.	O
+
+Egyáltalán	O
+nem	O
+szabadna	O
+itt	O
+lennie	O
+.	O
+

@@ -1,0 +1,1427 @@
+# global.columns = FORM ONPP:NER
+Ike	B-PER
+Clanton	I-PER
+és	O
+Johnny	B-PER
+Ringo	I-PER
+három	B-DATE
+napja	I-DATE
+erre	O
+lovagolt	O
+.	O
+
+Tucatnyi	B-CARDINAL
+vád	O
+van	O
+ellenük	O
+.	O
+
+Úgy	O
+volt	O
+,	O
+hogy	O
+Cotton	B-PER
+letartóztatja	O
+őket	O
+,	O
+de	O
+elárult	O
+.	O
+
+Cotton	B-PER
+nagyon	O
+lecsúszott	O
+.	O
+
+Mit	O
+tudsz	O
+?	O
+
+Bárcsak	O
+tudnék	O
+semmit	O
+,	O
+de	O
+...	O
+
+Álljunk	O
+csak	O
+meg	O
+!	O
+
+Doc	B-PER
+Holliday	I-PER
+pókerezett	O
+velük	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+o	O
+tud	O
+valamit	O
+.	O
+
+Csapos	O
+!	O
+
+Hozzál	O
+valami	O
+rendes	O
+italt	O
+!	O
+
+Ed	B-PER
+Bailey	I-PER
+.	O
+
+Doc	B-PER
+Holliday	I-PER
+lelőtte	O
+a	O
+bátyját	O
+.	O
+
+Megérdemelte	O
+.	O
+
+Részegen	O
+jött	O
+be	O
+,	O
+csalt	O
+a	O
+pókeren	O
+,	O
+és	O
+fegyvert	O
+rántott	O
+.	O
+
+Találkoztál	O
+már	O
+vele	O
+?	O
+
+Még	O
+régebben	O
+.	O
+
+Akkor	O
+még	O
+fogorvos	O
+volt	O
+.	O
+
+Eddig	O
+még	O
+nem	O
+láttam	O
+kötekedni	O
+.	O
+
+De	O
+a	O
+baj	O
+mintha	O
+a	O
+nyomában	O
+járna	O
+.	O
+
+Minden	O
+vadnyugati	O
+fegyverhősjelölt	O
+őt	O
+akarja	O
+a	O
+temetőbe	O
+küldeni	O
+.	O
+
+Tudod	O
+te	O
+is	O
+,	O
+milyen	O
+az	O
+,	O
+amikor	O
+hírneved	O
+lesz	O
+.	O
+
+Tudom	O
+hát	O
+.	O
+
+Hol	O
+van	O
+Holliday	B-PER
+?	O
+
+Jó	O
+lenne	O
+,	O
+ha	O
+életében	O
+találkoznék	O
+vele	O
+.	O
+
+A	O
+hotelben	O
+van	O
+.	O
+
+Tartsd	O
+melegen	O
+a	O
+marhasültet	O
+!	O
+
+Nem	O
+vesztesz	O
+sokat	O
+.	O
+
+Inas	O
+marha	O
+.	O
+
+Holliday	B-PER
+?	O
+
+Üljön	O
+le	O
+,	O
+mintha	O
+otthon	O
+lenne	O
+!	O
+
+Hiszen	O
+meghívtam	O
+.	O
+
+Nem	O
+tudom	O
+,	O
+emlékszik	O
+-e	O
+rám	O
+...	O
+
+Emlékszem	O
+,	O
+Wyatt	B-PER
+Earp	I-PER
+.	O
+
+10	B-DATE
+éve	I-DATE
+kihúztam	O
+az	O
+egyik	B-ORDINAL
+fogát	O
+.	O
+
+Ha	O
+akkor	O
+tudom	O
+,	O
+hogy	O
+mi	O
+lesz	O
+magából	O
+,	O
+akkor	O
+...	O
+
+Úgy	O
+hallom	O
+,	O
+most	O
+mással	O
+foglalkozik	O
+.	O
+
+Kár	O
+,	O
+mert	O
+jó	O
+fogorvos	O
+volt	O
+.	O
+
+A	O
+pácienseimet	O
+zavarta	O
+a	O
+köhögésem	O
+.	O
+
+Információra	O
+lenne	O
+szükségem	O
+.	O
+
+Ezt	O
+a	O
+játékot	O
+pasziánsznak	O
+hívják	O
+.	O
+
+Van	O
+valamim	O
+cserébe	O
+.	O
+
+További	O
+jó	O
+estét	O
+,	O
+Mr.	O
+Earp	B-PER
+!	O
+
+Tudok	O
+valamit	O
+,	O
+ami	O
+érdekelné	O
+.	O
+
+Semmit	O
+sem	O
+tud	O
+,	O
+ami	O
+érdekelne	O
+.	O
+
+És	O
+ha	O
+azt	O
+mondanám	O
+,	O
+hogy	O
+Ed	B-PER
+Bailey	I-PER
+...	O
+egy	O
+kis	O
+derringert	O
+hord	O
+a	O
+csizmájában	O
+?	O
+
+Bal	O
+vagy	O
+jobb	O
+?	O
+
+Bal	O
+.	O
+
+Ez	O
+jó	O
+információ	O
+.	O
+
+Bailey	B-PER
+balkezes	O
+.	O
+
+Maga	O
+kártyázott	O
+velük	O
+.	O
+
+Merre	O
+tartottak	O
+?	O
+
+Azt	O
+hittem	O
+,	O
+üzletelünk	O
+.	O
+
+Ezt	O
+csak	O
+maga	O
+hitte	O
+.	O
+
+Én	O
+nem	O
+üzletelek	O
+.	O
+
+Tudja	O
+,	O
+hogy	O
+merre	O
+mentek	O
+?	O
+
+Zavarja	O
+a	O
+partimat	O
+.	O
+
+Ennyire	O
+rühelli	O
+a	O
+törvényt	O
+?	O
+
+Miért	O
+ne	O
+tenném	O
+?	O
+
+Morgan	B-PER
+bátyja	O
+tavaly	B-DATE
+üldözött	O
+el	O
+Deadwoodból	B-GPE
+,	O
+és	O
+el	O
+is	O
+kobzott	O
+10000	B-MONEY
+dolláromat	I-MONEY
+.	O
+
+Ha	O
+jól	O
+tudom	O
+,	O
+a	O
+testvérei	O
+...	O
+rendőrbíráskodnak	O
+szerte	O
+a	O
+határvidéken	O
+.	O
+
+Viszontlátásra	O
+,	O
+Holliday	B-PER
+!	O
+
+Ha	O
+megéri	O
+.	O
+
+Mit	O
+tudtál	O
+meg	O
+?	O
+
+Szerintem	O
+Tombstone	B-FAC
+felé	O
+tartanak	O
+.	O
+
+Ike	B-PER
+apjának	O
+van	O
+ott	O
+egy	O
+tanyája	O
+,	O
+de	O
+lehet	O
+,	O
+hogy	O
+tévedek	O
+.	O
+
+Nem	O
+Virgil	B-PER
+bátyád	O
+a	O
+rendőrbíró	O
+Tombstone-ban	B-LOC
+?	O
+
+Már	O
+sürgönyöztem	O
+neki	O
+,	O
+hogy	O
+tartsa	O
+nyitva	O
+a	O
+szemét	O
+.	O
+
+Mit	O
+fogsz	O
+tenni	O
+?	O
+
+Semmit	O
+nem	O
+tehetek	O
+.	O
+
+A	O
+nyom	O
+kihűlt	O
+.	O
+
+Reggel	B-TIME
+visszamegyek	O
+Dodge	B-GPE
+Citybe	I-GPE
+.	O
+
+Holliday	B-PER
+!	O
+
+Nem	O
+fizetné	O
+ki	O
+a	O
+számláját	O
+?	O
+
+Úgy	O
+értem	O
+,	O
+uram	O
+,	O
+nem	O
+tudjuk	O
+,	O
+hogy	O
+kijelentkezik	O
+-e	O
+vagy	O
+sem	O
+.	O
+
+Negyedóra	B-TIME
+múlva	I-TIME
+megtudja	O
+.	O
+
+Doc	B-PER
+,	O
+semmi	O
+esélye	O
+nincs	O
+ezek	O
+ellen	O
+.	O
+
+Ha	O
+Bailey	B-PER
+nem	O
+lövi	O
+le	O
+,	O
+elkapja	O
+a	O
+rendőrbíró	O
+.	O
+
+Ha	O
+van	O
+esze	O
+,	O
+elmegy	O
+.	O
+
+Úgy	O
+viselkedik	O
+,	O
+mint	O
+aki	O
+le	O
+akarja	O
+lövetni	O
+magát	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+így	O
+is	O
+van	O
+.	O
+
+Holliday	B-PER
+,	O
+adja	O
+le	O
+a	O
+fegyverét	O
+!	O
+
+Jó	O
+estét	O
+,	O
+Harry	B-PER
+!	O
+
+A	O
+szokásosat	O
+!	O
+
+Úgy	O
+értesültem	O
+,	O
+hogy	O
+egy	O
+Fort	B-GPE
+Worth-i	I-GPE
+úriember	O
+engem	O
+keres	O
+.	O
+
+Az	O
+említett	O
+úr	O
+megtaníthatta	O
+volna	O
+...	O
+a	O
+testvérének	O
+,	O
+hogy	O
+csalni	O
+nem	O
+ildomos	O
+.	O
+
+Ha	O
+látná	O
+ezt	O
+az	O
+urat	O
+,	O
+kérem	O
+mondja	O
+meg	O
+neki	O
+,	O
+hogy	O
+a	O
+temetőnél	O
+várom	O
+.	O
+
+Onnan	O
+csak	O
+egy	O
+irányba	O
+mehet	O
+:	O
+mégpedig	O
+lefelé	O
+.	O
+
+De	O
+ha	O
+jobban	O
+belegondolok	O
+,	O
+nem	O
+is	O
+úriember	O
+ez	O
+az	O
+alak	O
+,	O
+csak	O
+egy	O
+gyáva	O
+féreg	O
+!	O
+
+Rendben	O
+,	O
+Doc	B-PER
+,	O
+indulás	O
+!	O
+
+Éppen	O
+időben	O
+.	O
+
+Mi	O
+a	O
+vád	O
+?	O
+
+Majd	O
+kitaláljuk	O
+.	O
+
+Sejtettem	O
+.	O
+
+Kösz	O
+,	O
+Harry	B-PER
+.	O
+
+Vigyétek	O
+kifelé	O
+!	O
+
+Ennyi	O
+volt	O
+,	O
+emberek	O
+!	O
+
+Vége	O
+a	O
+műsornak	O
+!	O
+
+Jöjjenek	O
+a	O
+pulthoz	O
+!	O
+
+Mindenki	O
+a	O
+ház	O
+vendége	O
+!	O
+
+Kérek	O
+egy	O
+pofa	O
+sört	O
+,	O
+csapos	O
+!	O
+
+Sokat	O
+kell	O
+takarítani	O
+egy	O
+gyilkosság	O
+után	O
+.	O
+
+Doc	B-PER
+tönkretette	O
+a	O
+szórakozásukat	O
+.	O
+
+Veszett	O
+egy	O
+alak	O
+,	O
+de	O
+gyávának	O
+nem	O
+nevezhető	O
+.	O
+
+Shanssey	B-PER
+!	O
+
+Mit	O
+akarnak	O
+tenni	O
+?	O
+
+Látták	O
+mi	O
+történt	O
+.	O
+
+Nem	O
+volt	O
+joguk	O
+kivinni	O
+Docot	B-PER
+!	O
+
+Valamit	O
+csinálni	O
+fognak	O
+vele	O
+,	O
+tudom	O
+!	O
+
+Kate	B-PER
+Fisher	I-PER
+,	O
+Doc	B-PER
+barátja	O
+.	O
+
+Rászedték	O
+.	O
+
+Maguk	O
+is	O
+látták	O
+!	O
+
+Bailey	B-PER
+rántott	O
+pisztolyt	O
+.	O
+
+Pillanat	O
+,	O
+Miss	O
+Fisher	B-PER
+!	O
+
+Nyugodjon	O
+meg	O
+!	O
+
+Nyugodjon	O
+meg	O
+,	O
+a	O
+törvény	O
+nevében	O
+járnak	O
+el	O
+!	O
+
+Itt	O
+nem	O
+a	O
+törvény	O
+az	O
+úr	O
+.	O
+
+Még	O
+senkit	O
+se	O
+láttam	O
+,	O
+aki	O
+ennyire	O
+akarná	O
+a	O
+halált	O
+.	O
+
+Kérem	O
+,	O
+segítenie	O
+kell	O
+!	O
+
+Semmi	O
+közöm	O
+Doc	B-PER
+Hollidayhez	I-PER
+.	O
+
+Kérem	O
+,	O
+uram	O
+!	O
+
+Nem	O
+akarok	O
+beleavatkozni	O
+.	O
+
+Nem	O
+kedvelem	O
+a	O
+fickót	O
+.	O
+
+Kate	B-PER
+,	O
+két	B-CARDINAL
+felnyergelt	O
+lovat	O
+a	O
+hotel	O
+mögé	O
+viszek	O
+.	O
+
+Ennyit	O
+tehetek	O
+csak	O
+.	O
+
+Mindenki	O
+Doc	B-PER
+ellen	O
+van	O
+,	O
+és	O
+ha	O
+megtudják	O
+,	O
+hogy	O
+segítettem	O
+neki	O
+,	O
+bezárhatom	O
+a	O
+kocsmát	O
+.	O
+
+A	O
+tízes	B-CARDINAL
+szobát	O
+kérem	O
+.	O
+
+Wilson	B-PER
+is	O
+itt	O
+lakik	O
+?	O
+
+Doc	B-PER
+Hollidayt	I-PER
+a	O
+szobájában	O
+tartják	O
+fogva	O
+.	O
+
+Earp	B-PER
+?	O
+
+Nézze	O
+,	O
+Miss	O
+Fisher	B-PER
+,	O
+már	O
+mondtam	O
+,	O
+semmi	O
+közöm	O
+ehhez	O
+!	O
+
+Nem	O
+érdekel	O
+,	O
+mit	O
+gondol	O
+rólunk	O
+.	O
+
+Odakint	O
+lincselésre	O
+készülnek	O
+.	O
+
+Ehhez	O
+sincs	O
+köze	O
+?	O
+
+Mindegy	O
+,	O
+hogy	O
+igaza	O
+van	O
+-e	O
+a	O
+dokinak	O
+,	O
+vagy	O
+sem	O
+.	O
+
+Nem	O
+azt	O
+érdemli	O
+,	O
+hogy	O
+ezek	O
+felakasszák	O
+!	O
+
+Maga	O
+most	O
+szépen	O
+eltűnik	O
+.	O
+
+Mióta	O
+foglalkozik	O
+bajba	O
+jutott	O
+szerencselovagokkal	O
+?	O
+
+Nem	O
+maga	O
+miatt	O
+teszem	O
+.	O
+
+Csak	O
+nem	O
+állom	O
+a	O
+lincseléseket	O
+.	O
+
+Mire	O
+várunk	O
+még	O
+?	O
+
+Még	O
+ne	O
+!	O
+
+Szerintem	O
+éppen	O
+ideje	O
+.	O
+
+Ég	O
+George	B-PER
+istállója	O
+!	O
+
+Hozzátok	O
+a	O
+vödröket	O
+!	O
+
+Most	O
+már	O
+mehet	O
+!	O
+
+A	O
+hátsó	O
+lépcsőn	O
+menjen	O
+!	O
+
+Lekötelez	O
+,	O
+rendőrbíró	O
+úr	O
+.	O
+
+Majd	O
+Dodge	B-GPE
+Cityben	I-GPE
+megköszönöm	O
+.	O
+
+Azzal	O
+köszöni	O
+meg	O
+,	O
+ha	O
+távol	O
+marad	O
+onnan	O
+.	O
+
+Hozzatok	O
+vizet	O
+!	O
+
+Még	O
+több	O
+víz	O
+kell	O
+!	O
+
+HATÁRVONAL	O
+DODGE	B-LOC
+CITY	I-LOC
+VÁROSI	O
+TANÁCSÁNAK	O
+rendelete	O
+alapján	O
+minden	O
+lőfegyvert	O
+adjanak	O
+le	O
+a	O
+rendőrbírónál	O
+!	O
+
+Hó	O
+!	O
+
+Ehhez	O
+mit	O
+szólsz	O
+?	O
+
+El	O
+tudna	O
+vinni	O
+Mrs.	O
+Deed	B-PER
+szállójába	O
+?	O
+
+Igenis	O
+,	O
+asszonyom	O
+.	O
+
+Egy	O
+ládám	O
+és	O
+egy	O
+táskám	O
+van	O
+.	O
+
+Nem	O
+egészen	O
+Dodge	B-GPE
+City	I-GPE
+színvonal	O
+.	O
+
+Inkább	O
+nagyvárosi	O
+úrihölgy	O
+.	O
+
+Úgy	O
+nézem	O
+,	O
+marad	O
+egy	O
+ideig	O
+.	O
+
+Ládája	O
+is	O
+van	O
+.	O
+
+Ki	O
+kell	O
+mennem	O
+egy	O
+csapattal	O
+rendet	O
+tenni	O
+.	O
+
+Igazából	O
+ezért	O
+jöttem	O
+.	O
+
+Csorba	B-PER
+Tor	I-PER
+főnök	O
+megint	O
+megvadult	O
+.	O
+
+Kölcsönvenném	O
+a	O
+helyetteseidet	O
+.	O
+
+Soha	O
+nincs	O
+elég	O
+embered	O
+.	O
+
+Ki	O
+az	O
+a	O
+nő	O
+?	O
+
+Igen	O
+,	O
+ki	O
+ez	O
+a	O
+nő	O
+?	O
+
+Milyen	O
+nő	O
+?	O
+
+Épp	O
+most	O
+tudtam	O
+meg	O
+,	O
+hogy	O
+Doc	B-PER
+Holliday	I-PER
+és	O
+a	O
+barátnője	O
+...	O
+bejelentkezett	O
+a	O
+Dodge	B-LOC
+House-ba	I-LOC
+.	O
+
+Doc	B-PER
+Holliday	I-PER
+?	O
+
+Mondtam	O
+,	O
+hogy	O
+maradjon	O
+távol	O
+innen	O
+.	O
+
+Átmegyek	O
+,	O
+mielőtt	O
+még	O
+kipakolhatna	O
+.	O
+
+Kölcsönvehetem	O
+a	O
+helyetteseidet	O
+?	O
+
+Rendben	O
+,	O
+de	O
+Charlie	B-PER
+itt	O
+marad	O
+velem	O
+.	O
+
+Gyia	O
+!	O
+
+A	O
+többieket	O
+viheted	O
+.	O
+
+De	O
+a	O
+marhacsordák	O
+előtt	O
+itt	O
+legyenek	O
+!	O
+
+Mindig	O
+több	O
+a	O
+dolguk	O
+,	O
+ha	O
+a	O
+hajcsárok	O
+ideérnek	O
+.	O
+
+Mario	B-PER
+,	O
+szívj	O
+egy	O
+kis	O
+friss	O
+levegőt	O
+!	O
+
+A	O
+polgármester	O
+küldte	O
+a	O
+tiszteletemre	O
+?	O
+
+Világosan	O
+megmondtam	O
+,	O
+hogy	O
+ne	O
+jöjjön	O
+ide	O
+.	O
+
+Szeretem	O
+,	O
+ha	O
+éles	O
+a	O
+borotva	O
+,	O
+hát	O
+maga	O
+?	O
+
+Borotváljam	O
+meg	O
+?	O
+
+Reggel	O
+indul	O
+a	O
+postakocsi	O
+Abilene	B-GPE
+felé	O
+.	O
+
+Azt	O
+akarom	O
+,	O
+hogy	O
+rajta	O
+legyen	O
+.	O
+
+Nem	O
+megy	O
+.	O
+
+Az	O
+ottani	O
+rendőrbíró	O
+küldött	O
+ide	O
+.	O
+
+Ha	O
+már	O
+itt	O
+tartunk	O
+,	O
+alkalmazhatnának	O
+egy	O
+jobb	O
+szövegírót	O
+.	O
+
+Ugyanazt	O
+hallgatom	O
+már	O
+öt	B-CARDINAL
+város	O
+óta	O
+.	O
+
+Rendben	O
+,	O
+maradjon	O
+a	O
+szobájában	O
+...	O
+holnaputánig	O
+!	O
+
+Személyesen	O
+kísérem	O
+ki	O
+a	O
+nyugati	O
+vonathoz	O
+.	O
+
+Wyatt	B-PER
+,	O
+kemény	O
+időket	O
+élünk	O
+.	O
+
+Az	O
+anyagi	O
+csőd	O
+szélére	O
+jutottam	O
+.	O
+
+Még	O
+a	O
+vonatjegy	O
+árát	O
+sem	O
+tudom	O
+kifizetni	O
+.	O
+
+Shanssey	B-PER
+szerint	O
+sokat	O
+nyert	O
+Griffinben	B-LOC
+.	O
+
+Ő	O
+aztán	O
+csak	O
+tudja	O
+.	O
+
+10000	B-MONEY
+dollárom	I-MONEY
+maradt	O
+a	O
+széfjében	O
+.	O
+
+Tudja	O
+,	O
+mit	O
+csinált	O
+a	O
+gazember	O
+?	O
+
+Emlékszik	O
+,	O
+hogy	O
+gyorsan	O
+kellett	O
+lelépnem	O
+.	O
+
+5000	B-MONEY
+dollárt	I-MONEY
+kért	O
+a	O
+lovak	O
+darabjáért	O
+.	O
+

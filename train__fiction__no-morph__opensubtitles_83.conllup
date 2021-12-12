@@ -1,0 +1,1236 @@
+# global.columns = FORM ONPP:NER
+Hagyd	O
+ezt	O
+abba	O
+!	O
+
+Késő	O
+van	O
+,	O
+pihennem	O
+kell	O
+.	O
+
+Majd	O
+holnap	B-DATE
+felhívlak	O
+.	O
+
+Jó	O
+?	O
+
+Valld	O
+be	O
+,	O
+hogy	O
+már	O
+nem	O
+szeretsz	O
+!	O
+
+Hogy	O
+mondhatod	O
+ezt	O
+?	O
+
+Érzem	O
+,	O
+hogy	O
+nem	O
+szeretsz	O
+már	O
+.	O
+
+De	O
+ez	O
+nem	O
+igaz	O
+!	O
+
+Nem	O
+mondhatom	O
+,	O
+ez	O
+nem	O
+így	O
+van	O
+.	O
+
+De	O
+.	O
+
+De	O
+ha	O
+megmondod	O
+,	O
+lassan	O
+majd	O
+belenyugszom	O
+.	O
+
+Talán	O
+túlélem	O
+.	O
+
+Nem	O
+mondhatom	O
+,	O
+mert	O
+hazudnék	O
+.	O
+
+Beérem	O
+azzal	O
+,	O
+ha	O
+csak	O
+néha	O
+láthatlak	O
+.	O
+
+2-3	B-CARDINAL
+naponként	O
+.	O
+
+Nem	O
+akarlak	O
+zavarni	O
+.	O
+
+Olyan	O
+ritkán	O
+?	O
+
+Nekem	O
+gyakrabban	O
+is	O
+szükségem	O
+van	O
+rád	O
+.	O
+
+Ezentúl	O
+is	O
+mindennap	O
+találkozunk	O
+?	O
+
+Ahányszor	O
+csak	O
+akarod	O
+.	O
+
+Te	O
+csak	O
+ne	O
+légy	O
+féltékeny	O
+!	O
+
+Mit	O
+tegyek	O
+,	O
+ha	O
+tetszem	O
+a	O
+nőknek	O
+?	O
+
+Csak	O
+te	O
+kellesz	O
+.	O
+
+Tetszel	O
+a	O
+nőknek	O
+?	O
+
+Mert	O
+csúnya	O
+vagy	O
+!	O
+
+Hol	O
+itt	O
+a	O
+kijárat	O
+?	O
+
+Keresett	O
+Alberto	B-PER
+Lazzari	I-PER
+!	O
+
+Hiába	O
+kiabálsz	O
+!	O
+
+Szóba	O
+sem	O
+állok	O
+veletek	O
+.	O
+
+Ne	O
+is	O
+figyelj	O
+rá	O
+!	O
+
+Hát	O
+ki	O
+figyel	O
+rá	O
+?	O
+
+Nézd	O
+csak	O
+,	O
+Cabiria	B-PER
+!	O
+
+Ott	O
+a	O
+béna	O
+!	O
+
+Szegény	O
+!	O
+
+Hé	O
+,	O
+öreg	O
+disznó	O
+!	O
+
+Mi	O
+van	O
+,	O
+már	O
+kiszabadultál	O
+a	O
+börtönből	O
+?	O
+
+Gyere	O
+,	O
+szórakozzunk	O
+egy	O
+kicsit	O
+!	O
+
+Minek	O
+hoztad	O
+ide	O
+a	O
+nyomorékot	O
+?	O
+
+Mindegy	O
+,	O
+hogy	O
+kivel	O
+van	O
+a	O
+nőd	O
+?	O
+
+Elmegyünk	O
+a	O
+csodatévő	O
+Szűzhöz	B-PER
+.	O
+
+Még	O
+meg	O
+is	O
+gyógyulhat	O
+az	O
+öreg	O
+.	O
+
+Miről	O
+beszélsz	O
+?	O
+
+A	O
+csodatévő	O
+Szűz	B-PER
+Máriáról	I-PER
+.	O
+
+Ahová	O
+a	O
+gyógyulást	O
+keresők	O
+zarándokolnak	O
+.	O
+
+Nem	O
+hiszek	O
+én	O
+a	O
+csodákban	O
+!	O
+
+Nem	O
+hiszed	O
+,	O
+hogy	O
+van	O
+ilyen	O
+?	O
+
+Nem	O
+bizony	O
+!	O
+
+Marisa	B-PER
+,	O
+menjünk	O
+el	O
+együtt	O
+oda	O
+vasárnap	B-DATE
+!	O
+
+Valami	O
+kérnivalója	O
+igazán	O
+mindegyikünknek	O
+van	O
+.	O
+
+Cabiria	B-PER
+,	O
+eljössz	O
+velünk	O
+te	O
+is	O
+a	O
+Madonnához	B-PER
+?	O
+
+Még	O
+nem	O
+tudom	O
+.	O
+
+Meggondolom	O
+vasárnapig	B-DATE
+.	O
+
+De	O
+mit	O
+kérhetnék	O
+én	O
+a	O
+Madonnától	B-PER
+?	O
+
+Megvan	O
+mindenem	O
+.	O
+
+Hamarosan	O
+kifizetem	O
+részletre	O
+a	O
+házamat	O
+...	O
+
+De	O
+azért	O
+lehet	O
+,	O
+hogy	O
+elmegyek	O
+.	O
+
+Még	O
+nem	O
+döntöttem	O
+el	O
+végleg	O
+.	O
+
+Majd	O
+meglátom	O
+.	O
+
+A	O
+Madonna	B-PER
+egy	O
+ilyen	O
+alakkal	O
+is	O
+csodát	O
+tenne	O
+?	O
+
+Á	O
+,	O
+te	O
+is	O
+nevetsz	O
+!	O
+
+Azt	O
+hiszed	O
+,	O
+a	O
+Madonna	B-PER
+nem	O
+tudja	O
+,	O
+hogy	O
+honnan	O
+van	O
+a	O
+pénzed	O
+?	O
+
+Kábítószer	O
+árusításból	O
+és	O
+lánykereskedelemből	O
+.	O
+
+Majd	O
+én	O
+elmegyek	O
+a	O
+csodatevő	O
+Szűz	B-PER
+Máriához	I-PER
+.	O
+
+Nekem	O
+bizony	O
+van	O
+mit	O
+kérnem	O
+tőle	O
+!	O
+
+Az	O
+ilyesmin	O
+nem	O
+kell	O
+nevetni	O
+.	O
+
+Te	O
+igazán	O
+oda	O
+akarsz	O
+menni	O
+?	O
+
+Mit	O
+kérnél	O
+?	O
+
+Hé	O
+,	O
+felelj	O
+már	O
+!	O
+
+Mi	O
+kérnivalód	O
+van	O
+?	O
+
+Hé	O
+,	O
+te	O
+apróság	O
+!	O
+
+Gyere	O
+,	O
+megkocsikáztatlak	O
+egy	O
+kicsit	O
+!	O
+
+Rövidebb	O
+út	O
+!	O
+
+Ez	O
+neki	O
+a	O
+rövidebb	O
+út	O
+?	O
+
+Már	O
+egy	B-TIME
+órája	O
+csak	O
+jövök	O
+!	O
+
+Az	O
+Isten	O
+se	O
+tudja	O
+,	O
+hol	O
+járok	O
+!	O
+
+Maga	O
+is	O
+valamelyik	O
+barlangban	O
+lakik	O
+?	O
+
+Még	O
+sosem	O
+láttam	O
+erre	O
+.	O
+
+Van	O
+én	O
+nekem	O
+házam	O
+!	O
+
+Gorgiano	B-PER
+!	O
+
+Én	O
+vagyok	O
+az	O
+.	O
+
+Jöjjön	O
+csak	O
+!	O
+
+Hogy	O
+,	O
+s	O
+mint	O
+?	O
+
+Megvagyok	O
+.	O
+
+Köszönöm	O
+kérdését	O
+,	O
+uram	O
+!	O
+
+És	O
+Pietro	B-PER
+?	O
+
+Ő	O
+hol	O
+van	O
+?	O
+
+Alszik	O
+?	O
+
+Két	B-DATE
+napja	I-DATE
+be	O
+kellett	O
+vinni	O
+a	O
+kórházba	O
+.	O
+
+Azt	O
+mondták	O
+,	O
+nincs	O
+túl	O
+jól	O
+.	O
+
+És	O
+magának	O
+mire	O
+van	O
+szüksége	O
+?	O
+
+Minden	O
+jól	O
+jön	O
+.	O
+
+Tessék	O
+,	O
+takaró	O
+!	O
+
+Jó	O
+lesz	O
+?	O
+
+Melyik	O
+kórházba	O
+kellett	O
+vinni	O
+Pietró-t	B-PER
+?	O
+
+A	O
+Fratebenefratelli-be	B-LOC
+.	O
+
+Akkor	O
+majd	O
+később	O
+bemegyek	O
+hozzá	O
+,	O
+ha	O
+lesz	O
+időm	O
+.	O
+
+Hé	O
+,	O
+sötét	O
+hajú	O
+!	O
+
+Az	O
+kicsoda	O
+?	O
+
+Ki	O
+volt	O
+ez	O
+?	O
+
+Valami	O
+adakozó	O
+?	O
+
+Hékás	O
+!	O
+
+Magához	O
+beszélek	O
+!	O
+
+Mit	O
+segíthetek	O
+?	O
+
+Nem	O
+tud	O
+.	O
+
+Nem	O
+Róma	B-GPE
+felé	O
+megy	O
+majd	O
+egész	O
+véletlenül	O
+?	O
+
+De	O
+.	O
+
+Nem	O
+tudna	O
+elvinni	O
+?	O
+
+De	O
+,	O
+majd	O
+igen	O
+.	O
+
+Elsa	B-PER
+!	O
+
+Á	O
+,	O
+Caro	B-PER
+!	O
+
+Csak	O
+vasárnapra	O
+vártuk	O
+.	O
+
+Jó	O
+,	O
+hogy	O
+hamarabb	O
+jött	O
+.	O
+
+Épp	O
+tegnap	B-DATE
+számolgattam	O
+,	O
+hogy	O
+úgy	O
+8-10	B-CARDINAL
+naponta	O
+szokott	O
+erre	O
+járni	O
+.	O
+
+Mivel	O
+múlt	B-DATE
+szerdán	I-DATE
+járt	O
+itt	O
+,	O
+gondoltam	O
+,	O
+csak	O
+vasárnap	B-DATE
+jön	O
+.	O
+
+Bomba	B-PER
+!	O
+
+De	O
+hiszen	O
+én	O
+őt	O
+ismerem	O
+!	O
+
+Bomba	B-PER
+,	O
+te	O
+itt	O
+laksz	O
+?	O
+
+Bár	O
+meglenne	O
+még	O
+mindenem	O
+!	O
+
+A	O
+római	O
+lakásom	O
+,	O
+meg	O
+egy	O
+Ostiá-ban	B-LOC
+.	O
+
+Az	O
+a	O
+rengeteg	O
+ékszer	O
+!	O
+
+A	O
+félretett	O
+pénzem	O
+,	O
+az	O
+aranyak	O
+!	O
+
+Volt	O
+vagy	O
+5	B-QUANTITY
+kiló	I-QUANTITY
+aranyam	O
+!	O
+
+Ez	O
+mind	O
+nem	O
+hazugság	O
+,	O
+tudja	O
+.	O
+
+De	O
+ma	B-DATE
+már	O
+ki	O
+hinné	O
+el	O
+neki	O
+?	O
+
+Látta	O
+volna	O
+csak	O
+őt	O
+akkor	O
+!	O
+
+Itt	O
+még	O
+fésülködni	O
+sem	O
+kell	O
+.	O
+
+Ugyan	O
+kinek	O
+?	O
+
+De	O
+ha	O
+mélyen	O
+kivágott	O
+blúzt	O
+viselnék	O
+,	O
+és	O
+a	O
+fehér	O
+fülbevalómat	O
+!	O
+
+Háh	O
+!	O
+
+Jöjjön	O
+csak	O
+,	O
+Elsa	B-PER
+!	O
+
+Vegyék	O
+el	O
+!	O
+
+Nahát	O
+,	O
+mennyi	O
+sok	O
+finomságot	O
+hozott	O
+!	O
+
+És	O
+ezt	O
+mind	O
+nekem	O
+!	O
+
+Nem	O
+is	O
+a	O
+többieknek	O
+!	O
+
+Adja	O
+csak	O
+!	O
+
+Majd	O
+jól	O
+eldugom	O
+.	O
+
+A	O
+csokoládés	O
+a	O
+kedvencem	O
+!	O
+
+Pignoli	O
+is	O
+van	O
+!	O
+
+Köszönöm	O
+,	O
+Caro	B-PER
+!	O
+
+És	O
+mikor	O
+látjuk	O
+újra	O
+?	O
+
+Mikor	O
+jön	O
+?	O
+
+A	O
+Jóisten	O
+áldja	O
+meg	O
+magát	O
+mindenért	O
+,	O
+fiam	O
+!	O
+
+De	O
+persze	O
+...	O
+itt	O
+Rómában	B-GPE
+is	O
+rengetegen	O
+éheznek	O
+,	O
+mi	O
+?	O
+
+Sokat	O
+furikázik	O
+így	O
+éjszaka	O
+?	O
+
+Sokat	O
+,	O
+de	O
+nem	O
+eleget	O
+.	O
+
+És	O
+hogyhogy	O
+nem	O
+nappal	O
+?	O
+
+Napközben	O
+a	O
+nincstelenek	O
+szétszélednek	O
+.	O
+
+Hogy	O
+találnám	O
+meg	O
+őket	O
+?	O
+
+Képzelheti	O
+!	O
+
+Itt	O
+vagyok	O
+én	O
+.	O
+
+Hiába	O
+jövök	O
+éjjel	O
+,	O
+ha	O
+még	O
+magával	O
+sem	O
+találkoztam	O
+.	O
+
+De	O
+mégis	O
+honnan	O
+jött	O
+az	O
+ötlet	O
+...	O
+hogy	O
+találta	O
+ki	O
+,	O
+hogy	O
+ezt	O
+csinálja	O
+?	O
+
+Azt	O
+már	O
+én	O
+magam	O
+sem	O
+tudom	O
+.	O
+
+Csak	O
+úgy	O
+!	O
+
+Így	O
+jött	O
+ki	O
+a	O
+lépés	O
+.	O
+
+Megjöttünk	O
+.	O
+
+Onnan	O
+megy	O
+majd	O
+a	O
+villamosa	O
+.	O
+
+Messzire	O
+lakik	O
+innen	O
+?	O
+
+Úgy	O
+19	B-QUANTITY
+km-re	I-QUANTITY
+Ostia	B-GPE
+felé	O
+.	O
+
+Maria	B-PER
+Ceccarelli	I-PER
+.	O
+
+Egyedül	O
+él	O
+?	O
+
+Apám	O
+és	O
+anyám	O
+gyerekkoromban	O
+haltak	O
+meg	O
+.	O
+
+Én	O
+később	O
+jöttem	O
+Rómába	B-GPE
+.	O
+
+Na	O
+,	O
+menjen	O
+és	O
+aludja	O
+ki	O
+magát	O
+!	O
+
+Akkor	O
+én	O
+...	O
+
+Vagy	O
+van	O
+még	O
+valami	O
+?	O
+
+Mondja	O
+!	O
+
+Mindent	O
+köszönök	O
+.	O
+
+Siessenek	O
+!	O
+
+Egy	O
+darabig	O
+gyalog	O
+kell	O
+menni	O
+!	O
+
+Tessék	O
+,	O
+a	O
+színes	O
+léggömböt	O
+!	O
+
+Tessék	O
+csak	O
+,	O
+vegyenek	O
+!	O
+
+Maurizio	B-PER
+,	O
+segíts	O
+a	O
+nyomoréknak	O
+!	O
+
+Wanda	B-PER
+,	O
+nézd	O
+ezt	O
+a	O
+tömeget	O
+!	O
+
+Ott	O
+árulják	O
+a	O
+gyertyákat	O
+.	O
+
+Odamegyünk	O
+.	O
+
+Mennyiért	O
+adja	O
+ezeket	O
+a	O
+gyertyákat	O
+?	O
+
+A	O
+nagyságtól	O
+függ	O
+.	O
+
+Van	O
+50-ért	B-CARDINAL
+,	O
+100-ért	B-CARDINAL
+,	O
+200-ért	B-CARDINAL
+is	O
+.	O
+
+A	O
+legnagyobbat	O
+adja	O
+!	O
+
+Kettőt	O
+veszek	O
+mindenkinek	O
+.	O
+
+Wanda	B-PER
+,	O
+gyere	O
+!	O
+
+Kapunk	O
+gyertyát	O
+.	O
+
+Én	O
+külön	O
+akarok	O
+egyet	O
+saját	O
+magamnak	O
+.	O
+
+Majd	O
+megadom	O
+az	O
+árát	O
+.	O
+
+Nem	O
+,	O
+mindenkiét	O
+fizetem	O
+.	O
+
+Miért	O
+vett	O
+ekkorát	O
+?	O
+
+Így	O
+hatásosabb	O
+!	O
+
+Mennyi	O
+lesz	O
+összesen	O
+?	O
+
+Az	O
+annyi	O
+,	O
+mint	O
+24	B-QUANTITY
+darab	I-QUANTITY
+összesen	O
+...	O
+
+Utat	O
+!	O
+
+Beteget	O
+viszünk	O
+.	O
+
+Utat	O
+kérünk	O
+.	O
+
+Gyertek	O
+,	O
+lefényképeztetjük	O
+magunkat	O
+!	O
+
+Gyere	O
+,	O
+Cabiria	B-PER
+!	O
+
+Menjünk	O
+mi	O
+is	O
+!	O
+
+Hol	O
+van	O
+Wanda	B-PER
+?	O
+
+Marisa	B-PER
+!	O
+
+Kopjon	O
+le	O
+!	O
+
+Mit	O
+akar	O
+azzal	O
+a	O
+tülök	O
+orrával	O
+?	O
+
+Csak	O
+nem	O
+fényképezteti	O
+le	O
+magát	O
+?	O
+

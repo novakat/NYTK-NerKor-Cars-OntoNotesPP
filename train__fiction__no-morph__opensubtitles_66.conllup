@@ -1,0 +1,1508 @@
+# global.columns = FORM ONPP:NER
+Hagyd	O
+békén	O
+!	O
+
+Alig	O
+tettek	O
+ki	O
+a	O
+lábát	O
+az	O
+apám	O
+,	O
+és	O
+máris	O
+mi	O
+történt	O
+.	O
+
+Nem	O
+tehetsz	O
+róla	O
+,	O
+fiam	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+nem	O
+,	O
+de	O
+...	O
+
+Kotródj	O
+innét	O
+,	O
+te	O
+mihaszna	O
+!	O
+
+Egy	O
+valamit	O
+tudok	O
+.	O
+
+Jaj	O
+annak	O
+a	O
+kutyának	O
+,	O
+ha	O
+a	O
+szeme	O
+elé	O
+kerül	O
+,	O
+amikor	O
+puska	O
+van	O
+nálam	O
+.	O
+
+Ki	O
+döntötte	O
+le	O
+a	O
+kerítést	O
+?	O
+
+Hol	O
+voltál	O
+?	O
+
+Medvére	O
+vadásztam	O
+.	O
+
+Egy	O
+kóbor	O
+kutya	O
+.	O
+
+És	O
+Patást	B-PER
+...	O
+
+Kutya	O
+?	O
+
+Hol	O
+van	O
+most	O
+?	O
+
+Többé	O
+nem	O
+látod	O
+.	O
+
+Kővel	O
+dobáltam	O
+,	O
+hogy	O
+odébbálljon	O
+.	O
+
+De	O
+nekem	O
+kell	O
+egy	O
+jó	O
+vadászkutya	O
+.	O
+
+Arliss	B-PER
+,	O
+moss	O
+kezet	O
+,	O
+mielőtt	O
+kihűl	O
+a	O
+vacsora	O
+!	O
+
+Jaj	O
+,	O
+mama	O
+.	O
+
+Eridj	O
+már	O
+!	O
+
+Mi	O
+van	O
+a	O
+zsebedben	O
+?	O
+
+Látni	O
+akarom	O
+,	O
+mit	O
+hoztál	O
+.	O
+
+Mutasd	O
+!	O
+
+Ó	O
+,	O
+Arliss	B-PER
+!	O
+
+Hogy	O
+vagy	O
+képes	O
+hozzáérni	O
+ilyen	O
+undorító	O
+állatokhoz	O
+?	O
+
+Nem	O
+is	O
+undorító	O
+.	O
+
+Nézze	O
+meg	O
+,	O
+anyám	O
+,	O
+milyen	O
+szép	O
+,	O
+sima	O
+,	O
+puha	O
+a	O
+pocakjuk	O
+.	O
+
+Mindent	O
+szép	O
+,	O
+amit	O
+fogsz	O
+.	O
+
+Vidd	O
+ki	O
+,	O
+nem	O
+tarthatod	O
+a	O
+házban	O
+.	O
+
+Úgy	O
+érted	O
+,	O
+el	O
+kell	O
+engednem	O
+?	O
+
+És	O
+minden	O
+mást	O
+is	O
+a	O
+zsebedből	O
+.	O
+
+Ezt	O
+a	O
+békát	O
+is	O
+?	O
+
+Arliss	B-PER
+,	O
+mi	O
+minden	O
+rejtőzik	O
+még	O
+a	O
+zsebedben	O
+?	O
+
+Jaj	O
+,	O
+mama	O
+,	O
+ez	O
+csak	O
+egy	O
+ártalmatlan	O
+sikló	O
+.	O
+
+Tüstént	O
+vidd	O
+ki	O
+innen	O
+!	O
+
+Arliss	B-PER
+,	O
+ha	O
+még	O
+egyszer	O
+ilyesmiket	O
+hozol	O
+haza	O
+,	O
+...meglásd	O
+,	O
+kiporolom	O
+a	O
+nadrágodat	O
+!	O
+
+Soha	O
+,	O
+de	O
+soha	O
+többé	O
+ne	O
+nyúlj	O
+kígyóhoz	O
+,	O
+kisfiam	O
+.	O
+
+Igen	O
+,	O
+anyám	O
+.	O
+
+Eridj	O
+,	O
+rendesen	O
+mosd	O
+meg	O
+a	O
+kezed	O
+!	O
+
+Ettől	O
+a	O
+kígyótól	O
+nem	O
+kell	O
+félni	O
+.	O
+
+Ha	O
+ezt	O
+a	O
+kígyót	O
+felemelte	O
+,	O
+felemelhet	O
+egy	O
+másikat	O
+is	O
+.	O
+
+Legközelebb	O
+csörgőkígyó	O
+lesz	O
+.	O
+
+Kellene	O
+neki	O
+egy	O
+jó	O
+kutya	O
+,	O
+amilyen	O
+Bell	B-PER
+volt	O
+.	O
+
+Kiskorodban	O
+nem	O
+engedett	O
+téged	O
+semmilyen	O
+veszély	O
+közelébe	O
+.	O
+
+Bellhez	B-PER
+fogható	O
+kutyát	O
+azóta	O
+sem	O
+láttam	O
+.	O
+
+Megtépte	O
+volna	O
+ezt	O
+a	O
+betyár	O
+,	O
+sárgabundás	O
+korcsot	O
+.	O
+
+Csak	O
+eltöprengtem	O
+.	O
+
+Az	O
+apádra	O
+gondoltam	O
+.	O
+
+Talán	O
+már	O
+meg	O
+is	O
+ette	O
+a	O
+reggelijét	O
+.	O
+
+Bizonyára	O
+korán	O
+útnak	O
+indult	O
+.	O
+
+Tegnap	B-DATE
+vajon	O
+meddig	O
+jutottak	O
+el	O
+?	O
+
+Hát	O
+,	O
+nem	O
+tudom	O
+.	O
+
+A	O
+papa	O
+szerint	O
+15	B-QUANTITY
+mérföld	I-QUANTITY
+már	O
+nagy	O
+út	O
+a	O
+csordának	O
+.	O
+
+10	B-QUANTITY
+mérföldet	I-QUANTITY
+tehettek	O
+meg	O
+.	O
+
+Kész	O
+a	O
+kukoricalepény	O
+.	O
+
+Ha	O
+ennél	O
+hozzá	O
+oldalast	O
+,	O
+menj	O
+,	O
+és	O
+vágj	O
+le	O
+egy	O
+darabot	O
+.	O
+
+Mama	O
+,	O
+mi	O
+történt	O
+az	O
+oldalassal	O
+?	O
+
+Nahát	O
+,	O
+te	O
+hitvány	O
+,	O
+semmirekellő	O
+tolvaj	O
+!	O
+
+Takarodj	O
+innen	O
+!	O
+
+Kutya	O
+!	O
+
+Na	O
+,	O
+megállj	O
+!	O
+
+Ha	O
+megütöd	O
+a	O
+kutyámat	O
+,	O
+szétverem	O
+a	O
+fejedet	O
+.	O
+
+Travis	B-PER
+,	O
+Arliss	B-PER
+,	O
+mit	O
+műveltek	O
+?	O
+
+Engedd	O
+el	O
+a	O
+botomat	O
+!	O
+
+Meg	O
+ne	O
+merd	O
+ütni	O
+a	O
+bátyádat	O
+!	O
+
+Meg	O
+akarta	O
+ölni	O
+a	O
+kutyámat	O
+.	O
+
+Nem	O
+a	O
+te	O
+kutyád	O
+,	O
+és	O
+még	O
+csak	O
+hozzá	O
+se	O
+értem	O
+.	O
+
+Honnan	O
+került	O
+ide	O
+?	O
+
+Ez	O
+ugyanaz	O
+,	O
+amelyik	O
+ledöntötte	O
+a	O
+kerítést	O
+.	O
+
+Most	O
+meg	O
+ellopta	O
+az	O
+oldalast	O
+.	O
+
+Az	O
+én	O
+kutyám	O
+.	O
+
+Senki	O
+se	O
+bánthatja	O
+.	O
+
+Na	O
+.	O
+
+Úgy	O
+látom	O
+,	O
+lett	O
+egy	O
+kutyánk	O
+.	O
+
+Édesanyám	O
+,	O
+csak	O
+nem	O
+akarja	O
+megtartani	O
+ezt	O
+a	O
+csúf	O
+,	O
+sárga	O
+dögöt	O
+?	O
+
+Ez	O
+egy	O
+tolvaj	O
+.	O
+
+Nem	O
+is	O
+csúf	O
+,	O
+sárga	O
+dög	O
+.	O
+
+Kedves	O
+kis	O
+sárga	O
+betyár	O
+.	O
+
+Utánam	O
+!	O
+
+Miért	O
+ne	O
+játszhatna	O
+vele	O
+Arliss	B-PER
+?	O
+
+És	O
+ha	O
+megint	O
+megvadítja	O
+Patást	B-PER
+?	O
+
+Le	O
+fogjuk	O
+róla	O
+szoktatni	O
+.	O
+
+De	O
+hát	O
+tolvaj	O
+,	O
+mama	O
+!	O
+
+A	O
+szemünket	O
+is	O
+kilopná	O
+.	O
+
+A	O
+legtöbb	O
+állat	O
+az	O
+éhség	O
+miatt	O
+válik	O
+tolvajjá	O
+.	O
+
+Lehet	O
+,	O
+de	O
+akkor	O
+se	O
+maradjon	O
+itt	O
+!	O
+
+Travis	B-PER
+,	O
+légy	O
+egy	O
+kicsit	O
+megértőbb	O
+!	O
+
+Neked	O
+volt	O
+gyerekkorodban	O
+kutyád	O
+,	O
+Arliss-nak	B-PER
+viszont	O
+még	O
+soha	O
+.	O
+
+Ahhoz	O
+kicsi	O
+,	O
+hogy	O
+veled	O
+játsszon	O
+.	O
+
+Unatkozik	O
+.	O
+
+Reggeli	O
+után	O
+elmehetnél	O
+az	O
+erdőbe	O
+és	O
+elejthetnél	O
+egy	O
+szarvast	O
+.	O
+
+És	O
+Travis	B-PER
+,	O
+gondold	O
+végig	O
+mindazt	O
+,	O
+amit	O
+Arliss-ról	B-PER
+és	O
+erről	O
+a	O
+kutyáról	O
+mondtam	O
+.	O
+
+Gyere	O
+,	O
+pajti	O
+!	O
+
+Jaj	O
+,	O
+Patás	B-PER
+!	O
+
+De	O
+gyáva	O
+vagy	O
+.	O
+
+Csak	O
+egy	O
+csapat	O
+fürj	O
+volt	O
+.	O
+
+Annyi	O
+eszed	O
+sincs	O
+,	O
+...mint	O
+egy	O
+tyúknak	O
+.	O
+
+Arliss	B-PER
+,	O
+vidd	O
+el	O
+azt	O
+a	O
+koszos	O
+kutyát	O
+az	O
+ivóvizünkből	O
+!	O
+
+Jaj	O
+már	O
+!	O
+
+Törődj	O
+a	O
+magad	O
+dolgával	O
+!	O
+
+Kifelé	O
+onnan	O
+!	O
+
+Ne	O
+dobáld	O
+a	O
+kutyámat	O
+!	O
+
+Te	O
+meg	O
+engem	O
+ne	O
+dobálj	O
+!	O
+
+Állj	O
+le	O
+,	O
+Arliss	B-PER
+!	O
+
+Állj	O
+le	O
+!	O
+
+Még	O
+egyszer	O
+megdobod	O
+,	O
+betöröm	O
+a	O
+fejedet	O
+!	O
+
+Travis	O
+,	O
+mit	O
+csináltál	O
+az	O
+öcséddel	O
+?	O
+
+Ő	O
+és	O
+a	O
+koszos	O
+kutyája	O
+,	O
+az	O
+ivóvizünkben	O
+...	O
+
+Dobálta	O
+a	O
+kutyámat	O
+!	O
+
+Ide	O
+figyelj	O
+,	O
+te	O
+kis	O
+kakas	O
+!	O
+
+Ha	O
+nem	O
+akarsz	O
+bajt	O
+,	O
+ne	O
+ingereld	O
+a	O
+bátyádat	O
+!	O
+
+Úgy	O
+érti	O
+,	O
+tisztelnem	O
+kell	O
+?	O
+
+Ő	O
+nem	O
+az	O
+édesapám	O
+.	O
+
+Akkor	O
+is	O
+tisztelned	O
+kell	O
+.	O
+
+Most	O
+menj	O
+,	O
+és	O
+öltözz	O
+át	O
+!	O
+
+Legszívesebben	O
+vágnék	O
+egy	O
+vesszőt	O
+,	O
+és	O
+elhegedülném	O
+a	O
+nótáját	O
+.	O
+
+Csillapodj	O
+,	O
+fiam	O
+!	O
+
+Ő	O
+még	O
+kisgyerek	O
+.	O
+
+A	O
+papa	O
+nem	O
+tűrné	O
+,	O
+hogy	O
+az	O
+a	O
+kutya	O
+az	O
+ivóvizünkben	O
+ugráljon	O
+.	O
+
+A	O
+papa	O
+nem	O
+kezdte	O
+volna	O
+kővel	O
+hajigálni	O
+Arliss-t	B-PER
+.	O
+
+Nem	O
+én	O
+kezdtem	O
+a	O
+kőcsatát	O
+.	O
+
+Arliss	B-PER
+volt	O
+.	O
+
+A	O
+mama	O
+meg	O
+szemrehányást	O
+tesz	O
+.	O
+
+És	O
+te	O
+...	O
+
+Torkig	O
+vagyok	O
+veled	O
+.	O
+
+Most	O
+rögtön	O
+el	O
+kellene	O
+kergesselek	O
+.	O
+
+Ha	O
+csak	O
+hozzáérsz	O
+ehhez	O
+a	O
+húshoz	O
+,	O
+reggelre	O
+golyót	O
+eresztek	O
+a	O
+fejedbe	O
+.	O
+
+A	O
+kutyafáját	O
+!	O
+
+Adott	O
+valamit	O
+ennek	O
+a	O
+kutyának	O
+?	O
+
+Rég	O
+volt	O
+már	O
+kutyánk	O
+.	O
+
+Akkor	O
+biztosan	O
+máshonnan	O
+lopott	O
+ennivalót	O
+.	O
+
+Hozzá	O
+sem	O
+ért	O
+a	O
+vadhúshoz	O
+.	O
+
+Tudhatnád	O
+,	O
+hogy	O
+több	O
+esze	O
+van	O
+annál	O
+.	O
+
+Ha	O
+a	O
+földre	O
+teszed	O
+,	O
+akkor	O
+sem	O
+harap	O
+bele	O
+.	O
+
+Öltözz	O
+fel	O
+,	O
+szeretném	O
+korán	O
+kezdeni	O
+a	O
+munkát	O
+.	O
+
+Gyerünk	O
+,	O
+Betyár	B-PER
+!	O
+
+Kapd	O
+el	O
+!	O
+
+Kapd	O
+el	O
+,	O
+Betyár	B-PER
+!	O
+
+Ott	O
+van	O
+!	O
+
+Nézd	O
+,	O
+ott	O
+úszik	O
+!	O
+
+Nem	O
+sikerült	O
+.	O
+
+Megvan	O
+!	O
+
+Ügyes	O
+fiú	O
+!	O
+
+Mama	O
+,	O
+nézze	O
+,	O
+mekkora	O
+halat	O
+fogtam	O
+!	O
+
+Óriási	O
+,	O
+ugye	O
+?	O
+
+Csurom	O
+víz	O
+vagy	O
+és	O
+csupa	O
+sár	O
+.	O
+
+De	O
+hát	O
+muszáj	O
+volt	O
+,	O
+Mama	O
+.	O
+
+Muszáj	O
+?	O
+
+Mélyre	O
+le	O
+kellett	O
+buknom	O
+,	O
+hogy	O
+elkapjam	O
+ezt	O
+a	O
+halat	O
+.	O
+
+Egészen	O
+mélyen	O
+úszkált	O
+.	O
+
+Bement	O
+egy	O
+barlangba	O
+,	O
+ahol	O
+sár	O
+volt	O
+,	O
+és	O
+korom	O
+sötét	O
+.	O
+
+Milliónyi	B-CARDINAL
+hal	O
+nyüzsgött	O
+ott	O
+.	O
+
+Mindegyik	O
+be	O
+akart	O
+kapni	O
+.	O
+
+De	O
+én	O
+megdobáltam	O
+őket	O
+kővel	O
+.	O
+
+Aztán	O
+megláttam	O
+két	B-CARDINAL
+nagy	O
+kígyót	O
+,	O
+és	O
+...	O
+
+Üregi	O
+nyulat	O
+nem	O
+fogtál	O
+lasszóval	O
+?	O
+
+De	O
+igen	O
+,	O
+fogtam	O
+.	O
+
+Ugye	O
+,	O
+édesanyám	O
+?	O
+
+Felém	O
+rohant	O
+,	O
+és	O
+a	O
+fülénél	O
+fogva	O
+összekötöztem	O
+.	O
+
+Az	O
+biztos	O
+,	O
+hogy	O
+hazahoztál	O
+egy	O
+nyulat	O
+,	O
+most	O
+meg	O
+ezt	O
+az	O
+óriási	O
+halat	O
+.	O
+
+Olyan	O
+ügyes	O
+vadász	O
+leszel	O
+,	O
+mint	O
+amilyen	O
+Travis	B-PER
+.	O
+
+Tessék	O
+,	O
+anyám	O
+.	O
+
+Gyere	O
+,	O
+Betyár	B-PER
+!	O
+
+Tudja	O
+anyám	O
+,	O
+hogy	O
+Arliss	B-PER
+szeret	O
+nagyokat	O
+mondani	O
+.	O
+
+Ugyan	O
+,	O
+Travis	B-PER
+,	O
+hadd	O
+meséljen	O
+a	O
+kis	O
+legény	O
+,	O
+ha	O
+jól	O
+esik	O
+neki	O
+.	O
+
+De	O
+,	O
+anyám	O
+!	O
+
+Láttam	O
+,	O
+hogy	O
+ezt	O
+a	O
+halat	O
+Betyár	B-PER
+kapta	O
+el	O
+.	O
+
+Arliss	B-PER
+olyan	O
+kisfiú	O
+,	O
+akinek	O
+élénk	O
+a	O
+fantáziája	O
+.	O
+
+Ez	O
+egyáltalán	O
+nem	O
+baj	O
+.	O
+
+Ha	O
+itt	O
+tartjuk	O
+ezt	O
+a	O
+Betyárt	B-PER
+,	O
+Arliss	B-PER
+egész	O
+Texas	B-GPE
+legnagyobb	O
+hazudozója	O
+lesz	O
+!	O
+
+Nesze	O
+,	O
+egyél	O
+egy	O
+kis	O
+kenyeret	O
+!	O
+
+Nesze	O
+.	O
+
+Egy	O
+kicsit	O
+közelebb	O
+.	O
+
+Kapsz	O
+még	O
+kenyeret	O
+.	O
+
+Hát	O
+ez	O
+mi	O
+?	O
+
+Gyere	O
+szépen	O
+!	O
+
+Arliss	B-PER
+,	O
+engedd	O
+el	O
+!	O
+
+Arliss	B-PER
+,	O
+vigyázz	O
+!	O
+
+Engedd	O
+el	O
+!	O
+
+Hagyd	O
+békén	O
+,	O
+te	O
+bolond	O
+,	O
+mielőtt	O
+széttép	O
+!	O
+
+Jaj	O
+,	O
+te	O
+bolondos	O
+,	O
+imádnivaló	O
+eb	O
+!	O
+
+Úgy	O
+viselkedik	O
+,	O
+mintha	O
+egy	O
+nagy	O
+farkas	O
+lenne	O
+.	O
+
+Ugye	O
+,	O
+Travis	B-PER
+?	O
+
+Bolond	O
+,	O
+az	O
+biztos	O
+.	O
+
+De	O
+sokkal	O
+remekebb	O
+kutya	O
+,	O
+mint	O
+ahogy	O
+gondoltam	O
+.	O
+
+Milyen	O
+szépen	O
+énekelnek	O
+ma	B-DATE
+reggel	O
+a	O
+madarak	O
+.	O
+
+Gyönyörű	O
+,	O
+igaz	O
+?	O
+
+Mint	O
+amikor	O
+édesapáddal	O
+letelepedtünk	O
+itt	O
+.	O
+
+Először	O
+úgy	O
+terveztük	O
+,	O
+hogy	O
+Salt	B-GPE
+Licks	I-GPE
+mellett	O
+építkezünk	O
+,	O
+...mert	O
+oda	O
+az	O
+indiánok	B-NORP
+nem	O
+merészkednek	O
+el	O
+,	O
+de	O
+az	B-DATE
+utolsó	I-DATE
+nap	I-DATE
+a	O
+forrás	O
+mellett	O
+táboroztunk	O
+.	O
+
+A	O
+mezőt	O
+virágszőnyeg	O
+borította	O
+,	O
+...és	O
+énekeltek	O
+a	O
+madarak	O
+,	O
+úgy	O
+,	O
+mint	O
+most	O
+.	O
+
+Olyan	O
+gyönyörű	O
+volt	O
+,	O
+hogy	O
+nem	O
+bírtam	O
+továbbmenni	O
+.	O
+
+Végül	O
+így	O
+szóltam	O
+apádhoz	O
+:	O
+Jim	B-PER
+,	O
+megérkeztünk	O
+.	O
+
+Itt	O
+az	O
+otthonunk	O
+.	O
+
+Üdvözlet	O
+a	O
+ház	O
+népének	O
+!	O
+
+Bud	B-PER
+Searcy	I-PER
+,	O
+Elizabeth-tel	B-PER
+együtt	O
+.	O
+
+Persze	O
+,	O
+pontban	O
+ebédkor	O
+toppan	O
+be	O
+.	O
+
+Hogy	O
+van	O
+,	O
+Miss	O
+Coates	B-PER
+?	O
+
+Hogy	O
+vagy	O
+,	O
+öcsi	O
+?	O
+
+Hogy	O
+vannak	O
+?	O
+
+Hello	O
+,	O
+Mr.	O
+Searcy	B-PER
+.	O
+
+Ugorj	O
+le	O
+,	O
+kislányom	O
+.	O
+

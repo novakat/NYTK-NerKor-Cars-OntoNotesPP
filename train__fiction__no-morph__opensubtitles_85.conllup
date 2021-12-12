@@ -1,0 +1,1386 @@
+# global.columns = FORM ONPP:NER
+Már	O
+bebizonyította	O
+,	O
+milyen	O
+bátor	O
+.	O
+
+Jöjjön	O
+,	O
+majd	O
+én	O
+felvezetem	O
+!	O
+
+Hiszen	O
+ez	O
+csak	O
+játék	O
+!	O
+
+Csendet	O
+kérek	O
+!	O
+
+Ó	O
+,	O
+de	O
+feledékeny	O
+vagyok	O
+!	O
+
+Bocsánat	O
+!	O
+
+Véletlen	O
+bent	O
+maradt	O
+Elvira	B-PER
+kisasszony	O
+.	O
+
+A	O
+nagy	O
+hőség	O
+teszi	O
+.	O
+
+Nagyon	O
+meleg	O
+van	O
+.	O
+
+Ugye	O
+maguk	O
+is	O
+érzik	O
+?	O
+
+Nos	O
+,	O
+én	O
+most	O
+meghívom	O
+önöket	O
+egy	O
+kellemes	O
+csónaktúrára	O
+.	O
+
+Én	O
+egyszer	O
+gyerekkoromban	O
+rosszul	O
+voltam	O
+a	O
+hajón	O
+.	O
+
+Én	O
+jól	O
+bírom	O
+a	O
+tengert	O
+.	O
+
+Remélem	O
+,	O
+ezúttal	O
+senki	O
+sem	O
+lesz	O
+tengeri	O
+beteg	O
+.	O
+
+Nem	O
+viharos	O
+a	O
+tenger	O
+.	O
+
+Ó	O
+,	O
+íme	O
+!	O
+
+Már	O
+hozzák	O
+a	O
+csónakunkat	O
+.	O
+
+A	O
+neve	O
+,	O
+Rettenthetetlen	B-WORK_OF_ART
+.	O
+
+Mert	O
+eddig	O
+mindig	O
+dacolt	O
+a	O
+tenger	O
+hullámaival	O
+.	O
+
+Tessék	O
+,	O
+uraim	O
+!	O
+
+Tessék	O
+beszállni	O
+.	O
+
+Nem	O
+kell	O
+félni	O
+semmitől	O
+.	O
+
+Maga	O
+,	O
+kisasszony	O
+,	O
+még	O
+maradjon	O
+itt	O
+!	O
+
+A	O
+csónakunk	O
+készen	O
+áll	O
+,	O
+a	O
+tenger	O
+nyugodt	O
+,	O
+az	O
+idő	O
+ragyogó	O
+.	O
+
+Elegem	O
+van	O
+ebből	O
+a	O
+marhaságból	O
+!	O
+
+Ez	O
+igen	O
+!	O
+
+Odanézzetek	O
+!	O
+
+Rám	O
+nézni	O
+mind	O
+!	O
+
+Nézzenek	O
+a	O
+szemembe	O
+!	O
+
+Az	O
+evezőket	O
+!	O
+
+Evezni	O
+!	O
+
+A	O
+tenger	O
+tükre	O
+nyugodt	O
+és	O
+sima	O
+,	O
+enyhe	O
+szellő	O
+fodrozza	O
+csak	O
+.	O
+
+Szépen	O
+süt	O
+a	O
+nap	O
+.	O
+
+Milyen	O
+gyönyörűség	O
+belélegezni	O
+ezt	O
+a	O
+tiszta	O
+,	O
+sós	O
+levegőt	O
+!	O
+
+Jönnek	O
+a	O
+delfinek	O
+!	O
+
+Odanézz	O
+!	O
+
+Mekkorát	O
+ugrott	O
+!	O
+
+Egyikük	O
+kezd	O
+elfáradni	O
+.	O
+
+Rosszul	O
+érzi	O
+magát	O
+.	O
+
+Nagyon	O
+nagy	O
+baj	O
+,	O
+fiúk	O
+!	O
+
+Már	O
+a	O
+nyílt	O
+vízen	O
+járunk	O
+,	O
+nőnek	O
+a	O
+hullámok	O
+,	O
+s	O
+íme	O
+,	O
+most	O
+feltámadt	O
+a	O
+szél	O
+!	O
+
+Kitört	O
+a	O
+vihar	O
+!	O
+
+Erősen	O
+tartani	O
+a	O
+kormányt	O
+!	O
+
+Markoljátok	O
+az	O
+evezőket	O
+!	O
+
+Felborul	O
+a	O
+csónak	O
+.	O
+
+Mentse	O
+mindenki	O
+az	O
+életét	O
+!	O
+
+Szentséges	O
+Isten	O
+!	O
+
+Megfulladok	O
+!	O
+
+Milyen	O
+kisfiúk	O
+voltatok	O
+!	O
+
+Gyáva	O
+fickók	O
+!	O
+
+Te	O
+mit	O
+csináltál	O
+volna	O
+ekkora	O
+viharban	O
+?	O
+
+Féltetek	O
+,	O
+ugye	O
+?	O
+
+Hová	O
+megy	O
+,	O
+kisasszony	O
+?	O
+
+Nekem	O
+szólt	O
+?	O
+
+Miért	O
+,	O
+nincs	O
+vége	O
+?	O
+
+Hogy	O
+lenne	O
+vége	O
+?	O
+
+Magamra	O
+hagyna	O
+?	O
+
+Miért	O
+,	O
+mit	O
+akar	O
+még	O
+?	O
+
+Maga	O
+asszony	O
+,	O
+vagy	O
+kisasszony	O
+?	O
+
+Lány	O
+vagyok	O
+.	O
+
+Jól	O
+mulatott	O
+?	O
+
+Igazán	O
+nem	O
+mondhatnám	O
+.	O
+
+Szeretnék	O
+egy	O
+kicsit	O
+beszélgetni	O
+magával	O
+.	O
+
+Ugye	O
+római	O
+?	O
+
+Hát	O
+Rómában	B-GPE
+lakom	O
+!	O
+
+Tudtam	O
+.	O
+
+És	O
+melyik	O
+kerületben	O
+lakik	O
+?	O
+
+Colonna	B-LOC
+?	O
+
+Parioli	B-LOC
+?	O
+
+Prati	B-LOC
+?	O
+
+A	O
+belvárosban	O
+.	O
+
+Ejnye	O
+,	O
+kisasszony	O
+!	O
+
+Legyen	O
+őszinte	O
+hozzám	O
+!	O
+
+Mondja	O
+meg	O
+,	O
+hogy	O
+hol	O
+lakik	O
+!	O
+
+A	O
+város	O
+szélén	O
+egy	O
+benzinkút	O
+mellett	O
+.	O
+
+Ezek	O
+meg	O
+mit	O
+nevetnek	O
+?	O
+
+Ne	O
+törődjék	O
+velük	O
+!	O
+
+Csak	O
+szórakoznak	O
+.	O
+
+Tehát	O
+azt	O
+mondta	O
+,	O
+hogy	O
+még	O
+hajadon	O
+,	O
+de	O
+szeretne	O
+férjhez	O
+menni	O
+.	O
+
+Nem	O
+mondaná	O
+meg	O
+,	O
+mi	O
+a	O
+fenének	O
+?	O
+
+Nem	O
+őrültem	O
+meg	O
+.	O
+
+Ki	O
+venne	O
+el	O
+egy	O
+magadfajtát	O
+?	O
+
+Tudtommal	O
+minden	O
+lány	O
+szeretne	O
+férjhez	O
+menni	O
+,	O
+kisasszony	O
+.	O
+
+Én	O
+ismerek	O
+egy	O
+derék	O
+,	O
+csinos	O
+,	O
+jómódú	O
+fiatalembert	O
+,	O
+aki	O
+éppen	O
+ilyen	O
+lányt	O
+keres	O
+.	O
+
+Olyat	O
+,	O
+mint	O
+én	O
+?	O
+
+Mondom	O
+,	O
+a	O
+fiú	O
+csinos	O
+,	O
+magas	O
+,	O
+kocsija	O
+,	O
+háza	O
+van	O
+,	O
+lovagol	O
+,	O
+úszik	O
+.	O
+
+Szerintem	O
+meg	O
+kell	O
+próbálni	O
+,	O
+hátha	O
+megtetszenek	O
+egymásnak	O
+!	O
+
+Önnek	O
+mi	O
+a	O
+foglalkozása	O
+?	O
+
+Nem	O
+látod	O
+rajta	O
+?	O
+
+Nézze	O
+,	O
+most	O
+már	O
+hagyjon	O
+békében	O
+!	O
+
+A	O
+munkámból	O
+megélek	O
+.	O
+
+Igenis	O
+megélek	O
+a	O
+munkámból	O
+!	O
+
+Meghiszem	O
+azt	O
+!	O
+
+Nem	O
+hiányzik	O
+semmi	O
+.	O
+
+Az	O
+örömömre	O
+szolgál	O
+,	O
+annál	O
+jobb	O
+.	O
+
+Tehát	O
+ön	O
+gazdag	O
+,	O
+van	O
+bankbetétje	O
+.	O
+
+Tán	O
+háza	O
+is	O
+?	O
+
+Igen	O
+,	O
+a	O
+ház	O
+,	O
+amelyben	O
+lakom	O
+,	O
+az	O
+az	O
+enyém	O
+.	O
+
+És	O
+most	O
+elegem	O
+van	O
+a	O
+mutatványából	O
+.	O
+
+Ne	O
+menjen	O
+még	O
+,	O
+kisasszony	O
+!	O
+
+Legalább	O
+azt	O
+engedje	O
+meg	O
+,	O
+hogy	O
+bemutassam	O
+a	O
+fiatalembert	O
+,	O
+Oscar-t	B-PER
+!	O
+
+És	O
+ki	O
+az	O
+az	O
+Oscar	B-PER
+?	O
+
+Kérlek	O
+,	O
+gyere	O
+közelebb	O
+!	O
+
+Milyen	O
+elegáns	O
+vagy	O
+!	O
+
+Megengedi	O
+?	O
+
+Bemutatom	O
+önnek	O
+Oscar-t	B-PER
+.	O
+
+A	O
+kisasszony	O
+megengedi	O
+,	O
+hogy	O
+bemutatkozz	O
+.	O
+
+Örvendek	O
+!	O
+
+Oscar	B-PER
+örvend	O
+,	O
+hogy	O
+megismerheti	O
+önt	O
+.	O
+
+Ezzel	O
+a	O
+formaságoknak	O
+eleget	O
+tettünk	O
+,	O
+és	O
+most	O
+kettesben	O
+hagyom	O
+önöket	O
+.	O
+
+Csodálatos	O
+park	O
+ez	O
+itt	O
+.	O
+
+Lágy	O
+szellő	O
+suttog	O
+,	O
+illatoznak	O
+a	O
+virágok	O
+.	O
+
+Nyugodtan	O
+andaloghatnak	O
+,	O
+senki	O
+sem	O
+hallja	O
+a	O
+szavukat	O
+.	O
+
+Kedves	O
+kisasszony	O
+!	O
+
+Nem	O
+látja	O
+,	O
+hogy	O
+Oscar	B-PER
+a	O
+karját	O
+nyújtja	O
+?	O
+
+Fogadja	O
+el	O
+bátran	O
+,	O
+karoljon	O
+bele	O
+!	O
+
+Legyen	O
+hozzá	O
+bizalommal	O
+!	O
+
+Hisz	O
+csak	O
+most	O
+látom	O
+először	O
+!	O
+
+Nem	O
+is	O
+ismerem	O
+.	O
+
+Sétálgassanak	O
+a	O
+virágágyak	O
+közötti	O
+árnyas	O
+sétányon	O
+!	O
+
+A	O
+fákon	O
+madárkák	O
+csivitelnek	O
+.	O
+
+De	O
+Oscar	B-PER
+még	O
+hallgat	O
+egy	O
+kicsit	O
+.	O
+
+Félszeg	O
+,	O
+és	O
+nagyon	O
+meghatott	O
+.	O
+
+De	O
+most	O
+megszólal	O
+:	O
+,	O
+Kisasszony	O
+!	O
+
+,	O
+Olyan	O
+régen	O
+szerettem	O
+volna	O
+már	O
+megismerkedni	O
+magával	O
+!	O
+
+,	O
+Kérdezhetnék	O
+valamit	O
+?	O
+
+,	O
+Van	O
+vőlegénye	O
+?	O
+
+,	O
+Soha	O
+nem	O
+volt	O
+egyetlen	O
+férfi	O
+sem	O
+az	O
+életében	O
+?	O
+
+,	O
+Igen	O
+,	O
+ezt	O
+éreztem	O
+.	O
+
+,	O
+Oly	O
+sokat	O
+lestem	O
+magát	O
+az	O
+ablakomból	O
+!	O
+
+Es	O
+a	O
+misén	O
+a	O
+templomban	O
+vasárnap	B-DATE
+.	O
+
+,	O
+De	O
+mindig	O
+szemérmesen	O
+lesütötte	O
+a	O
+szemét	O
+.	O
+
+Nem	O
+pillantott	O
+fel	O
+,	O
+és	O
+...	O
+
+,	O
+Ó	O
+,	O
+milyen	O
+bájos	O
+!	O
+
+Virágot	O
+szed	O
+.	O
+
+Ez	O
+finom	O
+,	O
+gyengéd	O
+lélekre	O
+vall	O
+.	O
+
+,	O
+Ó	O
+,	O
+drága	O
+,	O
+kedves	O
+kisasszony	O
+!	O
+
+Remélhetem	O
+,	O
+hogy	O
+még	O
+találkozunk	O
+?	O
+
+,	O
+Ugye	O
+láthatom	O
+néha	O
+?	O
+
+Ó	O
+,	O
+köszönöm	O
+!	O
+
+Még	O
+nem	O
+mondta	O
+meg	O
+a	O
+nevét	O
+.	O
+
+,	O
+Milyen	O
+gyönyörű	O
+név	O
+!	O
+
+Köszönöm	O
+a	O
+kis	O
+csokrot	O
+.	O
+
+Lepréselem	O
+az	O
+imakönyvembe	O
+.	O
+
+,	O
+Táncolna	O
+velem	O
+?	O
+
+Karmester	O
+úr	O
+!	O
+
+Oscar	B-PER
+és	O
+Maria	B-PER
+táncolni	O
+szeretnének	O
+.	O
+
+A	O
+zenekar	O
+most	O
+egy	O
+bűvös	O
+keringőt	O
+játszik	O
+.	O
+
+,	O
+Tudja	O
+,	O
+Maria	B-PER
+kisasszony	O
+,	O
+én	O
+gazdag	O
+vagyok	O
+,	O
+de	O
+boldogtalan	O
+és	O
+magányos	O
+.	O
+
+,	O
+Mit	O
+számít	O
+az	O
+autó	O
+,	O
+a	O
+pénz	O
+,	O
+az	O
+utazások	O
+!	O
+
+Ez	O
+mind	O
+csak	O
+üres	O
+pompa	O
+,	O
+illúzió	O
+!	O
+
+,	O
+Csendes	O
+otthonra	O
+vágyom	O
+,	O
+ahol	O
+várnak	O
+a	O
+gyerekek	O
+,	O
+és	O
+a	O
+nejem	O
+olyan	O
+,	O
+mint	O
+maga	O
+.	O
+
+Amikor	O
+18	B-AGE
+éves	I-AGE
+voltam	O
+,	O
+kár	O
+,	O
+hogy	O
+nem	O
+akkor	O
+ismerkedtünk	O
+meg	O
+!	O
+
+Hosszú	O
+fekete	O
+hajam	O
+volt	O
+.	O
+
+A	O
+vállamig	O
+hullámzott	O
+.	O
+
+,	O
+Nekem	O
+maga	O
+örökké	O
+18	B-AGE
+éves	I-AGE
+marad	O
+,	O
+drágám	O
+.	O
+
+Hát	O
+szeret	O
+?	O
+
+Valóban	O
+szeret	O
+?	O
+
+Szerelmes	O
+belém	O
+?	O
+
+Igazán	O
+hihetek	O
+a	O
+szavának	O
+?	O
+
+Valóban	O
+belém	O
+szeretett	O
+?	O
+
+Ugye	O
+nincs	O
+semmi	O
+baj	O
+?	O
+
+Mit	O
+csinált	O
+velem	O
+maga	O
+?	O
+
+Mi	O
+történt	O
+itt	O
+velem	O
+?	O
+
+Menjél	O
+már	O
+haza	O
+!	O
+
+Be	O
+akarok	O
+zárni	O
+.	O
+
+Megyek	O
+,	O
+megyek	O
+!	O
+
+Mondja	O
+,	O
+kérem	O
+!	O
+
+Azok	O
+a	O
+nyomorultak	O
+még	O
+mindig	O
+itt	O
+mászkálnak	O
+?	O
+
+Ugyan	O
+,	O
+mindenki	O
+elment	O
+már	O
+!	O
+
+Üres	O
+az	O
+utca	O
+.	O
+
+Na	O
+,	O
+gyerünk	O
+,	O
+gyerünk	O
+!	O
+
+Mondom	O
+,	O
+hogy	O
+zárni	O
+akarok	O
+.	O
+
+Ha	O
+egyet	O
+meglátok	O
+,	O
+akkor	O
+lesz	O
+igazi	O
+mulatság	O
+.	O
+
+Bocsánat	O
+,	O
+kisasszony	O
+!	O
+
+Donofrio	B-PER
+a	O
+nevem	O
+.	O
+
+Bocsánat	O
+a	O
+szemtelenségért	O
+!	O
+
+Nem	O
+szoktam	O
+hölgyeket	O
+az	O
+utcán	O
+megszólítani	O
+.	O
+
+De	O
+ott	O
+voltam	O
+a	O
+nézőtéren	O
+.	O
+
+Láttam	O
+magát	O
+.	O
+
+Á	O
+,	O
+maga	O
+is	O
+látta	O
+az	O
+előadást	O
+!	O
+
+Szép	O
+cirkusz	O
+volt	O
+!	O
+
+Remélem	O
+,	O
+élvezte	O
+.	O
+
+De	O
+ha	O
+találkozhatnék	O
+azzal	O
+a	O
+gazemberrel	O
+,	O
+én	O
+...	O
+
+Nagyon	O
+szépen	O
+kérem	O
+,	O
+ne	O
+értsen	O
+félre	O
+!	O
+
+Teljesen	O
+igazat	O
+adok	O
+magának	O
+.	O
+
+Őszinte	O
+együttérzéssel	O
+figyeltem	O
+.	O
+
+Azért	O
+maradtam	O
+,	O
+hogy	O
+ezt	O
+megmondjam	O
+magának	O
+.	O
+
+Én	O
+könnyekig	O
+meghatódtam	O
+.	O
+
+Tudja	O
+,	O
+az	O
+ember	O
+magára	O
+ölti	O
+a	O
+cinizmus	O
+,	O
+a	O
+ridegség	O
+álarcát	O
+,	O
+és	O
+úgy	O
+hiszi	O
+,	O
+helyes	O
+.	O
+
+Aztán	O
+váratlanul	O
+találkozik	O
+egy	O
+megrázó	O
+élménnyel	O
+,	O
+szépséggel	O
+,	O
+tisztasággal	O
+...	O
+és	O
+akkor	O
+egyszeriben	O
+lehullik	O
+az	O
+álarc	O
+.	O
+
+Megrezzen	O
+a	O
+lélek	O
+legmélyebb	O
+húrja	O
+,	O
+és	O
+megdobban	O
+a	O
+szív	O
+.	O
+
+Ez	O
+történt	O
+.	O
+
+Szerettem	O
+volna	O
+ezt	O
+az	O
+élményt	O
+megköszönni	O
+magának	O
+.	O
+
+Hűvös	O
+éjszaka	O
+van	O
+,	O
+ugye	O
+?	O
+
+Megfogná	O
+egy	O
+percre	O
+?	O
+
+Sajnos	O
+nagyon	O
+könnyen	O
+megfázom	O
+.	O
+
+Nem	O
+inna	O
+velem	O
+egy	O
+pohár	O
+konyakot	O
+?	O
+
+Nagyon	O
+kedves	O
+.	O
+
+De	O
+hisz	O
+nem	O
+is	O
+ismerem	O
+!	O
+
+A	O
+nyomorultak	O
+!	O
+

@@ -1,0 +1,1416 @@
+# global.columns = FORM ONPP:NER
+Eltiprok	O
+bármit	O
+,	O
+vagy	O
+bárkit	O
+aki	O
+az	O
+utamba	O
+áll	O
+.	O
+
+Ez	O
+a	O
+módszerem	O
+.	O
+
+Semmit	O
+sem	O
+tehetünk	O
+.	O
+
+Nem	O
+segít	O
+,	O
+ha	O
+téged	O
+is	O
+elfognak	O
+.	O
+
+Roku	B-PER
+!	O
+
+Gyilkos	O
+!	O
+
+Vadállat	O
+!	O
+
+Apám	O
+és	O
+Bunroku	B-PER
+megtette	O
+amit	O
+mondtál	O
+nekik	O
+.	O
+
+Akkor	O
+miért	O
+ölöd	O
+meg	O
+őket	O
+?	O
+
+Hogy	O
+merészelsz	O
+?	O
+
+Várj	O
+Ganryu	B-PER
+!	O
+
+Vedd	O
+őrizetbe	O
+.	O
+
+Bunroku	B-PER
+!	O
+
+Megérdemlem	O
+,	O
+mert	O
+elárultam	O
+a	O
+falumat	O
+.	O
+
+Tíz	B-CARDINAL
+ökrös	O
+szekér	O
+!	O
+
+Menj	O
+keletre	O
+...	O
+
+Le	O
+kell	O
+fektetni	O
+az	O
+alapokat	O
+.	O
+
+Sietnünk	O
+kell	O
+lefektetni	O
+a	O
+tömböket	O
+!	O
+
+Álmodtam	O
+...	O
+
+Beszéltem	O
+?	O
+
+Álmomban	O
+várépítő	O
+voltam	O
+.	O
+
+Annyira	O
+haszontalannak	O
+érzem	O
+magam	O
+.	O
+
+Ne	O
+mondjon	O
+ilyent	O
+.	O
+
+Megnyerte	O
+a	O
+versenyt	O
+.	O
+
+Ki	O
+fogja	O
+elhinni	O
+azt	O
+?	O
+
+Cserben	O
+hagytam	O
+néhai	O
+apját	O
+.	O
+
+Biztos	O
+vagyok	O
+,	O
+hogy	O
+apám	O
+tudja	O
+az	O
+igazat	O
+.	O
+
+Mint	O
+olyan	O
+,	O
+aki	O
+tanult	O
+katonai	O
+taktikát	O
+szégyellem	O
+,	O
+hogy	O
+nem	O
+láttam	O
+át	O
+Hakutenen	B-PER
+.	O
+
+Felkészületlenül	O
+kapott	O
+el	O
+.	O
+
+Nem	O
+voltam	O
+elég	O
+jó	O
+.	O
+
+Muszáj	O
+ennyire	O
+hibáztatnia	O
+magát	O
+?	O
+
+Mit	O
+kellene	O
+tennem	O
+?	O
+
+Some	B-PER
+kisasszony	O
+.	O
+
+Kaphatnék	O
+egy	O
+kevés	O
+forró	O
+vizet	O
+?	O
+
+Miattam	O
+sír	O
+?	O
+
+Mi	O
+lett	O
+a	O
+falusiakkal	O
+?	O
+
+A	O
+munkásoknak	O
+felvetteket	O
+,	O
+lázadókként	O
+elfogták	O
+,	O
+és	O
+meggyilkolták	O
+..	O
+!	O
+
+Mikor	O
+leszek	O
+eléggé	O
+jól	O
+?	O
+
+Magamhoz	O
+kell	O
+térnem	O
+a	O
+falusiakért	O
+...	O
+
+Jön	O
+valaki	O
+!	O
+
+Miyo	B-PER
+kisasszony	O
+!	O
+
+Ők	O
+a	O
+Tamaki	B-PER
+gyerekek	O
+.	O
+
+Engem	O
+és	O
+Yukit	B-PER
+,	O
+Sanosuke	B-PER
+mentett	O
+meg	O
+.	O
+
+Elfutottunk	O
+és	O
+elbújtunk	O
+,	O
+aztán	O
+kiküldtük	O
+Miyo	B-PER
+kisasszonyt	O
+a	O
+rejtekhelyünkből	O
+,	O
+és	O
+végül	O
+...	O
+
+Boldog	O
+vagyok	O
+,	O
+hogy	O
+mind	O
+biztonságban	O
+vagytok	O
+.	O
+
+Hol	O
+van	O
+Taiuemon	B-PER
+?	O
+
+Ahogy	O
+tartottam	O
+tőle	O
+.	O
+
+Tsuneta	B-PER
+,	O
+Yasaku	B-PER
+,	O
+Gensaku	B-PER
+és	O
+Heiji	B-PER
+is	O
+Bunroku	B-PER
+is	O
+,	O
+és	O
+Genroku	B-PER
+is	O
+,	O
+aki	O
+árult	O
+minket	O
+.	O
+
+És	O
+Shosai	B-PER
+doktor	O
+is	O
+.	O
+
+Micsoda	O
+,	O
+Shosai	B-PER
+is	O
+?	O
+
+Mind	O
+elmentek	O
+,	O
+mind	O
+eltűntek	O
+.	O
+
+Hamarosan	O
+nem	O
+lesz	O
+biztonságos	O
+ez	O
+a	O
+hely	O
+.	O
+
+Önnek	O
+vissza	O
+kell	O
+térni	O
+a	O
+fővárosba	O
+,	O
+Edóba	B-GPE
+.	O
+
+Ott	O
+még	O
+Hakuten	B-PER
+sem	O
+tudja	O
+keresztülvinni	O
+az	O
+akaratát	O
+.	O
+
+És	O
+ott	O
+sok	O
+jó	O
+orvos	O
+van	O
+.	O
+
+Önnek	O
+vissza	O
+kell	O
+nyernie	O
+az	O
+egészségét	O
+.	O
+
+És	O
+Te	O
+mit	O
+fogsz	O
+csinálni	O
+,	O
+Sanosuke	B-PER
+?	O
+
+Itt	O
+maradok	O
+a	O
+nővéremmel	O
+,	O
+és	O
+megbosszulom	O
+apámat	O
+és	O
+anyámat	O
+!	O
+
+Nyissák	O
+ki	O
+kérem	O
+!	O
+
+Sajnálom	O
+,	O
+hogy	O
+késő	O
+van	O
+.	O
+
+Kérjem	O
+,	O
+nyissák	O
+ki	O
+az	O
+ajtót	O
+.	O
+
+Kérem	O
+jöjjenek	O
+be	O
+.	O
+
+A	O
+szoba	O
+erre	O
+van	O
+.	O
+
+Sajnálom	O
+,	O
+hogy	O
+ennyire	O
+későn	O
+felébresztetem	O
+.	O
+
+Kikutaró	B-PER
+úr	O
+!	O
+
+Letartóztatlak	O
+mint	O
+lázadót	O
+.	O
+
+Te	O
+embertelen	O
+vadállat	O
+!	O
+
+Megöllek	O
+!	O
+
+Egy	O
+légynek	O
+sem	O
+tudsz	O
+ártani	O
+.	O
+
+Letartóztatni	O
+!	O
+
+Siess	O
+!	O
+
+Tanár	O
+úr	O
+,	O
+meneküljön	O
+!	O
+
+Some	B-PER
+kisasszony	O
+!	O
+
+Vidd	O
+el	O
+őt	O
+!	O
+
+Napok	B-DATE
+telnek	O
+el	O
+,	O
+ameddig	O
+elérkezik	O
+az	O
+a	O
+nap	O
+,	O
+amikor	O
+lefektetik	O
+a	O
+lábazatot	O
+.	O
+
+Mivel	O
+az	O
+alapozás	O
+nem	O
+megy	O
+jól	O
+,	O
+Hakuten	B-PER
+fiatal	O
+nőket	O
+fog	O
+áldozni	O
+és	O
+betemetni	O
+.	O
+
+Ez	O
+igaz	O
+?	O
+
+És	O
+sok	O
+jó	O
+doktor	O
+van	O
+ott	O
+.	O
+
+És	O
+sorsot	O
+kell	O
+húzniuk	O
+.	O
+
+Sorsot	O
+húzni	O
+?	O
+
+Akkor	O
+a	O
+lányom	O
+is	O
+?	O
+
+Az	O
+emberi	O
+élet	O
+értékesebb	O
+ennél	O
+a	O
+várnál	O
+.	O
+
+Átkozottak	O
+.	O
+
+Nem	O
+fogom	O
+hagyni	O
+,	O
+hogy	O
+ezt	O
+tegyék	O
+.	O
+
+Te	O
+vén	O
+csontos	O
+szatyor	O
+!	O
+
+Bocsásson	O
+meg	O
+nekem	O
+!	O
+
+Te	O
+átkozott	O
+!	O
+
+Rokuji	B-PER
+.	O
+
+Állj	O
+,	O
+bolond	O
+nőszemély	O
+!	O
+
+Hogy	O
+mered	O
+megszólítani	O
+Hakuten	B-PER
+urat	O
+.	O
+
+Rokuji	B-PER
+,	O
+én	O
+vagyok	O
+.	O
+
+Elfelejtettél	O
+?	O
+
+Én	O
+vagyok	O
+aki	O
+felemelt	O
+téged	O
+!	O
+
+Ezt	O
+a	O
+napot	O
+vártam	O
+!	O
+
+A	O
+napot	O
+amikor	O
+leteszed	O
+az	O
+alapot	O
+!	O
+
+Negyven	B-DATE
+évet	I-DATE
+vártam	O
+,	O
+hogy	O
+együtt	O
+örvendezzek	O
+veled	O
+!	O
+
+Kazubei	B-PER
+.	O
+
+Kergesd	O
+el	O
+ezt	O
+az	O
+őrült	O
+nőt	O
+!	O
+
+Rokuji	B-PER
+!	O
+
+Ti	O
+négyen	B-CARDINAL
+,	O
+jól	O
+figyeljetek	O
+.	O
+
+Holnap	B-DATE
+befejezzük	O
+az	O
+alapozást	O
+.	O
+
+Itt	O
+lesz	O
+Dewa	B-PER
+nagyúr	O
+,	O
+és	O
+ti	O
+áldozatként	O
+lesztek	O
+bele	O
+temetve	O
+a	O
+földbe	O
+.	O
+
+Rossz	O
+dolgokat	O
+cselekedtetek	O
+életetekben	O
+,	O
+mégis	O
+,	O
+közbenjárásomra	O
+,	O
+Dewa	B-PER
+nagyúr	O
+fehér	O
+köntöst	O
+ad	O
+nektek	O
+.	O
+
+Legyetek	O
+hálásak	O
+érte	O
+.	O
+
+Folytassátok	O
+.	O
+
+Tünés	O
+!	O
+
+Gyere	O
+vissza	O
+Hakutenhez	B-PER
+.	O
+
+Végül	O
+is	O
+visszatértél	O
+Sanpushaba	B-LOC
+.	O
+
+Nem	O
+tudod	O
+,	O
+hogy	O
+ez	O
+a	O
+sorsod	O
+?	O
+
+Ez	O
+az	O
+utolsó	O
+ajánlatom	O
+légy	O
+a	O
+szeretőm	O
+.	O
+
+Ha	O
+megteszed	O
+,	O
+jól	O
+fogok	O
+bánni	O
+veled	O
+.	O
+
+Én	O
+csak	O
+Sató	B-PER
+úrnak	O
+adom	O
+magam	O
+!	O
+
+Gyere	O
+.	O
+
+Megmutatom	O
+ki	O
+a	O
+főnök	O
+.	O
+
+Inkább	O
+elharapnám	O
+a	O
+nyelvem	O
+és	O
+meghalnék	O
+!	O
+
+Megízleled	O
+a	O
+poklot	O
+amíg	O
+élsz	O
+.	O
+
+Azután	O
+meghalsz	O
+,	O
+ahogy	O
+óhajtod	O
+.	O
+
+Te	O
+!	O
+
+Meg	O
+foglak	O
+büntetni	O
+a	O
+bűneidért	O
+.	O
+
+Hogy	O
+mered	O
+azt	O
+tervezi	O
+,	O
+hogy	O
+megölsz	O
+.	O
+
+Gondolod	O
+,	O
+hogy	O
+szerencsét	O
+hoz	O
+neked	O
+?	O
+
+Sanosuke	B-PER
+,	O
+Miyo	B-PER
+kisasszony	O
+,	O
+nézzétek	O
+!	O
+
+Ez	O
+ugyanaz	O
+a	O
+fegyver	O
+,	O
+ami	O
+megölte	O
+az	O
+anyád	O
+.	O
+
+Tehát	O
+Sanpei	B-PER
+,	O
+Hakuten	B-PER
+parancsára	O
+,	O
+ellopta	O
+a	O
+tea	O
+tároló	O
+edényt	O
+,	O
+és	O
+megölte	O
+anyádat	O
+.	O
+
+Ezt	O
+apámért	O
+és	O
+anyámért	O
+.	O
+
+Védd	O
+magad	O
+!	O
+
+Nem	O
+tehetsz	O
+semmit	O
+velem	O
+.	O
+
+Sanosuke	B-PER
+,	O
+gondoskodj	O
+arról	O
+,	O
+hogy	O
+meghaljon	O
+.	O
+
+Engedjétek	O
+le	O
+.	O
+
+Lefelé	O
+!	O
+
+Ereszd	O
+le	O
+!	O
+
+Ereszd	O
+le	O
+.	O
+
+Szállj	O
+fel	O
+.	O
+
+Lefelé	O
+.	O
+
+Nagyuram	O
+.	O
+
+Induljatok	O
+!	O
+
+Állítsd	O
+le	O
+ezt	O
+a	O
+rituálét	O
+!	O
+
+Az	O
+ország	O
+,	O
+a	O
+Shógunátus	O
+,	O
+és	O
+a	O
+Fuji	B-FAC
+vár	I-FAC
+érdekében	O
+...	O
+én	O
+,	O
+Sató	B-PER
+Kikutaro	I-PER
+,	O
+ellenzem	O
+a	O
+szertartást	O
+,	O
+és	O
+a	O
+vár	O
+építtetőjét	O
+.	O
+
+Ezért	O
+jöttem	O
+!	O
+
+Sató	B-PER
+Kikutaro	I-PER
+lázadó	O
+és	O
+bűnös	O
+!	O
+
+Őrültnek	O
+kell	O
+lenned	O
+,	O
+hogy	O
+ide	O
+jössz	O
+ma	B-DATE
+!	O
+
+Állj	O
+,	O
+nincs	O
+szükség	O
+rátok	O
+.	O
+
+Nyugalom	O
+!	O
+
+Én	O
+csak	O
+Dewa	B-PER
+Mizuno	I-PER
+nagyúrhoz	O
+szólok	O
+.	O
+
+Egész	O
+Japánban	B-GPE
+,	O
+a	O
+várépítés	O
+történelmében	O
+sohasem	O
+ajánlanak	O
+fel	O
+emberáldozatot	O
+.	O
+
+Nincs	O
+jogod	O
+beleavatkozni	O
+.	O
+
+Senki	O
+nincs	O
+felette	O
+vagy	O
+alatta	O
+embertársainál	O
+.	O
+
+Ugyanez	O
+vonatkozik	O
+a	O
+várra	O
+.	O
+
+Babonára	O
+építeni	O
+már	O
+elfogadhatatlan	O
+.	O
+
+Ezt	O
+a	O
+gyakorlatot	O
+régen	O
+elhagyták	O
+.	O
+
+Hogy	O
+mered	O
+támadni	O
+a	O
+hírnevemet	O
+!	O
+
+Te	O
+hivatásunk	O
+szégyene	O
+vagy	O
+.	O
+
+Arra	O
+használtad	O
+ezt	O
+a	O
+pozíciót	O
+,	O
+hogy	O
+kielégítsd	O
+a	O
+kapzsiságod	O
+.	O
+
+A	O
+tanácsadókkal	O
+azon	O
+mesterkedsz	O
+,	O
+hogy	O
+a	O
+forrásokat	O
+elsikkaszd	O
+a	O
+saját	O
+pénztárcád	O
+számára	O
+.	O
+
+Ráhoztad	O
+a	O
+falubeliek	O
+haragját	O
+a	O
+várra	O
+.	O
+
+Vannak	O
+tanúim	O
+.	O
+
+Gyertek	O
+és	O
+magyarázzátok	O
+meg	O
+a	O
+Nagyúrnak	O
+!	O
+
+Hogy	O
+merészeltek	O
+?	O
+
+Eredjetek	O
+innen	O
+!	O
+
+Nap	O
+mint	O
+nap	O
+kényszerítenek	O
+minket	O
+,	O
+hogy	O
+a	O
+váron	O
+dolgozzunk	O
+.	O
+
+A	O
+termőföldjeinket	O
+,	O
+és	O
+termésünket	O
+megsemmisítették	O
+.	O
+
+Fizetést	O
+sosem	O
+kapunk	O
+,	O
+a	O
+saját	O
+ételünket	O
+hozzuk	O
+.	O
+
+Nem	O
+lesz	O
+rizsünk	O
+ebben	O
+az	O
+évadban	O
+.	O
+
+Nem	O
+leszünk	O
+képesek	O
+fizetni	O
+a	O
+rizsadónkat	O
+.	O
+
+Egyetlen	O
+dolog	O
+marad	O
+számunkra	O
+,	O
+a	O
+halál	O
+.	O
+
+Gondolja	O
+,	O
+hogy	O
+ez	O
+a	O
+módja	O
+a	O
+várépítésnek	O
+?	O
+
+Hakuten	B-PER
+is	O
+megpróbált	O
+megölni	O
+mindenkit	O
+,	O
+aki	O
+szembeszállt	O
+vele	O
+.	O
+
+Yuki	B-PER
+!	O
+
+Csak	O
+mert	O
+apám	O
+és	O
+mások	O
+Sató	B-PER
+úr	O
+mellett	O
+voltak	O
+,	O
+ők	O
+mindnyájukat	O
+lefejezték	O
+.	O
+
+He	O
+te	O
+lettél	O
+volna	O
+a	O
+jobb	O
+,	O
+neked	O
+is	O
+segítettek	O
+volna	O
+.	O
+
+Ha	O
+igazságos	O
+lennél	O
+,	O
+tisztelnénk	O
+téged	O
+.	O
+
+Sanosuke	B-PER
+,	O
+Miyo	B-PER
+kisasszony	O
+,	O
+lépjetek	O
+elő	O
+.	O
+
+Hakuten	B-PER
+,	O
+Sanpeit	B-PER
+használtad	O
+anyám	O
+megöléséhez	O
+.	O
+
+Azt	O
+parancsoltad	O
+neki	O
+lopja	O
+el	O
+a	O
+nagyúr	O
+teatároló	O
+korsóját	O
+,	O
+és	O
+szándékosan	O
+tegye	O
+tönkre	O
+.	O
+
+Értem	O
+!	O
+
+Ti	O
+voltatok	O
+akik	O
+megölték	O
+Sanpeit	B-PER
+.	O
+
+Megmondtuk	O
+neki	O
+,	O
+hogy	O
+megtoroltuk	O
+a	O
+szüleinket	O
+.	O
+
+Ez	O
+becsületbeli	O
+párbaj	O
+volt	O
+.	O
+
+A	O
+halott	O
+nem	O
+tud	O
+beszélni	O
+.	O
+
+Magatokat	O
+próbáljátok	O
+menteni	O
+Sanpeit	B-PER
+hibáztatva	O
+az	O
+egészért	O
+.	O
+
+Tényleg	O
+azt	O
+hiszed	O
+a	O
+halott	O
+nem	O
+tud	O
+beszélni	O
+?	O
+
+Van	O
+egy	O
+tanúja	O
+ennek	O
+a	O
+bosszúállásnak	O
+.	O
+
+Hihetünk	O
+a	O
+tanúdnak	O
+?	O
+
+Az	O
+a	O
+nő	O
+,	O
+aki	O
+felnevelt	O
+.	O
+
+Hozd	O
+ide	O
+!	O
+
+Rokuji	B-PER
+,	O
+jövendőmondó	O
+vagyok	O
+,	O
+mindent	O
+tudok	O
+.	O
+
+Sohasem	O
+láttam	O
+ezelőtt	O
+őt	O
+.	O
+
+Tudom	O
+,	O
+hogy	O
+a	O
+mellkasodon	O
+van	O
+egy	O
+nagy	O
+anyajegy	O
+.	O
+
+Hakuten	B-PER
+,	O
+van	O
+még	O
+más	O
+mentséged	O
+?	O
+
+Öljétek	O
+meg	O
+!	O
+
+Öljétek	O
+meg	O
+mindet	O
+.	O
+
+Halál	O
+!	O
+
+Dewa	B-PER
+nagyúr	O
+,	O
+megengedi	O
+a	O
+Tamaki	B-PER
+gyerekeknek	O
+,	O
+hogy	O
+megbosszulják	O
+a	O
+szüleik	O
+halálát	O
+.	O
+
+Sanosuke	B-PER
+,	O
+Miyo	B-PER
+...	O
+én	O
+nem	O
+tudtam	O
+.	O
+
+Bocsássatok	O
+meg	O
+.	O
+
+Öljétek	O
+meg	O
+Hakutent	B-PER
+.	O
+
+Igenis	O
+,	O
+nagyuram	O
+!	O
+
+Én	O
+,	O
+Sató	B-PER
+Kikutaro	I-PER
+,	O
+segédkezek	O
+nekik	O
+.	O
+
+Menj	O
+,	O
+segíts	O
+Some	B-PER
+kisasszonynak	O
+!	O
+
+Kettőtökkel	B-CARDINAL
+később	O
+foglalkozok	O
+.	O
+
+Házi	O
+őrizet	O
+alatt	O
+vagytok	O
+.	O
+

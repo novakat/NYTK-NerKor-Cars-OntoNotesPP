@@ -1,0 +1,1253 @@
+# global.columns = FORM ONPP:NER
+Aztán	O
+látogass	O
+meg	O
+máskor	O
+is	O
+ám	O
+!	O
+
+Meghálálom	O
+!	O
+
+Klassz	O
+jószág	O
+,	O
+te	O
+!	O
+
+Igazán	O
+elegáns	O
+,	O
+bár	O
+én	O
+a	O
+te	O
+helyedben	O
+inkább	O
+szürkét	O
+vettem	O
+volna	O
+.	O
+
+Az	O
+most	O
+divatosabb	O
+szín	O
+,	O
+de	O
+azért	O
+ez	O
+is	O
+elegáns	O
+.	O
+
+Mit	O
+csinálsz	O
+,	O
+te	O
+szerencsétlen	O
+?	O
+
+Így	O
+lemerül	O
+az	O
+akku	O
+!	O
+
+Elég	O
+volt	O
+,	O
+szállj	O
+ki	O
+gyorsan	O
+!	O
+
+Még	O
+az	O
+a	O
+szerencse	O
+,	O
+hogy	O
+ilyen	O
+finom	O
+a	O
+modorod	O
+!	O
+
+Hiába	O
+!	O
+
+Az	O
+igazi	O
+azért	O
+még	O
+mindig	O
+a	O
+Fiat	B-PROD
+!	O
+
+Meg	O
+aztán	O
+autóból	O
+egész	O
+másképp	O
+látod	O
+a	O
+világot	O
+.	O
+
+Terpeszkedsz	O
+a	O
+volánnál	O
+.	O
+
+Villogtatod	O
+az	O
+indexet	O
+,	O
+egyszer	O
+jobbra	O
+,	O
+egyszer	O
+balra	O
+!	O
+
+Brrr-brrr	O
+!	O
+
+Míg	O
+az	O
+autóban	O
+ülsz	O
+,	O
+mindenki	O
+azt	O
+hiszi	O
+,	O
+igazi	O
+úrilány	O
+vagy	O
+.	O
+
+Milliomos	B-CARDINAL
+az	O
+apád	O
+.	O
+
+Csak	O
+győzd	O
+lerázni	O
+a	O
+férfiakat	O
+,	O
+akik	O
+lihegve	O
+a	O
+nyomodba	O
+szegődnek	O
+!	O
+
+Hallod	O
+ezt	O
+?	O
+
+Még	O
+mindig	O
+őrjöng	O
+!	O
+
+Ara	O
+is	O
+volt	O
+ám	O
+!	O
+
+Én	O
+tudom	O
+,	O
+miből	O
+vette	O
+.	O
+
+Hogy	O
+mit	O
+meg	O
+nem	O
+tett	O
+érte	O
+!	O
+
+Nagyobb	O
+kurva	O
+ez	O
+mindnyájunknál	O
+!	O
+
+Itt	O
+maradsz	O
+!	O
+
+Hagyj	O
+békén	O
+!	O
+
+Táncolj	O
+,	O
+Cabiria	B-PER
+?	O
+
+Mutassuk	O
+meg	O
+együtt	O
+,	O
+hogy	O
+járják	O
+Rómában	B-GPE
+az	O
+igazi	O
+mambót	O
+!	O
+
+Na	O
+gyere	O
+csak	O
+!	O
+
+Ma	B-DATE
+a	O
+füledbe	O
+súgja	O
+,	O
+hogy	O
+forrón	O
+szeret	O
+,	O
+holnap	O
+meg	O
+már	O
+koldulni	O
+küld	O
+,	O
+hogy	O
+legyen	O
+zabálnivalója	O
+!	O
+
+Nincs	O
+helyed	O
+itt	O
+a	O
+mi	O
+tisztességes	O
+utcánkban	O
+,	O
+ahol	O
+dolgozunk	O
+.	O
+
+Itt	O
+vagyok	O
+,	O
+fiúkám	O
+!	O
+
+Értem	O
+jöttél	O
+?	O
+
+Akkor	O
+se	O
+mentem	O
+volna	O
+,	O
+ha	O
+könyörögsz	O
+!	O
+
+Hé	O
+,	O
+fordulj	O
+föl	O
+!	O
+
+Hová	O
+akartál	O
+menni	O
+azzal	O
+az	O
+autóval	O
+?	O
+
+A	O
+templomba	O
+imádkozni	O
+a	O
+bűneinkért	O
+?	O
+
+Vagy	O
+a	O
+kórházba	O
+?	O
+
+Vár	O
+az	O
+elvonókúra	O
+!	O
+
+Tetves	O
+dög	O
+,	O
+te	O
+!	O
+
+Dühöngsz	O
+?	O
+
+Árt	O
+a	O
+szépségednek	O
+!	O
+
+Hej	O
+,	O
+Cabiria	B-PER
+!	O
+
+Nem	O
+hallottad	O
+?	O
+
+Miért	O
+hagyod	O
+,	O
+hogy	O
+sértegessen	O
+?	O
+
+Tudod	O
+,	O
+hová	O
+jutsz	O
+hamarosan	O
+?	O
+
+A	O
+sarokra	O
+,	O
+de	O
+koldusnak	O
+!	O
+
+Adakozzatok	O
+,	O
+jó	O
+lelkek	O
+!	O
+
+Csak	B-MONEY
+néhány	B-MONEY
+fillért	I-MONEY
+!	O
+
+Ma	B-DATE
+még	O
+nem	O
+ettem	O
+.	O
+
+Kenyérre	O
+kell	O
+nekem	O
+,	O
+meg	O
+a	O
+szerelmes	O
+fiúmnak	O
+!	O
+
+Na	O
+,	O
+ez	O
+az	O
+,	O
+Cabiria	B-PER
+!	O
+
+Húzz	O
+be	O
+neki	O
+!	O
+
+Wanda	B-PER
+,	O
+kezdődik	O
+a	O
+cirkusz	O
+.	O
+
+Hajrá	O
+,	O
+Cabiria	B-PER
+!	O
+
+Ne	O
+hagyd	O
+magad	O
+!	O
+
+Ököllel	O
+a	O
+hasába	O
+!	O
+
+Inkább	O
+segítsetek	O
+lefogni	O
+őket	O
+!	O
+
+Segítsetek	O
+már	O
+!	O
+
+Állj	O
+,	O
+mielőtt	O
+kihívják	O
+a	O
+rendőröket	O
+!	O
+
+Fogd	O
+be	O
+a	O
+pofád	O
+,	O
+hülye	O
+!	O
+
+Megölöm	O
+!	O
+
+Hagyjatok	O
+!	O
+
+Ültessétek	O
+be	O
+!	O
+
+Vigyük	O
+innen	O
+!	O
+
+Nem	O
+megyek	O
+sehová	O
+!	O
+
+Megtépem	O
+!	O
+
+Te	O
+vén	O
+részeges	O
+ringyó	O
+!	O
+
+Ezért	O
+még	O
+számolunk	O
+!	O
+
+Én	O
+nem	O
+bántottam	O
+őt	O
+!	O
+
+Ő	O
+kezdte	O
+.	O
+
+Hát	O
+nem	O
+érted	O
+?	O
+
+Felejtsd	O
+el	O
+!	O
+
+De	O
+még	O
+találkozunk	O
+.	O
+
+Szerencsétlen	O
+!	O
+
+Nesze	O
+!	O
+
+Szívj	O
+el	O
+egy	O
+cigarettát	O
+!	O
+
+Hová	O
+mégy	O
+?	O
+
+Hol	O
+tegyelek	O
+le	O
+?	O
+
+A	O
+Via	B-FAC
+Venetó-n	I-FAC
+.	O
+
+A	O
+Via	B-FAC
+Venetó-n	I-FAC
+?	O
+
+Mit	O
+keresnél	O
+te	O
+ott	O
+?	O
+
+Idefigyelj	O
+,	O
+Cabiria	B-PER
+!	O
+
+Egyszer	O
+már	O
+szeretnék	O
+komolyan	O
+beszélni	O
+veled	O
+.	O
+
+Nincs	O
+ez	O
+rendjén	O
+,	O
+ahogy	O
+te	O
+élsz	O
+.	O
+
+Keresel	O
+annyit	O
+,	O
+mint	O
+más	O
+,	O
+csak	O
+ócska	O
+palikra	O
+költöd	O
+.	O
+
+Nézd	O
+,	O
+milyen	O
+jól	O
+megvagyunk	O
+,	O
+Marisa	B-PER
+meg	O
+én	O
+!	O
+
+Marisa	B-PER
+dolgozik	O
+,	O
+én	O
+meg	O
+vigyázok	O
+a	O
+pénzére	O
+.	O
+
+Nem	O
+engedném	O
+,	O
+hogy	O
+a	O
+haja	O
+szála	O
+meggörbüljön	O
+!	O
+
+Ez	O
+így	O
+van	O
+jól	O
+.	O
+
+Miért	O
+nem	O
+élsz	O
+te	O
+is	O
+így	O
+?	O
+
+Kiszállok	O
+.	O
+
+Rendben	O
+van	O
+!	O
+
+De	O
+mondd	O
+meg	O
+!	O
+
+Mit	O
+keresel	O
+a	O
+Via	B-FAC
+Venetó-n	I-FAC
+?	O
+
+A	O
+Via	B-FAC
+Veneto	I-FAC
+,	O
+meg	O
+a	O
+Villa	B-FAC
+Borghese	I-FAC
+nem	O
+ilyen	O
+lányoknak	O
+való	O
+.	O
+
+Cabiria	B-PER
+,	O
+miért	O
+nem	O
+keresel	O
+magadnak	O
+egy	O
+komoly	O
+,	O
+rendes	O
+fiút	O
+,	O
+mint	O
+én	O
+?	O
+
+Olyan	O
+nekem	O
+nem	O
+kell	O
+.	O
+
+Kellene	O
+,	O
+csak	O
+nem	O
+találsz	O
+.	O
+
+Ilyen	O
+alakot	O
+bármikor	O
+találok	O
+!	O
+
+Az	O
+kéne	O
+,	O
+mi	O
+?	O
+
+Hogy	O
+etessek	O
+,	O
+itassak	O
+olyat	O
+,	O
+akinek	O
+még	O
+kocsira	O
+is	O
+van	O
+igénye	O
+!	O
+
+Hagyd	O
+abba	O
+,	O
+jó	O
+?	O
+
+Abbahagytam	O
+.	O
+
+Engedj	O
+kiszállni	O
+!	O
+
+Engedj	O
+!	O
+
+Bánom	O
+is	O
+én	O
+!	O
+
+Köszönöm	O
+szépen	O
+!	O
+
+Nyomorult	O
+barom	O
+!	O
+
+Nem	O
+tudsz	O
+vigyázni	O
+?	O
+
+Menj	O
+,	O
+fordulj	O
+fel	O
+az	O
+első	B-ORDINAL
+saroknál	O
+!	O
+
+Rád	O
+nézni	O
+sem	O
+szabad	O
+?	O
+
+Nem	O
+mindenütt	O
+látni	O
+ilyen	O
+szépfiút	O
+.	O
+
+Na	O
+,	O
+menj	O
+innen	O
+!	O
+
+Ha	O
+nem	O
+akarok	O
+,	O
+nem	O
+megyek	O
+.	O
+
+Érted	O
+,	O
+jóember	O
+?	O
+
+Ó	O
+,	O
+bocsánat	O
+!	O
+
+Nem	O
+látsz	O
+a	O
+szemedtől	O
+?	O
+
+Jessie	B-PER
+!	O
+
+Ne	O
+cirkuszolj	O
+már	O
+megint	O
+!	O
+
+Alberto	B-PER
+Lazzari	I-PER
+!	O
+
+Jessie	B-PER
+,	O
+kérlek	O
+!	O
+
+Próbálj	O
+meg	O
+észhez	O
+térni	O
+!	O
+
+Hagyd	O
+abba	O
+,	O
+ne	O
+hisztériázz	O
+!	O
+
+Ne	O
+érj	O
+hozzám	O
+!	O
+
+Figyelmeztetlek	O
+,	O
+hogy	O
+kezdem	O
+unni	O
+.	O
+
+Add	O
+ide	O
+a	O
+kulcsot	O
+!	O
+
+Ne	O
+csinálj	O
+itt	O
+botrányt	O
+!	O
+
+Mondtam	O
+,	O
+hogy	O
+ne	O
+merj	O
+hozzám	O
+nyúlni	O
+!	O
+
+Engedj	O
+be	O
+,	O
+menj	O
+arrébb	O
+!	O
+
+Térj	O
+észre	O
+!	O
+
+Most	O
+hová	O
+akarsz	O
+menni	O
+?	O
+
+Engedj	O
+elmenni	O
+!	O
+
+Maradj	O
+!	O
+
+Úgysem	O
+megyünk	O
+hozzád	O
+!	O
+
+Hagyjál	O
+!	O
+
+Fáj	O
+!	O
+
+Jessie	B-PER
+,	O
+drágám	O
+!	O
+
+Hallgass	O
+meg	O
+!	O
+
+Utoljára	O
+mondom	O
+.	O
+
+Nekem	O
+már	O
+ne	O
+mondj	O
+semmit	O
+!	O
+
+Csak	O
+annyit	O
+,	O
+hogy	O
+elegem	O
+van	O
+belőled	O
+!	O
+
+Elszakítod	O
+a	O
+bundámat	O
+!	O
+
+Én	O
+vettem	O
+!	O
+
+Várj	O
+csak	O
+egy	O
+percet	O
+!	O
+
+Most	O
+már	O
+mehetsz	O
+.	O
+
+Ostoba	O
+pojáca	O
+!	O
+
+Még	O
+egy	O
+szóra	O
+,	O
+Jessie	B-PER
+!	O
+
+Ha	O
+nem	O
+jössz	O
+vissza	O
+,	O
+köztünk	O
+vége	O
+mindennek	O
+.	O
+
+Tehát	O
+végeztünk	O
+.	O
+
+Örökre	O
+!	O
+
+Csakhogy	O
+megszabadultam	O
+tőle	O
+!	O
+
+Köszönöm	O
+,	O
+Jessie	B-PER
+!	O
+
+Mit	O
+bámulsz	O
+?	O
+
+Menj	O
+innen	O
+!	O
+
+Neked	O
+szólok	O
+!	O
+
+Szállj	O
+be	O
+!	O
+
+Szálljak	O
+be	O
+?	O
+
+Gyere	O
+,	O
+siess	O
+már	O
+!	O
+
+Mire	O
+vársz	O
+?	O
+
+Csukd	O
+be	O
+!	O
+
+Na	O
+,	O
+mozgás	O
+!	O
+
+Ki	O
+vagyok	O
+én	O
+,	O
+mit	O
+gondolsz	O
+?	O
+
+Milyen	O
+játék	O
+ez	O
+?	O
+
+Szállj	O
+be	O
+,	O
+szállj	O
+ki	O
+!	O
+
+Szállj	O
+ki	O
+,	O
+szállj	O
+be	O
+!	O
+
+Ehhez	O
+korábban	O
+kelj	O
+fel	O
+!	O
+
+Gyere	O
+,	O
+menjünk	O
+!	O
+
+Mulatunk	O
+egyet	O
+.	O
+
+Jó	O
+estét	O
+,	O
+művész	O
+úr	O
+!	O
+
+Ő	O
+mondta	O
+,	O
+hogy	O
+menjek	O
+be	O
+.	O
+
+Akkor	O
+csak	O
+menj	O
+!	O
+
+Jó	O
+estét	O
+,	O
+művész	O
+úr	O
+!	O
+
+Parancsol	O
+asztalt	O
+a	O
+színpad	O
+mellett	O
+?	O
+
+Pompás	O
+műsorunk	O
+van	O
+ma	B-DATE
+este	O
+.	O
+
+Szabad	O
+az	O
+ernyőjét	O
+,	O
+asszonyom	O
+?	O
+
+Erre	O
+parancsoljon	O
+,	O
+asszonyom	O
+!	O
+
+Mit	O
+óhajt	O
+,	O
+kérem	O
+?	O
+
+Gyere	O
+,	O
+ülj	O
+le	O
+ide	O
+!	O
+
+Mozogj	O
+már	O
+!	O
+
+Parancsoljon	O
+!	O
+
+Ülj	O
+oda	O
+!	O
+
+Alberto	B-PER
+!	O
+
+Monica	B-PER
+.	O
+
+Alberto	B-PER
+,	O
+öregfiú	O
+!	O
+
+Élvezed	O
+?	O
+
+Azt	O
+hiszem	O
+,	O
+őt	O
+nem	O
+kell	O
+bemutatni	O
+!	O
+
+Örülök	O
+,	O
+hogy	O
+megismerhetem	O
+.	O
+
+Tegnap	B-DATE
+amerikai	B-NORP
+filmesek	O
+próbafelvételt	O
+csináltak	O
+róla	O
+.	O
+
+Mivel	O
+színésznő	O
+.	O
+
+Van	O
+belőle	O
+kópiám	O
+.	O
+
+Ha	O
+eljön	O
+hozzám	O
+,	O
+szívesen	O
+megmutatom	O
+.	O
+
+Kedves	O
+vendégeink	O
+!	O
+
+Ezennel	O
+műsorunk	O
+első	B-ORDINAL
+része	O
+véget	O
+ért	O
+.	O
+
+Mielőtt	O
+zenekarunk	O
+fellépne	O
+,	O
+köszöntsük	O
+együtt	O
+tapssal	O
+hírneves	O
+vendégünket	O
+,	O
+akit	O
+ma	B-TIME
+este	I-TIME
+örömmel	O
+látunk	O
+közönségünk	O
+sorában	O
+.	O
+
+Vedd	O
+úgy	O
+,	O
+hogy	O
+én	O
+is	O
+tapsolok	O
+,	O
+Alberto	B-PER
+!	O
+
+És	O
+most	O
+kezdődjék	O
+a	O
+zene	O
+és	O
+a	O
+tánc	O
+!	O
+
+Teljesítse	O
+egy	O
+nagy	O
+kérésemet	O
+!	O
+
+Jöjjön	O
+az	O
+asztalunkhoz	O
+!	O
+
+A	O
+barátaim	O
+boldogok	O
+lennének	O
+,	O
+ha	O
+megismerhetnék	O
+.	O
+
+Kérem	O
+,	O
+jöjjön	O
+!	O
+

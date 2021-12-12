@@ -1,0 +1,1289 @@
+# global.columns = FORM ONPP:NER
+Ha	O
+nem	O
+hányja	O
+ki	O
+a	O
+vizet	O
+,	O
+akkor	O
+már	O
+nem	O
+lehet	O
+rajta	O
+segíteni	O
+.	O
+
+Nézd	O
+,	O
+csak	O
+úgy	O
+ömlik	O
+belőle	O
+!	O
+
+El	O
+innen	O
+!	O
+
+Hiszen	O
+mi	O
+húztuk	O
+ki	O
+a	O
+folyóból	O
+!	O
+
+Akkor	O
+se	O
+kell	O
+már	O
+itt	O
+bámészkodni	O
+!	O
+
+Hívjuk	O
+ide	O
+Pompeót	B-PER
+!	O
+
+Még	O
+úgysem	O
+látott	O
+hullát	O
+.	O
+
+Na	O
+,	O
+gyere	O
+!	O
+
+Nem	O
+akarom	O
+megnézni	O
+!	O
+
+Én	O
+félek	O
+.	O
+
+Hagyjátok	O
+abba	O
+!	O
+
+Ez	O
+már	O
+meghalt	O
+.	O
+
+Akkor	O
+nem	O
+hányná	O
+így	O
+a	O
+vizet	O
+.	O
+
+Menj	O
+már	O
+arrébb	O
+!	O
+
+Nézd	O
+,	O
+kinyitotta	O
+a	O
+szemét	O
+!	O
+
+Kinyitotta	O
+a	O
+szemét	O
+.	O
+
+Fektessük	O
+le	O
+!	O
+
+Akkor	O
+folytathatjuk	O
+a	O
+mesterséges	O
+légzést	O
+.	O
+
+Nézd	O
+,	O
+vérzik	O
+!	O
+
+Megkarcolhatta	O
+egy	O
+kő	O
+.	O
+
+Jó	O
+lenne	O
+egy	O
+kis	O
+konyak	O
+!	O
+
+Dehogyis	O
+konyak	O
+!	O
+
+Egy	O
+pohár	O
+tej	O
+kell	O
+neki	O
+.	O
+
+Nézd	O
+csak	O
+!	O
+
+Nézd	O
+,	O
+kezd	O
+magához	O
+térni	O
+.	O
+
+Hé	O
+,	O
+te	O
+fiú	O
+!	O
+
+Szerezz	O
+már	O
+egy	O
+kis	O
+tejet	O
+!	O
+
+Kevés	O
+a	O
+benzin	O
+a	O
+motoromban	O
+.	O
+
+Na	O
+,	O
+jól	O
+van	O
+!	O
+
+Jól	O
+van	O
+!	O
+
+Megúsztad	O
+,	O
+szerencsére	O
+!	O
+
+Hálát	O
+adhatsz	O
+a	O
+Jóistennek	O
+!	O
+
+Ne	O
+mozogj	O
+!	O
+
+Hol	O
+van	O
+Giorgio	B-PER
+?	O
+
+Miféle	O
+Giorgio	B-PER
+?	O
+
+Maradj	O
+nyugton	O
+!	O
+
+Ne	O
+ugrálj	O
+!	O
+
+Nem	O
+egyedül	O
+volt	O
+?	O
+
+Jaj	O
+,	O
+Istenem	B-PER
+!	O
+
+Hová	O
+lett	O
+?	O
+
+Még	O
+pihenned	O
+kell	O
+.	O
+
+Hazamegyek	O
+!	O
+
+A	O
+cipőm	O
+!	O
+
+Itt	O
+van	O
+az	O
+egyik	O
+.	O
+
+Nézzétek	O
+,	O
+magához	O
+tért	O
+!	O
+
+Hét	O
+lelke	O
+van	O
+,	O
+mint	O
+a	O
+macskának	O
+.	O
+
+Ugye	O
+,	O
+mondtam	O
+,	O
+hogy	O
+még	O
+nem	O
+tudsz	O
+lábra	O
+állni	O
+!	O
+
+Szegényke	O
+biztos	O
+rosszul	O
+van	O
+.	O
+
+Majdnem	O
+meghaltál	O
+.	O
+
+Hová	O
+akarsz	O
+menni	O
+?	O
+
+Engedjetek	O
+el	O
+!	O
+
+Azonnal	O
+engedjetek	O
+el	O
+!	O
+
+Mi	O
+mentettünk	O
+ki	O
+a	O
+vízből	O
+,	O
+tudod	O
+-e	O
+?	O
+
+Tudom	O
+hát	O
+!	O
+
+Megmentettetek	O
+.	O
+
+Most	O
+pedig	O
+hazamegyek	O
+,	O
+és	O
+kész	O
+!	O
+
+Rendben	O
+van	O
+,	O
+menj	O
+haza	O
+!	O
+
+Az	O
+Isten	B-PER
+áldjon	O
+!	O
+
+Szervusz	O
+,	O
+Cabiria	B-PER
+!	O
+
+Te	O
+ismered	O
+?	O
+
+Igen	O
+,	O
+ő	O
+Cabiria	B-PER
+.	O
+
+Az	O
+országútnál	O
+a	O
+benzinkút	O
+mellett	O
+.	O
+
+Egy	O
+utcalány	O
+.	O
+
+Giorgio	B-PER
+,	O
+nyisd	O
+ki	O
+!	O
+
+Én	O
+vagyok	O
+,	O
+Cabiria	B-PER
+!	O
+
+Wanda	B-PER
+!	O
+
+Nem	O
+láttad	O
+Giorgiót	B-PER
+?	O
+
+Cabiria	B-PER
+!	O
+
+Hát	O
+,	O
+veled	O
+mi	O
+történt	O
+?	O
+
+Ne	O
+azzal	O
+törődj	O
+!	O
+
+Miféle	O
+Giorgiót	B-PER
+?	O
+
+Hát	O
+az	O
+én	O
+Giorgiómat	B-PER
+.	O
+
+Cabiria	B-PER
+,	O
+mi	O
+történt	O
+veled	O
+?	O
+
+Te	O
+mit	O
+akarsz	O
+?	O
+
+Én	O
+tőled	O
+semmit	O
+.	O
+
+Törődj	O
+a	O
+magad	O
+bajával	O
+!	O
+
+Na	O
+,	O
+menj	O
+már	O
+be	O
+,	O
+csurom	O
+víz	O
+vagy	O
+!	O
+
+Nincs	O
+nálam	O
+a	O
+kulcs	O
+.	O
+
+Hol	O
+hagytad	O
+?	O
+
+A	O
+táskámban	O
+.	O
+
+És	O
+a	O
+táskád	O
+hol	O
+van	O
+?	O
+
+Giorgió-val	B-PER
+sétálni	O
+mentünk	O
+.	O
+
+Nála	O
+maradhatott	O
+.	O
+
+Én	O
+beleestem	O
+a	O
+vízbe	O
+,	O
+ő	O
+pedig	O
+...	O
+megijedt	O
+és	O
+biztosan	O
+elszaladt	O
+.	O
+
+Cabiria	B-PER
+,	O
+engedj	O
+be	O
+!	O
+
+Nyisd	O
+már	O
+ki	O
+!	O
+
+Aludni	O
+akarok	O
+!	O
+
+Te	O
+,	O
+mondd	O
+csak	O
+,	O
+Cabiria	B-PER
+!	O
+
+Mondd	O
+,	O
+mennyi	O
+pénz	O
+volt	O
+veled	O
+a	O
+táskádban	O
+?	O
+
+Ha	O
+megjön	O
+Giorgio	B-PER
+,	O
+mondd	O
+,	O
+hogy	O
+itthon	O
+vagyok	O
+!	O
+
+Na	O
+,	O
+mit	O
+határoztál	O
+?	O
+
+Maradj	O
+itthon	O
+!	O
+
+Feküdj	O
+az	O
+ágyban	O
+,	O
+és	O
+pihend	O
+ki	O
+magad	O
+!	O
+
+Ha	O
+visszajövök	O
+,	O
+benézek	O
+hozzád	O
+.	O
+
+Miért	O
+nem	O
+vetted	O
+be	O
+az	O
+aszpirint	O
+?	O
+
+Na	O
+,	O
+vedd	O
+be	O
+!	O
+
+Meglátod	O
+,	O
+jót	O
+tesz	O
+.	O
+
+Hát	O
+te	O
+még	O
+mindig	O
+itt	O
+vagy	O
+?	O
+
+Hiába	O
+kértelek	O
+,	O
+hogy	O
+hagyj	O
+békén	O
+?	O
+
+A	O
+két	B-CARDINAL
+szemeddel	O
+nem	O
+látod	O
+,	O
+hogy	O
+zavarsz	O
+?	O
+
+Na	O
+,	O
+gyerünk	O
+!	O
+
+Tűnj	O
+el	O
+,	O
+de	O
+gyorsan	O
+!	O
+
+Gondolod	O
+,	O
+hogy	O
+elhiszem	O
+,	O
+hogy	O
+csak	O
+barátságból	O
+törődsz	O
+velem	O
+?	O
+
+Ezt	O
+hiszem	O
+el	O
+,	O
+tudod	O
+?	O
+
+Ezt	O
+!	O
+
+Aztán	O
+ne	O
+gyere	O
+át	O
+,	O
+hogy	O
+kölcsönkérd	O
+a	O
+kombinémat	O
+,	O
+meg	O
+ezt	O
+,	O
+meg	O
+azt	O
+!	O
+
+Mit	O
+kértem	O
+én	O
+tőled	O
+kölcsön	O
+?	O
+
+Az	O
+agyadra	O
+ment	O
+a	O
+folyóparti	O
+séta	O
+!	O
+
+Te	O
+,	O
+bolond	O
+tyúk	O
+!	O
+
+Gondolod	O
+,	O
+hogy	O
+40	B-MONEY
+ezer	I-MONEY
+líráért	I-MONEY
+képes	O
+volt	O
+a	O
+folyóba	O
+lökni	O
+?	O
+
+Hogy	O
+vízbe	O
+fojtott	O
+volna	O
+rongyos	O
+40	B-MONEY
+ezerért	I-MONEY
+?	O
+
+Á	O
+,	O
+akár	O
+5	B-MONEY
+ezerért	I-MONEY
+is	O
+,	O
+az	O
+a	O
+rohadt	O
+strici	O
+!	O
+
+Tudd	O
+meg	O
+,	O
+hogy	O
+szeret	O
+engem	O
+!	O
+
+Hisz	O
+nem	O
+is	O
+ismerted	O
+,	O
+te	O
+szerencsétlen	O
+!	O
+
+Egy	B-DATE
+hónapja	I-DATE
+szedted	O
+fel	O
+.	O
+
+Nem	O
+tudod	O
+,	O
+hogy	O
+hívják	O
+.	O
+
+Hogy	O
+hol	O
+lakott	O
+,	O
+azt	O
+se	O
+tudod	O
+.	O
+
+Nem	O
+érted	O
+,	O
+hogy	O
+bele	O
+akart	O
+fojtani	O
+a	O
+folyóba	O
+?	O
+
+Bele	O
+akart	O
+fojtani	O
+!	O
+
+És	O
+vedd	O
+tudomásul	O
+,	O
+hogy	O
+igaza	O
+volt	O
+!	O
+
+Egy	O
+ilyen	O
+hülyét	O
+,	O
+mint	O
+te	O
+...	O
+én	O
+az	O
+ő	O
+helyében	O
+addig	O
+tartanék	O
+lenn	O
+,	O
+amíg	O
+bugyborékolsz	O
+.	O
+
+Eredj	O
+,	O
+jelentsd	O
+fel	O
+a	O
+rendőrségen	O
+!	O
+
+Én	O
+nem	O
+vagyok	O
+spicli	O
+!	O
+
+Hallgass	O
+rám	O
+,	O
+ostoba	O
+!	O
+
+Jelentsd	O
+fel	O
+!	O
+
+De	O
+hát	O
+miért	O
+?	O
+
+Miért	O
+tette	O
+volna	O
+?	O
+
+Én	O
+mindent	O
+odaadtam	O
+neki	O
+.	O
+
+Minden	O
+pénzemet	O
+odaadtam	O
+.	O
+
+Miért	O
+csinálta	O
+ezt	O
+?	O
+
+Én	O
+szerettem	O
+őt	O
+.	O
+
+És	O
+ha	O
+meghaltam	O
+volna	O
+?	O
+
+Na	O
+jó	O
+!	O
+
+Hát	O
+ebből	O
+elég	O
+volt	O
+!	O
+
+Végeztünk	O
+,	O
+érted	O
+?	O
+
+Örökre	O
+vége	O
+!	O
+
+Itt	O
+a	O
+selyeminged	O
+!	O
+
+Majd	O
+adok	O
+én	O
+neked	O
+selyeminget	O
+!	O
+
+Találtál	O
+magadnak	O
+egy	O
+ilyen	O
+jó	O
+hülyét	O
+,	O
+mint	O
+én	O
+!	O
+
+De	O
+ennek	O
+vége	O
+!	O
+
+Nézzenek	O
+oda	O
+!	O
+
+Ezt	O
+mind	O
+én	O
+vettem	O
+neked	O
+!	O
+
+Kétsoros	O
+öltöny	O
+,	O
+meg	O
+bársonynadrág	O
+!	O
+
+Szeretném	O
+látni	O
+,	O
+hol	O
+talál	O
+még	O
+egy	O
+ilyen	O
+ostoba	O
+nőt	O
+?	O
+
+Mert	O
+velem	O
+vége	O
+örökre	O
+.	O
+
+Majd	O
+meglátom	O
+,	O
+mihez	O
+kezd	O
+.	O
+
+Örök	O
+szerelem	O
+!	O
+
+Disznó	O
+!	O
+
+Rohadt	O
+strici	O
+!	O
+
+Mehet	O
+léggömböt	O
+árulni	O
+a	O
+vurstliba	O
+!	O
+
+Égj	O
+meg	O
+elevenen	O
+!	O
+
+Mint	O
+a	O
+ruhád	O
+!	O
+
+Rohadjon	O
+meg	O
+a	O
+lelked	O
+a	O
+pokolban	O
+!	O
+
+Ott	O
+rohadj	O
+meg	O
+!	O
+
+Engem	O
+ugyan	O
+nem	O
+láttok	O
+többé	O
+itt	O
+.	O
+
+Ma	B-DATE
+éjjel	O
+vagyok	O
+itt	O
+utoljára	O
+.	O
+
+Nem	O
+süllyedhetek	O
+ilyen	O
+mélyre	O
+hozzátok	O
+!	O
+
+Éppen	O
+én	O
+,	O
+ezzel	O
+a	O
+ragyogó	O
+alakommal	O
+!	O
+
+Nézzetek	O
+csak	O
+ide	O
+!	O
+
+Micsoda	O
+formák	O
+!	O
+
+Akár	O
+Moby	B-PER
+Dick	I-PER
+,	O
+az	O
+óriás	O
+bálna	O
+!	O
+
+Ezt	O
+nekem	O
+mondtad	O
+?	O
+
+Nekem	O
+?	O
+
+Tudod	O
+,	O
+hová	O
+kellene	O
+menned	O
+?	O
+
+A	O
+cirkuszba	O
+!	O
+
+Vak	O
+vagy	O
+te	O
+,	O
+édes	O
+lányom	O
+?	O
+
+Hová	O
+tetted	O
+a	O
+szemed	O
+?	O
+
+Nézz	O
+csak	O
+meg	O
+!	O
+
+Nézz	O
+meg	O
+!	O
+
+Ilyent	O
+úgysem	O
+láttál	O
+soha	O
+!	O
+
+Ilyen	O
+egy	O
+igazi	O
+elegáns	O
+dáma	O
+!	O
+
+Uramisten	B-NORP
+!	O
+
+Ez	O
+a	O
+szerencsétlen	O
+mindennap	O
+rosszabb	O
+állapotba	O
+kerül	O
+.	O
+
+Ideje	O
+volna	O
+elvonóra	O
+küldeni	O
+.	O
+
+Nem	O
+sokára	O
+ilyen	O
+leszel	O
+te	O
+is	O
+.	O
+
+Ez	O
+a	O
+meleg	O
+levegő	O
+,	O
+ez	O
+az	O
+ablakemelő	O
+...	O
+
+Ilyen	O
+egy	O
+luxusautó	O
+.	O
+
+Legalább	O
+tudom	O
+.	O
+
+És	O
+itt	O
+a	O
+jeges	O
+Coca-Cola	B-PROD
+.	O
+
+Hadd	O
+üljek	O
+be	O
+egy	O
+kicsit	O
+én	O
+is	O
+!	O
+
+Hé	O
+,	O
+nehézteher-szállítás	O
+nincs	O
+!	O
+
+Na	O
+,	O
+csak	O
+szállj	O
+ki	O
+szépen	O
+!	O
+
+Én	O
+nem	O
+szállok	O
+ki	O
+.	O
+
+Szállj	O
+ki	O
+!	O
+
+Kocsikázom	O
+egy	O
+kicsit	O
+Wandá-val	B-PER
+.	O
+
+De	O
+te	O
+nem	O
+tudsz	O
+vezetni	O
+!	O
+
+Azzal	O
+ne	O
+foglalkozz	O
+!	O
+
+A	O
+kocsi	O
+az	O
+enyém	O
+.	O
+
+Azt	O
+csinálok	O
+vele	O
+,	O
+amit	O
+akarok	O
+.	O
+
+Majd	O
+meglátogatlak	O
+a	O
+kórházban	O
+.	O
+
+Na	O
+,	O
+hadd	O
+látom	O
+,	O
+hogy	O
+indítod	O
+el	O
+!	O
+
+Miért	O
+nem	O
+veszel	O
+te	O
+is	O
+egy	O
+kocsit	O
+magadnak	O
+?	O
+
+Na	O
+,	O
+most	O
+már	O
+ez	O
+is	O
+kezdi	O
+!	O
+
+Mit	O
+tudsz	O
+te	O
+a	O
+kocsikról	O
+?	O
+
+Abból	O
+élsz	O
+,	O
+hogy	O
+sétálsz	O
+.	O
+
+Hát	O
+te	O
+?	O
+
+Neked	O
+elég	O
+a	O
+két	B-CARDINAL
+kerék	O
+is	O
+,	O
+mi	O
+?	O
+
+Na	O
+tessék	O
+!	O
+
+Megjött	O
+ez	O
+a	O
+hibbant	O
+liba	O
+is	O
+.	O
+
+Szevasz	O
+,	O
+szépfiú	O
+!	O
+
+Csaó	O
+,	O
+Cabiria	B-PER
+!	O
+

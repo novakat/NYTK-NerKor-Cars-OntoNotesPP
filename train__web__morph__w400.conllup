@@ -1,0 +1,66 @@
+# global.columns = FORM ONPP:NER
+Fájdalommal	O
+és	O
+végtelen	O
+szomorúsággal	O
+tudatjuk	O
+,	O
+hogy	O
+VAS	B-PER
+FERENCNÉ	I-PER
+szül	O
+.	O
+
+Egyúttal	O
+köszönetet	O
+mondunk	O
+mindazoknak	O
+,	O
+akik	O
+utolsó	O
+útjára	O
+elkísérik	O
+.	O
+
+"	O
+Elcsitult	O
+a	O
+szív	O
+,	O
+mely	O
+értünk	O
+dobogott	O
+,	O
+Pihen	O
+a	O
+kéz	O
+,	O
+mely	O
+értünk	O
+dolgozott	O
+.	O
+
+Mély	O
+fájdalommal	O
+tudatjuk	O
+mindazokkal	O
+,	O
+akik	O
+ismerték	O
+és	O
+szerették	O
+,	O
+hogy	O
+KONDÁKOR	B-PER
+ANTALNÉ	I-PER
+szül	O
+.	O
+
+Temetése	O
+2019.	B-DATE
+április	I-DATE
+26-án	I-DATE
+,	I-DATE
+pénteken	I-DATE
+14	O
+

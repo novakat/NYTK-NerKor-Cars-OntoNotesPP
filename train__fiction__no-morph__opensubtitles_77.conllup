@@ -1,0 +1,1557 @@
+# global.columns = FORM ONPP:NER
+Számítottam	O
+rá	O
+,	O
+hogy	O
+az	O
+öreg	O
+megpróbál	O
+valamit	O
+.	O
+
+Nem	O
+kellett	O
+volna	O
+megölni	O
+.	O
+
+Előbb	O
+vagy	O
+utóbb	O
+úgyis	O
+meg	O
+kellett	O
+volna	O
+.	O
+
+Vicces	O
+dolog	O
+Chinktől	B-PER
+,	O
+hogy	O
+mindig	O
+próbálja	O
+bizonyítani	O
+,	O
+hogy	O
+jobban	O
+lő	O
+,	O
+mint	O
+bárki	O
+más	O
+.	O
+
+És	O
+jobban	O
+lő	O
+.	O
+
+Frank	B-PER
+,	O
+cukorkát	O
+?	O
+
+Azzal	O
+,	O
+hogy	O
+előhúzta	O
+a	O
+fegyvert	O
+,	O
+spórolt	O
+nekünk	O
+egy	O
+kis	O
+időt	O
+.	O
+
+Billy	B-PER
+Jack	I-PER
+,	O
+fogd	O
+be	O
+a	O
+szád	O
+!	O
+
+Szedd	O
+ki	O
+őket	O
+onnan	O
+!	O
+
+Chink	B-PER
+,	O
+nézz	O
+fel	O
+a	O
+kocsi	O
+tetejére	O
+!	O
+
+Nincs	O
+itt	O
+semmi	O
+,	O
+csak	O
+néhány	O
+régi	O
+bőr	O
+.	O
+
+Mi	O
+a	O
+helyzet	O
+a	O
+csomagtartóval	O
+?	O
+
+Itt	O
+sincs	O
+semmi	O
+,	O
+Frank	B-PER
+!	O
+
+A	O
+levelek	O
+!	O
+
+Mister	O
+,	O
+maga	O
+mondja	O
+meg	O
+!	O
+
+Hibát	O
+követnek	O
+el	O
+.	O
+
+Ez	O
+nem	O
+a	O
+menetrend	O
+szerinti	O
+járat	O
+.	O
+
+Az	O
+csak	O
+egy	B-TIME
+óra	I-TIME
+múlva	I-TIME
+lesz	O
+itt	O
+.	O
+
+Amit	O
+maguk	O
+akarnak	O
+,	O
+az	O
+ötkor	B-TIME
+lesz	O
+itt	O
+.	O
+
+Ez	O
+egy	O
+bérelt	O
+járat	O
+Contentionbe	B-GPE
+.	O
+
+Mims	B-PER
+és	O
+én	O
+,	O
+mi	O
+...	O
+nászúton	O
+vagyunk	O
+.	O
+
+Ma	B-DATE
+reggel	B-TIME
+házasodtunk	O
+össze	O
+.	O
+
+Csak	O
+ma	B-DATE
+reggel	B-TIME
+?	O
+
+Persze	O
+,	O
+hogy	O
+az	O
+!	O
+
+Menjen	O
+és	O
+ellenőrizze	O
+a	O
+menetrendet	O
+!	O
+
+Látni	O
+fogja	O
+.	O
+
+Ezt	O
+az	O
+embert	O
+kérdeztem	O
+!	O
+
+Ő	O
+nem	O
+tud	O
+semmit	O
+.	O
+
+Mit	O
+keres	O
+a	O
+puskájával	O
+az	O
+ifjú	O
+párnál	O
+?	O
+
+Kaptam	O
+egy	O
+helyet	O
+Sasabe-ig	B-GPE
+.	O
+
+Mister	O
+,	O
+ez	O
+igaz	O
+?	O
+
+Valahogy	O
+így	O
+.	O
+
+A	O
+sivatagban	O
+vettük	O
+fel	O
+,	O
+nem	O
+sokkal	O
+Contentionon	B-GPE
+kívül	O
+.	O
+
+Billy	B-PER
+Jack	I-PER
+,	O
+menj	O
+és	O
+nézd	O
+meg	O
+a	O
+menetrendet	O
+!	O
+
+Billy	B-PER
+!	O
+
+Hé	O
+,	O
+hölgyem	O
+,	O
+jöjjön	O
+ide	O
+!	O
+
+Tud	O
+főzni	O
+?	O
+
+Ugye	O
+tud	O
+?	O
+
+Billy	B-PER
+Jack	I-PER
+,	O
+vidd	O
+be	O
+magaddal	O
+!	O
+
+Ehetnék	O
+.	O
+
+Meg	O
+fogja	O
+látni	O
+a	O
+menetrenden	O
+.	O
+
+Mint	O
+mondtam	O
+,	O
+ötkor	B-TIME
+esedékes	O
+.	O
+
+Látom	O
+,	O
+ott	O
+hibázott	O
+,	O
+hogy	O
+azt	O
+hitte	O
+,	O
+mi	O
+vagyunk	O
+a	O
+menetrend	O
+szerinti	O
+járat	O
+.	O
+
+Mi	O
+Bisbee	B-GPE
+felé	O
+tartunk	O
+.	O
+
+Pontosan	B-TIME
+ötkor	I-TIME
+,	O
+a	O
+menetrend	O
+szerinti	O
+postakocsi	O
+itt	O
+lesz	O
+.	O
+
+Ez	O
+egy	O
+szónok	O
+.	O
+
+Mit	O
+csináltak	O
+Hankkel	B-PER
+?	O
+
+Az	O
+ki	O
+?	O
+
+Az	O
+állomás	O
+kezelő	O
+.	O
+
+Amott	O
+van	O
+ő	O
+is	O
+.	O
+
+És	O
+a	O
+fiú	O
+?	O
+
+Vele	O
+.	O
+
+Frank	B-PER
+!	O
+
+Ötkor	O
+,	O
+ahogy	O
+a	O
+fickó	O
+mondta	O
+.	O
+
+Látják	O
+!	O
+
+Nézzék	O
+,	O
+hadd	O
+menjünk	O
+és	O
+mi	O
+soha	O
+egy	O
+szót	O
+sem	O
+szólunk	O
+erről	O
+.	O
+
+Mondott	O
+valamit	O
+?	O
+
+Esküszöm	O
+,	O
+hogy	O
+nem	O
+mondjuk	O
+el	O
+a	O
+dolgot	O
+!	O
+
+Tudom	O
+,	O
+hogy	O
+nem	O
+.	O
+
+Maga	O
+is	O
+ehhez	O
+tartja	O
+magát	O
+?	O
+
+Ha	O
+igent	O
+mondok	O
+,	O
+nem	O
+hiszi	O
+el	O
+nekem	O
+.	O
+
+Igen	O
+,	O
+egyáltalán	O
+minek	O
+is	O
+beszélni	O
+róla	O
+,	O
+nem	O
+?	O
+
+Tudja	O
+,	O
+mi	O
+fog	O
+történni	O
+magával	O
+?	O
+
+Fél	O
+?	O
+
+Nos	O
+,	O
+legalább	O
+őszinte	O
+.	O
+
+A	O
+kút	O
+csordultig	O
+tele	O
+lesz	O
+.	O
+
+Várjon	O
+egy	O
+percet	O
+!	O
+
+Miért	O
+hallgat	O
+rá	O
+?	O
+
+Mondtam	O
+már	O
+,	O
+egy	O
+szót	O
+sem	O
+szólunk	O
+erről	O
+!	O
+
+Ha	O
+nem	O
+bízik	O
+benne	O
+,	O
+tartsa	O
+itt	O
+!	O
+
+Én	O
+nem	O
+ismerem	O
+ezt	O
+az	O
+embert	O
+.	O
+
+Még	O
+csak	O
+nem	O
+is	O
+beszéltem	O
+vele	O
+.	O
+
+Előbb	O
+megbíznék	O
+benne	O
+,	O
+mint	O
+magában	O
+.	O
+
+Hé	O
+,	O
+szónok	O
+!	O
+
+Miért	O
+nem	O
+mész	O
+a	O
+kúthoz	O
+és	O
+nézed	O
+meg	O
+,	O
+beleférsz	O
+-e	O
+?	O
+
+Ember	O
+,	O
+legyen	O
+ésszerű	O
+!	O
+
+Nézte	O
+,	O
+maga	O
+innen	O
+nem	O
+megy	O
+el	O
+,	O
+és	O
+nem	O
+fog	O
+itt	O
+ácsorogni	O
+,	O
+amikor	O
+az	O
+a	O
+kocsi	O
+befut	O
+.	O
+
+Most	O
+kiabálhat	O
+és	O
+csinálhat	O
+jeleneteket	O
+,	O
+de	O
+ez	O
+van	O
+.	O
+
+Mi	O
+van	O
+a	O
+feleségemmel	O
+?	O
+
+Nem	O
+tudok	O
+segíteni	O
+neki	O
+,	O
+hiszen	O
+nő	O
+.	O
+
+Rajta	O
+,	O
+Chink	B-PER
+!	O
+
+Nem	O
+,	O
+nem	O
+,	O
+várjon	O
+!	O
+
+Nem	O
+,	O
+ezt	O
+nem	O
+teheti	O
+!	O
+
+Adok	O
+bármit	O
+,	O
+amit	O
+csak	O
+akar	O
+,	O
+bármit	O
+,	O
+csak	O
+...	O
+a	O
+feleségem	O
+!	O
+
+Tudja	O
+,	O
+ő	O
+kicsoda	O
+?	O
+
+Nem	O
+,	O
+kicsoda	O
+?	O
+
+Az	O
+öreg	O
+Gateway	B-PER
+lánya	O
+.	O
+
+A	O
+környék	O
+leggazdagabb	O
+rézbányájának	O
+a	O
+tulajdonosa	O
+.	O
+
+Hát	O
+nem	O
+értik	O
+?	O
+
+Maguknál	O
+van	O
+egy	O
+milliomos	O
+lánya	O
+.	O
+
+Egyetlen	O
+lánya	O
+!	O
+
+Mit	O
+gondol	O
+,	O
+mennyit	O
+fizetne	O
+,	O
+hogy	O
+visszakapja	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+mennyit	O
+?	O
+
+Amit	O
+csak	O
+kér	O
+.	O
+
+Nézzék	O
+,	O
+itt	O
+ülnek	O
+és	O
+várnak	O
+egy	O
+negyeddolláros	B-MONEY
+rablásra	O
+,	O
+amikor	O
+egy	O
+aranybánya	O
+van	O
+a	O
+kezükben	O
+.	O
+
+Honnan	O
+tudhatom	O
+,	O
+hogy	O
+ő	O
+a	O
+lánya	O
+?	O
+
+Magának	O
+beszélnie	O
+kellett	O
+a	O
+hajtóval	O
+!	O
+
+Nem	O
+mondta	O
+magának	O
+?	O
+
+Mondta	O
+nekem	O
+.	O
+
+Maga	O
+nem	O
+hazudna	O
+,	O
+hogy	O
+kimaradjon	O
+a	O
+kútból	O
+,	O
+ugye	O
+?	O
+
+Persze	O
+,	O
+hogy	O
+nem	O
+!	O
+
+Nézzék	O
+,	O
+Contention	B-GPE
+csak	O
+20	B-QUANTITY
+mérföldre	I-QUANTITY
+van	O
+innen	O
+.	O
+
+Vinnék	O
+egy	O
+üzenetet	O
+Mr.	O
+Gatewaynek	B-PER
+és	O
+...	O
+
+És	O
+soha	O
+többé	O
+nem	O
+látnánk	O
+viszont	O
+.	O
+
+Menteném	O
+a	O
+saját	O
+bőröm	O
+és	O
+itt	O
+hagynám	O
+a	O
+feleségem	O
+?	O
+
+Akkor	O
+nincs	O
+értelme	O
+tovább	O
+beszélni	O
+róla	O
+.	O
+
+Maguk	O
+ketten	O
+,	O
+menjenek	O
+oda	O
+és	O
+üljenek	O
+a	O
+padra	O
+.	O
+
+Szedd	O
+össze	O
+a	O
+fegyvereket	O
+!	O
+
+Hozd	O
+a	O
+lovakat	O
+!	O
+
+Mister	O
+!	O
+
+Írja	O
+rá	O
+az	O
+öreg	O
+Gateway	B-PER
+nevét	O
+,	O
+és	O
+hogy	O
+hol	O
+található	O
+meg	O
+!	O
+
+Ha	O
+én	O
+adnám	O
+oda	O
+neki	O
+magam	O
+...	O
+
+Maga	O
+nem	O
+ad	O
+neki	O
+oda	O
+semmit	O
+!	O
+
+Megáll	O
+a	O
+Contentionbe	B-GPE
+vezető	O
+főúton	O
+egy	B-QUANTITY
+mérföldnyire	I-QUANTITY
+a	O
+szélétől	O
+,	O
+és	O
+odaadja	O
+ezt	O
+az	O
+írást	O
+valakinek	O
+,	O
+aki	O
+arra	O
+jár	O
+.	O
+
+Az	O
+öreg	O
+Gatewaynek	B-PER
+szól	O
+azzal	O
+,	O
+hogy	O
+magának	O
+fontos	O
+közlendője	O
+van	O
+a	O
+lányával	O
+kapcsolatban	O
+.	O
+
+Egyedül	O
+kell	O
+jönnie	O
+!	O
+
+Amikor	O
+odaér	O
+,	O
+elmondja	O
+neki	O
+a	O
+történetet	O
+.	O
+
+Ha	O
+nemet	O
+mond	O
+,	O
+soha	O
+többé	O
+nem	O
+látja	O
+a	O
+lányát	O
+.	O
+
+Ha	O
+igent	O
+mond	O
+,	O
+akkor	O
+hoznia	O
+kell	O
+50.000	B-MONEY
+dollárt	I-MONEY
+egy	O
+helyre	O
+Sasabe-n	B-GPE
+.	O
+
+És	O
+egyedül	O
+jöjjön	O
+!	O
+
+És	O
+ha	O
+nincs	O
+neki	O
+ennyi	O
+készpénze	O
+kéznél	O
+?	O
+
+Ez	O
+az	O
+ő	O
+gondja	O
+.	O
+
+Miért	O
+nem	O
+mehetek	O
+oda	O
+hozzá	O
+én	O
+,	O
+és	O
+mondhatom	O
+meg	O
+neki	O
+?	O
+
+Billy	B-PER
+Jack	I-PER
+fogja	O
+magát	O
+visszahozni	O
+,	O
+és	O
+nem	O
+akarom	O
+olyan	O
+helyre	O
+küldeni	O
+,	O
+ahol	O
+sarokba	O
+szoríthatják	O
+.	O
+
+Ha	O
+Mr.	O
+Gateway	B-PER
+meghozza	O
+a	O
+pénzt	O
+,	O
+akkor	O
+elenged	O
+minket	O
+.	O
+
+Igen	O
+,	O
+erről	O
+.	O
+
+Billy	B-PER
+Jack	I-PER
+!	O
+
+Mikor	O
+indulunk	O
+?	O
+
+Most	O
+.	O
+
+Búcsút	O
+vehetek	O
+a	O
+feleségemtől	O
+?	O
+
+Aggódni	O
+fog	O
+miattam	O
+.	O
+
+Majd	O
+mi	O
+elbúcsúzunk	O
+a	O
+nevében	O
+.	O
+
+A	O
+fickó	O
+a	O
+feleségét	O
+teszi	O
+fel	O
+tétnek	O
+,	O
+majd	O
+búcsút	O
+akar	O
+venni	O
+tőle	O
+.	O
+
+El	O
+tudja	O
+ezt	O
+képzelni	O
+?	O
+
+Arra	O
+nem	O
+tudok	O
+rájönni	O
+,	O
+miért	O
+csak	O
+50.000-et	B-MONEY
+kért	O
+.	O
+
+Nem	O
+vagyok	O
+kapzsi	O
+.	O
+
+Nincs	O
+rá	O
+szükségünk	O
+,	O
+Frank	B-PER
+!	O
+
+Fogj	O
+ki	O
+két	B-CARDINAL
+öszvért	O
+közülük	O
+.	O
+
+Szükség	O
+lesz	O
+rájuk	O
+.	O
+
+Azt	O
+akár	O
+később	O
+is	O
+megtehetjük	O
+.	O
+
+Magunkkal	O
+visszük	O
+őket	O
+.	O
+
+Mert	O
+én	O
+azt	O
+mondom	O
+.	O
+
+Ez	O
+elég	O
+jó	O
+ok	O
+?	O
+
+Gyerünk	O
+,	O
+Frank	B-PER
+!	O
+
+Dobjuk	O
+a	O
+kútba	O
+őket	O
+és	O
+nincs	O
+több	O
+bajlódás	O
+velük	O
+.	O
+
+Csak	O
+fogd	O
+ki	O
+azokat	O
+az	O
+öszvéreket	O
+!	O
+
+Szeretném	O
+eltemetni	O
+azt	O
+az	O
+embert	O
+,	O
+mielőtt	O
+elmegyünk	O
+.	O
+
+Tegye	O
+a	O
+kútba	O
+!	O
+
+Az	O
+nem	O
+alkalmas	O
+hely	O
+.	O
+
+Nos	O
+,	O
+Brennan	B-PER
+,	O
+ne	O
+játssza	O
+el	O
+a	O
+szerencséjét	O
+!	O
+
+A	O
+kútba	O
+megy	O
+.	O
+
+Hölgyem	O
+,	O
+fel	O
+kell	O
+ülnie	O
+erre	O
+az	O
+öszvérre	O
+,	O
+a	O
+barátjával	O
+egyetemben	O
+!	O
+
+Nincs	O
+több	O
+lovunk	O
+.	O
+
+Kunyhó	O
+!	O
+
+Chink	B-PER
+,	O
+te	O
+ráveszed	O
+őt	O
+,	O
+hogy	O
+vágjon	O
+egy	O
+kis	O
+fát	O
+,	O
+aztán	O
+majd	O
+vigyázol	O
+az	O
+állatokra	O
+.	O
+
+Én	O
+pedig	O
+megkérem	O
+a	O
+hölgyet	O
+,	O
+hogy	O
+főzzön	O
+valamit	O
+.	O
+
+Hé	O
+,	O
+hölgyem	O
+,	O
+jöjjön	O
+ide	O
+és	O
+üljön	O
+le	O
+!	O
+
+Nem	O
+tudunk	O
+tüzet	O
+rakni	O
+favágás	O
+nélkül	O
+.	O
+
+Vedd	O
+fel	O
+!	O
+
+Hölgyem	O
+,	O
+telepedjen	O
+le	O
+valahol	O
+!	O
+
+Nem	O
+akar	O
+enni	O
+?	O
+
+Nem	O
+vagyok	O
+éhes	O
+.	O
+
+Maga	O
+?	O
+
+Kávé	O
+mindig	O
+jöhet	O
+.	O
+
+Nos	O
+,	O
+töltsön	O
+neki	O
+!	O
+
+Mit	O
+tett	O
+a	O
+férjemmel	O
+?	O
+
+Tudja	O
+,	O
+jól	O
+főz	O
+.	O
+
+Egy	O
+nőnek	O
+jól	O
+kell	O
+főznie	O
+!	O
+
+Jogom	O
+van	O
+tudni	O
+.	O
+
+Gondolom	O
+,	O
+igen	O
+.	O
+
+Chink	B-PER
+,	O
+mondd	O
+el	O
+a	O
+hölgynek	O
+,	O
+hol	O
+van	O
+a	O
+férje	O
+.	O
+
+Contentionben	B-LOC
+.	O
+
+Billy	B-PER
+Jack	I-PER
+elvitte	O
+oda	O
+a	O
+maga	O
+öregéhez	O
+.	O
+
+Az	O
+apámhoz	O
+?	O
+
+Mondják	O
+,	O
+övé	O
+a	O
+leggazdagabb	O
+réz	O
+érdekeltség	O
+ezen	O
+a	O
+területen	O
+.	O
+
+Miután	O
+maga	O
+itt	O
+van	O
+,	O
+amolyan	O
+partnerfélék	O
+lettünk	O
+.	O
+
+Az	O
+apja	O
+meg	O
+kell	O
+fizesse	O
+,	O
+hogy	O
+biztonságban	O
+visszakapja	O
+magát	O
+.	O
+
+És	O
+ha	O
+nem	O
+?	O
+
+Jobban	O
+tenné	O
+...	O
+
+Még	O
+soha	O
+nem	O
+lövettek	O
+le	O
+velem	O
+nőt	O
+korábban	O
+,	O
+ugye	O
+,	O
+Frank	B-PER
+?	O
+
+Chink	B-PER
+,	O
+fogd	O
+be	O
+és	O
+egyél	O
+!	O
+
+A	O
+férjem	O
+akkor	O
+rendben	O
+van	O
+?	O
+
+Billy	B-PER
+Jack	I-PER
+reggel	B-TIME
+visszahozza	O
+.	O
+
+Sötétedik	O
+,	O
+maga	O
+és	O
+ő	O
+ott	O
+éjszakáznak	O
+.	O
+
+És	O
+én	O
+a	O
+helyükben	O
+meg	O
+sem	O
+közelíteném	O
+azt	O
+az	O
+ajtót	O
+.	O
+
+Érthető	O
+,	O
+Brennan	B-PER
+?	O
+
+Akkor	O
+jó	O
+!	O
+
+Brennan	B-PER
+...	O
+
+Igen	O
+,	O
+asszonyom	O
+?	O
+
+Biztos	O
+végig	O
+tisztában	O
+voltak	O
+azzal	O
+,	O
+hogy	O
+Bisbeebe	B-GPE
+tartunk	O
+.	O
+
+Másképp	O
+hogyan	O
+jöttek	O
+volna	O
+rá	O
+,	O
+ki	O
+az	O
+apám	O
+?	O
+
+Biztos	O
+Contentionben	B-LOC
+voltak	O
+és	O
+hallották	O
+,	O
+hogy	O
+a	O
+férjem	O
+kibéreli	O
+a	O
+kocsit	O
+.	O
+
+Valószínűleg	O
+így	O
+volt	O
+.	O
+
+Várjanak	O
+csak	O
+,	O
+majd	O
+ha	O
+az	O
+apám	O
+megtudja	O
+...	O
+
+Minden	O
+embere	O
+itt	O
+lesz	O
+a	O
+területen	O
+.	O
+
+Remélem	O
+,	O
+hogy	O
+nem	O
+így	O
+lesz	O
+.	O
+
+Nem	O
+fogja	O
+hagyni	O
+,	O
+hogy	O
+ezek	O
+megússzák	O
+ezt	O
+.	O
+
+Nincs	O
+más	O
+választása	O
+.	O
+
+Ezeknek	O
+szokásává	O
+vált	O
+az	O
+ölés	O
+.	O
+
+Már	O
+öltek	O
+és	O
+újra	O
+ölnek	O
+,	O
+ha	O
+kell	O
+.	O
+
+Sajnálom	O
+,	O
+hogy	O
+belekeveredett	O
+ebbe	O
+.	O
+

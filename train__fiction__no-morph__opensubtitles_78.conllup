@@ -1,0 +1,1653 @@
+# global.columns = FORM ONPP:NER
+Ez	O
+nem	O
+az	O
+én	O
+napom	O
+.	O
+
+Magának	O
+van	O
+egy	O
+földje	O
+,	O
+közel	O
+ide	O
+,	O
+ugye	O
+?	O
+
+Sasabe	B-LOC
+.	O
+
+Aggódni	O
+fognak	O
+magáért	O
+,	O
+nem	O
+?	O
+
+A	O
+földemen	O
+?	O
+
+Nem	O
+,	O
+asszonyom	O
+.	O
+
+Egyedül	O
+vagyok	O
+.	O
+
+Mims	B-PER
+,	O
+jobb	O
+lenne	O
+,	O
+ha	O
+megpróbálna	O
+aludni	O
+egy	O
+keveset	O
+.	O
+
+A	O
+férjem	O
+goromba	O
+volt	O
+magával	O
+.	O
+
+Biztos	O
+vagyok	O
+benne	O
+,	O
+hogy	O
+nem	O
+így	O
+akarta	O
+.	O
+
+Nézz	O
+körül	O
+!	O
+
+Öntsön	O
+magának	O
+egy	O
+csésze	O
+kávét	O
+!	O
+
+Oda	O
+.	O
+
+Nem	O
+egy	O
+fejet	O
+láttam	O
+kidugva	O
+az	O
+ajtón	O
+tegnap	B-DATE
+este	B-TIME
+,	O
+ugye	O
+?	O
+
+Ha	O
+az	O
+volt	O
+,	O
+miért	O
+nem	O
+lőtt	O
+rá	O
+?	O
+
+Már	O
+azon	O
+voltam	O
+.	O
+
+Szerencse	O
+,	O
+hogy	O
+eltűnt	O
+,	O
+bármi	O
+is	O
+volt	O
+az	O
+.	O
+
+A	O
+hölgy	O
+még	O
+mindig	O
+alszik	O
+?	O
+
+Kár	O
+érte	O
+.	O
+
+Az	O
+egyik	O
+legjellegtelenebb	O
+nő	O
+,	O
+akit	O
+valaha	O
+láttam	O
+.	O
+
+A	O
+haja	O
+,	O
+mindene	O
+.	O
+
+De	O
+a	O
+ruháival	O
+tudott	O
+valamit	O
+kezdeni	O
+,	O
+hogy	O
+tudassa	O
+,	O
+ő	O
+egy	O
+nő	O
+.	O
+
+Nem	O
+csoda	O
+,	O
+hogy	O
+olyan	O
+silány	O
+férjet	O
+fogott	O
+ki	O
+.	O
+
+Hát	O
+,	O
+eléggé	O
+az	O
+.	O
+
+Van	O
+felesége	O
+,	O
+Brennan	B-PER
+?	O
+
+Kellene	O
+,	O
+hogy	O
+legyen	O
+.	O
+
+Nem	O
+helyes	O
+,	O
+hogy	O
+egy	O
+férfi	O
+egyedül	O
+van	O
+.	O
+
+Azt	O
+mondják	O
+...	O
+
+Nos	O
+,	O
+nekem	O
+tudnom	O
+kellene	O
+.	O
+
+Billy	B-PER
+Jack	I-PER
+és	O
+Chink	B-PER
+,	O
+nem	O
+szeretem	O
+őket	O
+.	O
+
+Néha	O
+az	O
+az	O
+érzésem	O
+,	O
+hogy	O
+jobb	O
+lenne	O
+egyedül	O
+.	O
+
+Mindig	O
+ugyanaz	O
+a	O
+témájuk	O
+.	O
+
+A	O
+nők	O
+,	O
+ivás	O
+és	O
+ilyesmi	O
+.	O
+
+Nem	O
+vagyok	O
+szűk	O
+látókörű	O
+,	O
+de	O
+az	O
+ember	O
+belefárad	O
+abba	O
+,	O
+hogy	O
+mindig	O
+ez	O
+megy	O
+.	O
+
+Borzasztóan	O
+meg	O
+lehet	O
+unni	O
+.	O
+
+Jó	O
+a	O
+kávéja	O
+.	O
+
+Beszéljen	O
+!	O
+
+Miről	O
+?	O
+
+A	O
+földjéről	O
+.	O
+
+Nem	O
+nagy	O
+szám	O
+.	O
+
+Vannak	O
+állatai	O
+?	O
+
+Valamennyi	B-CARDINAL
+.	O
+
+Megműveli	O
+a	O
+földet	O
+?	O
+
+Szándékomban	O
+áll	O
+.	O
+
+Egy	O
+nap	O
+nekem	O
+is	O
+lesz	O
+birtokom	O
+.	O
+
+Már	O
+gondoltam	O
+rá	O
+.	O
+
+Sokszor	O
+.	O
+
+Egy	O
+férfinak	O
+kell	O
+,	O
+hogy	O
+legyen	O
+valami	O
+sajátja	O
+,	O
+ami	O
+hozzá	O
+tartozik	O
+.	O
+
+Amire	O
+büszke	O
+lehet	O
+.	O
+
+Úgy	O
+gondolja	O
+,	O
+hogy	O
+így	O
+megszerzi	O
+?	O
+
+Néha	O
+nincs	O
+más	O
+választás	O
+.	O
+
+Nincs	O
+?	O
+
+Nézze	O
+,	O
+Brennan	B-PER
+...	O
+
+Itt	O
+jönnek	O
+.	O
+
+Fogd	O
+a	O
+lovakat	O
+,	O
+Billy	B-PER
+Jack	I-PER
+!	O
+
+Nos	O
+,	O
+minden	O
+elrendezve	O
+.	O
+
+Azt	O
+mondta	O
+,	O
+hogy	O
+hozza	O
+a	O
+pénzt	O
+.	O
+
+Ez	O
+igaz	O
+,	O
+Billy	B-PER
+Jack	I-PER
+?	O
+
+Mondta	O
+,	O
+hogy	O
+hozza	O
+a	O
+pénzt	O
+?	O
+
+Azt	O
+mondta	O
+.	O
+
+Számítasz	O
+valami	O
+trükközésre	O
+?	O
+
+Megrémiszthette	O
+a	O
+sok	O
+pénz	O
+,	O
+nem	O
+?	O
+
+Azt	O
+mondta	O
+,	O
+meg	O
+tudja	O
+szerezni	O
+,	O
+de	O
+rámegy	O
+a	O
+nap	O
+.	O
+
+Vagyis	O
+valamikor	O
+holnap	B-DATE
+lesz	O
+itt	O
+.	O
+
+Megadtad	O
+neki	O
+a	O
+helyet	O
+,	O
+Billy	B-PER
+?	O
+
+Ahogy	O
+mondtad	O
+,	O
+a	O
+fűzekkel	O
+teli	O
+szurdok	O
+bejáratánál	O
+.	O
+
+Gondolod	O
+,	O
+hogy	O
+megtalálja	O
+?	O
+
+Elmondattam	O
+vele	O
+kétszer	O
+is	O
+.	O
+
+Hogy	O
+fogadta	O
+?	O
+
+Vajon	O
+hogy	O
+fogadhatta	O
+?	O
+
+Mister	O
+,	O
+kérdezem	O
+magától	O
+.	O
+
+Hát	O
+,	O
+persze	O
+,	O
+eszeveszett	O
+volt	O
+.	O
+
+De	O
+semmit	O
+sem	O
+tehetett	O
+.	O
+
+Értelmes	O
+ember	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+maga	O
+nagyon	O
+jó	O
+üzletet	O
+hozott	O
+össze	O
+.	O
+
+Most	O
+itt	O
+akar	O
+maradni	O
+,	O
+vagy	O
+vissza	O
+akar	O
+menni	O
+?	O
+
+Nem	O
+túl	O
+jó	O
+a	O
+hallása	O
+.	O
+
+Úgy	O
+érti	O
+,	O
+hogy	O
+elenged	O
+?	O
+
+Mister	O
+,	O
+nincs	O
+többé	O
+szükségünk	O
+magára	O
+.	O
+
+Billy	B-PER
+,	O
+hozd	O
+neki	O
+a	O
+lovát	O
+!	O
+
+Visszamehetnék	O
+és	O
+ide	O
+vezethetném	O
+az	O
+öreg	O
+Gatewayt	B-PER
+reggel	O
+.	O
+
+A	O
+feleségem	O
+,	O
+ő	O
+jól	O
+van	O
+?	O
+
+Még	O
+alszik	O
+.	O
+
+Figyeljen	O
+,	O
+én	O
+inkább	O
+itt	O
+maradnék	O
+vele	O
+,	O
+de	O
+ha	O
+arra	O
+gondolok	O
+,	O
+hogy	O
+az	O
+öreg	O
+Gateway	B-PER
+gyorsabban	O
+itt	O
+lesz	O
+,	O
+akkor	O
+jobb	O
+,	O
+ha	O
+mégis	O
+megyek	O
+.	O
+
+Tudom	O
+,	O
+mire	O
+gondol	O
+.	O
+
+Nem	O
+akarja	O
+látni	O
+a	O
+feleségét	O
+?	O
+
+Nos	O
+,	O
+minél	O
+gyorsabban	O
+indulok	O
+,	O
+annál	O
+jobb	O
+.	O
+
+Meg	O
+fogja	O
+érteni	O
+.	O
+
+Akkor	O
+holnap	B-DATE
+találkozunk	O
+?	O
+
+Körülbelül	O
+ugyanabban	O
+az	O
+időben	O
+.	O
+
+Akkor	O
+rendben	O
+,	O
+ha	O
+indulok	O
+?	O
+
+Kapd	O
+el	O
+,	O
+Chink	B-PER
+!	O
+
+Szabadulj	O
+meg	O
+tőle	O
+,	O
+Billy	B-PER
+!	O
+
+Mit	O
+gondol	O
+,	O
+mi	O
+a	O
+baja	O
+?	O
+
+Hé	O
+,	O
+hölgyem	O
+,	O
+nem	O
+fogja	O
+fel	O
+,	O
+hogy	O
+épp	O
+miből	O
+szállt	O
+ki	O
+?	O
+
+Nem	O
+tudta	O
+,	O
+hogy	O
+mit	O
+tett	O
+a	O
+férje	O
+.	O
+
+Nem	O
+,	O
+én	O
+is	O
+azt	O
+hiszem	O
+.	O
+
+Hölgyem	O
+,	O
+nem	O
+tudja	O
+,	O
+hogy	O
+a	O
+fickó	O
+eladta	O
+magát	O
+?	O
+
+Az	O
+egész	O
+az	O
+ő	O
+ötlete	O
+volt	O
+,	O
+hogy	O
+mentse	O
+a	O
+saját	O
+bőrét	O
+.	O
+
+Épp	O
+most	O
+akarta	O
+újra	O
+elhagyni	O
+magát	O
+.	O
+
+Már	O
+torkig	O
+voltam	O
+vele	O
+,	O
+de	O
+nagyon	O
+!	O
+
+Csak	O
+egy	O
+fickó	O
+volt	O
+,	O
+akihez	O
+hozzáment	O
+,	O
+és	O
+képes	O
+volt	O
+ilyet	O
+cselekedni	O
+.	O
+
+Nézze	O
+,	O
+helytelen	O
+dolgot	O
+cselekedett	O
+,	O
+de	O
+egy	O
+hajóban	O
+eveznek	O
+,	O
+aztán	O
+pedig	O
+lelövi	O
+,	O
+ez	O
+így	O
+rendjén	O
+való	O
+?	O
+
+Ha	O
+nem	O
+látja	O
+a	O
+különbséget	O
+,	O
+én	O
+nem	O
+fogom	O
+elmagyarázni	O
+.	O
+
+Hányadik	O
+volt	O
+?	O
+
+Ő	O
+volt	O
+a	O
+hetedik	O
+.	O
+
+Mikor	O
+lesz	O
+a	O
+nyolcadik	B-DATE
+és	O
+kilencedik	B-DATE
+?	O
+
+Holnap	B-DATE
+,	O
+mielőtt	O
+elmegyünk	O
+,	O
+számíthat	O
+rá	O
+.	O
+
+Ha	O
+a	O
+főnök	O
+jelt	O
+ad	O
+.	O
+
+Ne	O
+aggódjon	O
+!	O
+
+Gondolom	O
+,	O
+én	O
+is	O
+a	O
+hátamba	O
+kapom	O
+majd	O
+.	O
+
+Maga	O
+majd	O
+az	O
+elejére	O
+számíthat	O
+.	O
+
+Szeretném	O
+látni	O
+az	O
+arcát	O
+.	O
+
+De	O
+most	O
+futhat	O
+is	O
+az	O
+életéért	O
+,	O
+ha	O
+érdekesebbé	O
+akarja	O
+tenni	O
+.	O
+
+Jobb	O
+,	O
+mintha	O
+csak	O
+itt	O
+álldogál	O
+.	O
+
+Várok	O
+holnapig	O
+.	O
+
+Ahogy	O
+gondolja	O
+.	O
+
+Sajnálom	O
+,	O
+Mrs.	O
+Mims	B-PER
+!	O
+
+Miért	O
+nem	O
+szólt	O
+nekem	O
+?	O
+
+Miért	O
+nem	O
+mondta	O
+,	O
+hogy	O
+...	O
+
+Ez	O
+nem	O
+segített	O
+volna	O
+.	O
+
+Megtehette	O
+volna	O
+valamennyiünkért	O
+.	O
+
+De	O
+nem	O
+így	O
+gondolja	O
+,	O
+ugye	O
+?	O
+
+Maga	O
+jobban	O
+ismerte	O
+a	O
+férjét	O
+,	O
+mint	O
+én	O
+.	O
+
+Szörnyű	O
+dolgok	O
+történtek	O
+az	B-DATE
+elmúlt	I-DATE
+két	I-DATE
+napban	I-DATE
+,	O
+de	O
+mindent	O
+csak	O
+magamnak	O
+köszönhetek	O
+.	O
+
+És	O
+nagyon	O
+ostobának	O
+érezhetem	O
+magam	O
+!	O
+
+És	O
+tudja	O
+,	O
+hogy	O
+miért	O
+?	O
+
+Mert	O
+most	O
+már	O
+tudom	O
+,	O
+hogy	O
+sohasem	O
+én	O
+foglalkoztattam	O
+!	O
+
+A	O
+saját	O
+érdekei	O
+miatt	O
+vett	O
+el	O
+!	O
+
+Most	O
+láttam	O
+,	O
+hogy	O
+megölték	O
+,	O
+de	O
+még	O
+csak	O
+sajnálatot	O
+sem	O
+érzek	O
+iránta	O
+.	O
+
+Csak	O
+arra	O
+tudtam	O
+gondolni	O
+,	O
+hogy	O
+nem	O
+szeretett	O
+!	O
+
+Hogy	O
+nem	O
+törődött	O
+velem	O
+...	O
+
+Most	O
+figyeljen	O
+rám	O
+,	O
+Mrs.	O
+A	O
+férje	O
+a	O
+pénzéért	O
+vette	O
+el	O
+magát	O
+.	O
+
+Ezt	O
+maga	O
+is	O
+tudja	O
+és	O
+én	O
+is	O
+tudom	O
+.	O
+
+De	O
+maga	O
+él	O
+,	O
+ő	O
+pedig	O
+meghalt	O
+és	O
+ez	O
+nagy	O
+különbség	O
+.	O
+
+Sírhat	O
+és	O
+tűnődhet	O
+,	O
+milyen	O
+bolond	O
+volt	O
+,	O
+amíg	O
+holnap	B-DATE
+le	O
+nem	O
+lövik	O
+,	O
+vagy	O
+elkezdhet	O
+azon	O
+gondolkodni	O
+,	O
+hogy	O
+mentse	O
+a	O
+bőrét	O
+.	O
+
+Ezt	O
+én	O
+mondom	O
+.	O
+
+Nekünk	O
+kettőnknek	O
+együtt	O
+kell	O
+működnünk	O
+,	O
+hogy	O
+életben	O
+maradjunk	O
+.	O
+
+Azt	O
+mondták	O
+,	O
+elengednek	O
+minket	O
+.	O
+
+Gondolja	O
+,	O
+hogy	O
+ezt	O
+tennék	O
+?	O
+
+Megöltek	O
+négy	B-CARDINAL
+embert	O
+kevesebb	B-DATE
+,	I-DATE
+mint	I-DATE
+két	I-DATE
+nap	I-DATE
+alatt	O
+.	O
+
+Engem	O
+csak	O
+azért	O
+tartottak	O
+itt	O
+ilyen	O
+sokáig	O
+,	O
+mert	O
+úgy	O
+gondolták	O
+,	O
+talán	O
+szükségük	O
+lehet	O
+rám	O
+,	O
+ha	O
+valami	O
+rosszul	O
+sül	O
+el	O
+Contentionben	B-LOC
+.	O
+
+Nem	O
+,	O
+Mrs.	O
+Mims	B-PER
+,	O
+addig	O
+elvagyunk	O
+,	O
+amíg	O
+az	O
+apja	O
+ide	O
+nem	O
+ér	O
+holnap	B-DATE
+,	O
+ennyi	O
+az	O
+egész	O
+.	O
+
+Nem	O
+érdekel	O
+,	O
+hogy	O
+mi	O
+történik	O
+velem	O
+!	O
+
+Engem	O
+érdekel	O
+,	O
+hogy	O
+velem	O
+mi	O
+lesz	O
+.	O
+
+Nem	O
+lövetem	O
+hasba	O
+magam	O
+csak	O
+azért	O
+,	O
+mert	O
+maga	O
+sajnálja	O
+magát	O
+.	O
+
+Meg	O
+akarnak	O
+ölni	O
+minket	O
+,	O
+Mrs.	O
+Mims	B-PER
+.	O
+
+Gondoljon	O
+csak	O
+bele	O
+egy	O
+kicsit	O
+.	O
+
+De	O
+mit	O
+tehetek	O
+én	O
+?	O
+
+Nyitva	O
+kell	O
+tartsuk	O
+a	O
+szemünket	O
+,	O
+figyelni	O
+minden	O
+mozdulatukat	O
+!	O
+
+És	O
+a	O
+kínálkozó	O
+esélyt	O
+meg	O
+kell	O
+ragadnunk	O
+!	O
+
+Félek	O
+!	O
+
+Hé	O
+,	O
+szép	O
+nagy	O
+bak	O
+,	O
+Chink	B-PER
+!	O
+
+Nagy	O
+rohanásban	O
+volt	O
+,	O
+pont	O
+középen	O
+találtam	O
+el	O
+,	O
+csaknem	O
+ketté	O
+tépte	O
+.	O
+
+Billy	B-PER
+Jack	I-PER
+,	O
+Brennan	B-PER
+megnyúzza	O
+vacsorára	O
+.	O
+
+Te	O
+pedig	O
+főzöl	O
+.	O
+
+Ez	O
+női	O
+munka	O
+!	O
+
+Azt	O
+mondtam	O
+,	O
+te	O
+főzöl	O
+,	O
+nem	O
+akarok	O
+égett	O
+húst	O
+,	O
+mert	O
+a	O
+hölgy	O
+olyan	O
+állapotban	O
+van	O
+a	O
+férje	O
+miatt	O
+.	O
+
+Akarod	O
+,	O
+hogy	O
+vigyek	O
+egy	O
+tányért	O
+a	O
+nőnek	O
+,	O
+Frank	B-PER
+?	O
+
+Egyél	O
+!	O
+
+Azt	O
+sem	O
+tudod	O
+,	O
+hogy	O
+itt	O
+van	O
+,	O
+ugye	O
+?	O
+
+Amilyen	O
+csendes	O
+...	O
+
+Az	O
+ilyenekre	O
+rá	O
+kell	O
+nézni	O
+,	O
+Billy	B-PER
+!	O
+
+Volt	O
+nekem	O
+egyszer	O
+egy	O
+csendes	O
+nőm	O
+.	O
+
+Kint	O
+olyan	O
+volt	O
+,	O
+mint	O
+egy	B-DATE
+csendes	I-DATE
+vasárnap	I-DATE
+,	O
+de	O
+bent	O
+vad	O
+,	O
+mint	O
+a	O
+hegyi	O
+táj	O
+.	O
+
+Egy	O
+nap	O
+megint	O
+meg	O
+kell	O
+tenni	O
+azt	O
+az	O
+utat	O
+.	O
+
+Hol	O
+van	O
+ez	O
+,	O
+Chink	B-PER
+?	O
+
+Sonora	B-GPE
+Town	I-GPE
+.	I-GPE
+
+Hé	O
+,	O
+én	O
+voltam	O
+ott	O
+egyszer	O
+!	O
+
+Egyszer	O
+?	O
+
+Úgy	O
+érted	O
+,	O
+hogy	O
+soha	O
+nem	O
+mentél	O
+vissza	O
+?	O
+
+Hány	B-AGE
+éves	I-AGE
+vagy	O
+,	O
+Billy	B-PER
+?	O
+
+Elég	O
+fiatal	O
+.	O
+
+Mivel	O
+hogy	O
+ott	O
+tíz	B-CARDINAL
+nő	O
+jut	O
+minden	O
+férfira	O
+Sonorában	B-GPE
+.	O
+
+Ezért	O
+!	O
+
+Tudnod	O
+kellene	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+több	O
+mint	B-CARDINAL
+a	O
+felével	B-CARDINAL
+volt	O
+románcom	O
+.	O
+
+Lett	O
+volna	O
+még	O
+,	O
+ha	O
+meg	O
+nem	O
+húzom	O
+a	O
+lábamat	O
+.	O
+
+Lovakat	O
+fogtam	O
+be	O
+a	O
+határon	O
+túl	O
+és	O
+eladtam	O
+őket	O
+betörve	O
+Bisbeeben	B-GPE
+.	O
+
+Erről	O
+soha	O
+nem	O
+meséltél	O
+,	O
+Chink	B-PER
+.	O
+
+Sosem	O
+kérdezted	O
+.	O
+
+Persze	O
+jó	O
+részük	O
+nem	O
+valami	O
+nagy	O
+szám	O
+.	O
+
+De	O
+ahogy	O
+én	O
+nézem	O
+,	O
+a	O
+nő	O
+az	O
+nő	O
+.	O
+
+Nem	O
+igaz	O
+,	O
+Frank	B-PER
+?	O
+
+Ha	O
+te	O
+mondod	O
+?	O
+
+Hé	O
+,	O
+Chink	B-PER
+,	O
+ha	O
+ez	O
+a	O
+fickó	O
+ideér	O
+a	O
+pénzzel	O
+,	O
+mit	O
+mondjak	O
+,	O
+mindketten	O
+irányt	O
+veszünk	O
+Sonora	B-GPE
+felé	O
+.	O
+
+Esküszöm	O
+,	O
+minden	O
+alkalommal	O
+öregebbé	O
+válsz	O
+,	O
+Billy	B-PER
+.	O
+
+Hát	O
+nem	O
+,	O
+Frank	B-PER
+?	O
+
+Minden	O
+alkalommal	O
+.	O
+
+Elég	O
+jól	O
+ért	O
+ehhez	O
+.	O
+
+Gondolom	O
+,	O
+kíváncsi	O
+,	O
+miért	O
+tartjuk	O
+itt	O
+magát	O
+.	O
+
+Gondolja	O
+?	O
+
+Az	O
+az	O
+igazság	O
+,	O
+hogy	O
+kedvelem	O
+magát	O
+,	O
+Brennan	B-PER
+.	O
+
+Nincs	O
+sok	O
+férfi	O
+,	O
+akire	O
+ezt	O
+mondanám	O
+.	O
+
+Magára	O
+sokan	O
+mondják	O
+?	O
+
+Volt	O
+,	O
+amikor	O
+igen	O
+.	O
+
+Igen	O
+,	O
+akkoriban	O
+elég	O
+nagy	O
+tiszteletnek	O
+örvendtem	O
+ott	O
+,	O
+ahonnan	O
+jövök	O
+.	O
+
+Hol	O
+van	O
+ez	O
+?	O
+
+Wyoming	B-GPE
+.	O
+
+Messze	O
+került	O
+az	O
+otthonától	O
+.	O
+
+Fellógatnának	O
+,	O
+ha	O
+újra	O
+arra	O
+találnék	O
+lovagolni	O
+.	O
+

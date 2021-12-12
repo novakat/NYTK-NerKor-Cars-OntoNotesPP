@@ -1,0 +1,1492 @@
+# global.columns = FORM ONPP:NER
+Tűnj	O
+el	O
+onnan	O
+!	O
+
+Nahát	O
+,	O
+te	O
+kis	O
+haszontalan	O
+tolvaj	O
+!	O
+
+Ki	O
+bántja	O
+a	O
+kutyámat	O
+?	O
+
+Nem	O
+bánthatja	O
+a	O
+kutyámat	O
+!	O
+
+Nem	O
+bánthatja	O
+!	O
+
+Csak	O
+lassan	O
+,	O
+főnök	O
+!	O
+
+Úgy	O
+látom	O
+,	O
+kihozták	O
+a	O
+sodrából	O
+.	O
+
+A	O
+mama	O
+meg	O
+akarta	O
+ölni	O
+a	O
+kutyámat	O
+!	O
+
+Hozzá	O
+sem	O
+értem	O
+.	O
+
+Tyű	O
+,	O
+ha	O
+!	O
+
+Kész	O
+a	O
+vacsora	O
+?	O
+
+Tálalva	O
+van	O
+,	O
+drágám	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+eljött	O
+az	O
+ideje	O
+,	O
+hogy	O
+dologra	O
+fogjam	O
+ezt	O
+a	O
+mihaszna	O
+kutyát	O
+.	O
+
+Olyan	O
+kicsi	O
+,	O
+hogy	O
+egyelőre	O
+nem	O
+sok	O
+mindent	O
+tud	O
+tanulni	O
+.	O
+
+A	O
+tanuláshoz	O
+is	O
+elég	O
+nagy	O
+,	O
+...ha	O
+ahhoz	O
+elég	O
+nagy	O
+,	O
+hogy	O
+úgy	O
+lopjon	O
+,	O
+mint	O
+Betyár	B-PER
+.	O
+
+Felirat	O
+:	O
+The	B-WORK_OF_ART
+Enemy	I-WORK_OF_ART
+Below	I-WORK_OF_ART
+
+II.	B-EVENT
+Világháború	I-EVENT
+Dél	B-LOC
+-	I-LOC
+Atlanti	I-LOC
+-	I-LOC
+óceán	I-LOC
+
+Jó	O
+estét	O
+,	O
+Doki	O
+!	O
+
+Hello	O
+,	O
+Rimfire	B-PER
+!	O
+
+A	O
+flotta	O
+sosem	O
+fogy	O
+ki	O
+a	O
+krumpliból	O
+?	O
+
+Ez	O
+a	O
+hajó	O
+biztosan	O
+nem	O
+.	O
+
+Jó	O
+estét	O
+,	O
+Doktor	O
+!	O
+
+Ellis	B-PER
+!	O
+
+Johnny	B-PER
+!	O
+
+Meleg	O
+van	O
+lent	O
+.	O
+
+Bizony	O
+az	O
+!	O
+
+Ami	O
+engem	O
+illet	O
+,	O
+én	O
+este	O
+fent	O
+alszom	O
+.	O
+
+Nem	O
+sokáig	O
+.	O
+
+Az	O
+éjjel	O
+beleérünk	O
+egy	O
+vihar	O
+végébe	O
+.	O
+
+Nem	O
+tervezhet	O
+az	O
+ember	O
+ennyire	O
+előre	O
+,	O
+igaz	O
+?	O
+
+Jól	O
+van	O
+fiúk	O
+,	O
+el	O
+az	O
+útból	O
+!	O
+
+Engedjétek	O
+azt	O
+,	O
+aki	O
+dolgozni	O
+akar	O
+!	O
+
+Dolgozz	O
+csak	O
+barátom	O
+.	O
+
+Dolgozz	O
+csak	O
+.	O
+
+Örülj	O
+,	O
+hogy	O
+nem	O
+öntöm	O
+a	O
+nyakatokba	O
+!	O
+
+Nesztek	O
+éhenkórász	O
+nyavalyások	O
+!	O
+
+Itt	O
+egy	O
+másik	O
+!	O
+
+Kinek	O
+van	O
+öngyújtója	O
+?	O
+
+Ah	O
+,	O
+azok	O
+a	O
+cápák	O
+...	O
+
+Hát	O
+nem	O
+undorítóak	O
+?	O
+
+Csak	O
+halak	O
+.	O
+
+Hé	O
+,	O
+Corky	B-PER
+!	O
+
+Mit	O
+gondolsz	O
+a	O
+Kapitányról	O
+,	O
+akit	O
+az	O
+öreg	O
+Pinky	B-PER
+helyére	O
+küldtek	O
+?	O
+
+Nem	O
+gondolok	O
+semmit	O
+.	O
+
+Tudod	O
+mi	O
+a	O
+helyzet	O
+?	O
+
+El	O
+se	O
+hagyta	O
+a	O
+kabinját	O
+,	O
+mióta	O
+kihajóztunk	O
+Trinidadból	B-GPE
+ma	B-DATE
+reggel	B-TIME
+.	O
+
+Kártyázik	O
+saját	O
+magával	O
+?	O
+
+Megmondom	O
+,	O
+mit	O
+csinál	O
+.	O
+
+Tengeribeteg	O
+!	O
+
+Azt	O
+csinálja	O
+!	O
+
+Ez	O
+lett	O
+a	O
+flottából	O
+!	O
+
+Az	O
+ilyen	O
+tengeribeteg	O
+munkakerülők	O
+elveszik	O
+a	O
+helyet	O
+a	O
+rendes	O
+tengerészektől	O
+,	O
+mint	O
+Pinky	B-PER
+kapitány	O
+!	O
+
+Csak	O
+remélni	O
+merem	O
+,	O
+hogy	O
+ez	O
+az	O
+alak	O
+tudja	O
+mi	O
+különbség	O
+a	O
+hajó	O
+bal	O
+és	O
+jobb	O
+oldala	O
+között	O
+.	O
+
+Csak	O
+ebben	O
+bízom	O
+.	O
+
+Tudod	O
+,	O
+mit	O
+tennék	O
+a	O
+helyedben	O
+,	O
+Robins	B-PER
+?	O
+
+Átvenném	O
+a	O
+kapitány	O
+munkáját	O
+a	O
+helyedben	O
+!	O
+
+A	O
+kapitány	O
+!	O
+
+Na	O
+,	O
+jól	O
+van	O
+.	O
+
+Kiröhögted	O
+magad	O
+?	O
+
+Hát	O
+hagy	O
+mondjak	O
+neked	O
+valamit	O
+!	O
+
+Annak	O
+az	O
+alaknak	O
+a	O
+kezében	O
+van	O
+az	O
+életed	O
+,	O
+aki	O
+azon	O
+a	O
+hídon	O
+sétál	O
+,	O
+ezt	O
+ne	O
+felejtsd	O
+el	O
+!	O
+
+Oh	O
+,	O
+kösz	O
+,	O
+Salvador	B-PER
+.	O
+
+Kétszázat	B-MONEY
+buktunk	O
+maga	O
+miatt	O
+cimbora	O
+!	O
+
+Sajnálom	O
+uram	O
+!	O
+
+Hat	B-CARDINAL
+pikk	O
+.	O
+
+Azt	O
+hittem	O
+meg	O
+tudom	O
+csinálni	O
+,	O
+uram	O
+.	O
+
+Ne	O
+legyen	O
+még	O
+egyszer	O
+ilyen	O
+meggondolatlan	O
+.	O
+
+Nem	O
+leszek	O
+,	O
+uram	O
+.	O
+
+Milyen	O
+idő	O
+lesz	O
+,	O
+Doki	O
+?	O
+
+Keletről	O
+borul	O
+.	O
+
+Oh	O
+,	O
+uram-atyám	O
+.	O
+
+És	O
+enyém	O
+az	O
+őrség	O
+.	O
+
+Passzolok	O
+.	O
+
+Hogy	O
+érti	O
+,	O
+hogy	O
+passzol	O
+?	O
+
+Nincs	O
+semmije	O
+?	O
+
+Miért	O
+nem	O
+néz	O
+bele	O
+a	O
+kártyáiba	O
+?	O
+
+Csak	O
+tanítani	O
+próbálom	O
+.	O
+
+Úgy	O
+hiszem	O
+,	O
+megpróbálhatok	O
+egy	O
+kőrt	O
+,	O
+uram	O
+!	O
+
+Úgy	O
+hiszi	O
+,	O
+megpróbálhat	O
+egy	O
+kőrt	O
+,	O
+uram	O
+!	O
+
+Két	B-CARDINAL
+treff	O
+.	O
+
+Murrell	B-PER
+kapitány	O
+még	O
+rejtőzködik	O
+,	O
+Doki	O
+?	O
+
+Én	O
+úgy	O
+tudom	O
+.	O
+
+Három	B-CARDINAL
+káró	O
+.	O
+
+Küldhettek	O
+volna	O
+egy	O
+olyan	O
+kapitányt	O
+,	O
+aki	O
+tud	O
+egyenesen	O
+járni	O
+a	O
+hajón	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+megtesznek	O
+minden	O
+tőlük	O
+telhetőt	O
+.	O
+
+Nem	O
+értem	O
+miért	O
+nem	O
+léptették	O
+elő	O
+Ware-t	B-PER
+.	O
+
+Már	O
+jó	O
+ideje	O
+szolgál	O
+.	O
+
+Drága	O
+Mackeson	B-PER
+,	O
+az	O
+egyetlen	O
+hajó	O
+,	O
+amit	O
+valaha	O
+is	O
+parancsnokoltam	O
+,	O
+egy	O
+vitorlás	O
+a	O
+miami	B-GPE
+jacht	O
+versenyen	O
+.	O
+
+És	O
+a	O
+győzelemhez	O
+a	O
+legközelebb	O
+a	O
+29.	B-ORDINAL
+helyen	O
+végeztem	O
+.	O
+
+A	O
+flotta	O
+eléggé	O
+kétségbe	O
+lehetett	O
+esve	O
+ahhoz	O
+,	O
+hogy	O
+megkaparintson	O
+,	O
+de	O
+nem	O
+elég	O
+ostoba	O
+ahhoz	O
+,	O
+hogy	O
+magamtól	O
+hajókázzak	O
+.	O
+
+Engem	O
+is	O
+meglep	O
+,	O
+hogy	O
+a	O
+ranglétrán	O
+eddig	O
+jutottam	O
+.	O
+
+A	O
+pénz	O
+!	O
+
+Oh	O
+,	O
+tudom	O
+ám	O
+,	O
+hogy	O
+gazdag	O
+fiú	O
+vagy	O
+!	O
+
+Ne	O
+keseregj	O
+,	O
+papa	O
+.	O
+
+Te	O
+licitálsz	O
+,	O
+Mackeson	B-PER
+.	O
+
+Négy	B-CARDINAL
+pikk	O
+.	O
+
+Nem	O
+kesergek	O
+.	O
+
+Csak	O
+haza	O
+akarok	O
+menni	O
+.	O
+
+Amikor	O
+Nevadában	B-GPE
+megvettem	O
+azt	O
+a	O
+farmot	O
+,	O
+nem	O
+gondoltam	O
+,	O
+hogy	O
+újra	O
+látom	O
+a	O
+tengert	O
+.	O
+
+Merry	B-PER
+zászlós	O
+?	O
+
+A	O
+licitje	O
+.	O
+
+Gondolkodom	O
+rajta	O
+.	O
+
+Nyitva	O
+van	O
+a	O
+szája	O
+,	O
+zászlós	O
+.	O
+
+Fog	O
+licitálni	O
+?	O
+
+Hat	O
+káró	O
+!	O
+
+Hat	O
+káró	O
+?	O
+
+Én	O
+csak	O
+magának	O
+segítek	O
+,	O
+uram	O
+.	O
+
+Ware	B-PER
+,	O
+maga	O
+szándékosan	O
+összezavarja	O
+a	O
+partneremet	O
+!	O
+
+Passzolok	O
+,	O
+és	O
+duplázok	O
+.	O
+
+Rendben	O
+,	O
+Mr.	O
+Merry	B-PER
+.	O
+
+Statisztál	O
+!	O
+
+Úgy	O
+látszik	O
+,	O
+ez	O
+a	O
+Murrell	B-PER
+egy	O
+pipogya	O
+alak	O
+.	O
+
+Murrell	B-PER
+kapitánynak	O
+semmi	O
+keresnivalója	O
+nem	O
+lenne	O
+itt	O
+.	O
+
+Gyenge	O
+,	O
+mint	O
+a	O
+harmat	O
+.	O
+
+Olyasvalakinek	O
+,	O
+akinek	O
+a	O
+hajóját	O
+megtorpedózták	O
+,	O
+és	O
+25	B-DUR
+napot	I-DUR
+tölt	O
+egy	O
+tutajon	O
+az	O
+Észak-Atlanti-óceánon	B-LOC
+,	O
+nem	O
+volna	O
+szabad	O
+újra	O
+labdába	O
+rúgnia	O
+néhány	B-DUR
+kórházban	I-DUR
+töltött	I-DUR
+hét	I-DUR
+után	O
+.	O
+
+Azt	O
+hiszem	O
+nincs	O
+elég	O
+hadtestparancsnok	O
+,	O
+akit	O
+mozgósíthatnának	O
+.	O
+
+De	O
+legalább	O
+egy	O
+könnyű	O
+hajót	O
+adtak	O
+neki	O
+.	O
+
+A	O
+könnyű	O
+,	O
+az	O
+nem	O
+kifejezés	O
+.	O
+
+Elmondom	O
+,	O
+többet	O
+fog	O
+pihenni	O
+ezen	O
+a	O
+bárkán	O
+...	O
+
+Hajó	O
+.	O
+
+Hajó	O
+,	O
+bárka	O
+.	O
+
+Még	O
+így	O
+is	O
+több	O
+pihenőben	O
+lesz	O
+része	O
+itt	O
+,	O
+mintha	O
+ágyban	O
+töltené	O
+az	O
+időt	O
+.	O
+
+Részemről	O
+nem	O
+bánnám	O
+,	O
+ha	O
+végre	O
+már	O
+történne	O
+valami	O
+.	O
+
+Ha	O
+a	O
+flotta	O
+valaha	O
+csatába	O
+küld	O
+ebből	O
+a	O
+legénységből	O
+egy	O
+csapatot	O
+,	O
+mindenkit	O
+visszaküldenek	O
+kiképzőtáborba	O
+.	O
+
+Nevetségesen	O
+néznék	O
+ki	O
+kopaszon	O
+.	O
+
+Kölyök	O
+,	O
+nem	O
+jelezné	O
+a	O
+treffeket	O
+?	O
+
+Akkor	O
+jelenthetném	O
+a	O
+szanzadut	O
+.	O
+
+Megint	O
+vesztésre	O
+állunk	O
+.	O
+
+És	O
+duplán	O
+!	O
+
+Rendben	O
+...	O
+
+Ön	O
+kezd	O
+,	O
+Mackeson	B-PER
+.	O
+
+Mindenkinek	O
+gyülekező	O
+az	O
+árbocnál	O
+a	O
+8	B-TIME
+órai	I-TIME
+jelentéshez	O
+!	O
+
+Hajót	O
+elsötétíteni	O
+!	O
+
+A	O
+teljes	O
+viharfedélzeten	O
+tilos	O
+a	O
+dohányzás	O
+!	O
+
+Kicsit	O
+lelassítjuk	O
+a	O
+hajót	O
+.	O
+
+Minden	O
+hajtóművet	O
+2/3-ra	B-CARDINAL
+!	O
+
+Híd	O
+,	O
+itt	O
+a	O
+radar	O
+!	O
+
+Mumust	O
+látok	O
+!	O
+
+Radarkapcsolat	O
+,	O
+Mr.	O
+Ware	B-PER
+!	O
+
+Hogy	O
+mi	O
+?	O
+
+Radarkapcsolat	O
+!	O
+
+Jóságos	O
+ég	O
+!	O
+
+Itt	O
+a	O
+híd	O
+!	O
+
+Határozottan	O
+mumus	O
+,	O
+uram	O
+.	O
+
+Műveleti	O
+zónán	O
+belül	O
+?	O
+
+12.000	B-CARDINAL
+a	O
+törzstől	O
+jobbra	O
+.	O
+
+Irány	O
+a	O
+műveleti	O
+terem	O
+,	O
+Mackeson	B-PER
+.	O
+
+Itt	O
+a	O
+Kapitány	O
+.	O
+
+A	O
+radar	O
+kontaktot	O
+észlelt	O
+a	O
+törzstől	O
+jobbra	O
+,	O
+uram	O
+!	O
+
+Tervezzék	O
+meg	O
+a	O
+hadműveletet	O
+!	O
+
+Már	O
+dolgoznak	O
+rajta	O
+,	O
+uram	O
+.	O
+
+Akkor	O
+irány	O
+a	O
+célpont	O
+!	O
+
+Oh	O
+,	O
+és	O
+...	O
+cikcakkban	O
+,	O
+uram	O
+?	O
+
+Ön	O
+mit	O
+gondol	O
+?	O
+
+Negatív	O
+cikcakkban	O
+,	O
+uram	O
+.	O
+
+Adjunk	O
+időt	O
+a	O
+hadműveletiseknek	O
+felkészülni	O
+.	O
+
+Ismételje	O
+meg	O
+,	O
+radar	O
+.	O
+
+Megvan	O
+?	O
+
+A	O
+célpont	O
+becsült	O
+iránya	O
+1-4-0	B-CARDINAL
+,	O
+sebesség	O
+10	B-QUANTITY
+csomó	I-QUANTITY
+,	O
+pontos	O
+tájolat	O
+1-2-4	B-CARDINAL
+.	O
+Irányítsák	O
+a	O
+hajót	O
+1-2-4-re	B-CARDINAL
+!	O
+
+Hajtóműveket	O
+a	O
+maximumra	O
+!	O
+
+Irány	O
+1-2-4	B-CARDINAL
+,	O
+uram	O
+!	O
+
+Hajtóművek	O
+a	O
+maximumon	O
+,	O
+uram	O
+!	O
+
+Nem	O
+túl	O
+határozott	O
+,	O
+igaz	O
+?	O
+
+Talán	O
+csak	O
+azt	O
+akarta	O
+tudni	O
+,	O
+nem	O
+alszom	O
+-e	O
+.	O
+
+Hova	O
+ez	O
+a	O
+sietség	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+de	O
+az	O
+biztos	O
+,	O
+hogy	O
+nyüstöljük	O
+.	O
+
+Hé	O
+,	O
+mi	O
+a	O
+helyzet	O
+?	O
+
+A	O
+radar	O
+bemért	O
+valamit	O
+.	O
+
+A	O
+nyomába	O
+eredtünk	O
+.	O
+
+Azt	O
+mondták	O
+mumust	O
+láttak	O
+!	O
+
+Rajta	O
+,	O
+ébredj	O
+!	O
+
+Ezt	O
+nem	O
+akarod	O
+lekésni	O
+.	O
+
+Utat	O
+.	O
+
+Utat	O
+kérek	O
+.	O
+
+Én	O
+voltam	O
+itt	O
+előbb	O
+!	O
+
+Keress	O
+másik	O
+utat	O
+!	O
+
+Elnézést	O
+uram	O
+!	O
+
+Hé	O
+,	O
+félreállni	O
+!	O
+
+Engedjétek	O
+be	O
+a	O
+Kapitányt	O
+!	O
+
+Mi	O
+ez	O
+a	O
+nagy	O
+tömeg	O
+matróz	O
+?	O
+
+Nos	O
+,	O
+uram	O
+...	O
+
+Azt	O
+hiszem	O
+,	O
+nem	O
+sokszor	O
+történik	O
+izgalmas	O
+dolog	O
+a	O
+hajó	O
+fedélzetén	O
+,	O
+uram	O
+.	O
+
+Maradjon	O
+csak	O
+.	O
+
+Andrews	B-PER
+,	O
+uram	O
+.	O
+
+Mire	O
+jutott	O
+?	O
+
+Nem	O
+is	O
+tudom	O
+,	O
+Kapitány	O
+.	O
+
+Tartjuk	O
+a	O
+sebességet	O
+...	O
+
+Akkor	O
+találgasson	O
+,	O
+Ön	O
+az	O
+operátor	O
+.	O
+
+Nagyjából	O
+10	B-CARDINAL
+csomóval	O
+halad	O
+.	O
+
+Van	O
+teljesítménye	O
+,	O
+de	O
+túl	O
+kis	O
+mumus	O
+,	O
+hogy	O
+nagy	O
+hajó	O
+legyen	O
+.	O
+
+Lehet	O
+egy	O
+halászhajó	O
+,	O
+vagy	O
+...	O
+
+Lehet	O
+egy	O
+tengeralattjáró	O
+parancsnoki	O
+tornya	O
+,	O
+uram	O
+.	O
+
+Itt	O
+a	O
+híd	O
+,	O
+Ware	B-PER
+hadnagy	O
+vagyok	O
+.	O
+
+Ware	B-PER
+.	O
+
+Elveszítjük	O
+a	O
+radarkontaktot	O
+,	O
+ha	O
+továbbra	O
+is	O
+ezzel	O
+a	O
+sebességgel	O
+hajózunk	O
+.	O
+
+Csökkentse	O
+a	O
+sebességet	O
+a	O
+célpontéra	O
+,	O
+és	O
+érjünk	O
+a	O
+nyomába	O
+.	O
+
+Ebből	O
+a	O
+távolságból	O
+hajnalra	O
+látni	O
+is	O
+fogjuk	O
+.	O
+
+Felébresszem	O
+a	O
+hajót	O
+,	O
+hogy	O
+készenlétben	O
+legyen	O
+?	O
+
+Nem	O
+sok	O
+munkája	O
+lenne	O
+vele	O
+idelent	O
+.	O
+
+De	O
+készítse	O
+elő	O
+a	O
+búvárfelszerelést	O
+.	O
+
+Ha	O
+ez	O
+a	O
+mumus	O
+egy	O
+tengeralattjáró	O
+,	O
+kihúzhatja	O
+a	O
+dugót	O
+,	O
+és	O
+akkor	O
+utána	O
+kell	O
+erednünk	O
+.	O
+
+Ki	O
+a	O
+rangidős	O
+lokátoros	O
+,	O
+Andrews	B-PER
+?	O
+
+Én	O
+vagyok	O
+,	O
+uram	O
+.	O
+

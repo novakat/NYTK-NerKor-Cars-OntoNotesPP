@@ -1,0 +1,1223 @@
+# global.columns = FORM ONPP:NER
+Gyere	O
+,	O
+ne	O
+kéresd	O
+magad	O
+!	O
+
+Nem	O
+lehet	O
+.	O
+
+A	O
+hölgy	O
+társaságában	O
+vagyok	O
+.	O
+
+Táncoljunk	O
+!	O
+
+Mambó	O
+.	O
+
+Már	O
+az	O
+egész	O
+világ	O
+a	O
+mambó	O
+körül	O
+forog	O
+,	O
+mi	O
+?	O
+
+Micsoda	O
+egy	O
+tánc	O
+!	O
+
+Ejha	O
+!	O
+
+Heves	O
+kis	O
+fruska	O
+!	O
+
+Jól	O
+járja	O
+!	O
+
+Ha	O
+oda	O
+akar	O
+menni	O
+a	O
+barátaihoz	O
+,	O
+menjen	O
+,	O
+ne	O
+törődjön	O
+velem	O
+!	O
+
+Mit	O
+mond	O
+?	O
+
+Nyugodtan	O
+odamehet	O
+a	O
+barátaihoz	O
+,	O
+nem	O
+sértődöm	O
+meg	O
+!	O
+
+Most	O
+elmegyünk	O
+.	O
+
+Jó	O
+éjszakát	O
+,	O
+művész	O
+úr	O
+!	O
+
+A	O
+viszontlátásra	O
+!	O
+
+Siess	O
+,	O
+szállj	O
+be	O
+!	O
+
+Vacsoráztál	O
+?	O
+
+Vagyis	O
+még	O
+8-kor	B-TIME
+.	O
+
+Jó	O
+,	O
+akkor	O
+most	O
+elmegyünk	O
+.	O
+
+Mit	O
+csinálunk	O
+?	O
+
+Elmegyünk	O
+vacsorázni	O
+.	O
+
+Az	O
+finom	O
+!	O
+
+És	O
+hová	O
+megyünk	O
+?	O
+
+Hé	O
+,	O
+ti	O
+széplányok	O
+!	O
+
+Halljátok	O
+?	O
+
+Nektek	O
+szóltam	O
+!	O
+
+Nézzetek	O
+meg	O
+most	O
+!	O
+
+Megpukkadhattok	O
+!	O
+
+Ezt	O
+nektek	O
+!	O
+
+Látjátok	O
+,	O
+kivel	O
+vagyok	O
+?	O
+
+Nem	O
+kerestek	O
+telefonon	O
+?	O
+
+Nem	O
+,	O
+művész	O
+úr	O
+.	O
+
+Hogyhogy	O
+senki	O
+nem	O
+keresett	O
+?	O
+
+Nem	O
+keresték	O
+,	O
+uram	O
+.	O
+
+Vagy	O
+nem	O
+hallottad	O
+,	O
+mert	O
+aludtál	O
+.	O
+
+Nem	O
+szólt	O
+a	O
+telefon	O
+,	O
+itt	O
+voltam	O
+.	O
+
+Vacsorát	O
+kérek	O
+két	O
+személyre	O
+.	O
+
+Ha	O
+Jessie	B-PER
+kisasszony	O
+telefonál	O
+,	O
+mondd	O
+,	O
+hogy	O
+alszom	O
+!	O
+
+És	O
+ha	O
+újrahív	O
+,	O
+még	O
+mindig	O
+alszom	O
+!	O
+
+Akárhányszor	O
+hív	O
+,	O
+alszom	O
+.	O
+
+Odafönt	O
+eszünk	O
+.	O
+
+Ó	O
+,	O
+még	O
+egy	O
+kutya	O
+!	O
+
+Hát	O
+ez	O
+meg	O
+micsoda	O
+!	O
+
+Aranyhalak	O
+is	O
+vannak	O
+?	O
+
+Hová	O
+is	O
+tettem	O
+?	O
+
+Hagyd	O
+csak	O
+!	O
+
+A	O
+szobalány	O
+fölveszi	O
+.	O
+
+De	O
+hát	O
+így	O
+tönkremegy	O
+ez	O
+a	O
+szép	O
+ing	O
+!	O
+
+Ilyen	O
+egy	O
+ostoba	O
+libát	O
+!	O
+
+Te	O
+láttál	O
+már	O
+hülye	O
+férfit	O
+?	O
+
+Most	O
+láthatsz	O
+egyet	O
+.	O
+
+Hagyd	O
+már	O
+azt	O
+az	O
+inget	O
+!	O
+
+Mit	O
+is	O
+mondtál	O
+,	O
+hogy	O
+hívnak	O
+?	O
+
+Hol	O
+születtél	O
+?	O
+
+Azt	O
+kérdeztem	O
+,	O
+hol	O
+születtél	O
+.	O
+
+Rómában	B-GPE
+,	O
+a	O
+Piazza	B-FAC
+Risorgimentó-n	I-FAC
+.	O
+
+Ülj	O
+le	O
+!	O
+
+Idegesít	O
+,	O
+hogy	O
+folyton	O
+mászkálsz	O
+.	O
+
+Szép	O
+,	O
+ugye	O
+?	O
+
+Hát	O
+,	O
+ízlés	O
+dolga	O
+!	O
+
+Nem	O
+a	O
+zsánerem	O
+.	O
+
+Hogy	O
+mondod	O
+?	O
+
+Ez	O
+a	O
+zene	O
+nem	O
+a	O
+zsánerem	O
+,	O
+de	O
+szép	O
+.	O
+
+Beethoven	B-PER
+,	O
+az	O
+5.	B-WORK_OF_ART
+szimfónia	I-WORK_OF_ART
+.	O
+
+Én	O
+nagyon	O
+szeretem	O
+.	O
+
+Szabad	O
+.	O
+
+Elmehetsz	O
+.	O
+
+Kiszolgáljuk	O
+magunkat	O
+.	O
+
+És	O
+csukd	O
+be	O
+az	O
+ajtót	O
+!	O
+
+Na	O
+,	O
+nézzük	O
+,	O
+mit	O
+hozott	O
+nekünk	O
+!	O
+
+Kaviár	O
+,	O
+lazac	O
+...	O
+
+Hát	O
+,	O
+tessék	O
+,	O
+egyél	O
+!	O
+
+Én	O
+most	O
+nem	O
+vagyok	O
+éhes	O
+.	O
+
+Vegyél	O
+mindenből	O
+!	O
+
+Nem	O
+tudom	O
+,	O
+melyiket	O
+szereted	O
+.	O
+
+1949	B-DATE
+...	O
+
+1949	B-DATE
+...	O
+
+Vedd	O
+már	O
+le	O
+azt	O
+a	O
+vacakot	O
+!	O
+
+Meleg	O
+van	O
+itt	O
+!	O
+
+Nem	O
+érzed	O
+?	O
+
+Elszakadt	O
+.	O
+
+Nem	O
+baj	O
+!	O
+
+Te	O
+hol	O
+laksz	O
+?	O
+
+Mondd	O
+!	O
+
+Hát	O
+,	O
+egy	O
+benzinkút	O
+mellett	O
+.	O
+
+De	O
+hol	O
+?	O
+
+Ostia	B-GPE
+mellett	O
+a	O
+19.	B-ORDINAL
+kilométerkőnél	O
+.	O
+
+Onnan	O
+jársz	O
+a	O
+Via	B-FAC
+Venetó-ra	I-FAC
+?	O
+
+Nem	O
+gondolja	O
+,	O
+hogy	O
+mindig	O
+odajárok	O
+?	O
+
+A	O
+Bástya	B-LOC
+sétányra	I-LOC
+.	O
+
+Nekem	O
+ott	O
+sokkal	O
+jobban	O
+megfelel	O
+.	O
+
+A	O
+földalatti	O
+a	O
+végállomástól	O
+egyenest	O
+odavisz	O
+.	O
+
+Egy	O
+barátnőm	O
+is	O
+arra	O
+lakik	O
+.	O
+
+A	O
+neve	O
+Wanda	B-PER
+.	O
+
+Vele	O
+együtt	O
+járunk	O
+a	O
+Bástyára	B-LOC
+.	O
+
+De	O
+a	O
+többi	O
+lányhoz	O
+semmi	O
+közöm	O
+nincs	O
+.	O
+
+A	O
+legtöbbjük	O
+ott	O
+is	O
+lakik	O
+az	O
+árkádok	O
+alatt	O
+.	O
+
+De	O
+nekünk	O
+igazán	O
+jó	O
+!	O
+
+Fedél	O
+van	O
+a	O
+fejünk	O
+felett	O
+.	O
+
+Van	O
+gáz	O
+,	O
+villany	O
+,	O
+vízvezeték	O
+.	O
+
+Valósággal	O
+összkomfortos	O
+a	O
+lakásunk	O
+!	O
+
+Még	O
+vízmelegítőnk	O
+is	O
+van	O
+!	O
+
+Nézzen	O
+meg	O
+!	O
+
+Ahogy	O
+itt	O
+állok	O
+,	O
+úgy	O
+igaz	O
+,	O
+hogy	O
+szabad	O
+ég	O
+alatt	O
+még	O
+soha	O
+nem	O
+aludtam	O
+.	O
+
+Talán	O
+csak	O
+egyszer	O
+.	O
+
+Vagy	O
+kétszer	O
+.	O
+
+Bár	O
+igaz	O
+,	O
+hogy	O
+a	O
+lakásom	O
+...	O
+nem	O
+akkora	O
+,	O
+mint	O
+ez	O
+...	O
+de	O
+nekünk	O
+megfelel	O
+.	O
+
+Én	O
+szeretem	O
+.	O
+
+Egyél	O
+valamit	O
+!	O
+
+Most	O
+mit	O
+bámulsz	O
+?	O
+
+Azt	O
+hiszi	O
+,	O
+nem	O
+tudom	O
+,	O
+ki	O
+maga	O
+?	O
+
+Igenis	O
+,	O
+hogy	O
+tudom	O
+.	O
+
+Megmondhatom	O
+?	O
+
+Persze	O
+,	O
+persze	O
+!	O
+
+Azonnal	O
+felismertem	O
+.	O
+
+Minden	O
+filmjét	O
+láttam	O
+.	O
+
+Mindegyik	O
+tetszett	O
+!	O
+
+És	O
+melyik	O
+tetszett	O
+a	O
+legjobban	O
+?	O
+
+Mondjuk	O
+,	O
+a	O
+legutóbbi	O
+.	O
+
+Amelyikben	O
+olyan	O
+kosztümös	O
+szerepet	O
+játszik	O
+,	O
+aztán	O
+jön	O
+Vittorio	B-PER
+Scraman	I-PER
+...	O
+berobban	O
+az	O
+ajtón	O
+:	O
+,	O
+Állj	O
+,	O
+vagy	O
+lövök	O
+!	O
+
+A	O
+nő	O
+pedig	O
+magát	O
+választja	O
+.	O
+
+Tévedsz	O
+.	O
+
+Abban	O
+a	O
+filmben	O
+nem	O
+játszottam	O
+.	O
+
+Maga	O
+még	O
+szebb	O
+,	O
+mint	O
+a	O
+lakása	O
+.	O
+
+Na	O
+,	O
+hozd	O
+a	O
+poharakat	O
+,	O
+és	O
+gyere	O
+ide	O
+!	O
+
+Ez	O
+pezsgő	O
+!	O
+
+Koccintsunk	O
+!	O
+
+Ki	O
+hiszi	O
+ezt	O
+el	O
+nekem	O
+,	O
+ha	O
+elmesélem	O
+?	O
+
+Azt	O
+mondják	O
+majd	O
+,	O
+hogy	O
+hazudok	O
+.	O
+
+Mert	O
+a	O
+lányok	O
+olyanok	O
+ám	O
+...	O
+!	O
+
+Különben	O
+holnap	O
+már	O
+magam	O
+sem	O
+fogom	O
+elhinni	O
+.	O
+
+Tegyen	O
+meg	O
+nekem	O
+valamit	O
+!	O
+
+Adjon	O
+egy	O
+fényképet	O
+,	O
+és	O
+írja	O
+rá	O
+:	O
+,	O
+Cabiria	B-PER
+itt	O
+volt	O
+nálam	O
+,	O
+Alberto	B-PER
+Lazzari	I-PER
+.	O
+
+,	O
+Cabiria	B-PER
+Ceccarelli	I-PER
+itt	O
+volt	O
+nálam	O
+,	O
+aláírás	O
+.	O
+
+Pontosan	O
+ezt	O
+írja	O
+!	O
+
+Jó	O
+,	O
+rendben	O
+!	O
+
+Most	O
+már	O
+ehetek	O
+?	O
+
+És	O
+maga	O
+is	O
+eszik	O
+.	O
+
+Olajbogyó	O
+!	O
+
+És	O
+ez	O
+itt	O
+?	O
+
+Sült	O
+tyúk	O
+.	O
+
+Ha	O
+megeszi	O
+ennek	O
+a	O
+mellét	O
+,	O
+rögtön	O
+elfelejti	O
+minden	O
+bánatát	O
+.	O
+
+Hol	O
+egy	O
+tányér	O
+?	O
+
+Itt	O
+vannak	O
+.	O
+
+Ha	O
+akarja	O
+hallgatni	O
+ezt	O
+a	O
+zenét	O
+,	O
+most	O
+már	O
+én	O
+is	O
+értem	O
+,	O
+hogy	O
+szép	O
+.	O
+
+Nekem	O
+is	O
+tetszik	O
+.	O
+
+Hú	O
+!	O
+
+Hát	O
+ez	O
+meg	O
+mi	O
+?	O
+
+Egyszer	O
+láttam	O
+már	O
+egy	O
+filmben	O
+.	O
+
+Művész	O
+úr	O
+!	O
+
+Mi	O
+történt	O
+,	O
+Davide	B-PER
+?	O
+
+Jessie	B-PER
+kisasszony	O
+keresi	O
+.	O
+
+Nem	O
+mondtad	O
+neki	O
+,	O
+hogy	O
+alszom	O
+?	O
+
+De	O
+itt	O
+van	O
+!	O
+
+Itt	O
+van	O
+a	O
+házban	O
+.	O
+
+Akadályozd	O
+meg	O
+,	O
+hogy	O
+feljöjjön	O
+!	O
+
+Már	O
+felment	O
+.	O
+
+Azonnal	O
+ott	O
+lesz	O
+.	O
+
+Idióta	O
+!	O
+
+Alberto	B-PER
+,	O
+engedj	O
+be	O
+!	O
+
+Ne	O
+hülyéskedj	O
+!	O
+
+Nyisd	O
+ki	O
+!	O
+
+Engedj	O
+be	O
+!	O
+
+Beszélnem	O
+kell	O
+veled	O
+.	O
+
+A	O
+fénykép	O
+!	O
+
+A	O
+,	O
+igen	O
+!	O
+
+Igyekezz	O
+!	O
+
+Alberto	B-PER
+,	O
+mit	O
+csinálsz	O
+?	O
+
+Engedj	O
+már	O
+be	O
+!	O
+
+Ez	O
+a	O
+fürdőszoba	O
+.	O
+
+Menj	O
+be	O
+ide	O
+!	O
+
+Maradj	O
+itt	O
+egy	O
+percig	O
+,	O
+amíg	O
+lerázom	O
+!	O
+
+Ha	O
+nem	O
+engedsz	O
+be	O
+,	O
+akkor	O
+sem	O
+megyek	O
+el	O
+.	O
+
+Maradj	O
+csendben	O
+!	O
+
+Rögtön	O
+elküldöm	O
+.	O
+
+Itt	O
+maradok	O
+egész	O
+éjszaka	O
+az	O
+ajtó	O
+előtt	O
+.	O
+
+Alberto	B-PER
+,	O
+drágám	O
+!	O
+
+Kérlek	O
+,	O
+nyisd	O
+már	O
+ki	O
+az	O
+ajtót	O
+!	O
+
+Azonnal	O
+nyisd	O
+ki	O
+!	O
+
+Szíveskedj	O
+közölni	O
+,	O
+hogy	O
+mit	O
+akarsz	O
+!	O
+
+Fáradt	O
+vagyok	O
+,	O
+hajnalban	O
+jönnek	O
+értem	O
+a	O
+filmgyárból	O
+.	O
+
+Dolgozom	O
+,	O
+ha	O
+nem	O
+tudnád	O
+.	O
+
+Adj	O
+inni	O
+!	O
+
+Szomjas	O
+vagyok	O
+.	O
+
+Most	O
+mit	O
+sírsz	O
+?	O
+
+Belehalok	O
+!	O
+
+Nem	O
+bírom	O
+tovább	O
+.	O
+
+Én	O
+se	O
+!	O
+
+Képzeld	O
+,	O
+nem	O
+bírom	O
+tovább	O
+!	O
+
+Így	O
+van	O
+!	O
+
+A	O
+féltékenységed	O
+már	O
+beteges	O
+,	O
+elviselhetetlen	O
+.	O
+
+Fáradt	O
+vagyok	O
+,	O
+elgyötört	O
+.	O
+
+Nem	O
+bírom	O
+így	O
+tovább	O
+.	O
+
+Fejezzük	O
+be	O
+!	O
+
+Szakítsunk	O
+,	O
+harag	O
+nélkül	O
+!	O
+
+Váljunk	O
+el	O
+barátságban	O
+!	O
+
+Én	O
+nem	O
+tudok	O
+veled	O
+szakítani	O
+.	O
+
+Belehalok	O
+.	O
+
+Ne	O
+sírj	O
+!	O
+
+Nyugodj	O
+meg	O
+!	O
+

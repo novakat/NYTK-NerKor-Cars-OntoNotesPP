@@ -1,0 +1,1278 @@
+# global.columns = FORM ONPP:NER
+Imádkozz	O
+Isten	B-PER
+kegyelméért	O
+!	O
+
+Fohászkodj	O
+Szent	B-PER
+Antalhoz	I-PER
+!	O
+
+És	O
+ha	O
+szükséged	O
+lesz	O
+rám	O
+,	O
+a	O
+nevem	O
+János	B-PER
+barát	O
+.	O
+
+A	O
+Szent	B-LOC
+Antal	I-LOC
+kolostorban	I-LOC
+megtalálsz	O
+.	O
+
+Igaz	O
+,	O
+hogy	O
+sokat	O
+vagyok	O
+úton	O
+,	O
+de	O
+azért	O
+keress	O
+fel	O
+egyszer	O
+!	O
+
+Isten	B-PER
+megáldjon	O
+!	O
+
+Hé	O
+,	O
+te	O
+kis	O
+szőke	O
+!	O
+
+Jössz	O
+kocsikázni	O
+?	O
+
+Gebedj	O
+meg	O
+!	O
+
+Holnap	O
+?	O
+
+Nem	O
+,	O
+holnap	O
+nem	O
+érek	O
+rá	O
+.	O
+
+Akkor	O
+csak	O
+holnapután	O
+láthatom	O
+.	O
+
+Holnapután	B-EVENT
+sem	O
+érek	O
+rá	O
+.	O
+
+Hát	O
+miért	O
+nem	O
+?	O
+
+Már	O
+régen	O
+meg	O
+akartam	O
+mondani	O
+magának	O
+...	O
+jobb	O
+,	O
+ha	O
+mi	O
+nem	O
+találkozunk	O
+többet	O
+.	O
+
+Mindig	O
+jó	O
+volt	O
+nekem	O
+magával	O
+,	O
+igazán	O
+.	O
+
+De	O
+ennek	O
+nincs	O
+értelme	O
+!	O
+
+Mit	O
+keresek	O
+én	O
+maga	O
+mellett	O
+?	O
+
+Csak	O
+vesztegetjük	O
+az	O
+időnket	O
+mind	O
+a	O
+ketten	O
+.	O
+
+De	O
+hát	O
+minek	O
+?	O
+
+Akar	O
+maga	O
+valamit	O
+tőlem	O
+?	O
+
+Ha	O
+te	O
+akarod	O
+...	O
+elveszlek	O
+.	O
+
+Én	O
+már	O
+régen	O
+meg	O
+akartam	O
+mondani	O
+.	O
+
+Csak	O
+valahogy	O
+nem	O
+mertem	O
+.	O
+
+De	O
+ezt	O
+akartam	O
+...	O
+amióta	O
+először	O
+megláttalak	O
+.	O
+
+Mit	O
+beszél	O
+?	O
+
+Engem	O
+vesz	O
+feleségül	O
+?	O
+
+Nem	O
+is	O
+ismer	O
+.	O
+
+Legfeljebb	O
+tízszer	B-CARDINAL
+ha	O
+találkoztunk	O
+.	O
+
+Ez	O
+rossz	O
+tréfa	O
+,	O
+hallja	O
+?	O
+
+Hülye	O
+tréfa	O
+!	O
+
+Szerencséje	O
+,	O
+hogy	O
+én	O
+becsületesebb	O
+vagyok	O
+,	O
+mint	O
+mások	O
+.	O
+
+De	O
+velem	O
+se	O
+szórakozzék	O
+!	O
+
+Ezt	O
+hagyja	O
+abba	O
+!	O
+
+Mit	O
+tud	O
+rólam	O
+maga	O
+?	O
+
+Tudja	O
+,	O
+hogy	O
+ki	O
+vagyok	O
+?	O
+
+Hát	O
+láttak	O
+már	O
+ilyen	O
+ostobát	O
+?	O
+
+Hanem	O
+azért	O
+gúnyolódnia	O
+nem	O
+kellene	O
+!	O
+
+És	O
+éppen	O
+velem	O
+akar	O
+itt	O
+szórakozni	O
+?	O
+
+Na	O
+hiszen	O
+!	O
+
+Én	O
+semmit	O
+nem	O
+kérdeztem	O
+.	O
+
+Ne	O
+beszéljünk	O
+a	O
+múltról	O
+!	O
+
+Nem	O
+számít	O
+semmit	O
+.	O
+
+Nincsenek	O
+előítéleteim	O
+.	O
+
+Az	O
+a	O
+fontos	O
+...	O
+hogy	O
+megtaláltalak	O
+.	O
+
+Ismerem	O
+a	O
+tiszta	O
+lelkedet	O
+.	O
+
+Mi	O
+ketten	O
+magányosak	O
+vagyunk	O
+.	O
+
+Talán	O
+ezért	O
+kellene	O
+együtt	O
+lennünk	O
+.	O
+
+Szükségem	O
+van	O
+rád	O
+.	O
+
+Ne	O
+beszéljen	O
+így	O
+,	O
+kérem	O
+!	O
+
+Ne	O
+mondja	O
+ezt	O
+nekem	O
+,	O
+hisz	O
+úgyse	O
+igaz	O
+!	O
+
+De	O
+igaz	O
+!	O
+
+Mi	O
+az	O
+,	O
+te	O
+bolondos	O
+?	O
+
+Elvesz	O
+feleségül	O
+.	O
+
+Megkérte	O
+a	O
+kezemet	O
+.	O
+
+Veszünk	O
+egy	O
+üzletet	O
+bent	O
+a	O
+városban	O
+.	O
+
+Ott	O
+,	O
+arra	O
+.	O
+
+Már	O
+tárgyalt	O
+is	O
+a	O
+tulajdonossal	O
+.	O
+
+Én	O
+az	O
+egészből	O
+nem	O
+tudtam	O
+semmit	O
+.	O
+
+Mindent	O
+elintézett	O
+,	O
+házat	O
+is	O
+,	O
+az	O
+üzletet	O
+!	O
+
+Itt	O
+eladok	O
+mindent	O
+.	O
+
+Mindent	O
+eladok	O
+.	O
+
+A	O
+házat	O
+is	O
+.	O
+
+Csak	O
+két	B-DATE
+hét	I-DATE
+,	O
+aztán	O
+jöhetsz	O
+az	O
+esküvőmre	O
+.	O
+
+Wanda	B-PER
+,	O
+elmegyek	O
+innen	O
+!	O
+
+És	O
+ő	O
+tudja	O
+,	O
+hogy	O
+te	O
+...	O
+?	O
+
+Tudja	O
+bizony	O
+!	O
+
+Én	O
+mindent	O
+elmondtam	O
+neki	O
+.	O
+
+Á	O
+,	O
+nekem	O
+nincs	O
+titkom	O
+előtte	O
+!	O
+
+De	O
+ő	O
+egy	O
+angyal	O
+!	O
+
+Csodálatos	O
+ember	O
+!	O
+
+Azt	O
+mondta	O
+,	O
+nem	O
+érdekli	O
+semmi	O
+.	O
+
+Semmit	O
+nem	O
+akar	O
+hallani	O
+.	O
+
+Azt	O
+mondta	O
+,	O
+hogy	O
+szeret	O
+!	O
+
+Engem	O
+szeret	O
+.	O
+
+Azt	O
+mondta	O
+,	O
+szeret	O
+.	O
+
+Mindörökké	O
+,	O
+leányom	O
+!	O
+
+János	B-PER
+baráthoz	O
+jöttem	O
+.	O
+
+Még	O
+nem	O
+jött	O
+haza	O
+.	O
+
+Mit	O
+kívánsz	O
+János	B-PER
+baráttól	O
+?	O
+
+Szeretném	O
+,	O
+ha	O
+meggyóntatna	O
+.	O
+
+A	O
+templomban	O
+bármikor	O
+gyónhatsz	O
+.	O
+
+Én	O
+most	O
+János	B-PER
+barátnál	O
+akartam	O
+gyónni	O
+.	O
+
+János	B-PER
+barát	O
+nem	O
+is	O
+gyóntathat	O
+.	O
+
+Ő	O
+kolduló	O
+barát	O
+.	O
+
+Tudom	O
+,	O
+atyám	O
+,	O
+de	O
+...	O
+én	O
+mégis	O
+inkább	O
+nála	O
+gyónnék	O
+.	O
+
+Hát	O
+csak	O
+várd	O
+meg	O
+!	O
+
+Hát	O
+ezt	O
+meg	O
+minek	O
+tetted	O
+a	O
+táskámba	O
+?	O
+
+Aztán	O
+hol	O
+tartod	O
+majd	O
+a	O
+cukorkát	O
+?	O
+
+Elvigyem	O
+a	O
+baglyot	O
+?	O
+
+Á	O
+,	O
+az	O
+nem	O
+hoz	O
+szerencsét	O
+!	O
+
+De	O
+a	O
+kagylót	O
+viszem	O
+.	O
+
+Olyan	O
+szépen	O
+zúg	O
+!	O
+
+Tedd	O
+a	O
+táskámba	O
+!	O
+
+Remélem	O
+,	O
+még	O
+elfér	O
+!	O
+
+Ó	O
+,	O
+de	O
+mennyire	O
+,	O
+hogy	O
+elfér	O
+!	O
+
+Ezt	O
+meg	O
+eladtam	O
+.	O
+
+Délután	O
+majd	O
+jönnek	O
+érte	O
+.	O
+
+Cabiria	B-PER
+,	O
+te	O
+bolond	O
+vagy	O
+!	O
+
+Mindent	O
+eladtál	O
+?	O
+
+Egy	O
+szál	O
+ingben	O
+mész	O
+férjhez	O
+?	O
+
+Tessék	O
+,	O
+itt	O
+a	O
+teás	O
+készlet	O
+!	O
+
+Eladtam	O
+.	O
+
+Tedd	O
+a	O
+helyére	O
+!	O
+
+Ezt	O
+is	O
+eladtad	O
+?	O
+
+Nem	O
+értem	O
+,	O
+mit	O
+sopánkodsz	O
+!	O
+
+Jó	O
+pénzt	O
+kaptam	O
+érte	O
+.	O
+
+Ha	O
+mindent	O
+magammal	O
+vinnék	O
+,	O
+a	O
+költözködés	O
+egy	O
+vagyonba	O
+kerülne	O
+.	O
+
+Ő	O
+is	O
+eladott	O
+mindent	O
+,	O
+amije	O
+volt	O
+.	O
+
+Én	O
+meg	O
+eladtam	O
+mindent	O
+itt	O
+.	O
+
+Új	O
+életet	O
+kezdünk	O
+.	O
+
+Megvesszük	O
+,	O
+ami	O
+kell	O
+.	O
+
+Hát	O
+,	O
+én	O
+a	O
+saját	O
+holmimat	O
+megtartottam	O
+volna	O
+.	O
+
+Mindent	O
+eltettél	O
+?	O
+
+Mindent	O
+,	O
+ami	O
+maradt	O
+.	O
+
+Ne	O
+felejtsd	O
+itt	O
+a	O
+pénzt	O
+!	O
+
+Hülye	O
+vagyok	O
+,	O
+hogy	O
+épp	O
+azt	O
+hagyjam	O
+itt	O
+?	O
+
+A	O
+bundáról	O
+mégis	O
+elfelejtkeztél	O
+.	O
+
+Bundáról	O
+?	O
+
+Miféle	O
+bundáról	O
+?	O
+
+Hagyd	O
+ott	O
+,	O
+azt	O
+nem	O
+viszem	O
+el	O
+!	O
+
+A	O
+nénikémnek	O
+adhatom	O
+?	O
+
+Bánom	O
+is	O
+én	O
+,	O
+csak	O
+siess	O
+már	O
+!	O
+
+Itt	O
+vannak	O
+az	O
+új	O
+lakók	O
+.	O
+
+A	O
+fene	O
+egye	O
+meg	O
+,	O
+de	O
+sürgős	O
+nekik	O
+!	O
+
+Becsukod	O
+a	O
+bőröndömet	O
+?	O
+
+A	O
+mama	O
+!	O
+
+Szegényke	O
+!	O
+
+Ha	O
+ezt	O
+megérhette	O
+volna	O
+!	O
+
+Büszke	O
+lenne	O
+!	O
+
+Hogy	O
+áll	O
+?	O
+
+Remekül	O
+!	O
+
+Szép	O
+vagy	O
+.	O
+
+2	B-MONEY
+ezer	I-MONEY
+líra	I-MONEY
+volt	O
+!	O
+
+Akkor	O
+becsaptak	O
+.	O
+
+Olcsóbban	O
+is	O
+megkaphattad	O
+volna	O
+.	O
+
+Ó	O
+,	O
+a	O
+táskám	O
+!	O
+
+Csaó	O
+,	O
+Rómeó	B-PER
+!	O
+
+Na	O
+,	O
+menjünk	O
+!	O
+
+Gyere	O
+már	O
+!	O
+
+Láttad	O
+őket	O
+?	O
+
+Betelepszenek	O
+ide	O
+ezek	O
+a	O
+koldusok	O
+.	O
+
+Most	O
+már	O
+mindegy	O
+!	O
+
+Tessék	O
+,	O
+itt	O
+vannak	O
+a	O
+kulcsok	O
+!	O
+
+Én	O
+most	O
+elmegyek	O
+.	O
+
+Ha	O
+bármire	O
+szüksége	O
+lenne	O
+,	O
+asszonyom	O
+,	O
+szóljon	O
+a	O
+barátnőmnek	O
+,	O
+Wandának	B-PER
+!	O
+
+Ő	O
+tudja	O
+a	O
+címemet	O
+!	O
+
+Jó	O
+utat	O
+,	O
+és	O
+sok	O
+szerencsét	O
+!	O
+
+Maguknak	O
+is	O
+!	O
+
+Nem	O
+hallja	O
+!	O
+
+Nem	O
+is	O
+akarok	O
+búcsúzkodni	O
+.	O
+
+Jobb	O
+is	O
+,	O
+ha	O
+nem	O
+látnak	O
+itt	O
+.	O
+
+Tudod	O
+,	O
+olyan	O
+boldog	O
+vagyok	O
+!	O
+
+Hát	O
+minek	O
+irigyeljenek	O
+szegények	O
+?	O
+
+Igazam	O
+van	O
+?	O
+
+Úgyis	O
+tudják	O
+már	O
+!	O
+
+Hé	O
+,	O
+Luciana	B-PER
+!	O
+
+Isten	O
+veled	O
+!	O
+
+Én	O
+elmegyek	O
+innen	O
+!	O
+
+Sok	O
+sikert	O
+!	O
+
+Aztán	O
+írjál	O
+néha	O
+!	O
+
+Jó	O
+,	O
+majd	O
+küldök	O
+képeslapot	O
+!	O
+
+Csáó	O
+!	O
+
+Mondd	O
+meg	O
+Rosie-nak	B-PER
+,	O
+hogy	O
+üdvözlöm	O
+!	O
+
+Meg	O
+mindenkit	O
+üdvözlök	O
+.	O
+
+Te	O
+most	O
+férjhez	O
+mégy	O
+...	O
+és	O
+be	O
+sem	O
+mutattad	O
+nekem	O
+a	O
+vőlegényedet	O
+.	O
+
+Hát	O
+,	O
+nem	O
+hozhattam	O
+ide	O
+,	O
+ahol	O
+mindenki	O
+ismer	O
+.	O
+
+Nézz	O
+oda	O
+!	O
+
+Itt	O
+a	O
+busz	O
+!	O
+
+Csaó	O
+,	O
+Wanda	B-PER
+!	O
+
+Most	O
+miért	O
+sírsz	O
+?	O
+
+Nem	O
+is	O
+sírok	O
+!	O
+
+Dehogynem	O
+sírsz	O
+!	O
+
+Mondtam	O
+,	O
+hogy	O
+majd	O
+írok	O
+.	O
+
+Amint	O
+odaérek	O
+,	O
+megírom	O
+a	O
+címemet	O
+.	O
+
+Meglátod	O
+,	O
+te	O
+is	O
+férjhez	O
+mész	O
+.	O
+
+Siessünk	O
+,	O
+hozd	O
+a	O
+koffert	O
+!	O
+
+Megírom	O
+a	O
+címemet	O
+azonnal	O
+.	O
+
+És	O
+vigyázz	O
+magadra	O
+!	O
+
+Meglátod	O
+...	O
+veled	O
+is	O
+történik	O
+ilyen	O
+csoda	O
+,	O
+mint	O
+velem	O
+.	O
+
+Bár	O
+történne	O
+!	O
+
+Úgy	O
+lesz	O
+!	O
+
+Én	O
+akarok	O
+fizetni	O
+.	O
+
+Ó	O
+,	O
+dehogy	O
+!	O
+
+Mindig	O
+te	O
+fizetsz	O
+,	O
+én	O
+soha	O
+!	O
+
+Különben	O
+is	O
+!	O
+
+Most	O
+már	O
+,	O
+ami	O
+az	O
+enyém	O
+,	O
+az	O
+a	O
+tied	O
+.	O
+
+Csak	O
+közös	O
+pénzünk	O
+van	O
+.	O
+
+Ugye	O
+,	O
+drágám	O
+?	O
+
+Már	O
+alkonyodik	O
+.	O
+
+Meglátod	O
+,	O
+milyen	O
+szép	O
+a	O
+naplemente	O
+itt	O
+.	O
+
+Látom	O
+,	O
+hogy	O
+le	O
+akarsz	O
+itatni	O
+.	O
+
+Á	O
+,	O
+ez	O
+nagyon	O
+könnyű	O
+bor	O
+!	O
+
+A	O
+pénzt	O
+!	O
+
+Tedd	O
+el	O
+!	O
+
+A	O
+hozományom	O
+.	O
+
+350	B-MONEY
+ezer	I-MONEY
+a	O
+házért	O
+.	O
+
+Azok	O
+a	O
+gazemberek	O
+nem	O
+akartak	O
+többet	O
+adni	O
+.	O
+
+Látták	O
+,	O
+hogy	O
+nekem	O
+sürgős	O
+,	O
+nincs	O
+időm	O
+alkudozni	O
+.	O
+
+A	O
+többi	O
+a	O
+bankban	O
+volt	O
+.	O
+
+Kivettem	O
+minden	O
+pénzemet	O
+.	O
+

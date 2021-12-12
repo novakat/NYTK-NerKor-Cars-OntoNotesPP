@@ -1,0 +1,1198 @@
+# global.columns = FORM ONPP:NER
+Ez	O
+a	O
+lány	O
+nem	O
+olyan	O
+.	O
+
+Segíteni	O
+próbál	O
+.	O
+
+Miért	O
+fontos	O
+az	O
+neki	O
+?	O
+
+Szívesebben	O
+nem	O
+válaszolok	O
+.	O
+
+Megbotránkozna	O
+vagy	O
+meglepődne	O
+.	O
+
+Befutottunk	O
+!	O
+
+Beindult	O
+a	O
+gépezet	O
+!	O
+
+Olaj	O
+,	O
+szivar	O
+,	O
+tea	O
+!	O
+
+Azt	O
+csinál	O
+velük	O
+,	O
+amit	O
+akar	O
+!	O
+
+N	O
+...	O
+nem	O
+értem	O
+.	O
+
+Senki	O
+sem	O
+érti	O
+.	O
+
+Szenzáció	O
+lett	O
+!	O
+
+Bombasiker	O
+,	O
+mindenki	O
+erről	O
+beszél	O
+.	O
+
+Mint	O
+miről	O
+?	O
+
+A	O
+felvételről	O
+.	O
+
+Mindenki	O
+mulat	O
+.	O
+
+Szándékosnak	O
+képzelik	O
+.	O
+
+A	O
+szponzor	O
+minden	B-DATE
+idők	I-DATE
+legeredetibb	O
+ötletének	O
+tartja	O
+.	O
+
+Minden	O
+adó	O
+ismét	O
+közvetíti	O
+.	O
+
+Vetíti	O
+?	O
+
+Ez	O
+újabb	O
+húszezer	B-MONEY
+dollárt	I-MONEY
+jelent	O
+.	O
+
+Nagyon	O
+izgalmas	O
+,	O
+de	O
+egy	O
+szót	O
+se	O
+értek	O
+.	O
+
+Mi	O
+nincs	O
+rendben	O
+?	O
+
+Hormonreklámhoz	O
+fiatalosnak	O
+kell	O
+kinézni	O
+.	O
+
+Hirdessünk	O
+inkább	O
+mást	O
+.	O
+
+Ez	O
+egy	O
+fontos	O
+szerződés	O
+.	O
+
+Egy	O
+mosolyt	O
+!	O
+
+Ne	O
+így	O
+!	O
+
+Föl	O
+az	O
+állat	O
+.	O
+
+Petyhüdt	O
+és	O
+lottyadt	O
+.	O
+
+Jót	O
+tenne	O
+egy	O
+kis	O
+plasztikai	O
+sebészet	O
+.	O
+
+Eltüntetné	O
+ezt	O
+a	O
+lagymatagságot	O
+.	O
+
+A	O
+táskákat	O
+is	O
+.	O
+
+Táskákat	O
+?	O
+
+A	O
+petyhü	O
+...	O
+
+A	O
+szem	O
+alatt	O
+.	O
+
+Te	O
+már	O
+nem	O
+szeretsz	O
+?	O
+
+Még	O
+ilyet	O
+!	O
+
+Egy	O
+kis	O
+lifting	O
+és	O
+fiatalos	O
+az	O
+arc	O
+.	O
+
+Például	O
+ezt	O
+hátrahúzzák	O
+a	O
+fül	O
+mögé	O
+,	O
+és	O
+máris	O
+eltűnt	O
+.	O
+
+Az	O
+orr	O
+ugyanígy	O
+.	O
+
+Ne	O
+tüntessék	O
+el	O
+az	O
+orromat	O
+.	O
+
+Csacsi	O
+,	O
+csak	O
+megszépítik	O
+.	O
+
+Picit	O
+följebb	O
+emelik	O
+.	O
+
+Az	O
+orromat	O
+?	O
+
+Meg	O
+fogsz	O
+lepődni	O
+,	O
+milyen	O
+fiatal	O
+leszel	O
+.	O
+
+Így	O
+valahogy	O
+.	O
+
+Ostobaság	O
+!	O
+
+Ne	O
+légy	O
+gyámoltalan	O
+.	O
+
+Húzd	O
+hátra	O
+!	O
+
+Jó	O
+erősen	O
+.	O
+
+Milyen	O
+fiatalos	O
+!	O
+
+Igen	O
+,	O
+de	O
+megfulladok	O
+.	O
+
+Micsoda	O
+különbség	O
+!	O
+
+Persze	O
+ez	O
+kiemeli	O
+a	O
+tokát	O
+.	O
+
+Sebaj	O
+,	O
+paraffinnal	O
+helyrepofozzák	O
+.	O
+
+Rettenetes	O
+.	O
+
+Ha	O
+paraffiniszonyod	O
+van	O
+,	O
+bőrátültetéssel	O
+is	O
+meg	O
+lehet	O
+oldani	O
+.	O
+
+Hagyjuk	O
+a	O
+témát	O
+.	O
+
+A	O
+televízióban	O
+vonzó	O
+kinézetre	O
+van	O
+szükség	O
+.	O
+
+Nem	O
+vagyok	O
+elég	O
+vonzó	O
+?	O
+
+De	O
+,	O
+kimondottan	O
+szép	O
+.	O
+
+Na	O
+,	O
+dolgunk	O
+van	O
+.	O
+
+Szép	O
+nagy	O
+mosolyt	O
+kérek	O
+.	O
+
+Azért	O
+ez	O
+már	O
+túlzás	O
+.	O
+
+Látszik	O
+a	O
+puha	O
+íny	O
+.	O
+
+Bár	O
+rögzíteni	O
+lehet	O
+.	O
+
+Szervátültetéssel	O
+?	O
+
+Szinte	O
+hihetetlen	O
+!	O
+
+Én	O
+lemondanék	O
+róla	O
+.	O
+
+Hűha	O
+,	O
+van	O
+egy	O
+ötletem	O
+!	O
+
+Hormonszedés	O
+előtt	O
+és	O
+után	O
+...	O
+
+Most	O
+lefotózzuk	O
+,	O
+ami	O
+petyhüdt	O
+,	O
+utána	O
+ugyanazt	O
+a	O
+lifting	O
+után	O
+.	O
+
+Ez	O
+becsszóra	O
+újabb	O
+százezret	B-CARDINAL
+hozhat	O
+!	O
+
+Meg	O
+kell	O
+gondolnom	O
+.	O
+
+Nem	O
+uram	O
+.	O
+
+Nyoma	O
+sincs	O
+az	O
+öltéseknek	O
+.	O
+
+Mint	O
+a	O
+borbélynál	O
+.	O
+
+Ma	B-DATE
+már	O
+mindenkinek	O
+megmutathatja	O
+.	O
+
+Először	O
+meglepő	O
+,	O
+de	O
+hozzá	O
+fog	O
+szokni	O
+Ehhez	O
+az	O
+archoz	O
+!	O
+
+Nem	O
+tetszik	O
+?	O
+
+Hova	O
+lett	O
+az	O
+orrom	O
+?	O
+
+Csak	O
+megemeltük	O
+egy	O
+kissé	O
+.	O
+
+Hát	O
+az	O
+ajkam	O
+!	O
+
+Egész	O
+csinos	O
+.	O
+
+Tetszik	O
+?	O
+
+Húsz	B-DATE
+évvel	I-DATE
+fiatalabb	O
+!	O
+
+Eleinte	O
+vigyázzon	O
+,	O
+ne	O
+erőltesse	O
+meg	O
+.	O
+
+Óvatos	O
+leszek	O
+.	O
+
+Amíg	O
+be	O
+nem	O
+heged	O
+teljesen	O
+.	O
+
+De	O
+a	O
+profilom	O
+!	O
+
+Mint	O
+egy	O
+kollégistáé	O
+!	O
+
+Én	O
+vagyok	O
+,	O
+Ann	B-PER
+.	O
+
+Jesszusom	O
+!	O
+
+Az	O
+arcod	O
+!	O
+
+Az	O
+ajkakat	O
+elszabták	O
+!	O
+
+Jól	O
+esik	O
+hallanom	O
+.	O
+
+De	O
+így	O
+nem	O
+mutatkozhatsz	O
+a	O
+TV-ben	O
+!	O
+
+Tudtam	O
+!	O
+
+Túl	O
+sokat	O
+kivágott	O
+az	O
+ajkamból	O
+!	O
+
+Ne	O
+aggódj	O
+,	O
+édes	O
+,	O
+visszavarrják	O
+.	O
+
+Szervátültetéssel	O
+,	O
+bőrátültetéssel	O
+?	O
+
+Visszahajtanak	O
+egy	O
+redőt	O
+.	O
+
+Mi	O
+az	O
+arcom	O
+?	O
+
+Szoknya	O
+?	O
+
+Mosolyogj	O
+.	O
+
+Nincs	O
+min	O
+.	O
+
+Nem	O
+szabad	O
+megfeszítenem	O
+.	O
+
+Nem	O
+kell	O
+rá	O
+gondolni	O
+.	O
+
+A	O
+ráncokat	O
+a	O
+fülem	O
+mögé	O
+dugták	O
+.	O
+
+Ne	O
+törődj	O
+vele	O
+!	O
+
+Nevess	O
+!	O
+
+Nevess	O
+természetesen	O
+,	O
+drágám	O
+.	O
+
+Azt	O
+csinálom	O
+.	O
+
+Ez	O
+egyáltalán	O
+nem	O
+természetes	O
+.	O
+
+Zavarba	O
+hozol	O
+.	O
+
+Nevess	O
+bátran	O
+,	O
+ne	O
+félj	O
+.	O
+
+De	O
+nincs	O
+sok	O
+nevetni	O
+való	O
+.	O
+
+Semmi	O
+nevetni	O
+való	O
+nincs	O
+.	O
+
+Jó	O
+estét	O
+,	O
+Kay	B-PER
+kisasszony	O
+.	O
+
+Nagy	O
+szamár	O
+az	O
+ember	O
+.	O
+
+Nekem	O
+kezd	O
+tetszeni	O
+.	O
+
+Kicsit	O
+meghökkentem	O
+.	O
+
+Látom	O
+,	O
+nem	O
+tetszik	O
+.	O
+
+Meg	O
+fogom	O
+szokni	O
+.	O
+
+Lehangoló	O
+dolog	O
+.	O
+
+Ne	O
+légy	O
+rosszkedvű	O
+,	O
+elmegyünk	O
+vacsorázni	O
+,	O
+jó	O
+?	O
+
+Nem	O
+segít	O
+semmi	O
+.	O
+
+Most	O
+hogy	O
+véget	O
+ért	O
+A	O
+románcnak	O
+vége	O
+A	O
+szenvedély	O
+eltűnt	O
+Mint	O
+a	O
+szél	O
+és	O
+az	O
+eső	O
+Az	O
+élvezet	O
+elveszett	O
+Bolondságunké	O
+De	O
+a	O
+szomorúság	O
+Folyton	O
+elér	O
+Mint	O
+egy	O
+régi	O
+módi	O
+dal	O
+mikor	O
+álmodom	O
+Nem	O
+ér	O
+össze	O
+a	O
+két	B-CARDINAL
+ajkam	O
+.	O
+
+Nem	O
+tudok	O
+szalmaszállal	O
+inni	O
+Ne	O
+aggódj	O
+,	O
+megszokod	O
+.	O
+
+Nem	O
+tudom	O
+kiejteni	O
+a	O
+P-t	O
+vagy	O
+az	O
+M-et	O
+.	O
+
+M	O
+...	O
+!	O
+
+Szörnyű	O
+!	O
+
+Olyan	O
+rosszkedvű	O
+vagyok	O
+.	O
+
+Ne	O
+gondolj	O
+folyton	O
+saját	O
+magadra	O
+.	O
+
+Két	B-CARDINAL
+remek	O
+színész	O
+jön	O
+.	O
+
+Rém	O
+mulatságosak	O
+.	O
+
+Nem	O
+kell	O
+semmi	O
+mulatságos	O
+ebben	O
+a	O
+hangulatomban	O
+.	O
+
+Jót	O
+fog	O
+tenni	O
+egy	O
+kis	O
+nevetés	O
+.	O
+
+A	O
+doktor	O
+szerint	O
+a	O
+nevetéstől	O
+elszakadhat	O
+valami	O
+.	O
+
+Kibomlottam	O
+!	O
+
+Lecsúszott	O
+minden	O
+.	O
+
+Hogyisne	O
+!	O
+
+Nem	O
+,	O
+uram	O
+,	O
+egy	O
+forradás	O
+se	O
+látszik	O
+.	O
+
+Visszanyertem	O
+az	O
+eredeti	O
+arcom	O
+.	O
+
+Az	O
+utolsó	O
+morzsáig	O
+uram	O
+!	O
+
+Semmi	O
+szerv	O
+vagy	O
+bőrátültetés	O
+?	O
+
+Még	O
+a	O
+szőrszálak	O
+is	O
+jók	O
+.	O
+
+Nos	O
+mit	O
+gondol	O
+?	O
+
+A	O
+másik	O
+arc	O
+jobban	O
+tetszett	O
+.	O
+
+Nekem	O
+nem	O
+.	O
+
+Fiatalosabb	O
+volt	O
+számomra	O
+.	O
+
+Mi	O
+a	O
+véleménye	O
+?	O
+
+Csinos	O
+.	O
+
+Tíz	B-DATE
+évet	I-DATE
+fiatalodott	O
+.	O
+
+A	O
+számlát	O
+küldje	O
+a	O
+szállóba	O
+.	O
+
+A	O
+kabátom	O
+.	O
+
+Az	O
+öltözőben	O
+van	O
+uram	O
+.	O
+
+Nini	O
+,	O
+Király	B-PER
+!	O
+
+Nem	O
+ismer	O
+meg	O
+?	O
+
+De	O
+,	O
+te	O
+vagy	O
+a	O
+világ	O
+legundokabb	O
+kölyke	O
+.	O
+
+Kár	O
+.	O
+
+Nekem	O
+nem	O
+kellemetlenek	O
+az	O
+emlékeim	O
+.	O
+
+Tán	O
+hajba	O
+kaptunk	O
+,	O
+de	O
+stimuláló	O
+beszélgetés	O
+volt	O
+.	O
+
+Mit	O
+művelsz	O
+itt	O
+ilyen	O
+időben	O
+?	O
+
+Nyaralok	O
+.	O
+
+Úgy	O
+is	O
+nézel	O
+ki	O
+.	O
+
+Mért	O
+nem	O
+vagy	O
+a	O
+suliban	O
+?	O
+
+Elvégeztem	O
+.	O
+
+Itt	O
+dideregsz	O
+elkékült	O
+szájjal	O
+,	O
+ázott	O
+ruhában	O
+?	O
+
+Ne	O
+aggódjék	O
+miattam	O
+.	O
+
+Rendben	O
+vagyok	O
+.	O
+
+Jobb	O
+ha	O
+bejössz	O
+most	O
+velem	O
+.	O
+
+Nem	O
+ad	O
+át	O
+a	O
+rendőrségnek	O
+?	O
+
+Dehogy	O
+adlak	O
+.	O
+
+Megígéri	O
+?	O
+
+Gyorsan	O
+,	O
+mielőtt	O
+megfagysz	O
+.	O
+
+Erre	O
+,	O
+fiacskám	O
+.	O
+
+A	O
+fő	O
+:	O
+levetni	O
+a	O
+nedveset	O
+,	O
+aztán	O
+egy	O
+forró	O
+fürdő	O
+.	O
+
+Mielőtt	O
+még	O
+elérne	O
+a	O
+kész	O
+tüdőgyulladás	O
+!	O
+
+Siess	O
+,	O
+erre	O
+gyere	O
+.	O
+
+Egyenesen	O
+.	O
+
+Itt	O
+a	O
+fürdőszoba	O
+.	O
+
+Ülj	O
+le	O
+és	O
+vetkőzz	O
+le	O
+.	O
+
+Éhes	O
+vagy	O
+?	O
+
+Jaume	B-PER
+,	O
+rendeljen	O
+levest	O
+és	O
+csirkés	O
+szendvicseket	O
+.	O
+
+Egynek	O
+?	O
+
+A	O
+szobapincért	O
+lesz	O
+szíves	O
+.	O
+
+Egy	O
+adag	O
+forró	O
+levest	O
+és	O
+csirkés	O
+szendvicset	O
+kérnénk	O
+.	O
+
+Felség	O
+,	O
+nem	O
+értem	O
+.	O
+
+Meséltem	O
+a	O
+kölyökről	O
+.	O
+
+Undok	O
+,	O
+pimasz	O
+,	O
+de	O
+zseniális	O
+.	O
+
+Még	O
+mindig	O
+nem	O
+értem	O
+,	O
+mire	O
+jó	O
+ez	O
+.	O
+
+Én	O
+sem	O
+,	O
+de	O
+majd	O
+kiderül	O
+.	O
+
+Elég	O
+a	O
+tétovázásból	O
+.	O
+
+Ha	O
+megfürödtél	O
+,	O
+bújj	O
+bele	O
+ezekbe	O
+.	O
+
+Remek	O
+lesz	O
+.	O
+
+Siess	O
+,	O
+bújj	O
+be	O
+a	O
+kádba	O
+.	O
+
+Na	O
+,	O
+átmelegedtél	O
+kicsit	O
+?	O
+
+Mint	O
+egy	O
+érett	O
+barack	O
+.	O
+
+Na	O
+,	O
+mondd	O
+meg	O
+az	O
+igazat	O
+.	O
+

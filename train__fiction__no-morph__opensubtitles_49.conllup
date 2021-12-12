@@ -1,0 +1,1767 @@
+# global.columns = FORM ONPP:NER
+Szörnyű	O
+látni	O
+,	O
+ahogy	O
+egy	O
+ilyen	O
+fiatal	O
+,	O
+ártatlan	O
+teremtés	O
+felőrlődik	O
+az	O
+egyház	O
+...	O
+
+és	O
+a	O
+törvény	O
+hatalmas	O
+erői	O
+között	O
+.	O
+
+Ártatlan	O
+?	O
+
+Teljesen	O
+ártatlan	O
+szegény	O
+,	O
+nem	O
+értett	O
+meg	O
+semmit	O
+abból	O
+,	O
+amit	O
+itt	O
+beszéltünk	O
+.	O
+
+Mindig	O
+az	O
+ártatlanok	O
+szenvednek	O
+.	O
+
+Figyelmet	O
+kérek	O
+!	O
+
+Testvérek	O
+,	O
+választottam	O
+egy	O
+bekezdést	O
+a	O
+korinthusiaknak	O
+írt	O
+levélből	O
+.	O
+
+12.	B-ORDINAL
+rész	O
+,	O
+26.	B-ORDINAL
+bekezdés	O
+.	O
+
+Keresztet	O
+kér	O
+a	O
+boszorkány	O
+.	O
+
+A	O
+pokolban	O
+majd	O
+hiába	O
+keresgéli	O
+.	O
+
+Megérdemelte	O
+a	O
+máglyát	O
+de	O
+ne	O
+legyünk	O
+irgalmatlanok	O
+.	O
+
+Én	O
+nem	O
+tudtam	O
+,	O
+hogy	O
+ilyen	O
+borzalmas	O
+!	O
+
+Isten	B-PER
+szent	O
+nevére	O
+...	O
+
+Könyörgöm	O
+,	O
+imádkozzék	O
+értem	O
+.	O
+
+Nyugodjék	O
+meg	O
+!	O
+
+Nem	O
+akartam	O
+vele	O
+rosszat	O
+.	O
+
+Nem	O
+tudtam	O
+,	O
+hogy	O
+ilyen	O
+lesz	O
+.	O
+
+Szóval	O
+végignézte	O
+.	O
+
+Nem	O
+tudtam	O
+,	O
+mit	O
+cselekszem	O
+.	O
+
+Indulatos	O
+bolond	O
+vagyok	O
+!	O
+
+És	O
+most	O
+örök	O
+kárhozatra	O
+jutok	O
+miatta	O
+.	O
+
+Nem	O
+tudok	O
+élni	O
+ezzel	O
+a	O
+kínnal	O
+.	O
+
+Nem	O
+tudok	O
+élni	O
+ezzel	O
+a	O
+kínnal	O
+Ugyan	O
+már	O
+,	O
+nem	O
+maga	O
+tette	O
+.	O
+
+De	O
+hagytam	O
+,	O
+hogy	O
+megtegyék	O
+.	O
+
+Szedje	O
+már	O
+össze	O
+magát	O
+.	O
+
+Ha	O
+nem	O
+bírja	O
+idegekkel	O
+az	O
+ilyen	O
+dolgokat	O
+minek	O
+megy	O
+oda	O
+.	O
+
+Kért	O
+egy	O
+keresztet	O
+.	O
+
+És	O
+egy	O
+katona	O
+adott	O
+neki	O
+két	B-CARDINAL
+összekötözött	O
+fadarabot	O
+.	O
+
+Szerencsére	O
+angol	B-LANGUAGE
+volt	O
+.	O
+
+Az	O
+esztelen	O
+!	O
+
+Őt	O
+is	O
+máglyára	O
+vetik	O
+,	O
+ha	O
+elcsípik	O
+a	O
+papok	O
+.	O
+
+Volt	O
+,	O
+aki	O
+nevetett	O
+rajta	O
+.	O
+
+Krisztust	B-PER
+is	O
+kinevették	O
+volna	O
+ezek	O
+.	O
+
+De	O
+franciák	B-NORP
+voltak	O
+,	O
+uram	O
+,	O
+tudom	O
+,	O
+hogy	O
+franciák	B-NORP
+.	O
+
+Stogumber	B-PER
+atya	O
+,	O
+térjen	O
+már	O
+magához	O
+.	O
+
+Franciák	B-NORP
+voltak	O
+.	O
+
+Többé	O
+nem	O
+kell	O
+aggódnia	O
+.	O
+
+Az	O
+Isten	B-PER
+szerelmére	O
+...	O
+
+Stogumber	B-PER
+atya	O
+!	O
+
+Ne	O
+legyen	O
+nevetséges	O
+!	O
+
+Mit	O
+akar	O
+,	O
+barátom	O
+?	O
+
+Nem	O
+vagyok	O
+a	O
+barátja	O
+,	O
+a	O
+hóhér	O
+vagyok	O
+.	O
+
+Bocsásson	O
+meg	O
+nekem	O
+.	O
+
+Azért	O
+jöttem	O
+,	O
+hogy	O
+jelentsem	O
+Lordságodnak	O
+,	O
+parancsát	O
+végrehajtottuk	O
+.	O
+
+Gondom	O
+lesz	O
+rá	O
+,	O
+hogy	O
+ne	O
+szenvedjen	O
+kárt	O
+,	O
+amiért	O
+nem	O
+maradt	O
+utána	O
+semmi	O
+eladható	O
+.	O
+
+Mert	O
+ugye	O
+így	O
+van	O
+?	O
+
+Semmi	O
+se	O
+maradt	O
+belőle	O
+?	O
+
+Se	O
+csont	O
+,	O
+se	O
+köröm	O
+,	O
+egy	O
+hajszál	O
+sem	O
+?	O
+
+A	O
+szíve	O
+nem	O
+égett	O
+meg	O
+,	O
+uram	O
+.	O
+
+De	O
+minden	O
+más	O
+,	O
+ami	O
+maradt	O
+,	O
+lent	O
+van	O
+már	O
+a	O
+víz	O
+fenekén	O
+.	O
+
+Nem	O
+hall	O
+többet	O
+róla	O
+.	O
+
+Nem	O
+hallok	O
+többé	O
+róla	O
+?	O
+
+Hm	O
+.	O
+
+Ki	O
+tudja	O
+?	O
+
+Könnyű	O
+a	O
+legyőzött	O
+ellenfelet	O
+utóbb	O
+szeretni	O
+.	O
+
+A	O
+blaszfémia	O
+egyfajta	O
+ima	O
+.	O
+
+De	O
+Ön	O
+,	O
+Ön	O
+soha	O
+nem	O
+volt	O
+istenkáromló	O
+.	O
+
+Isten	B-PER
+bocsássa	O
+meg	O
+nekem	O
+,	O
+hogy	O
+nem	O
+tudok	O
+olyanokat	O
+szeretni	O
+mint	O
+Ön	O
+.	O
+
+Az	O
+önök	O
+papjai	O
+legalább	O
+olyan	O
+bűnösök	O
+voltak	O
+mint	O
+én	O
+.	O
+
+Hibáztassa	O
+Monsignor	B-PER
+Cauchont	I-PER
+vagy	O
+Beauvais	B-GPE
+püspökét	O
+.	O
+
+Hagyja	O
+békén	O
+Cauchont	B-PER
+.	O
+
+Igazságosan	O
+kivizsgáltuk	O
+az	O
+ügyét	O
+.	O
+
+Hazugság	O
+!	O
+
+Peter	B-PER
+Cauchon	I-PER
+!	O
+
+Veled	O
+mi	O
+történt	O
+?	O
+élsz	O
+még	O
+vagy	O
+meghaltál	O
+?	O
+
+Meghaltam	O
+.	O
+
+Meggyaláztak	O
+.	O
+
+Még	O
+a	O
+sírban	O
+sem	O
+lehetett	O
+nyugtom	O
+.	O
+
+Kiközösítették	O
+a	O
+holttestemet	O
+.	O
+
+Kiásták	O
+és	O
+a	O
+szemétdombra	O
+dobták	O
+.	O
+
+Pedig	O
+Isten	B-PER
+a	O
+tanúm	O
+hogy	O
+igazságos	O
+voltam	O
+,	O
+hogy	O
+könyörületes	O
+voltam	O
+.	O
+
+Mindig	O
+ti	O
+jó	O
+emberek	O
+csináljátok	O
+a	O
+nagy	O
+galibákat	O
+.	O
+
+Nézz	O
+rám	O
+!	O
+
+Nem	O
+vagyok	O
+se	O
+Jó	B-PER
+Károly	I-PER
+,	O
+se	O
+Bölcs	B-PER
+Károly	I-PER
+,	O
+...se	O
+Merész	B-PER
+Károly	I-PER
+Johanna	B-PER
+hívei	O
+meg	O
+egyenest	O
+Gyáva	B-PER
+Károlynak	I-PER
+hívnak	O
+,	O
+...mert	O
+nem	O
+mentettem	O
+ki	O
+a	O
+tűzből	O
+.	O
+
+De	O
+mondd	O
+csak	O
+:	O
+Egy	O
+másik	O
+francia	B-NORP
+király	O
+jobban	O
+intézné	O
+az	O
+ügyeket	O
+?	O
+
+Te	O
+tényleg	O
+Franciaország	B-GPE
+királya	O
+vagy	O
+,	O
+Károly	B-PER
+?	O
+
+Kitakarodtak	O
+az	O
+angolok	B-NORP
+?	O
+
+Tartottam	O
+a	O
+szavamat	O
+.	O
+
+Kitakarodtak	O
+az	O
+angolok	B-NORP
+.	O
+
+Istennek	B-PER
+legyen	O
+hála	O
+!	O
+
+Meséld	O
+el	O
+,	O
+kedves	O
+,	O
+jó	O
+Jean	B-PER
+,	O
+hogy	O
+csatáztatok	O
+?	O
+
+Te	O
+vezetted	O
+őket	O
+?	O
+
+Isten	B-PER
+kapitánya	O
+voltál	O
+mindhalálig	O
+?	O
+
+Még	O
+nem	O
+haltam	O
+meg	O
+.	O
+
+A	O
+testem	O
+békésen	O
+alszik	O
+a	O
+váramban	O
+.	O
+
+Csak	O
+a	O
+szellemem	O
+van	O
+itt	O
+,	O
+mert	O
+megidézted	O
+.	O
+
+És	O
+az	O
+én	O
+módszeremmel	O
+verted	O
+ki	O
+őket	O
+,	O
+Dunois	B-PER
+?	O
+
+Életünket	O
+szegezve	O
+a	O
+halál	O
+ellen	O
+,	O
+csordultig	O
+telt	O
+és	O
+alázatos	O
+szívvel	O
+?	O
+
+Úgy	O
+harcoltunk	O
+,	O
+hogy	O
+győzzünk	O
+.	O
+
+De	O
+mindig	O
+a	O
+te	O
+módszereddel	O
+győztünk	O
+.	O
+
+Írtam	O
+egy	O
+szép	O
+levelet	O
+,	O
+hogy	O
+az	O
+új	O
+perben	O
+igazságot	O
+szolgáltassanak	O
+neked	O
+.	O
+
+Talán	O
+nem	O
+kellett	O
+volna	O
+hagynom	O
+,	O
+hogy	O
+megégessenek	O
+a	O
+papok	O
+.	O
+
+De	O
+abban	O
+az	O
+időben	O
+nagyon	O
+elfoglaltak	O
+a	O
+harcok	O
+.	O
+
+Különben	O
+sem	O
+rám	O
+tartozott	O
+a	O
+dolog	O
+,	O
+hanem	O
+az	O
+egyházra	O
+.	O
+
+Annak	O
+meg	O
+nem	O
+lett	O
+volna	O
+sok	O
+értelme	O
+,	O
+ha	O
+engem	O
+is	O
+megégetnek	O
+.	O
+
+Parancsoljanak	O
+velem	O
+,	O
+nemes	O
+hölgyek	O
+,	O
+urak	O
+.	O
+
+Te	O
+egy	O
+szent	O
+vagy	O
+?	O
+
+Igen	O
+,	O
+asszonyom	O
+.	O
+
+Egy	O
+szent	O
+,	O
+a	O
+pokolból	O
+.	O
+
+Szent	O
+a	O
+pokolból	O
+?	O
+
+Nekem	O
+jár	O
+egy	O
+szabad	O
+nap	O
+minden	O
+évben	O
+.	O
+
+Egy	O
+jócselekedért	O
+kaptam	O
+ezt	O
+.	O
+
+És	O
+egész	O
+életedben	O
+csak	O
+egy	O
+jócselekedetet	O
+követtél	O
+el	O
+?	O
+
+Nem	O
+szántszándékkal	O
+tettem	O
+,	O
+csak	O
+úgy	O
+jött	O
+magától	O
+.	O
+
+És	O
+mi	O
+volt	O
+az	O
+a	O
+jócselekedet	O
+?	O
+
+Olyan	O
+egy	O
+bolond	O
+eset	O
+volt	O
+az	O
+.	O
+
+Összekötöztél	O
+két	B-CARDINAL
+fadarabot	O
+és	O
+odaadtad	O
+egy	O
+fiatal	O
+lánynak	O
+,	O
+akit	O
+megégettek	O
+.	O
+
+Megismernéd	O
+azt	O
+a	O
+lányt	O
+,	O
+ha	O
+újra	O
+találkoznál	O
+vele	O
+?	O
+
+Nem	O
+én	O
+,	O
+olyan	O
+sok	O
+a	O
+lány	O
+.	O
+
+Miért	O
+várják	O
+el	O
+,	O
+hogy	O
+az	O
+ember	O
+emlékezzen	O
+rájuk	O
+?	O
+
+De	O
+ez	O
+a	O
+lány	O
+nagyon	O
+fontos	O
+lehetett	O
+,	O
+mert	O
+egy	O
+nap	O
+jár	O
+érte	O
+minden	O
+évben	O
+.	O
+
+Szóval	O
+szent	O
+vagyok	O
+,	O
+egészen	O
+éjfélig	O
+.	O
+
+És	O
+akkor	O
+mi	O
+lesz	O
+veled	O
+?	O
+
+Megyek	O
+vissza	O
+arra	O
+a	O
+nekem	O
+való	O
+helyre	O
+.	O
+
+Úgy	O
+látszik	O
+,	O
+a	O
+pokol	O
+a	O
+legjobb	O
+hely	O
+.	O
+
+A	O
+maga	O
+idejével	O
+.	O
+
+Ez	O
+mit	O
+jelent	O
+?	O
+
+Ott	O
+számomra	O
+nincs	O
+idő	O
+,	O
+és	O
+ez	O
+a	O
+legjobb	O
+,	O
+ami	O
+történhet	O
+velem	O
+.	O
+
+Tizenöt	B-DATE
+évet	I-DATE
+szolgáltam	O
+a	O
+francia	B-NORP
+háborúban	O
+.	O
+
+Néhányszor	O
+eljutottunk	O
+a	O
+teljes	O
+kétségbeesésig	O
+.	O
+
+És	O
+még	O
+nem	O
+is	O
+ez	O
+volt	O
+a	O
+legrosszabb	O
+háború	O
+,	O
+az	O
+angolok	B-NORP
+és	O
+a	O
+franciák	B-NORP
+között	O
+.	O
+
+Jött	O
+aztán	O
+még	O
+mindenféle	O
+háború	O
+...	O
+
+Svédek	B-NORP
+,	O
+lengyelek	B-NORP
+,	O
+oroszok	B-NORP
+és	O
+németek	B-NORP
+is	O
+.	O
+
+Az	O
+egy	O
+csúnya	O
+fejezet	O
+volt	O
+,	O
+amikor	O
+megszállták	O
+Párizst	B-GPE
+.	O
+
+Nem	O
+volt	O
+semmi	O
+új	O
+a	O
+pokolban	O
+,	O
+amit	O
+már	O
+meg	O
+ne	O
+tanultunk	O
+volna	O
+.	O
+
+Németek	O
+a	O
+mi	O
+királyságunkban	O
+?	O
+
+Köztársaságot	O
+akart	O
+mondani	O
+.	O
+
+Köztársaság	O
+?	O
+
+Ne	O
+aggódjon	O
+,	O
+jönnek	O
+,	O
+mennek	O
+.	O
+
+Az	O
+amerikaiak	B-NORP
+segítettek	O
+kipucolni	O
+őket	O
+.	O
+
+Milyen	O
+nyelven	O
+beszélnek	O
+ezek	O
+az	O
+amerikaiak	B-NORP
+?	O
+
+Nos	O
+,	O
+angolnak	B-LANGUAGE
+mondják	O
+.	O
+
+Lényeg	O
+,	O
+hogy	O
+egy	O
+hajóban	O
+evezünk	O
+.	O
+
+Ha	O
+ugyan	O
+hajónak	O
+lehet	O
+nevezni	O
+,	O
+amikor	O
+nincs	O
+is	O
+víz	O
+.	O
+
+Merő	O
+halandzsa	O
+beszéd	O
+ez	O
+.	O
+
+Te	O
+,	O
+aki	O
+mindig	O
+tudtad	O
+a	O
+választ	O
+,	O
+nem	O
+tudnál	O
+tenni	O
+valamit	O
+?	O
+
+Komolyan	O
+akarod	O
+,	O
+hogy	O
+megtegyem	O
+?	O
+
+De	O
+ezúttal	O
+semmi	O
+erőszak	O
+.	O
+
+Tudnál	O
+nekem	O
+segíteni	O
+,	O
+hogy	O
+megkoronázzanak	O
+megint	O
+?	O
+
+Köztársaság	O
+!	O
+
+Ne	O
+feledjétek	O
+,	O
+hogy	O
+szent	O
+vagyok	O
+,	O
+és	O
+a	O
+szentek	O
+csodát	O
+tehetnek	O
+.	O
+
+Mondjátok	O
+meg	O
+:	O
+de	O
+tiszta	O
+szívetekből	O
+akarjátok	O
+-e	O
+,	O
+hogy	O
+feltámadjak	O
+és	O
+visszajöjjek	O
+közétek	O
+,	O
+mint	O
+eleven	O
+lány	O
+?	O
+
+Róma	B-ORG-GPE
+még	O
+nem	O
+foglalkozott	O
+ezzel	O
+a	O
+lehetőséggel	O
+.	O
+
+És	O
+Róma	B-ORG-GPE
+szava	O
+a	O
+döntő	O
+.	O
+
+Maradj	O
+ahol	O
+vagy	O
+,	O
+gyermekem	O
+.	O
+
+Egy	O
+rég	O
+halott	O
+szent	O
+biztonságosabb	O
+az	O
+egyháznak	O
+mint	O
+egy	O
+élő	O
+.	O
+
+Bocsáss	O
+meg	O
+nekünk	O
+,	O
+Johanna	B-PER
+.	O
+
+Még	O
+nem	O
+vagyunk	O
+méltóak	O
+hozzád	O
+.	O
+
+Visszafekszem	O
+az	O
+ágyamba	O
+.	O
+
+Mindig	O
+háborgatsz	O
+.	O
+
+Már	O
+épp	O
+eleget	O
+álmodtam	O
+veled	O
+.	O
+
+És	O
+te	O
+,	O
+egyetlen	O
+hívem	O
+?	O
+
+Bocsánat	O
+,	O
+de	O
+hajnalodik	O
+nekem	O
+most	O
+mennem	O
+kell	O
+.	O
+
+Istenem	B-PER
+,	O
+Istenem	B-PER
+,	O
+aki	O
+a	O
+mindenséget	O
+megteremtetted	O
+ez	O
+a	O
+te	O
+szép	O
+földi	O
+világod	O
+mikor	O
+fogadja	O
+már	O
+be	O
+szentjeidet	O
+?	O
+
+Sokára	O
+,	O
+Uram	O
+,	O
+sokára	O
+?	O
+
+Ezek	O
+a	O
+dolgok	O
+,	O
+itt	O
+történnek	O
+,	O
+csaknem	O
+egyszerre	O
+...	O
+valakit	O
+elütnek	O
+...	O
+
+Az	O
+emberek	O
+rémülten	O
+figyelik	O
+a	O
+gyümölcs	O
+kosár	O
+felborul	O
+,	O
+...	O
+nevetnek	O
+.	O
+
+Ugyanazok	O
+az	O
+emberek	O
+az	O
+öröm	O
+és	O
+a	O
+szomorúság	O
+mindig	O
+mindenütt	O
+együtt	O
+jár	O
+.	O
+
+Mint	O
+a	O
+szerencse	O
+és	O
+szerencsétlenség	O
+,	O
+világosság	O
+és	O
+sötétség	O
+,	O
+élet	O
+és	O
+halál	O
+...Van	O
+egy	O
+percük	O
+?	O
+
+Elmesélek	O
+egy	O
+kis	O
+történetet	O
+.	O
+
+Elég	O
+vidám	O
+és	O
+elég	O
+szomorú	O
+.	O
+
+Egy	O
+szerelmi	O
+történet	O
+.	O
+
+Egy	O
+fiú	O
+és	O
+egy	O
+lány	O
+,	O
+természetesen	O
+...	O
+
+Ó	O
+,	O
+persze	O
+,	O
+a	O
+nevek	O
+keresztnevek	O
+...a	O
+vezetéknevek	O
+nem	O
+lényegesek	O
+.	O
+
+MONPTI	B-WORK_OF_ART
+
+Egy	O
+párizsi	B-NORP
+történet	O
+.	O
+
+Vaszary	B-PER
+Gábor	I-PER
+ugyancsak	O
+"	O
+Monpti	B-WORK_OF_ART
+"	O
+regénye	O
+alapján	O
+mindezt	O
+,	O
+nem	O
+kell	O
+elolvasni	O
+,	O
+nézzék	O
+inkább	O
+,	O
+ami	O
+mögötte	O
+van	O
+...	O
+
+Ez	O
+Párizs	B-GPE
+.	O
+
+Az	O
+én	O
+történetem	O
+,	O
+egy	O
+párizsi	B-GPE
+történet	O
+.	O
+
+Na	O
+végre	O
+,	O
+túl	O
+vagyunk	O
+ezen	O
+.	O
+
+Ez	O
+itt	O
+a	O
+Boulevard	B-FAC
+Saint-Germain	I-FAC
+des	I-FAC
+Pres	I-FAC
+ahol	O
+az	O
+egzisztencialisták	O
+is	O
+otthon	O
+érzik	O
+magukat	O
+.	O
+
+És	O
+ő	O
+,	O
+a	O
+mi	O
+ifjú	O
+hősünk	O
+az	O
+omnibusz	O
+mögött	O
+.	O
+
+Hóna	O
+alatt	O
+a	O
+rajztartóval	O
+.	O
+
+Szimpatikus	O
+?	O
+
+Úgy	O
+néz	O
+ki	O
+,	O
+jóképű	O
+,	O
+egy	O
+kicsit	O
+szomorú	O
+,	O
+talán	O
+.	O
+
+És	O
+ő	O
+a	O
+fiatal	O
+lány	O
+...	O
+
+Nem	O
+,	O
+nem	O
+ő	O
+,	O
+hanem	O
+aki	O
+a	O
+könyvvel	O
+jön	O
+.	O
+
+Most	O
+találkoznak	O
+,	O
+első	B-ORDINAL
+alkalommal	O
+.	O
+
+Ó	O
+,	O
+micsoda	O
+balszerencse	O
+Biztos	O
+észrevették	O
+,	O
+hogy	O
+egymásnak	O
+születtek	O
+Itt	O
+pedig	O
+,	O
+más	O
+nap	O
+,	O
+más	O
+utca	O
+.	O
+
+Mindjárt	O
+meglátják	O
+a	O
+Pantheont	B-LOC
+.	O
+
+Ekkor	O
+még	O
+a	O
+kávéház	O
+meglehetősen	O
+üres	O
+,	O
+természetesen.	O
+nagyon	O
+korán	O
+van	O
+még	O
+,	O
+néhány	O
+diák	O
+...	O
+
+Ó	O
+,	O
+itt	O
+a	O
+fiatal	O
+lány	O
+ismét	O
+,	O
+a	O
+könyvével	O
+.	O
+
+És	O
+a	O
+másik	O
+oldalon	O
+?	O
+
+Az	O
+Isten	B-PER
+jósága	O
+végtelen	O
+,	O
+ott	O
+a	O
+fiú	O
+megint.	O
+úgy	O
+tűnik	O
+,	O
+nagyon	O
+ráérnek	O
+,	O
+de	O
+akkor	O
+,	O
+miért	O
+vannak	O
+mindig	O
+egyedül	O
+?	O
+
+Igen	O
+,	O
+úgy	O
+látszik	O
+,	O
+ő	O
+idegen	O
+Párizsban	B-GPE
+.	O
+
+...	O
+
+Ez	O
+egy	O
+magyar	B-NORP
+újság	O
+lenne	O
+,	O
+igen	O
+ne	O
+féljenek	O
+,	O
+nem	O
+beszélek	O
+politikáról	O
+és	O
+történelemrőI	O
+.	O
+
+Amíg	O
+itt	O
+olvas	O
+,	O
+addig	O
+nézzünk	O
+körül	O
+,	O
+hol	O
+is	O
+lakik	O
+.	O
+
+Ez	O
+Calle	B-FAC
+Bernardin	I-FAC
+,	O
+és	O
+ez	O
+a	O
+Hotel	B-FAC
+Riviera	I-FAC
+alig	O
+olvasható	O
+.	O
+
+És	O
+a	O
+tetején	O
+,	O
+Istenhez	B-PER
+közel	O
+,	O
+mint	O
+a	O
+szegény	O
+párizsiak	B-NORP
+,	O
+itt	O
+él	O
+.	O
+
+Nem	O
+nagyon	O
+kényelmes	O
+.	O
+
+De	O
+mit	O
+várhatunk	O
+havi	B-DATE
+9000	B-MONEY
+frankért	I-MONEY
+Nem	O
+drága	O
+.	O
+
+Sőt	O
+nagyon	O
+is	O
+olcsó	O
+,	O
+ezzel	O
+a	O
+kilátással	O
+.	O
+
+Ó	O
+,	O
+most	O
+még	O
+a	O
+nap	O
+is	O
+előbújik	O
+és	O
+a	O
+...	O
+
+Notre	B-FAC
+Dame	I-FAC
+.	O
+
+Ennek	O
+az	O
+éltes	O
+csodás	O
+dámának	O
+van	O
+mutogatni	O
+valója	O
+.	O
+
+Esküvői	O
+harangok	O
+szólnának	O
+?	O
+
+Igen	O
+,	O
+valóban	O
+.	O
+
+A	O
+fiatal	O
+lány	O
+,	O
+mindig	O
+meghatódik	O
+,	O
+ha	O
+egy	O
+esküvőt	O
+lát	O
+.	O
+
+A	O
+fiút	O
+,	O
+ez	O
+kevésbé	O
+érdekli	O
+.	O
+
+Nem	O
+akar	O
+mindenáron	O
+megnősülni	O
+.	O
+

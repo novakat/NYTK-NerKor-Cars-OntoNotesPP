@@ -1,0 +1,1511 @@
+# global.columns = FORM ONPP:NER
+Nos	O
+,	O
+post	O
+restante	O
+,	O
+Párizs	B-GPE
+,	O
+gondolom	O
+.	O
+
+Jobb	O
+,	O
+ha	O
+itt	O
+tartják	O
+néhány	B-DUR
+napig	I-DUR
+.	O
+
+Megvannak	O
+a	O
+szendvicsek	O
+?	O
+
+Sok	O
+szerencsét	O
+,	O
+Mr.	O
+Nézz	O
+ide	O
+!	O
+
+Hé	O
+,	O
+Lindbergh	B-PER
+!	O
+
+Egy	O
+percre	O
+,	O
+Charlie	B-PER
+!	O
+
+Megkeresi	O
+Nungessert	B-PER
+és	O
+Colit	B-PER
+?	O
+
+Hé	O
+,	O
+tényleg	O
+felszállsz	O
+...	O
+
+Két	B-QUANTITY
+kulacs	I-QUANTITY
+víz	O
+.	O
+
+Ellenőrizve	O
+.	O
+
+Hajónapló	O
+.	O
+
+Térképek	O
+.	O
+
+Kés	O
+.	O
+
+Üléspárna	O
+.	O
+
+Tűzoltókészülék	O
+.	O
+
+Fémfűrész	O
+.	O
+
+Két	B-CARDINAL
+elemlámpa	O
+.	O
+
+Egy	O
+doboz	O
+ammónia	O
+ampulla	O
+.	O
+
+Két	B-CARDINAL
+vészjelző	O
+.	O
+
+Szeretném	O
+,	O
+ha	O
+lenne	O
+egy	O
+ejtőernyőd	O
+is	O
+,	O
+Slim	B-PER
+.	O
+
+Túl	O
+nehéz	O
+.	O
+
+Húsz	B-QUANTITY
+font	I-QUANTITY
+,	O
+az	O
+majdnem	B-QUANTITY
+négy	I-QUANTITY
+gallon	I-QUANTITY
+benzin	O
+.	O
+
+Van	O
+hír	O
+a	O
+másik	O
+gépről	O
+?	O
+
+Nem	O
+látni	O
+semmit	O
+arrafelé	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+azt	O
+várják	O
+hogy	O
+kisüssön	O
+a	O
+nap	O
+.	O
+
+Mi	O
+a	O
+legújabb	O
+az	O
+időjárásjelentés	O
+?	O
+
+Most	O
+hívott	O
+az	O
+intézet	O
+.	O
+
+Azt	O
+hiszik	O
+,	O
+még	O
+mindig	O
+van	O
+esély	O
+.	O
+
+Nos	O
+,	O
+hívd	O
+őket	O
+újra	O
+,	O
+jó	O
+?	O
+
+Utálok	O
+kalucsnit	O
+viselni	O
+.	O
+
+Ó	O
+,	O
+túl	O
+nehéz	O
+.	O
+
+Hogy	O
+szólt	O
+mikor	O
+beindítottátok	O
+?	O
+
+Ellenőriztük	O
+a	O
+gyújtást	O
+.	O
+
+Sima	O
+,	O
+mint	O
+a	O
+selyem	O
+.	O
+
+Háromszáz	B-QUANTITY
+gallon	I-QUANTITY
+,	O
+Mr.	O
+Majd	O
+a	O
+kifutón	O
+egészen	O
+tele	O
+kell	O
+tölteni	O
+.	O
+
+Szeretnéd	O
+látni	O
+,	O
+hová	O
+tettem	O
+a	O
+mágneses	O
+iránytűt	O
+?	O
+
+Ez	O
+a	O
+legjobb	O
+hely	O
+,	O
+amit	O
+találtam	O
+neki	O
+.	O
+
+Nem	O
+fog	O
+rezegni	O
+rossz	O
+szélben	O
+,	O
+de	O
+kelleni	O
+fog	O
+hozzá	O
+egy	O
+tükör	O
+.	O
+
+Az	O
+irodából	O
+szereztem	O
+,	O
+de	O
+ez	O
+nem	O
+az	O
+igazi	O
+.	O
+
+Nem	O
+,	O
+nem	O
+,	O
+ez	O
+túl	O
+nagy	O
+,	O
+túl	O
+nehéz	O
+.	O
+
+Egy	O
+kis	O
+zsebtükörre	O
+van	O
+szükség	O
+.	O
+
+Van	O
+valakinek	O
+egy	O
+körülbelül	B-QUANTITY
+öt	I-QUANTITY
+centis	I-QUANTITY
+kis	O
+tükre	O
+?	O
+
+Kinél	O
+van	O
+egy	O
+kis	O
+tükör	O
+?	O
+
+Nálam	O
+van	O
+.	O
+
+Ez	O
+jó	O
+lesz	O
+?	O
+
+Ez	O
+kicsi	O
+,	O
+de	O
+nem	O
+négyzetes	O
+.	O
+
+Nos	O
+,	O
+ez	O
+jó	O
+lesz	O
+.	O
+
+Mit	O
+szólsz	O
+?	O
+
+De	O
+hogy	O
+rögzítsem	O
+?	O
+
+Nem	O
+tudom	O
+felcsavarozni	O
+.	O
+
+Ragaszd	O
+fel	O
+.	O
+
+Mire	O
+kellett	O
+?	O
+
+Nos	O
+,	O
+ebben	O
+látni	O
+a	O
+mágneses	O
+iránytűt	O
+,	O
+mivel	O
+nem	O
+volt	O
+jobb	O
+hely	O
+ide	O
+tették	O
+a	O
+fejem	O
+fölé	O
+.	O
+
+Tehát	O
+ha	O
+le	O
+akarom	O
+olvasni	O
+,	O
+majd	O
+belenézek	O
+a	O
+tükrébe	O
+.	O
+
+Biztosan	O
+tudja	O
+nélkülözni	O
+?	O
+
+Ó	O
+,	O
+semmiség	O
+,	O
+csak	O
+15	B-MONEY
+cent	I-MONEY
+.	O
+
+Nos	O
+,	O
+azért	O
+szeretném	O
+megköszönni	O
+.	O
+
+Beülhetnék	O
+a	O
+vezetőülésbe	O
+?	O
+
+Szálljon	O
+be	O
+Ez	O
+kisebb	O
+,	O
+mint	O
+gondoltam	O
+.	O
+
+Borzasztó	O
+sivár	O
+.	O
+
+Annyira	O
+sivár	O
+.	O
+
+Igen	O
+,	O
+azt	O
+hiszem	O
+az	O
+.	O
+
+Nos	O
+,	O
+ha	O
+eljutok	O
+Párizsba	B-GPE
+,	O
+veszek	O
+egy	O
+szőnyeget	O
+,	O
+és	O
+néhány	O
+függönyt	O
+.	O
+
+Nem	O
+is	O
+látja	O
+,	O
+hogy	O
+merre	O
+megy	O
+.	O
+
+Miért	O
+nem	O
+vág	O
+egy	O
+lyukat	O
+ide	O
+?	O
+
+Sajnos	O
+nem	O
+lehet	O
+,	O
+kifolyna	O
+a	O
+benzin	O
+.	O
+
+Tudja	O
+,	O
+300	B-QUANTITY
+gallon	I-QUANTITY
+benzin	O
+van	O
+ott	O
+.	O
+
+Nos	O
+,	O
+nem	O
+is	O
+tud	O
+előrenézni	O
+?	O
+
+Nos	O
+,	O
+tudok	O
+,	O
+ezen	O
+keresztül	O
+.	O
+
+Ez	O
+egy	O
+periszkóp	O
+.	O
+
+Mint	O
+a	O
+tengeralattjáróban	O
+?	O
+
+Igen	O
+,	O
+úgy	O
+van	O
+.	O
+
+Csak	O
+remélem	O
+,	O
+nem	O
+kell	O
+majd	O
+ugyanúgy	O
+használnom	O
+.	O
+
+Mik	O
+ezek	O
+itt	O
+?	O
+
+Nos	O
+,	O
+ezek	O
+vezérlik	O
+az	O
+öt	B-CARDINAL
+benzintankot	O
+,	O
+amik	O
+itt	O
+vannak	O
+a	O
+törzsben	O
+és	O
+a	O
+szárnyakban	O
+.	O
+
+Ezekkel	O
+szabályozom	O
+a	O
+benzin	O
+áramlását	O
+,	O
+és	O
+tartom	O
+egyensúlyban	O
+a	O
+repülőgépet	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+jobb	O
+,	O
+ha	O
+nem	O
+tartom	O
+fel	O
+.	O
+
+Mennyi	O
+ideig	O
+állt	O
+kint	O
+az	O
+esőben	O
+?	O
+
+Egész	O
+éjjel	O
+.	O
+
+Itt	O
+él	O
+Long	B-GPE
+Island-en	I-GPE
+?	O
+
+New	B-GPE
+York-ban	I-GPE
+?	O
+
+Philadelphiában	B-GPE
+.	O
+
+Eljött	O
+ide	O
+Philadelphiából	B-GPE
+?	O
+
+Kellett	O
+.	O
+
+Szüksége	O
+volt	O
+a	O
+tükrömre	O
+.	O
+
+Most	O
+beszéltem	O
+Dr.	B-PER
+Kimball-el	I-PER
+a	O
+meteorológiai	O
+intézetből	O
+.	O
+
+Úgy	O
+hallottam	O
+,	O
+nagyon	O
+óvatos	O
+.	O
+
+Milyen	O
+óvatos	O
+?	O
+
+Cape	B-GPE
+Cod	I-GPE
+és	O
+Új-Fundland	B-GPE
+között	O
+,	O
+a	O
+köd	O
+lassan	O
+felszáll	O
+.	O
+
+Tiszta	O
+égbolt	O
+az	O
+európai	B-LOC
+partoknál	O
+.	O
+
+De	O
+az	O
+óceán	O
+feletti	O
+időjárás	O
+miatt	O
+aggódik	O
+.	O
+
+Azt	O
+szeretné	O
+,	O
+ha	O
+várnál	O
+délig	O
+.	O
+
+Aha	O
+.	O
+
+Slim	B-PER
+,	O
+miért	O
+nem	O
+halasztasz	O
+még	O
+24	B-TIME
+órát	I-TIME
+?	O
+
+Akkor	O
+biztos	O
+lehetnél	O
+az	O
+időjárásban	O
+,.	O
+
+Adj	O
+esélyt	O
+magadnak	O
+némi	O
+alvásra	O
+.	O
+
+Aztán	O
+24	B-TIME
+óra	I-TIME
+múlva	I-TIME
+,	O
+mehetnék	O
+Chamberlin-hez	B-PER
+légcsavart	O
+mosni	O
+.	O
+
+Rajtad	O
+múlik	O
+,	O
+Slim	B-PER
+.	O
+
+Guritsuk	O
+ki	O
+.	O
+
+Adjanak	O
+helyet	O
+.	O
+
+Hátráljanak	O
+,	O
+emberek	O
+.	O
+
+Nem	O
+tetszik	O
+ahogy	O
+kinéz	O
+a	O
+kifutópálya	O
+,	O
+Slim	B-PER
+.	O
+
+Azt	O
+hiszed	O
+,	O
+hogy	O
+egyenesen	O
+tudod	O
+tartani	O
+ezen	O
+a	O
+vízmosáson	O
+?	O
+
+Gondolod	O
+,	O
+hogy	O
+fel	O
+tudod	O
+emelni	O
+?	O
+
+Igen	O
+,	O
+ha	O
+eléggé	O
+felgyorsul	O
+.	O
+
+Bárcsak	O
+tesztelhettük	O
+volna	O
+ezzel	O
+a	O
+nagy	O
+súllyal	O
+,	O
+és	O
+ilyen	O
+körülmények	O
+között	O
+.	O
+
+Frank	B-PER
+,	O
+hajtsunk	O
+oda	O
+a	O
+pályán	O
+,	O
+ahol	O
+az	O
+a	O
+bot	O
+van	O
+.	O
+
+Azt	O
+hiszem	O
+,	O
+a	O
+szél	O
+elfújta	O
+a	O
+felszállás	O
+jelzőt	O
+.	O
+
+Ez	O
+az	O
+a	O
+hely	O
+?	O
+
+Igen	O
+,	O
+én	O
+mértem	O
+ki	O
+.	O
+
+Van	O
+egy	O
+zsebkendőd	O
+?	O
+
+Nos	O
+,	O
+mi	O
+lesz	O
+ha	O
+nem	O
+tudsz	O
+itt	O
+felemelkedni	O
+?	O
+
+Leállítom	O
+a	O
+motort	O
+.	O
+
+Nem	O
+lesz	O
+túl	O
+késő	O
+?	O
+
+Meg	O
+tudod	O
+állítani	O
+mielőtt	O
+nekimégy	O
+a	O
+fáknak	O
+?	O
+
+Hát	O
+,	O
+elég	O
+hamar	O
+lelassul	O
+ebben	O
+a	O
+dágványban	O
+.	O
+
+Csak	O
+ne	O
+próbáld	O
+felemelni	O
+a	O
+jelzőn	O
+túl	O
+.	O
+
+Rossz	O
+a	O
+szél	O
+.	O
+
+Te	O
+soha	O
+nem	O
+ütköztél	O
+vezetéknek	O
+vagy	O
+fáknak	O
+.	O
+
+Majd	O
+figyelek	O
+rájuk	O
+.	O
+
+Nos	O
+,	O
+nem	O
+akarom	O
+elmagyarázni	O
+,	O
+hogy	O
+kell	O
+repülni	O
+,	O
+Slim	B-PER
+.	O
+
+Tudom	O
+,	O
+hogy	O
+kell	O
+,	O
+Frank	B-PER
+.	O
+
+Csurig	O
+feltöltve	O
+,	O
+425	B-QUANTITY
+gallon	I-QUANTITY
+.	O
+
+Ne	O
+felejtsd	O
+a	O
+szendvicseket	O
+,	O
+Slim	B-PER
+.	O
+
+Van	O
+öt	B-QUANTITY
+darab	I-QUANTITY
+.	O
+
+Tedd	O
+az	O
+ülés	O
+alá	O
+.	O
+
+Egy	B-CARDINAL
+kemény	O
+tojásos	O
+,	O
+két	B-CARDINAL
+marhasültes	O
+és	O
+két	B-CARDINAL
+sonkás	O
+.	O
+
+Próbáltam	O
+egy	O
+kis	O
+homoki	O
+lepényhalat	O
+is	O
+.	O
+
+Nincs	O
+homoki	O
+lepényhal	O
+,	O
+mi	O
+?	O
+
+Nincs	O
+homoki	O
+lepényhal	O
+.	O
+
+Frank	B-PER
+,	O
+valamit	O
+el	O
+kell	O
+mondanom	O
+.	O
+
+Remélem	O
+,	O
+nem	O
+sértődsz	O
+meg	O
+.	O
+
+Persze	O
+hogy	O
+nem	O
+,	O
+Slim	B-PER
+.	O
+
+Nos	O
+,	O
+azok	O
+a	O
+te	O
+homoki	O
+lepényhalaid	O
+borzalmasak	O
+.	O
+
+Ahogy	O
+a	O
+hegesztőpisztollyal	O
+sütögetted	O
+,	O
+az	O
+acetilén	O
+íze	O
+,	O
+valami	O
+...	O
+
+Akkor	O
+megetted	O
+.	O
+
+Gondoltam	O
+,	O
+jobb	O
+ha	O
+megeszem	O
+ha	O
+azt	O
+akarom	O
+,	O
+hogy	O
+a	O
+gép	O
+időben	O
+elkészüljön	O
+.	O
+
+Benzin	O
+be	O
+.	O
+
+Gyujtás	O
+ki	O
+.	O
+
+Gyujtás	O
+.	O
+
+Hé	O
+,	O
+ez	O
+30-as	B-CARDINAL
+fordulatszám	O
+alacsony	O
+.	O
+
+Ez	O
+30-as	B-CARDINAL
+fordulatszám	O
+alacsony	O
+.	O
+
+Miért	O
+csinálja	O
+ezt	O
+,	O
+nedves	O
+a	O
+levegő	O
+?	O
+
+Ennyi	O
+az	O
+egész	O
+.	O
+
+Semmi	O
+mechanikus	O
+.	O
+
+Nos	O
+,	O
+azt	O
+hiszem	O
+,	O
+akár	O
+el	O
+is	O
+mehetek	O
+.	O
+
+Húzd	O
+ki	O
+a	O
+ékeket	O
+!	O
+
+Húzd	O
+fel	O
+,	O
+Slim	B-PER
+!	O
+
+LINDY	B-PER
+FELSZÁLLT	O
+!	O
+
+Két	B-TIME
+óra	I-TIME
+.	O
+
+Közel	O
+200	B-QUANTITY
+mérföldet	I-QUANTITY
+jöttem	O
+.	O
+
+Enyhe	O
+hátszél	O
+van	O
+,	O
+ami	O
+segít	O
+.	O
+
+Ha	O
+tudjuk	O
+tartani	O
+a	O
+menetrendet	O
+,	O
+a	O
+38.	B-TIME
+órában	I-TIME
+leszállhatunk	O
+Párizsban	B-GPE
+.	O
+
+Nos	O
+,	O
+honnan	O
+jöttél	O
+?	O
+
+Mit	O
+gondolsz	O
+,	O
+hová	O
+mégy	O
+?	O
+
+Tünés	O
+.	O
+
+Gyerünk	O
+kifelé	O
+.	O
+
+Tünés	O
+..	O
+
+Tudod	O
+a	O
+szabályokat	O
+.	O
+
+Nincs	O
+segédpilóta	O
+,	O
+nincs	O
+túlsúlyos	O
+poggyász	O
+.	O
+
+Nem	O
+akarunk	O
+semmi	O
+bajt	O
+.	O
+
+Ez	O
+a	O
+gép	O
+egészen	O
+Párizsig	B-GPE
+megy	O
+.	O
+
+Mennyi	O
+túlsúly	O
+lehetsz	O
+te	O
+egyáltalán	O
+?	O
+
+Azt	O
+hiszem	O
+,	O
+attól	O
+függ	O
+.	O
+
+Ha	O
+ülsz	O
+egy	O
+helyen	O
+,	O
+az	O
+túlsúly	O
+.	O
+
+De	O
+ha	O
+repkedsz	O
+a	O
+gépen	O
+belül	O
+,	O
+az	O
+hogy	O
+növeli	O
+a	O
+terhelést	O
+?	O
+
+Nagyon	O
+érdekes	O
+probléma	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Hé	O
+,	O
+gyere	O
+el	O
+a	O
+szendvicsektől	O
+.	O
+
+Nem	O
+ehetünk	O
+még	O
+.	O
+
+Át	O
+kell	O
+váltani	O
+a	O
+tankokat	O
+újra	O
+.	O
+
+Muszáj	O
+,	O
+minden	O
+órában	O
+.	O
+
+Mi	O
+baj	O
+,	O
+félsz	O
+a	O
+víztől	O
+?	O
+
+Ó	O
+,	O
+ez	O
+még	O
+nem	O
+az	O
+igazi	O
+.	O
+
+Még	O
+sok	O
+a	O
+föld	O
+előttünk	O
+.	O
+
+Új-Skócia	B-GPE
+,	O
+Új-Fundland	B-GPE
+.	O
+
+Csak	O
+négy	B-TIME
+óra	I-TIME
+telt	O
+el	O
+,	O
+és	O
+már	O
+kimerült	O
+vagyok	O
+.	O
+
+Nem	O
+,	O
+ez	O
+nem	O
+is	O
+négy	B-TIME
+óra	I-TIME
+.	O
+
+28	B-TIME
+órája	I-TIME
+alig	O
+aludtam	O
+.	O
+
+Miért	O
+hagytam	O
+kárbaveszni	O
+azt	O
+a	O
+szállodai	O
+ágyat	O
+Long	B-LOC
+Island-en	I-LOC
+?	O
+
+Befeküdnék	O
+,	O
+csak	O
+egy	B-TIME
+órára	I-TIME
+abba	O
+az	O
+ágyba	O
+.	O
+
+Nem	O
+,	O
+nem	O
+,	O
+15	B-CARDINAL
+percre	O
+.	O
+
+Nos	O
+,	O
+akkor	O
+nem	O
+is	O
+kell	O
+ágy	O
+.	O
+
+Alhatom	O
+a	O
+földön	O
+.	O
+
+Mindig	O
+is	O
+tudtam	O
+aludni	O
+bárhol	O
+,	O
+bármikor	O
+.	O
+
+Amikor	O
+gyerek	O
+voltam	O
+Little	B-GPE
+Falls-ban	I-GPE
+,	O
+Minnesotában	B-GPE
+,	O
+A	O
+vasúti	O
+síneken	O
+aludtam	O
+a	O
+farmunk	O
+mellett	O
+,	O
+várva	O
+hogy	O
+a	O
+harcsa	O
+harapjon	O
+.	O
+
+Vagy	O
+mikor	O
+repülő	O
+kadét	O
+voltam	O
+a	O
+Brooks	B-FAC
+Field-en	I-FAC
+,	O
+Texasban	B-GPE
+.	O
+
+A	O
+nap	O
+túl	O
+hosszú	O
+volt	O
+,	O
+az	O
+ágy	O
+meg	O
+túl	O
+rövid	O
+.	O
+
+Vagy	O
+a	O
+mutatványos	O
+napjaimban	O
+,	O
+mikor	O
+a	O
+jó	O
+öreg	O
+Jenny	B-PROD
+szárnya	O
+alatt	O
+aludtam	O
+ahol	O
+egy	O
+szélmalom	O
+pumpálta	O
+a	O
+vízet	O
+a	O
+kansasi	O
+prérin	O
+.	O
+
+Nem	O
+igazán	O
+aludtam	O
+.	O
+
+Csak	O
+gyakorlok	O
+,	O
+amire	O
+Párizsba	B-GPE
+érünk	O
+.	O
+
+Ha	O
+eljutunk	O
+Párizsba	B-GPE
+.	O
+
+Új-Skócia	B-GPE
+.	O
+
+Nem	O
+,	O
+nem	O
+fordulhatok	O
+vissza	O
+.	O
+
+Ez	O
+világos	O
+,	O
+mint	O
+a	O
+nap	O
+.	O
+
+Tiszta	O
+az	O
+ég	O
+.	O
+
+Tiszta	O
+az	O
+ég	O
+Új-Fundland-ig	B-LOC
+.	O
+
+Hat	B-QUANTITY
+mérföld	I-QUANTITY
+eltérés	O
+.	O
+
+Hat	B-QUANTITY
+mérföld	I-QUANTITY
+200	B-QUANTITY
+mérföld	I-QUANTITY
+után	O
+.	O
+
+Ha	O
+tartom	O
+ezt	O
+a	O
+hibahatárt	O
+,	O
+mennyi	O
+lesz	O
+mire	O
+elérem	O
+Írországot	B-GPE
+?	O
+
+Lássuk	O
+csak	O
+,	O
+1900	B-QUANTITY
+mérföld	I-QUANTITY
+az	O
+Atlanti-óceánon	B-LOC
+.	O
+
+Szóval	O
+ez	O
+..	O
+

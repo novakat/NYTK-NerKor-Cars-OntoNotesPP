@@ -1,0 +1,1940 @@
+# global.columns = FORM ONPP:NER
+Királyok	O
+,	O
+miniszterelnökök	O
+,	O
+érsekek	O
+,	O
+de	O
+még	O
+ügyvédek	O
+is	O
+ültek	O
+már	O
+a	O
+vádlottak	O
+a	O
+padján	O
+.	O
+
+Örülnék	O
+,	O
+ha	O
+valaki	O
+fehívná	O
+a	O
+feleségemet	O
+,	O
+és	O
+elmondaná	O
+neki	O
+,	O
+mi	O
+történt	O
+.	O
+
+Majd	O
+én	O
+felhívom	O
+,	O
+ne	O
+aggódjon	O
+.	O
+
+Én	O
+pedig	O
+bemegyek	O
+a	O
+kapitányságra	O
+,	O
+utánanézek	O
+,	O
+hogy	O
+a	O
+vádemelés	O
+szabályosan	O
+történt	O
+-e	O
+.	O
+
+Ügyeljenek	O
+rá	O
+,	O
+hogy	O
+megfelelő	O
+elbánásban	O
+részesüljön	O
+.	O
+
+Nem	O
+kér	O
+egy	O
+szivart	O
+?	O
+
+Elnézését	O
+kérem	O
+.	O
+
+Ez	O
+igazán	O
+kedves	O
+magától	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+A	O
+maga	O
+helyében	O
+én	O
+nem	O
+fogadnám	O
+el	O
+.	O
+
+Megvesztegetésnek	O
+tűnhetne	O
+.	O
+
+Ideje	O
+indulnunk	O
+,	O
+Mr.	O
+Egyvalamit	O
+megtanultam	O
+egy	O
+életre	O
+.	O
+
+Az	O
+ember	O
+soha	O
+ne	O
+nézelődjön	O
+túl	O
+sokáig	O
+egy	O
+női	O
+kalapokat	O
+árusító	O
+üzlet	O
+kirakata	O
+előtt	O
+.	O
+
+Jó	O
+napot	O
+,	O
+uram	O
+.	O
+
+Rendkívül	O
+kellemes	O
+benyomást	O
+keltett	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Valóban	O
+,	O
+meglehetősen	O
+.	O
+
+Hogy	O
+sikerült	O
+a	O
+próbája	O
+a	O
+monoklival	O
+?	O
+
+Kiemelkedően	O
+.	O
+
+Remélem	O
+,	O
+a	O
+vádlottak	O
+padján	O
+is	O
+kiemelkedően	O
+fog	O
+teljesíteni	O
+.	O
+
+Igencsak	O
+nehéz	O
+feladatnak	O
+nézek	O
+elébe	O
+.	O
+
+Ez	O
+természetes	O
+.	O
+
+A	O
+vád	O
+az	O
+összes	O
+rendelkezésére	O
+álló	O
+eszközt	O
+fel	O
+fogja	O
+használni	O
+ellene	O
+.	O
+
+Magának	O
+viszont	O
+csak	O
+egy	O
+kis	O
+apróságra	O
+van	O
+szüksége	O
+,	O
+egy	O
+,	O
+a	O
+felesége	O
+által	O
+alátámasztott	O
+alibire	O
+.	O
+
+Minden	O
+ravaszságára	O
+szükség	O
+lesz	O
+hozzá	O
+.	O
+
+Úgy	O
+hiszem	O
+,	O
+sokkal	O
+inkább	O
+szimpatizálnék	O
+a	O
+dologgal	O
+,	O
+ha	O
+kevésbé	O
+venné	O
+igénybe	O
+a	O
+ravaszságomat	O
+.	O
+
+Miss	O
+Plimsoll	B-PER
+ultimátumot	O
+adott	O
+.	O
+
+Egy	B-TIME
+percen	I-TIME
+belül	I-TIME
+felmegy	O
+és	O
+lefekszik	O
+,	O
+vagy	O
+felmond	O
+.	O
+
+Csodálatos	O
+.	O
+
+Adja	O
+oda	O
+neki	O
+egyhavi	B-DATE
+fizetését	O
+,	O
+aztán	O
+rugdossa	O
+le	O
+a	O
+lépcsőkön	O
+.	O
+
+Ha	O
+nem	O
+gondoskodik	O
+magáról	O
+megfelelően	O
+,	O
+én	O
+is	O
+felmondok	O
+.	O
+
+Ez	O
+zsarolás	O
+.	O
+
+De	O
+teljes	O
+mértékben	O
+igaza	O
+van	O
+.	O
+
+Ez	O
+az	O
+első	B-DATE
+napom	I-DATE
+itthon	O
+,	O
+és	O
+máris	O
+túl	O
+sok	O
+izgalomban	O
+volt	O
+részem	O
+.	O
+
+Ideje	O
+lepihennem	O
+.	O
+
+Én	O
+addig	O
+felveszem	O
+a	O
+kapcsolatot	O
+Mrs.	O
+Vole-lal	B-PER
+,	O
+megkérem	O
+,	O
+hogy	O
+fáradjon	O
+ide	O
+.	O
+
+Jelen	O
+kíván	O
+lenni	O
+a	O
+megbeszélésen	O
+?	O
+
+Nem	O
+vagyok	O
+olyan	O
+állapotban	O
+,	O
+hogy	O
+képes	O
+legyek	O
+megbirkózni	O
+egy	O
+érzelmileg	O
+túlcsordult	O
+,	O
+könnyes	O
+szemű	O
+feleséggel	O
+.	O
+
+Miss	O
+Plimsoll	B-PER
+,	O
+milyen	O
+csodásan	O
+fest	O
+.	O
+
+Mint	O
+egy	O
+hóhér	O
+az	O
+akasztófa	O
+előtt	O
+.	O
+
+Rendelkezzen	O
+velem	O
+,	O
+a	O
+magáé	O
+vagyok	O
+.	O
+
+Visszatérve	O
+Mrs.	O
+Vole-re	B-PER
+.	O
+
+Bánjon	O
+vele	O
+finoman	O
+,	O
+főleg	O
+,	O
+amikor	O
+a	O
+letartóztatásról	O
+beszél	O
+.	O
+
+Ne	O
+feledkezzen	O
+meg	O
+róla	O
+,	O
+hogy	O
+külföldi	O
+.	O
+
+Készüljön	O
+fel	O
+egy	O
+esetleges	O
+hisztériás	O
+vagy	O
+akár	O
+ájulásos	O
+rohamra	O
+.	O
+
+Gondoskodjon	O
+róla	O
+,	O
+hogy	O
+kéznél	O
+legyen	O
+a	O
+repülősó	O
+,	O
+egy	O
+doboz	O
+zsebkendő	O
+és	O
+egy	O
+korty	O
+brandy	O
+.	O
+
+Nem	O
+hiszem	O
+,	O
+hogy	O
+szükség	O
+lesz	O
+rájuk	O
+.	O
+
+Nem	O
+szokásom	O
+elájulni	O
+,	O
+ugyanis	O
+képtelen	O
+vagyok	O
+elegánsan	O
+összeesni	O
+,	O
+és	O
+repülősót	O
+sem	O
+használok	O
+,	O
+köszönhetően	O
+annak	O
+,	O
+hogy	O
+felduzzad	O
+tőle	O
+a	O
+szemem	O
+.	O
+
+Christine	B-PER
+Vole	I-PER
+vagyok	O
+.	O
+
+Az	O
+én	O
+nevem	O
+pedig	O
+Wilfrid	B-PER
+Robarts	I-PER
+.	O
+
+Kedves	O
+Mrs.	O
+Vole	B-PER
+,	O
+attól	O
+tartok	O
+,	O
+rossz	O
+hírekkel	O
+kell	O
+szolgálnunk	O
+.	O
+
+Ne	O
+aggódjon	O
+,	O
+tudom	O
+fegyelmezni	O
+magamat	O
+.	O
+
+Ezek	O
+szerint	O
+még	O
+senki	O
+sem	O
+értesítette	O
+magát	O
+.	O
+
+Leonardot	B-PER
+letartóztatták	O
+,	O
+és	O
+gyilkossággal	O
+vádolják	O
+.	O
+
+Erről	O
+van	O
+szó	O
+?	O
+
+Erről	O
+.	O
+
+Tudtam	O
+,	O
+hogy	O
+ez	O
+fog	O
+történni	O
+,	O
+meg	O
+is	O
+mondtam	O
+neki	O
+.	O
+
+Becsülöm	O
+azt	O
+a	O
+hatalmas	O
+lelkierőt	O
+,	O
+amelyet	O
+tanúsít	O
+.	O
+
+Nevezze	O
+,	O
+aminek	O
+akarja	O
+.	O
+
+Mi	O
+lesz	O
+a	O
+következő	O
+lépés	O
+?	O
+
+Attól	O
+tartok	O
+,	O
+a	O
+férjének	O
+bíróság	O
+elé	O
+kell	O
+állnia	O
+.	O
+
+Ismertetné	O
+a	O
+hölgynek	O
+az	O
+eljárás	O
+menetét	O
+?	O
+
+Brogan-Moore	B-PER
+fogja	O
+képviselni	O
+a	O
+védelmet	O
+.	O
+
+Nem	O
+maga	O
+fogja	O
+ellátni	O
+Leonard	B-PER
+védelmét	O
+?	O
+
+Sajnálatos	O
+módon	O
+,	O
+nem	O
+.	O
+
+Az	O
+egészségem	O
+,	O
+vagy	O
+inkább	O
+annak	O
+hiánya	O
+,	O
+ezt	O
+lehetetlenné	O
+teszi	O
+.	O
+
+Ez	O
+igazán	O
+sajnálatos	O
+.	O
+
+Mayhew	B-PER
+úgy	O
+jellemezte	O
+magát	O
+,	O
+mint	O
+a	O
+reménytelen	O
+esetek	O
+bajnokát	O
+.	O
+
+Előfordulhat	O
+,	O
+hogy	O
+arról	O
+van	O
+szó	O
+,	O
+hogy	O
+ez	O
+az	O
+ügy	O
+már	O
+túlságosan	O
+is	O
+reménytelen	O
+?	O
+
+Számítson	O
+rá	O
+,	O
+hogy	O
+igen	O
+komoly	O
+beszélgetést	O
+fogok	O
+folytatni	O
+Dr.	B-PER
+Harrisonnal	I-PER
+.	O
+
+Hiba	O
+volt	O
+kiengednie	O
+magát	O
+a	O
+kórházból	O
+.	O
+
+Egy	O
+szeretetotthonban	O
+vagy	O
+egy	O
+szanatóriumban	O
+lenne	O
+a	O
+helye	O
+.	O
+
+Valami	O
+csendes	O
+és	O
+messzi	O
+helyen	O
+,	O
+mondjuk	O
+a	O
+Bermudákon	B-GPE
+.	O
+
+Csak	O
+látni	O
+akarja	O
+,	O
+hogy	O
+festek	O
+abban	O
+a	O
+nevetséges	O
+alsónadrágban	O
+.	O
+
+Gyerünk	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+,	O
+még	O
+csak	O
+ne	O
+is	O
+gondoljon	O
+rá	O
+.	O
+
+Szépen	O
+előkészülünk	O
+az	O
+alvásra	O
+,	O
+de	O
+az	O
+csak	O
+úgy	O
+megy	O
+,	O
+ha	O
+kellemes	O
+gondolatok	O
+járnak	O
+a	O
+fejében	O
+.	O
+
+Vetkőzzünk	O
+szépen	O
+le	O
+.	O
+
+Vegye	O
+fel	O
+ezeket	O
+,	O
+az	O
+inget	O
+és	O
+a	O
+nadrágot	O
+is	O
+,	O
+amíg	O
+én	O
+megágyazok	O
+.	O
+
+Miután	O
+kipihente	O
+magát	O
+,	O
+megiszunk	O
+egy	O
+nagy	O
+bögre	O
+,	O
+finom	O
+kakaót	O
+.	O
+
+Azután	O
+pedig	O
+teszünk	O
+egy	O
+sétát	O
+a	O
+téren	O
+.	O
+
+Tudja	O
+,	O
+igazán	O
+nagyon	O
+sajnálom	O
+azt	O
+a	O
+kedves	O
+Mr.	O
+És	O
+nem	O
+csak	O
+azért	O
+,	O
+mert	O
+letartóztatták	O
+,	O
+hanem	O
+a	O
+felesége	O
+miatt	O
+is	O
+.	O
+
+Biztosan	O
+német	B-NORP
+.	O
+
+Ez	O
+történik	O
+,	O
+ha	O
+engedjük	O
+,	O
+hogy	O
+a	O
+fiaink	O
+átkeljenek	O
+a	O
+Csatornán	B-LOC
+.	O
+
+Megbolondulnak	O
+.	O
+
+Úgy	O
+gondolom	O
+,	O
+a	O
+kormánynak	O
+intézkednie	O
+kéne	O
+a	O
+külföldi	O
+feleségekkel	O
+kapcsolatban	O
+.	O
+
+Embargó	O
+alá	O
+kéne	O
+helyeznie	O
+őket	O
+.	O
+
+Hogy	O
+máshogy	O
+tudnánk	O
+megfelelően	O
+gondoskodni	O
+az	O
+utódjainkról	O
+.	O
+
+Egyetért	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+?	O
+
+Rendben	O
+.	O
+
+Bebújhat	O
+az	O
+ágyba	O
+.	O
+
+Sir	B-PER
+Wilfrid	I-PER
+?	O
+
+Jöjjön	O
+vissza	O
+.	O
+
+Igen	O
+,	O
+természetesen	O
+tudtam	O
+róla	O
+,	O
+hogy	O
+Leonard	B-PER
+meglehetősen	O
+gyakran	O
+tesz	O
+látogatásokat	O
+Mrs.	O
+Frenchnél	B-PER
+.	O
+
+Folytassa	O
+.	O
+
+Aznap	O
+szereztem	O
+róla	O
+tudomást	O
+,	O
+amikor	O
+egy	O
+pár	O
+zöld	O
+zoknival	O
+jött	O
+haza	O
+,	O
+amelyet	O
+a	O
+hölgy	O
+kötött	O
+neki	O
+.	O
+
+Az	O
+esküdtszék	O
+igazán	O
+megnyerőnek	O
+fogja	O
+találni	O
+.	O
+
+Leonard	B-PER
+nagyon	O
+megnyerő	O
+tud	O
+lenni	O
+.	O
+
+Ki	O
+nem	O
+állhatja	O
+a	O
+zöldnek	O
+azt	O
+a	O
+bizonyos	O
+árnyalatát	O
+,	O
+ráadásul	O
+a	O
+zoknik	O
+túl	O
+nagyok	O
+voltak	O
+a	O
+lábára	O
+,	O
+ám	O
+ennek	O
+ellenére	O
+is	O
+hordta	O
+,	O
+csak	O
+hogy	O
+örömet	O
+szerezzen	O
+a	O
+hölgynek	O
+.	O
+
+Leonard	B-PER
+nagyon	O
+ért	O
+a	O
+nők	O
+nyelvén	O
+.	O
+
+Csak	O
+abban	O
+reménykedem	O
+,	O
+hogy	O
+az	O
+esküdt-	O
+szék	O
+minden	O
+tagja	O
+nő	O
+lesz	O
+.	O
+
+Ebben	O
+az	O
+esetben	O
+ugya-	O
+nis	O
+diadalmenetben	O
+fogják	O
+kikísérni	O
+a	O
+bíróságról	O
+.	O
+
+Egy	O
+egyszerű	O
+felmentő	O
+ítélet	O
+is	O
+megtenné	O
+.	O
+
+Nos	O
+,	O
+tud	O
+róla	O
+,	O
+hogy	O
+Mrs.	O
+French	B-PER
+pénzt	O
+hagyott	O
+a	O
+férjére	O
+?	O
+
+Nagyon	O
+sok	O
+pénzt	O
+.	O
+
+A	O
+férjének	O
+valóban	O
+nem	O
+volt	O
+erről	O
+az	O
+örökségről	O
+tudomása	O
+?	O
+
+Ezt	O
+mondta	O
+magának	O
+?	O
+
+Igen	O
+,	O
+ezt	O
+.	O
+
+Maga	O
+esetleg	O
+mást	O
+állít	O
+?	O
+
+Nem	O
+,	O
+nem	O
+.	O
+
+Én	O
+nem	O
+állítok	O
+semmit	O
+sem	O
+.	O
+
+Nyilvánvaló	O
+,	O
+hogy	O
+Mrs.	O
+French	B-PER
+a	O
+fiaként	O
+,	O
+vagy	O
+esetleg	O
+a	O
+kedvenc	O
+unokaöccseként	O
+tekintett	O
+a	O
+férjére	O
+.	O
+
+Úgy	O
+gondolja	O
+,	O
+hogy	O
+Mrs.	O
+French	B-PER
+fiaként	O
+tekintett	O
+Leonardra	B-PER
+?	O
+
+Vagy	O
+az	O
+unokaöccseként	O
+?	O
+
+Úgy	O
+gondolom	O
+.	O
+
+Teljes	O
+mértékben	O
+megérthető	O
+és	O
+elfogadható	O
+kapcsolat	O
+.	O
+
+Micsoda	O
+képmutató	O
+egy	O
+népség	O
+él	O
+ebben	O
+az	O
+országban	O
+.	O
+
+Bocsásson	O
+meg	O
+,	O
+Brogan-Moore	B-PER
+.	O
+
+Nem	O
+bánná	O
+,	O
+ha	O
+feltennék	O
+egy	O
+kérdést	O
+?	O
+
+Csak	O
+nyugodtan	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+Tisztában	O
+van	O
+vele	O
+,	O
+hogy	O
+a	O
+férje	O
+védelmének	O
+az	O
+alapját	O
+teljes	O
+egészében	O
+az	O
+ő	O
+és	O
+a	O
+maga	O
+szavai	O
+jelentik	O
+?	O
+
+Tisztában	O
+vagyok	O
+vele	O
+.	O
+
+És	O
+azzal	O
+is	O
+tisztában	O
+van	O
+,	O
+hogy	O
+az	O
+esküdtszék	O
+minden	O
+valószínűség	O
+szerint	O
+kételkedni	O
+fog	O
+a	O
+gyilkossággal	O
+megvádolt	O
+ember	O
+szavában	O
+,	O
+kinek	O
+állításait	O
+kizárólag	O
+a	O
+felesége	O
+támasztja	O
+alá	O
+?	O
+
+Tisztában	O
+vagyok	O
+ezzel	O
+is	O
+.	O
+
+Akkor	O
+viszont	O
+minden	O
+kétséget	O
+kizáróan	O
+győződjünk	O
+meg	O
+arról	O
+,	O
+hogy	O
+a	O
+két	B-CARDINAL
+vallomás	O
+nem	O
+ellenkezik	O
+egymással	O
+.	O
+
+Feltétlenül	O
+.	O
+
+Feltételezem	O
+,	O
+hogy	O
+segíteni	O
+szeretne	O
+a	O
+férjének	O
+.	O
+
+Természetes	O
+,	O
+hogy	O
+segíteni	O
+akarok	O
+Leonardnak	B-PER
+.	O
+
+De	O
+segíteni	O
+akarok	O
+Mr.	O
+Brogan	B-PER
+-	I-PER
+Moore	I-PER
+-	I-PER
+nak	I-PER
+és	O
+magának	O
+is	O
+.	O
+
+Így	O
+már	O
+sokkal	O
+kényelmesebb	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Nos	O
+,	O
+Mrs.	O
+Ez	O
+nagyon	O
+fontos	O
+.	O
+
+A	O
+gyilkosság	O
+éjszakáján	B-TIME
+a	O
+férje	O
+valamivel	B-TIME
+9.30	I-TIME
+előtt	I-TIME
+ért	O
+haza	O
+.	O
+
+Így	O
+van	O
+?	O
+
+Pontosan	O
+így	O
+.	O
+
+Leonard	B-PER
+netán	O
+valami	O
+mást	O
+várt	O
+volna	O
+tőlem	O
+?	O
+
+Nem	O
+ez	O
+az	O
+igazság	O
+?	O
+
+Természetesen	O
+ez	O
+.	O
+
+De	O
+amikor	O
+elmondtam	O
+a	O
+rendőröknek	O
+,	O
+úgy	O
+láttam	O
+,	O
+hogy	O
+nem	O
+hittek	O
+nekem	O
+.	O
+
+Talán	O
+nem	O
+a	O
+megfelelő	O
+szavakat	O
+használtam	O
+.	O
+
+Talán	O
+az	O
+akcentusom	O
+tehet	O
+róla	O
+.	O
+
+Vole	B-PER
+,	O
+a	O
+mi	O
+bíróságainkon	O
+még	O
+a	O
+kizárólag	O
+bolgár	B-LANGUAGE
+nyelven	O
+beszélő	O
+tanú	O
+vallomását	O
+is	O
+elfogadjuk	O
+,	O
+persze	O
+csak	O
+abban	O
+az	O
+esetben	O
+,	O
+ha	O
+az	O
+illető	O
+rendelkezik	O
+tolmáccsal	O
+.	O
+
+A	O
+süket-némák	O
+vallomását	O
+is	O
+elfogadjuk	O
+,	O
+azokét	O
+,	O
+akik	O
+egyáltalán	O
+nem	O
+beszélnek	O
+,	O
+addig	O
+amíg	O
+az	O
+igazat	O
+mondják	O
+.	O
+
+Tisztában	O
+van	O
+vele	O
+,	O
+hogy	O
+a	O
+tanúk	O
+padján	O
+meg	O
+kell	O
+esküdnie	O
+,	O
+és	O
+ezen	O
+eskü	O
+alatt	O
+kell	O
+vallania	O
+?	O
+
+Leonard	B-PER
+pontban	O
+9.26-kor	B-TIME
+ért	O
+haza	O
+,	O
+ezután	O
+már	O
+végig	O
+otthon	O
+volt	O
+.	O
+
+Esküszöm	O
+,	O
+hogy	O
+az	O
+igazat	O
+,	O
+a	O
+színtiszta	O
+igazat	O
+,	O
+csakis	O
+az	O
+igazat	O
+mondom	O
+.	O
+
+Így	O
+már	O
+jobb	O
+?	O
+
+Vole	B-PER
+,	O
+maga	O
+szereti	O
+a	O
+férjét	O
+?	O
+
+Leonard	B-PER
+úgy	O
+gondolja	O
+,	O
+igen	O
+.	O
+
+Nos	O
+,	O
+szereti	O
+?	O
+
+Még	O
+mindig	O
+eskü	O
+alatt	O
+vallok	O
+?	O
+
+Bármit	O
+is	O
+igyekszik	O
+ezen	O
+lépésével	O
+elérni	O
+,	O
+tisztában	O
+van	O
+vele	O
+,	O
+hogy	O
+a	O
+brit	B-NORP
+jog	O
+értelmében	O
+,	O
+ha	O
+a	O
+vallomása	O
+többet	O
+árt	O
+a	O
+férjének	O
+,	O
+mint	O
+használ	O
+,	O
+nem	O
+idézhető	O
+be	O
+a	O
+védelem	O
+tanújaként	O
+?	O
+
+Milyen	O
+kényelmes	O
+megoldás	O
+.	O
+
+Itt	O
+most	O
+egy	O
+főbenjáró	O
+bűntettről	O
+van	O
+szó	O
+.	O
+
+A	O
+vád	O
+mindent	O
+el	O
+fog	O
+követni	O
+,	O
+hogy	O
+felakasztassa	O
+a	O
+férjét	O
+.	O
+
+Nem	O
+a	O
+férjem	O
+.	O
+
+Leonard	B-PER
+és	O
+én	O
+hivatalosan	O
+ugyan	O
+összeházasodtunk	O
+,	O
+azonban	O
+az	O
+én	O
+igazi	O
+férjem	O
+Kelet-Németországban	B-GPE
+,	O
+orosz	B-NORP
+területen	O
+él	O
+.	O
+
+Elmondta	O
+ezt	O
+Leonardnak	B-PER
+?	O
+
+Nem	O
+mondtam	O
+el	O
+.	O
+
+Nem	O
+vagyok	O
+ennyire	O
+ostoba	O
+.	O
+
+Ha	O
+tudott	O
+volna	O
+róla	O
+,	O
+nem	O
+vett	O
+volna	O
+feleségül	O
+,	O
+én	O
+pedig	O
+éhezhettem	O
+volna	O
+tovább	O
+az	O
+országom	O
+romjai	O
+között	O
+.	O
+
+Így	O
+viszont	O
+feleségül	O
+vette	O
+magát	O
+,	O
+és	O
+gondoskodott	O
+a	O
+biztonságáról	O
+.	O
+
+Nem	O
+gondolja	O
+,	O
+hogy	O
+hálával	O
+tartozik	O
+neki	O
+mindezért	O
+?	O
+
+A	O
+hálálkodás	O
+meglehetősen	O
+fárasztó	O
+tud	O
+lenni	O
+.	O
+
+A	O
+férje	O
+nagyon	O
+szereti	O
+magát	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Leonard	B-PER
+?	O
+
+A	O
+lábnyomomat	O
+is	O
+megcsókolja	O
+.	O
+
+Túl	O
+sokat	O
+szeretnének	O
+tudni	O
+.	O
+
+Auf	O
+Wiedersehen	O
+,	O
+uraim	O
+.	O
+
+Köszönjük	O
+,	O
+hogy	O
+idefáradt	O
+,	O
+Mrs.	O
+Látogatásának	O
+köszönhetően	O
+bizakodva	O
+tekintünk	O
+a	O
+jövőbe	O
+.	O
+
+Ne	O
+aggódjon	O
+,	O
+Sir	B-PER
+Wilfrid	I-PER
+.	O
+
+Biztosítani	O
+fogom	O
+számára	O
+az	O
+alibit	O
+,	O
+sőt	O
+,	O
+mi	O
+több	O
+rendkívül	O
+meggyőzően	O
+.	O
+
+Könnyes	O
+szemmel	O
+fogom	O
+elrebegni	O
+,	O
+hogy	O
+Leonard	B-PER
+pontban	O
+9.26-kor	B-TIME
+ért	O
+haza	O
+.	O
+
+Igazán	O
+figyelemreméltó	O
+asszony	O
+maga	O
+,	O
+Mrs.	O
+Maguk	O
+pedig	O
+remélem	O
+,	O
+elégedettek	O
+.	O
+
+Átkozott	O
+legyek	O
+,	O
+ha	O
+meg	O
+vagyok	O
+elégedve	O
+.	O
+
+Gondoskodjak	O
+egy	O
+szippantásnyi	O
+repülősóról	O
+?	O
+
+Ez	O
+a	O
+nő	O
+készül	O
+valamire	O
+.	O
+
+De	O
+mire	O
+?	O
+
+A	O
+tanúk	O
+padjában	O
+a	O
+vád	O
+egy	O
+szempillantás	O
+alatt	O
+megtöri	O
+.	O
+
+Ez	O
+az	O
+ügy	O
+egyre	O
+inkább	O
+hasonlatossá	O
+válik	O
+egy	O
+könnyűlovas	O
+támadáshoz	O
+,	O
+vagy	O
+azokhoz	O
+a	O
+japán	B-NORP
+öngyilkos	O
+pilótákhoz	O
+.	O
+
+Rendkívül	O
+egyoldalú	O
+.	O
+
+A	O
+másik	O
+oldalt	O
+is	O
+megszemlélve	O
+pedig	O
+egyenlőtlen	O
+.	O
+
+Nincsen	O
+túl	O
+sok	O
+minden	O
+a	O
+kezemben	O
+,	O
+nem	O
+igaz	O
+?	O
+
+Ami	O
+azt	O
+illeti	O
+,	O
+semmi	O
+sincs	O
+.	O
+
+Hadd	O
+kérdezzek	O
+valamit	O
+.	O
+
+Hisz	O
+maga	O
+Leonard	B-PER
+Vole	I-PER
+ártatlanságában	O
+?	O
+
+Hisz	O
+benne	O
+?	O
+
+Nem	O
+vagyok	O
+benne	O
+biztos	O
+.	O
+
+Sajnálom	O
+,	O
+Wilfrid	B-PER
+.	O
+
+Természetesen	O
+megteszem	O
+a	O
+tőlem	O
+telhető	O
+legtöbbet	O
+.	O
+
+Jól	O
+van	O
+,	O
+Brogan-Moore	B-PER
+.	O
+
+Innentől	O
+átveszem	O
+.	O
+
+Felhívtam	O
+Dr.	B-PER
+Harrisont	I-PER
+és	O
+beszámoltam	O
+neki	O
+a	O
+gyalázatos	O
+viselkedéséről	O
+.	O
+
+Adjon	O
+egy	O
+gyufát	O
+,	O
+Miss	O
+Plimsoll	B-PER
+.	O
+
+Nem	O
+hallotta	O
+?	O
+
+Egy	O
+gyufát	O
+.	O
+
+Értesültem	O
+már	O
+róla	O
+,	O
+hogy	O
+maguk	O
+fognak	O
+képviselni	O
+.	O
+
+Nagyon	O
+hálás	O
+vagyok	O
+érte	O
+.	O
+
+Alkut	O
+kötöttem	O
+az	O
+orvosaimmal	O
+.	O
+
+Amint	O
+végeztünk	O
+itt	O
+az	O
+üggyel	O
+,	O
+a	O
+Bermudákra	B-GPE
+száműznek	O
+.	O
+
+Remélem	O
+,	O
+mindketten	O
+túléljük	O
+.	O
+
+Vegye	O
+fel	O
+ezt	O
+.	O
+
+Készítenünk	O
+kell	O
+egy	O
+fényképet	O
+.	O
+
+Ezt	O
+viselte	O
+akkor	O
+éjszaka	O
+.	O
+
+Körbeküldjük	O
+a	O
+városban	O
+a	O
+fényképét	O
+,	O
+hátha	O
+valaki	O
+látta	O
+magát	O
+,	O
+amint	O
+hazafelé	O
+tart	O
+.	O
+

@@ -1,0 +1,1417 @@
+# global.columns = FORM ONPP:NER
+Nos	O
+,	O
+én	O
+sem	O
+vagyok	O
+az	O
+!	O
+
+Szonár	O
+,	O
+itt	O
+a	O
+Kapitány	O
+!	O
+
+Mélyvízi	O
+keresést	O
+megkezdeni	O
+!	O
+
+Gondoskodjon	O
+róla	O
+,	O
+hogy	O
+a	O
+híd	O
+hangszóróján	O
+is	O
+hallható	O
+legyen	O
+!	O
+
+Leengedem	O
+a	O
+hanglokátort	O
+.	O
+
+A	O
+szonár	O
+keresi	O
+,	O
+uram	O
+.	O
+
+Ki	O
+van	O
+a	O
+szonárnál	O
+,	O
+Mr.	O
+Ware	B-PER
+?	O
+
+Lewis	B-PER
+,	O
+uram	O
+.	O
+
+Jól	O
+végzi	O
+a	O
+dolgát	O
+.	O
+
+Ő	O
+az	O
+!	O
+
+Megtaláltuk	O
+,	O
+uram	O
+!	O
+
+Ezt	O
+hagyják	O
+nyitva	O
+!	O
+
+A	O
+célpont	O
+még	O
+mindig	O
+a	O
+korábbi	O
+1-4-0	O
+irányon	O
+van	O
+.	O
+
+Ráfordulunk	O
+1-4-0-ra	O
+,	O
+amikor	O
+a	O
+hátában	O
+leszünk	O
+.	O
+
+Szonár	O
+csapódás	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Megtalált	O
+minket	O
+.	O
+
+Kíván	O
+irányt	O
+változtatni	O
+?	O
+
+Várunk	O
+,	O
+míg	O
+azt	O
+nem	O
+gondolja	O
+,	O
+hogy	O
+bemérte	O
+a	O
+mélységünket	O
+.	O
+
+Elég	O
+gyorsan	O
+be	O
+fogjuk	O
+mérni	O
+,	O
+uram	O
+.	O
+
+A	O
+mélyvízi	O
+bombát	O
+kezelők	O
+a	O
+mélységet	O
+kérdik	O
+,	O
+uram	O
+!	O
+
+Állítsák	O
+75-re	B-CARDINAL
+!	O
+
+De	O
+lehet	O
+,	O
+megváltoztatom	O
+mielőtt	O
+tüzelünk	O
+.	O
+
+Állítsák	O
+a	O
+sorozatot	O
+75-re	B-CARDINAL
+!	O
+
+Állítsátok	O
+75-re	B-CARDINAL
+!	O
+
+Állítsa	O
+a	O
+sorozatot	O
+75-re	B-CARDINAL
+!	O
+
+Beállítva	O
+!	O
+
+Betölteni	O
+!	O
+
+Betöltve	O
+!	O
+
+Távolság	O
+500	B-CARDINAL
+,	O
+gyorsan	O
+közelít	O
+!	O
+
+Távolság	O
+500	B-CARDINAL
+,	O
+gyorsan	O
+közelít	O
+.	O
+
+300	B-QUANTITY
+yard	I-QUANTITY
+,	O
+uram	O
+.	O
+
+A	O
+sorozat	O
+75-re	B-CARDINAL
+állítva	O
+,	O
+uram	O
+.	O
+
+Tüzelésre	O
+felkészülni	O
+!	O
+
+Felkészülni	O
+.	O
+
+Bal	O
+vörös	O
+3	B-CARDINAL
+!	O
+
+Merülés	O
+150-re	B-CARDINAL
+!	O
+
+150	B-CARDINAL
+!	O
+
+Mélyebbre	O
+merül	O
+.	O
+
+Mélyvízi	O
+bombákat	O
+átállítani	O
+150-re	B-CARDINAL
+!	O
+
+Átállítani	O
+150-re	B-CARDINAL
+!	O
+
+Ismétlem	O
+:	O
+átállítani	O
+150-re	B-CARDINAL
+!	O
+
+Biztosítsa	O
+!	O
+
+Egyes	O
+tűz	O
+!	O
+
+Kettes	O
+tűz	O
+!	O
+
+Ugyan	O
+már	O
+,	O
+Ellis	B-PER
+!	O
+
+Ne	O
+szórakozz	O
+!	O
+
+Hagyd	O
+azt	O
+a	O
+10	B-MONEY
+centest	I-MONEY
+!	O
+
+Sérült	O
+!	O
+
+Hármas	O
+tűz	O
+!	O
+
+Ideje	O
+újratölteni	O
+.	O
+
+Valaki	O
+vegye	O
+át	O
+a	O
+helyét	O
+!	O
+
+Bal	O
+vörös	O
+három	B-CARDINAL
+!	O
+
+Álcát	O
+kiengedni	O
+!	O
+
+Valami	O
+trükköt	O
+használ	O
+.	O
+
+Le	O
+tudják	O
+választani	O
+róla	O
+?	O
+
+Már	O
+jön	O
+ki	O
+belőle	O
+,	O
+uram	O
+.	O
+
+Nagyjából	O
+0-8-0	B-QUANTITY
+fokra	I-QUANTITY
+tart	O
+.	O
+
+Kormánylapátot	O
+10	B-QUANTITY
+fokkal	I-QUANTITY
+balra	O
+!	O
+
+Mélyvízi	O
+bombafüzéreket	O
+átállítani	O
+150-re	B-CARDINAL
+.	O
+
+Kormánylapátot	O
+balra	O
+,	O
+30	B-QUANTITY
+fokra	I-QUANTITY
+.	O
+
+0-8-0-t	O
+tartani	O
+.	O
+
+Irányt	O
+változtatni	O
+,	O
+és	O
+felvinni	O
+50-re	B-CARDINAL
+.	O
+
+Irányt	O
+változtatni	O
+.	O
+
+Felvinni	O
+50-re	B-CARDINAL
+!	O
+
+50-re	B-CARDINAL
+!	O
+
+Irány	O
+megváltoztatva	O
+!	O
+
+Mélység	O
+elérve	O
+!	O
+
+A	O
+visszhang	O
+elgyengült	O
+.	O
+
+Elveszítettem	O
+a	O
+kapcsolatot	O
+.	O
+
+Lewis	B-PER
+nem	O
+találja	O
+,	O
+uram	O
+.	O
+
+Folytassák	O
+a	O
+mélyvízi	O
+keresést	O
+.	O
+
+Sebességet	O
+2/3-ra	B-CARDINAL
+csökkenteni	O
+.	O
+
+Sebességet	O
+2/3-ra	B-CARDINAL
+csökkenteni	O
+!	O
+
+Mackeson	B-PER
+!	O
+
+Felteszek	O
+egy	O
+hipotetikus	O
+kérdést	O
+.	O
+
+Vegyük	O
+kiinduló	O
+pontnak	O
+a	O
+célponttal	O
+való	O
+első	B-ORDINAL
+találkozásunkat	O
+.	O
+
+Az	O
+irányunk	O
+1-6-4	B-CARDINAL
+volt	O
+,	O
+uram	O
+.	O
+
+Legyen	O
+a	O
+cél	O
+irányzéka	O
+2-6-0	O
+,	O
+tartsuk	O
+rajta	O
+30	B-DUR
+percig	I-DUR
+4	B-CARDINAL
+csomós	O
+sebességen	O
+.	O
+
+2-6-0	O
+,	O
+30	B-DUR
+perc	I-DUR
+,	O
+4	B-CARDINAL
+csomó	O
+.	O
+
+Helyezze	O
+vissza	O
+az	O
+1-4-0	B-CARDINAL
+irányra	O
+30	B-DUR
+percre	I-DUR
+,	O
+8	B-QUANTITY
+csomós	I-QUANTITY
+sebességgel	O
+.	O
+
+1-4-0	O
+,	O
+30	B-DUR
+perc	I-DUR
+,	O
+8	B-CARDINAL
+csomó	O
+.	O
+
+Mi	O
+tartjuk	O
+a	O
+jelenlegi	O
+irányt	O
+,	O
+és	O
+sebességet	O
+fél	B-DUR
+óráig	I-DUR
+.	O
+
+18-nál	B-CARDINAL
+30	B-CARDINAL
+.	O
+
+Innen	O
+adjon	O
+nekem	O
+egy	O
+irányt	O
+és	O
+sebességet	O
+,	O
+hogy	O
+elfoghassam	O
+a	O
+célpontot	O
+.	O
+
+Egy	O
+elvesztett	O
+kapcsolatkeresést	O
+csinálunk	O
+?	O
+
+Úgy	O
+nem	O
+fogjuk	O
+el	O
+ezt	O
+a	O
+madárkát	O
+.	O
+
+Biztos	O
+vagyok	O
+benne	O
+,	O
+hogy	O
+hajógerincünkhöz	O
+jött	O
+,	O
+és	O
+eliszkolt	O
+az	O
+ellenkező	O
+irányba	O
+.	O
+
+Az	O
+irányunk	O
+2-3-9	B-CARDINAL
+lenne	O
+,	O
+a	O
+sebesség	O
+19	B-QUANTITY
+csomó	I-QUANTITY
+.	O
+
+A	O
+hajsza	O
+kezdetétől	O
+28	B-TIME
+percen	I-TIME
+belül	O
+elfognánk	O
+,	O
+uram	O
+.	O
+
+Rendben	O
+,	O
+megpróbáljuk	O
+.	O
+
+A	O
+célpont	O
+lehet	O
+nem	O
+fog	O
+visszatérni	O
+1-4-0-ra	B-CARDINAL
+,	O
+uram	O
+.	O
+
+Szerintem	O
+vissza	O
+fog	O
+.	O
+
+Fontos	O
+küldetése	O
+van	O
+.	O
+
+Hamarosan	O
+semmi	O
+sem	O
+menti	O
+meg	O
+az	O
+elsüllyedéstől	O
+.	O
+
+Adja	O
+át	O
+a	O
+harcállomásnak	O
+,	O
+hogy	O
+pihenj	O
+.	O
+
+Elgyengül	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Eltávolodik	O
+.	O
+
+Gondolja	O
+,	O
+hogy	O
+feladta	O
+,	O
+Herr	O
+Kapitän	O
+?	O
+
+Lehetséges	O
+.	O
+
+De	O
+,	O
+hogy	O
+biztosak	O
+legyünk	O
+benne	O
+,	O
+egy	O
+darabig	O
+tartjuk	O
+ezt	O
+az	O
+irányt	O
+,	O
+mielőtt	O
+visszafordulunk	O
+1-4-0-ra	B-CARDINAL
+.	O
+
+Hogy	O
+megy	O
+?	O
+
+Jól	O
+megy	O
+,	O
+matrózok	O
+.	O
+
+Robbins	B-PER
+magasabb	O
+180	B-QUANTITY
+centinél	I-QUANTITY
+.	O
+
+Ez	O
+a	O
+fickó	O
+nem	O
+munkakerülő	O
+.	O
+
+Amputálnom	O
+kellett	O
+az	O
+ujjait	O
+.	O
+
+Mennyi	O
+idő	O
+alatt	O
+töltöttek	O
+újra	O
+,	O
+Mr.	O
+Crain	B-PER
+?	O
+
+Elsőre	B-ORDINAL
+3	B-DUR
+perc	I-DUR
+3	I-DUR
+,	O
+másodszorra	B-ORDINAL
+2	B-DUR
+perc	I-DUR
+40	I-DUR
+,	O
+uram	O
+.	O
+
+Adja	O
+át	O
+a	O
+csapatának	O
+,	O
+hogy	O
+szép	O
+volt	O
+.	O
+
+Feküdjön	O
+vissza	O
+,	O
+matróz	O
+.	O
+
+Önnek	O
+már	O
+véget	O
+ért	O
+a	O
+háború	O
+.	O
+
+Súlyos	O
+?	O
+
+Elvesztette	O
+az	O
+ujjait	O
+.	O
+
+Az	O
+én	O
+hibámból	O
+.	O
+
+Nem	O
+kellett	O
+volna	O
+olyan	O
+gyorsan	O
+kiüríttetnem	O
+a	O
+rekeszeket	O
+.	O
+
+Nem	O
+lett	O
+volna	O
+szabad	O
+megfognom	O
+a	O
+sínt	O
+.	O
+
+Azt	O
+hiszem	O
+nagyon	O
+izgatott	O
+voltam	O
+,	O
+uram	O
+.	O
+
+Repülővel	O
+eljuttatjuk	O
+az	O
+államokba	O
+,	O
+amint	O
+visszatérünk	O
+Trinidadba	B-GPE
+.	O
+
+Seperc	O
+alatt	O
+visszatér	O
+a	O
+civil	O
+foglalkozásához	O
+.	O
+
+Órás	O
+voltam	O
+.	O
+
+Fontos	O
+hadműveleti	O
+sürgöny	O
+érkezik	O
+,	O
+uram	O
+.	O
+
+Mondja	O
+az	O
+adminisztratív	O
+tisztnek	O
+,	O
+hogy	O
+tartson	O
+velem	O
+a	O
+kripto-terembe	O
+.	O
+
+Nos	O
+,	O
+már	O
+nem	O
+fog	O
+egy	O
+órát	O
+sem	O
+készíteni	O
+.	O
+
+De	O
+jól	O
+megleszek	O
+.	O
+
+Fogadni	O
+mertem	O
+volna	O
+rá	O
+.	O
+
+Jól	O
+van	O
+,	O
+rakjuk	O
+ágyba	O
+.	O
+
+Elkaptuk	O
+a	O
+tengeralattjárót	O
+,	O
+uram	O
+?	O
+
+Nem	O
+,	O
+elvesztettük	O
+.	O
+
+Minden	O
+ujjamat	O
+odaadtam	O
+volna	O
+,	O
+hogy	O
+elkapjuk	O
+azt	O
+a	O
+tengeralattjárót	O
+.	O
+
+Én	O
+nem	O
+tudok	O
+semmit	O
+a	O
+tengeralattjárók	O
+üldözéséről	O
+,	O
+de	O
+úgy	O
+gondolom	O
+,	O
+hogy	O
+az	O
+új	O
+kapitányunk	O
+igen	O
+.	O
+
+Joe	B-PER
+!	O
+
+Ha	O
+az	O
+a	O
+tengeralattjáró	O
+még	O
+a	O
+tengerben	O
+van	O
+,	O
+semmi	O
+esélye	O
+sincs	O
+.	O
+
+A	O
+sürgöny	O
+még	O
+csak	O
+most	O
+jön	O
+át	O
+a	O
+dekóderen	O
+,	O
+uram	O
+.	O
+
+A	O
+Luckman	B-PROD
+,	O
+Wald	B-PROD
+,	O
+Green	B-PROD
+rombolók	O
+leváltak	O
+,	O
+hogy	O
+segítsenek	O
+.	O
+
+A	O
+tengeralattjáró	O
+előre	O
+láthatólag	O
+megpróbál	O
+találkozni	O
+egy	O
+német	B-NORP
+hajóval	O
+.	O
+
+Korlátozza	O
+a	O
+rádióforgalmat	O
+az	O
+óránkénti	B-DUR
+egyszeri	O
+helyzetjelentésre	O
+.	O
+
+Vége	O
+.	O
+
+De	O
+14	B-DUR
+vagy	I-DUR
+15	I-DUR
+órába	I-DUR
+telik	O
+a	O
+rombolóknak	O
+,	O
+hogy	O
+utolérjenek	O
+minket	O
+,	O
+Kapitány	O
+.	O
+
+Ha	O
+elég	O
+szerencsések	O
+vagyunk	O
+,	O
+hogy	O
+megtaláljuk	O
+azt	O
+a	O
+tengeralattjárót	O
+,	O
+lehet	O
+,	O
+hogy	O
+egy	O
+hajóhoz	O
+visz	O
+minket	O
+,	O
+mielőtt	O
+segítséget	O
+kapnánk	O
+,	O
+és	O
+az	O
+nem	O
+lenne	O
+szerencsés	O
+.	O
+
+Azok	O
+a	O
+gyilkos	O
+farkasok	O
+levadászhatnak	O
+és	O
+lehagyhatnak	O
+minket	O
+.	O
+
+Ön	O
+miként	O
+vélekedik	O
+erről	O
+,	O
+Mr.	O
+?	O
+
+Bezárjuk	O
+a	O
+szöget	O
+...	O
+
+14	B-DUR
+percen	I-DUR
+belül	O
+,	O
+uram	O
+.	O
+
+Tegyük	O
+próbára	O
+a	O
+szerencsénket	O
+.	O
+
+Riassza	O
+az	O
+állásokat	O
+,	O
+Mr.	O
+
+Alacsony	O
+a	O
+feszültség	O
+a	O
+bal	O
+oldali	O
+generátorban	O
+.	O
+
+Hívom	O
+a	O
+szerelőket	O
+.	O
+
+Még	O
+levest	O
+,	O
+Herr	O
+Kapitän	O
+?	O
+
+Több	O
+energiát	O
+a	O
+bal	O
+oldali	O
+generátorba	O
+.	O
+
+Nem	O
+olyan	O
+az	O
+íze	O
+,	O
+mint	O
+a	O
+teniszcipőnek	O
+,	O
+Herr	O
+Kapitän	O
+?	O
+
+A	O
+legénység	O
+nem	O
+jó	O
+hozzád	O
+,	O
+Cookie	B-PER
+.	O
+
+Tréfálkoznak	O
+,	O
+ha	O
+boldogok	O
+.	O
+
+Most	O
+boldogok	O
+?	O
+
+Büszkék	O
+önre	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Köszönöm	O
+,	O
+Cookie	B-PER
+.	O
+
+Már	O
+majdnem	O
+50	B-DUR
+perce	I-DUR
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Kunz	B-PER
+!	O
+
+Igen	O
+,	O
+Herr	O
+Kapitän	O
+?	O
+
+Vigye	O
+a	O
+hajót	O
+periszkóp	O
+mélységbe	O
+.	O
+
+Ragyogóan	O
+manőverezett	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+A	O
+Führer	B-PER
+elégedett	O
+lenne	O
+.	O
+
+Herr	O
+Kapitän	O
+!	O
+
+Hajtócsavarok	O
+1200	B-QUANTITY
+méterre	I-QUANTITY
+.	O
+
+Merről	O
+?	O
+
+Balról	O
+.	O
+
+18	B-QUANTITY
+méter	I-QUANTITY
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Álljanak	O
+készen	O
+vészmerülésre	O
+.	O
+
+Vészmerülésre	O
+készen	O
+állni	O
+!	O
+
+Le	O
+80-ra	B-CARDINAL
+!	O
+
+80-ra	B-CARDINAL
+!	O
+
+Az	O
+amerikai	B-NORP
+olvasott	O
+a	O
+gondolataimban	O
+,	O
+Heini	B-PER
+.	O
+
+Vízi	O
+bombák	O
+!	O
+
+Bal	O
+vörös	O
+3	B-CARDINAL
+,	O
+le	O
+150-re	B-CARDINAL
+!	O
+
+Bal	O
+vörös	O
+3	B-CARDINAL
+,	O
+150	B-CARDINAL
+!	O
+
+Hajókormányt	O
+balra	O
+.	O
+
+Állítsák	O
+a	O
+mélyvízi	O
+bombákat	O
+150-re	B-CARDINAL
+.	O
+
+Hol	O
+a	O
+tengerfenék	O
+?	O
+
+Egy	O
+fennsík	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Nagyjából	O
+310	B-QUANTITY
+méter	I-QUANTITY
+.	O
+
+Nem	O
+lehetséges	O
+olyan	O
+mélyre	O
+menni	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+A	O
+nyomás	O
+összeroppantaná	O
+a	O
+hajótestet	O
+.	O
+
+A	O
+fenékre	O
+.	O
+
+Herr	O
+Kapitän	O
+...	O
+
+Hajtóműveket	O
+leállítani	O
+!	O
+
+Hajtóműveket	O
+leállítani	O
+.	O
+
+Jól	O
+megépítettük	O
+őket	O
+Németországban	B-GPE
+,	O
+igaz	O
+,	O
+Heini	B-PER
+?	O
+
+Megint	O
+meglépett	O
+előlem	O
+.	O
+
+Semmi	O
+mást	O
+,	O
+csak	O
+a	O
+fenék	O
+visszhangot	O
+hallom	O
+.	O
+
+A	O
+szonár	O
+elvesztette	O
+,	O
+Kapitány	B-PER
+.	O
+
+Adja	O
+meg	O
+a	O
+fathométeres	O
+vizsgálat	O
+eredményét	O
+.	O
+
+150	B-QUANTITY
+fathom	I-QUANTITY
+,	O
+uram	O
+.	O
+
+Az	B-QUANTITY
+310	I-QUANTITY
+méter	I-QUANTITY
+...	O
+
+Az	O
+több	B-QUANTITY
+mint	I-QUANTITY
+1000	I-QUANTITY
+láb	I-QUANTITY
+.	O
+
+Le	O
+tud	O
+menni	O
+olyan	O
+mélyre	O
+?	O
+
+Talán	O
+azt	O
+akarja	O
+velünk	O
+elhitetni	O
+,	O
+hogy	O
+nem	O
+.	O
+
+Lassan	O
+állítsák	O
+le	O
+a	O
+turbinákat	O
+.	O
+
+Teljes	O
+csendet	O
+akarok	O
+a	O
+hajón	O
+.	O
+
+Szonár	O
+,	O
+itt	O
+a	O
+Kapitány	B-PER
+.	O
+
+Kísérjék	O
+figyelemmel	O
+a	O
+hidrofont	O
+.	O
+
+Ha	O
+odalent	O
+van	O
+,	O
+nem	O
+hiszem	O
+,	O
+hogy	O
+sokáig	O
+fog	O
+időzni	O
+.	O
+
+A	O
+hajtómű	O
+hangja	O
+gyengül	O
+.	O
+
+Nem	O
+köröz	O
+?	O
+
+Elment	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Egy	O
+darabig	O
+hallgatózunk	O
+.	O
+
+Sh	O
+!	O
+

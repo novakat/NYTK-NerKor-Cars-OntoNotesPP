@@ -1,0 +1,193 @@
+# global.columns = FORM ONPP:NER
+Az	O
+északi	O
+csuszka	O
+a	O
+madarak	O
+osztályának	O
+a	O
+verébalakúak	O
+rendjébe	O
+,	O
+ezen	O
+belül	O
+a	O
+csuszkafélék	O
+családjába	O
+tartozó	O
+csuszka	O
+alfaja	O
+.	O
+
+Az	O
+északi	O
+csuszka	O
+Skandinávia	B-GPE
+,	O
+Kelet-Európa	B-LOC
+és	O
+Oroszország	B-GPE
+területein	O
+fordul	O
+elő	O
+.	O
+
+Az	O
+északi	O
+csuszka	O
+testhossza	O
+14	B-QUANTITY
+centiméter	I-QUANTITY
+,	O
+testtömege	O
+20-24	B-QUANTITY
+gramm	I-QUANTITY
+.	O
+
+Eltérően	O
+a	O
+törzsfajtól	O
+,	O
+az	O
+északi	O
+csuszkának	O
+a	O
+hasán	O
+lévő	O
+tollazat	O
+teljesen	O
+fehér	O
+.	O
+
+Csőre	O
+olyan	O
+,	O
+mint	O
+a	O
+harkályé	O
+:	O
+rendkívül	O
+hegyes	O
+,	O
+még	O
+kemény	O
+magvak	O
+felnyitására	O
+is	O
+alkalmas	O
+.	O
+
+A	O
+madár	O
+három	B-CARDINAL
+lábujja	O
+előre	O
+,	O
+egy	O
+pedig	O
+hátrafelé	O
+néz	O
+.	O
+
+A	O
+költési	O
+időn	O
+kívül	O
+is	O
+többnyire	O
+párban	O
+él	O
+.	O
+
+Tápláléka	O
+rovarok	O
+és	O
+lárváik	O
+,	O
+hernyók	O
+,	O
+magvak	O
+.	O
+
+A	O
+leghosszabb	O
+ismert	O
+élettartam	O
+több	B-DATE
+mint	I-DATE
+10	I-DATE
+év	I-DATE
+.	O
+
+Az	O
+ivarérettséget	O
+egyéves	B-DATE
+korban	O
+éri	O
+el	O
+.	O
+
+A	O
+költési	O
+időszak	O
+április-június	B-DATE
+között	O
+van	O
+.	O
+
+Évente	O
+egyszer	O
+költ	O
+.	O
+
+A	O
+fészek	O
+egy	O
+faodúban	O
+található	O
+.	O
+
+A	O
+fészekalj	O
+5-8	B-CARDINAL
+fehér	O
+,	O
+vörösesbarnán	O
+pettyezett	O
+tojásból	O
+áll	O
+.	O
+
+A	O
+tojásokon	O
+13-15	B-DATE
+napig	I-DATE
+kotlik	O
+a	O
+tojó	O
+,	O
+eközben	O
+a	O
+hím	O
+látja	O
+el	O
+táplálékkal	O
+.	O
+
+A	O
+fiókákat	O
+mindkét	O
+szülő	O
+eteti	O
+.	O
+
+A	O
+fiatal	O
+madarak	O
+23-25	B-DATE
+nap	I-DATE
+után	O
+repülnek	O
+ki	O
+.	O
+

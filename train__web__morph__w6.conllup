@@ -1,0 +1,36 @@
+# global.columns = FORM ONPP:NER
+Több	O
+eszköz	O
+áll	O
+a	O
+rendelkezésedre	O
+,	O
+hogy	O
+megvizsgáld	O
+,	O
+és	O
+kezelni	O
+tudd	O
+a	O
+kis	O
+betegeket	O
+.	O
+
+Megjegyzés	O
+:	O
+a	O
+Baby	B-WORK_OF_ART
+Doctor	I-WORK_OF_ART
+Office-t	I-WORK_OF_ART
+ingyenesen	O
+lehet	O
+játszani	O
+,	O
+de	O
+aktív	O
+az	O
+in-app	O
+vásárlás	O
+opció	O
+.	O
+

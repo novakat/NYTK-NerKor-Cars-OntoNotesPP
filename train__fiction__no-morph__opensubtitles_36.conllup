@@ -1,0 +1,1644 @@
+# global.columns = FORM ONPP:NER
+Hakuten	B-PER
+te	O
+gyáva	O
+!	O
+
+Várjatok	O
+ti	O
+ketten	O
+!	O
+
+Használhatjátok	O
+a	O
+lovaimat	O
+.	O
+
+Menjetek	O
+utána	O
+!	O
+
+Hakuten	B-PER
+,	O
+készülj	O
+a	O
+halálra	O
+!	O
+
+Nem	O
+fogok	O
+!	O
+
+Hakuten	B-PER
+!	O
+
+Nincsenek	O
+mocskos	O
+trükkök	O
+.	O
+
+Halj	O
+meg	O
+mint	O
+egy	O
+szamuráj	O
+!	O
+
+Gyáva	O
+.	O
+
+Gyere	O
+vissza	O
+!	O
+
+Megállj	O
+Hakuten	B-PER
+!	O
+
+Sanosuke	B-PER
+.	O
+
+Használd	O
+a	O
+shurikened	O
+!	O
+shuriken	O
+=	O
+dobócsillag	O
+Átok	O
+rá	O
+!	O
+
+A	O
+verseny	O
+végső	O
+győztesét	O
+soha	O
+nem	O
+jegyezték	O
+fel	O
+és	O
+Fuji	B-FAC
+várat	I-FAC
+sem	O
+fejezték	O
+be	O
+soha	O
+.	O
+
+Taiuemon	B-PER
+úr	O
+,	O
+Shosai	B-PER
+úr	O
+...	O
+számtalan	O
+falusi	O
+,	O
+aki	O
+életét	O
+adta	O
+nem	O
+haltatok	O
+meg	O
+hiába	O
+.	O
+
+A	O
+hegyláb	O
+emberei	O
+megint	O
+békében	O
+élhetnek	O
+.	O
+
+Emberek	O
+,	O
+törődjetek	O
+ezzel	O
+az	O
+értékes	O
+földdel	O
+és	O
+jó	O
+állapotban	O
+adjátok	O
+át	O
+a	O
+jövő	O
+generációi	O
+számára	O
+.	O
+
+Ezt	O
+akarnák	O
+azok	O
+,	O
+akik	O
+életüket	O
+adták	O
+.	O
+
+Most	O
+búcsúzom	O
+.	O
+
+Az	O
+életem	O
+a	O
+várak	O
+építésére	O
+fogom	O
+áldozni	O
+.	O
+
+Kérjük	O
+,	O
+látogassanak	O
+meg	O
+minket	O
+néha	O
+.	O
+
+Viszlát	O
+,	O
+mindenki	O
+.	O
+
+Viszontlátásra	O
+!	O
+
+Kötözd	O
+ki	O
+gyorsan	O
+!	O
+
+Mindenki	O
+a	O
+partra	O
+!	O
+
+Különös	O
+.	O
+
+A	O
+szigetnek	O
+csak	O
+egy	O
+kis	O
+részét	O
+látjuk	O
+innen	O
+,	O
+de	O
+már	O
+érezni	O
+a	O
+vendégszeretet	O
+hiányát	O
+.	O
+
+És	O
+a	O
+maradandó	O
+élet	O
+hiányát	O
+is	O
+,	O
+mi	O
+?	O
+
+Igen.Ugyanezt	O
+éreztem	O
+mikor	O
+idejöttem	O
+kimenteni	O
+az	O
+első	B-ORDINAL
+csapatukat	O
+.	O
+
+Nem	O
+csak	O
+arra	O
+jöttem	O
+rá	O
+,	O
+hogy	O
+elmentek	O
+,	O
+hanem	O
+hogy	O
+a	O
+testük	O
+és	O
+lelkük	O
+is	O
+örökre	O
+odaveszett	O
+.	O
+
+Kérem	O
+,	O
+hadnagy	O
+,	O
+néhányan	O
+közölük	O
+a	O
+barátaink	O
+voltak	O
+az	O
+intézetből	O
+.	O
+
+Bocsánat	O
+,	O
+Miss	O
+Hunter	B-PER
+.	O
+
+Nem	O
+biztos	O
+hogy	O
+igazi	O
+van	O
+,	O
+monsieur	O
+Quinlan	B-PER
+.	O
+
+Lehet	O
+hogy	O
+a	O
+testük	O
+odaveszett	O
+,	O
+de	O
+a	O
+lelküket	O
+ki	O
+ismerné	O
+,	O
+hm	O
+?	O
+
+Talán	O
+ha	O
+hívom	O
+őket	O
+válaszolnak	O
+...	O
+
+A	O
+szellemük	O
+válaszolni	O
+fog	O
+.	O
+
+McLane	B-PER
+!	O
+
+Hello	O
+!	O
+
+Hadnagy	O
+,	O
+hol	O
+van	O
+a	O
+ház	O
+?	O
+
+Nem	O
+látszik	O
+a	O
+partól	O
+.	O
+
+A	O
+hegyekben	O
+van.Annak	O
+a	O
+szurdoknak	O
+a	O
+háta	O
+mögött	O
+,	O
+elrejtve	O
+a	O
+sziklák	O
+közé	O
+.	O
+
+Milyen	O
+találó	O
+.	O
+
+Majd	O
+vetünk	O
+rá	O
+egy	O
+pillantást	O
+.	O
+
+Nos	O
+,	O
+a	O
+második	B-ORDINAL
+adag	O
+felszereléssel	O
+jönnek	O
+repülővel	O
+,	O
+Egyből	O
+felküldöm	O
+majd	O
+.	O
+
+Óvatosan	O
+!	O
+
+Fel	O
+fognak	O
+borulni	O
+!	O
+
+Katona	O
+,	O
+üljön	O
+le	O
+!	O
+
+Húzzák	O
+ki	O
+a	O
+vízből	O
+!	O
+
+Látom	O
+már.Lent	O
+van	O
+az	O
+alján	O
+.	O
+
+Uram	O
+segíts	O
+.	O
+
+Már	O
+késő	O
+.	O
+
+Bárcsak	O
+visszatalálnának	O
+.	O
+
+Nem	O
+szeretek	O
+itt	O
+lenni	O
+ezzel	O
+a	O
+vízihullával	O
+.	O
+
+Sam	B-PER
+,	O
+mit	O
+keres	O
+egy	O
+ilyen	O
+ideges	O
+fickó	O
+egy	O
+ilyen	O
+küldetésen	O
+?	O
+
+Ideges	O
+?	O
+
+Hogy	O
+érted	O
+,	O
+hogy	O
+ideges	O
+?	O
+
+Nem	O
+vagyok	O
+ideges	O
+,	O
+csak	O
+egy	O
+kicsit	O
+izgatott	O
+,	O
+ennyi	O
+.	O
+
+Inkább	O
+segíts	O
+bevinni	O
+ezeket	O
+a	O
+gránátokat	O
+.	O
+
+Azt	O
+sem	O
+értem	O
+mire	O
+fogjuk	O
+ezeket	O
+használni	O
+.	O
+
+Hacsaknem	O
+azokra	O
+a	O
+dögökre	O
+fogunk	O
+vadászni	O
+.	O
+
+Letépte	O
+a	O
+fejét	O
+...	O
+
+A	O
+fejét	O
+?	O
+
+Attól	O
+tartok	O
+igen	O
+.	O
+
+Visszavisszük	O
+Enewetak-ba	B-GPE
+eltemetni	O
+.	O
+
+Remélem	O
+ennek	O
+az	O
+embernek	O
+a	O
+halála	O
+nem	O
+lesz	O
+rossz	O
+ómen	O
+.	O
+
+Őszintén	O
+,	O
+doktor	O
+,	O
+nem	O
+szeretnék	O
+itt	O
+maradni	O
+magukkal	O
+,	O
+de	O
+ha	O
+bajba	O
+kerülnek	O
+,	O
+vagy	O
+elfogy	O
+az	O
+ellátmány	O
+,	O
+a	O
+bázist	O
+mindig	O
+elérik	O
+rádión	O
+.	O
+
+Reméljük	O
+az	O
+időjárás	O
+engedi	O
+,	O
+hogy	O
+visszamenjünk	O
+.	O
+
+Valami	O
+rossz	O
+van	O
+a	O
+levegőben	O
+.	O
+
+Meg	O
+tudja	O
+mondani	O
+mi	O
+az	O
+,	O
+hadnagy	O
+?	O
+
+Nem	O
+tudom	O
+,	O
+uram	O
+.	O
+
+Talán	O
+túl	O
+nagy	O
+a	O
+csend	O
+,	O
+egy	O
+állatot	O
+se	O
+hallani	O
+.	O
+
+Úgy	O
+látszik	O
+véletlen	O
+felhoztuk	O
+a	O
+dinamitot	O
+is	O
+.	O
+
+Úgy	O
+néz	O
+ki	O
+.	O
+
+Visszaviszem	O
+a	O
+partra	O
+.	O
+
+Elnézést	O
+,	O
+doktor	O
+.	O
+
+Nem	O
+történt	O
+semmi	O
+.	O
+
+Szólítson	O
+nyugodtan	O
+Mártinak	B-PER
+.	O
+
+Rendben	O
+,	O
+Márti	B-PER
+.	O
+
+A	O
+tengerészek	O
+nagyon	O
+jó	O
+munkát	O
+végeztek	O
+itt	O
+.	O
+
+Szinte	O
+kezdem	O
+jól	O
+érezni	O
+magam	O
+.	O
+
+Ja	O
+,	O
+egy	B-DATE
+hónapja	I-DATE
+még	O
+csak	O
+roncs	O
+volt	O
+.	O
+
+Ha	O
+roncsot	O
+akar	O
+látni	O
+,	O
+nézze	O
+meg	O
+a	O
+hátam	O
+.	O
+
+Karl	B-PER
+,	O
+pár	O
+perc	O
+és	O
+besötétedik	O
+.	O
+
+Szeretné	O
+megnézni	O
+a	O
+felszállást	O
+?	O
+
+Én	O
+igen	O
+.	O
+
+Én	O
+megkeresem	O
+a	O
+többieket	O
+.	O
+
+Hadnagy	O
+,	O
+nem	O
+akarom	O
+idegesíteni	O
+,	O
+de	O
+tényleg	O
+nem	O
+maradt	O
+semmi	O
+?	O
+sem	O
+egy	O
+hajszál	O
+,	O
+sem	O
+egy	O
+körömdarab	O
+?	O
+
+Csak	O
+Mclane	B-PER
+naplója	O
+?	O
+
+Ez	O
+minden	O
+,	O
+doktor	O
+.	O
+
+Lehet	O
+,	O
+hogy	O
+meghaltak	O
+,	O
+de	O
+hogy	O
+eltűnjenek	O
+a	O
+Föld	B-LOC
+felszínéről	O
+?	O
+
+A	O
+tengerészet	O
+szerint	O
+egy	O
+kishajóban	O
+voltak	O
+,	O
+amikor	O
+jött	O
+egy	O
+tájfun	O
+.	O
+
+Lássuk	O
+be	O
+,	O
+nem	O
+egyedi	O
+eset	O
+.	O
+
+Igen	O
+,	O
+de	O
+...	O
+
+Mindenki	O
+jól	O
+van	O
+?	O
+
+Igen	O
+,	O
+úgy	O
+néz	O
+ki	O
+.	O
+
+Jól	O
+vagy	O
+,	O
+Mac	B-PER
+?	O
+
+Igen.Semmi	O
+olyan	O
+ami	O
+nem	O
+gyógyítható	O
+.	O
+
+Viszlát	O
+egy	B-DATE
+hónap	I-DATE
+múlva	I-DATE
+!	O
+
+Egy	B-DATE
+hónap	I-DATE
+,	O
+nem	O
+több	O
+,	O
+igen	O
+?	O
+
+Nézzük	O
+majd	O
+magukat	O
+a	O
+sziklákról	O
+.	O
+
+Hallota	O
+azokat	O
+a	O
+hangokat	O
+a	O
+rengés	O
+előtt	O
+?	O
+
+Milyen	O
+hangokat	O
+?	O
+
+Egy	O
+nagy	O
+durranást	O
+,	O
+majd	O
+morajlást	O
+?	O
+
+Attól	O
+tartok	O
+nem	O
+.	O
+
+Doktor	B-PER
+Carson	I-PER
+a	O
+robbanásokra	O
+gondol	O
+.	O
+
+Menjünk	O
+fel	O
+a	O
+sziklákra	O
+.	O
+
+Hey	O
+,	O
+Hank	B-PER
+,	O
+te	O
+tudós	O
+vagy	O
+.	O
+
+Miért	O
+van	O
+szükségük	O
+ránk	O
+ebben	O
+a	O
+koszfészekben	O
+?	O
+
+Nem	O
+vagyok	O
+tudós	O
+.	O
+
+Csak	O
+technikus	O
+és	O
+ezermester	O
+.	O
+
+Szóval	O
+te	O
+sem	O
+tudod	O
+mi	O
+folyik	O
+itt	O
+?	O
+
+Emlékszel	O
+az	O
+első	B-ORDINAL
+nagy	O
+hidrogénbomba	O
+tesztre	O
+?	O
+
+Ami	O
+felrobbantotta	O
+az	O
+egész	O
+Elugelab	B-LOC
+szigetet	O
+az	O
+óceánon	O
+?	O
+
+Ki	O
+tudná	O
+elfelejteni	O
+?	O
+
+Egy	O
+nagy	O
+adag	O
+radioaktiv	O
+sugárzás	O
+terjedt	O
+utána	O
+errefelé	O
+Egy	O
+fortyogó	O
+,	O
+tüzes	O
+felhő	O
+borította	O
+el	O
+ezt	O
+a	O
+helyet	O
+,	O
+elöntözve	O
+a	O
+szigetet	O
+radioaktív	O
+tengervízzel	O
+.	O
+
+Dr.	B-PER
+Weigand	I-PER
+csapata	O
+a	O
+legrosszabb	O
+következményeket	O
+kutatják	O
+.	O
+
+Dr.	B-PER
+James	I-PER
+Carson	I-PER
+geológus	O
+.	O
+
+Megpróbál	O
+rájönni	O
+mi	O
+történt	O
+a	O
+talajjak	O
+.	O
+
+A	O
+botanikus	O
+,	O
+Jules	B-PER
+Deveroux	I-PER
+,	O
+a	O
+megfertőzött	O
+növényeket	O
+vizsgálja	O
+.	O
+
+Martha	B-PER
+Hunter	I-PER
+and	O
+Dale	B-PER
+Drewer	I-PER
+biológusok	O
+.	O
+
+A	O
+férfi	O
+az	O
+állatvilággal	O
+foglalkozik	O
+,	O
+a	O
+nő	O
+pedig	O
+a	O
+tenger	O
+élővilágával	O
+.	O
+
+Dr.	B-PER
+Karl	I-PER
+Weigand	I-PER
+atomfizikus	O
+,	O
+Ő	O
+anyagokat	O
+gyűjt	O
+,	O
+és	O
+összehasonlítja	O
+őket	O
+a	O
+sugárzás	O
+hatásainak	O
+jelen	O
+elképzeléseivel	O
+.	O
+
+Mi	O
+hegyeket	O
+robbantunk	O
+fel	O
+a	O
+geológus	O
+Carlsonnak	B-PER
+.	O
+
+De	O
+ez	O
+már	O
+a	O
+második	B-ORDINAL
+csapat	O
+aki	O
+idejött	O
+.	O
+
+Mi	O
+történt	O
+az	O
+elsővel	B-ORDINAL
+?	O
+
+Itt	O
+voltak	O
+,	O
+de	O
+jött	O
+egy	O
+vihar	O
+.	O
+
+És	O
+eltűntek	O
+,	O
+ez	O
+minden	O
+amit	O
+tudunk	O
+.	O
+
+Senki	O
+nem	O
+is	O
+sejti	O
+?	O
+
+Mindenki	O
+sejt	O
+valamit	O
+,.	O
+csak	O
+nem	O
+szeretnének	O
+róla	O
+beszélni	O
+.	O
+
+Gyerünk	O
+,	O
+lekéssük	O
+a	O
+felszállást	O
+.	O
+
+Hank	B-PER
+,	O
+hozd	O
+a	O
+rádiót	O
+.	O
+
+Van	O
+ott	O
+valami	O
+.	O
+
+Ez	O
+csak	O
+egy	O
+kereskedelmi	O
+csatorna	O
+,	O
+valószínüleg	O
+Manila	B-GPE
+vagy	O
+Szamoa	B-GPE
+.	O
+
+A	O
+zavaros	O
+területen	O
+kívülről	O
+.	O
+
+Nem	O
+tudok	O
+kapcsolatba	O
+kerülni	O
+a	O
+tengerészettel	O
+.	O
+
+Próbálkozzon	O
+.	O
+
+Mind	O
+meghaltak	O
+közülük	O
+...	O
+
+És	O
+még	O
+csak	O
+pár	O
+szót	O
+sem	O
+küldhetünk	O
+a	O
+vihar	O
+miatt	O
+.	O
+
+A	O
+tengerészet	O
+küld	O
+majd	O
+egy	O
+gépet	O
+,	O
+kedves	O
+.	O
+
+Nem	O
+,	O
+a	O
+tengerészet	O
+azt	O
+fogja	O
+hinni	O
+,	O
+Quinlan	B-PER
+hadnagy	O
+úgy	O
+döntött	O
+,	O
+itt	O
+marad	O
+,	O
+és	O
+nem	O
+kockáztatja	O
+meg	O
+az	O
+utat	O
+ilyen	O
+viharban	O
+.	O
+
+Enewetak	B-GPE
+is	O
+hasonló	O
+helyzetben	O
+lehet	O
+.	O
+
+Valószínüleg	O
+nem	O
+tehetünk	O
+semmit	O
+,	O
+amíg	O
+nem	O
+javul	O
+a	O
+helyzet	O
+.	O
+
+Mi	O
+lenne	O
+ha	O
+hagynánk	O
+Hanket	B-PER
+próbálkozni	O
+,	O
+amíg	O
+mi	O
+nekilátunk	O
+a	O
+munkának	O
+?	O
+
+Át	O
+kell	O
+néznünk	O
+McLane	B-PER
+naplóját	O
+.	O
+
+Jobb	O
+lesz	O
+minél	O
+hamarabb	O
+kezdeni	O
+.	O
+
+Akkor	O
+menjünk	O
+a	O
+nappaliba	O
+.	O
+
+Csütörtök	B-DATE
+,	I-DATE
+Március	I-DATE
+11	I-DATE
+.	I-DATE
+
+Dr.	B-PER
+Ben	I-PER
+Diaz	I-PER
+kultúrája	O
+semmilyen	O
+'	O
+baktériumot	O
+nem	O
+hozott	O
+létre	O
+,	O
+pedig	O
+4-5	B-DATE
+napig	I-DATE
+nyitva	O
+volt	O
+.	O
+
+Péntek	B-DATE
+,	I-DATE
+Március	I-DATE
+12	I-DATE
+.	I-DATE
+
+Délután	B-TIME
+Carter	B-PER
+professzor	O
+talált	O
+egy	O
+nagy	O
+darab	O
+húst	O
+,	O
+ami	O
+a	O
+gilisztáéhoz	O
+volt	O
+hasonló	O
+,	O
+csak	O
+éppen	O
+24	B-QUANTITY
+inch-csel	I-QUANTITY
+nagyobb	O
+.	O
+
+Ekkora	O
+méretekkel	O
+,	O
+a	O
+gilisztaszerű	O
+lény	O
+5	B-QUANTITY
+láb	I-QUANTITY
+hosszú	O
+is	O
+lehet	O
+.	O
+
+Legérdekesebb	O
+a	O
+szövetek	O
+összetétele	O
+.	O
+
+Lehetetlen	O
+szétvágni	O
+,	O
+a	O
+húsba	O
+szúrt	O
+kés	O
+még	O
+csak	O
+nyomot	O
+sem	O
+hagy	O
+.	O
+
+Tűznek	O
+is	O
+alávetették	O
+,	O
+az	O
+eredmény	O
+pedig	O
+...	O
+
+A	O
+bejegyzés	O
+itt	O
+véget	O
+ér	O
+.	O
+
+Későre	O
+jár	O
+.	O
+
+Miért	O
+nem	O
+dolgozzuk	O
+ki	O
+a	O
+holnapi	B-DATE
+menetrendet	O
+és	O
+térünk	O
+aludni	O
+?	O
+
+Mi	O
+lesz	O
+azzal	O
+az	O
+5	B-QUANTITY
+láb	I-QUANTITY
+hosszú	O
+izével	O
+?	O
+
+Bocsássák	O
+meg	O
+a	O
+butaságomat	O
+.	O
+
+Csak	O
+a	O
+könyv	O
+,	O
+amit	O
+olvasott	O
+...	O
+
+Nem	O
+nevetjük	O
+ki	O
+,	O
+Hank	B-PER
+.	O
+
+Csak	O
+nem	O
+biztos	O
+,	O
+hogy	O
+tényleg	O
+egy	O
+5	B-QUANTITY
+láb	I-QUANTITY
+hosszú	O
+féregről	O
+van	O
+szó	O
+.	O
+
+Annyit	O
+mondott	O
+,	O
+hogy	O
+féregszerű	O
+"	O
+Lehet	O
+,	O
+hogy	O
+csak	O
+egy	O
+tengeri	O
+féreg	O
+.	O
+
+Közismert	O
+,	O
+hogy	O
+megnőhetnek	O
+nagyobbra	O
+is	O
+.	O
+
+Elnézést	O
+,	O
+hogy	O
+jártatom	O
+a	O
+számat	O
+,	O
+de	O
+a	O
+bejegyzésben	O
+nincs	O
+szó	O
+tengerről	O
+...	O
+
+Csak	O
+férgekről	O
+.	O
+
+Semmilyen	O
+okom	O
+nincs	O
+rá	O
+,	O
+hogy	O
+elhiggyem	O
+McLane	B-PER
+féreg-elméletét	O
+.	O
+
+Maga	O
+jobban	O
+tudja	O
+nálam	O
+.	O
+
+De	O
+kérdem	O
+én	O
+,	O
+miért	O
+hagyja	O
+abba	O
+egy	O
+tudós	O
+az	O
+írást	O
+a	O
+mondat	O
+közepén	O
+?	O
+
+Igen	O
+,	O
+miért	O
+,	O
+Karl	B-PER
+?	O
+
+Ha	O
+csaknem	O
+valami	O
+szokatlan	O
+történt	O
+,	O
+biztos	O
+befejezte	O
+volna	O
+.	O
+
+Úgy	O
+gondolom	O
+rá	O
+fogunk	O
+jönni	O
+.	O
+
+Nos	O
+uraim	O
+,	O
+ma	B-DATE
+reggel	O
+lemegyek	O
+a	O
+déli	O
+völgybe	O
+.	O
+
+Tudják	O
+,	O
+egy	O
+bogarat	O
+sem	O
+láttam	O
+mióta	O
+itt	O
+vagyunk	O
+.	O
+
+Shh	O
+.	O
+
+Csöndet	O
+.	O
+
+Hallgassák	O
+.	O
+
+Csak	O
+a	O
+szél	O
+.	O
+
+Halálra	O
+ijesztett	O
+.	O
+
+Tudja	O
+,	O
+nem	O
+könnyű	O
+kifejezni	O
+magam	O
+a	O
+víz	O
+alatt	O
+.	O
+
+Különben	O
+,	O
+rémültnek	O
+tűnt	O
+odalent	O
+.	O
+
+Az	O
+is	O
+voltam	O
+...	O
+
+És	O
+elveszett.	O
+tudja	O
+,	O
+Dale	B-PER
+,	O
+vicces	O
+,	O
+de	O
+...	O
+
+Egy	O
+nagy	O
+fekete	O
+sziklát	O
+használtam	O
+tájékozódási	O
+pontnak	O
+,	O
+de	O
+mikor	O
+visszaúsztam	O
+a	O
+szikla	O
+eltűnt	O
+.	O
+
+Nos	O
+,	O
+láttam	O
+valamit	O
+mozogni	O
+a	O
+kozelében	O
+.	O
+
+Vajon	O
+mi	O
+lehetett	O
+?	O
+
+Csak	O
+egy	O
+fekete	O
+árny	O
+,	O
+ami	O
+a	O
+hínárban	O
+mozgott	O
+.	O
+
+Rákok	O
+és	O
+sirályok	O
+.	O
+
+Minden	O
+más	O
+halott	O
+.	O
+
+Dale	B-PER
+!	O
+
+Martha	B-PER
+!	O
+
+Mi	O
+a	O
+baj	O
+,	O
+Carson	B-PER
+?	O
+
+Jöjjenek	O
+fel	O
+az	O
+ösvényen	O
+,	O
+ott	O
+találkozunk	O
+!	O
+
+Biztos	O
+találtak	O
+valamit.Jöjjön	O
+,	O
+kedves	O
+.	O
+
+Várjanak	O
+.	O
+
+Leszakadt	O
+a	O
+gerinc	O
+.	O
+
+Honnan	O
+?	O
+
+Jöjjenek	O
+,	O
+nézzék	O
+meg	O
+maguk	O
+.	O
+
+Dehát	O
+reggel	O
+ugyanitt	O
+jöttem	O
+le	O
+a	O
+partra	O
+.	O
+

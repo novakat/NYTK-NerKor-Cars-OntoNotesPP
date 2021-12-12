@@ -1,0 +1,1471 @@
+# global.columns = FORM ONPP:NER
+Te	O
+vagy	O
+!	O
+
+Genrokut	B-PER
+választotta	O
+ki	O
+Hakuten	B-PER
+,	O
+hogy	O
+megossza	O
+a	O
+falut	O
+...	O
+azáltal	O
+,	O
+hogy	O
+szembe	O
+állítja	O
+apát	O
+a	O
+vejével	O
+.	O
+
+Ráadásul	O
+megpróbálja	O
+ellopni	O
+Sató	B-PER
+úr	O
+titkát	O
+.	O
+
+Használd	O
+a	O
+kötelet	O
+amit	O
+kaptál	O
+,	O
+és	O
+mérd	O
+le	O
+újra	O
+a	O
+fákat	O
+.	O
+
+De	O
+uram	O
+,	O
+ezek	O
+a	O
+kötelek	O
+rövidebbek	O
+,	O
+mint	O
+három	B-CARDINAL
+láb	O
+.	O
+
+Azt	O
+mondom	O
+,	O
+ez	O
+három	B-CARDINAL
+láb	O
+.	O
+
+Ha	O
+azt	O
+mondom	O
+ez	O
+három	B-QUANTITY
+láb	I-QUANTITY
+,	O
+az	O
+három	B-QUANTITY
+láb	I-QUANTITY
+!	O
+
+Megértettétek	O
+?	O
+
+Ne	O
+csaljatok	O
+!	O
+
+Micsoda	O
+képtelenség	O
+!	O
+
+Sató	B-PER
+biztos	O
+veszít	O
+.	O
+
+Echizen	B-LOC
+hegyből	O
+összesen	O
+160	B-CARDINAL
+.	O
+
+Adj	O
+huszonhattal	B-CARDINAL
+többet	O
+a	O
+Yobiko	B-LOC
+hegyen	O
+számolthoz	O
+.	O
+
+Hozzá	O
+adjuk	O
+a	O
+Tokoi	B-LOC
+és	O
+Igai	B-LOC
+hegyit	O
+.	O
+
+Így	O
+az	O
+összeg	O
+203	B-CARDINAL
+.	O
+
+Hé	O
+,	O
+ott	O
+.	O
+
+A	O
+főnököm	O
+azt	O
+mondta	O
+,	O
+adjam	O
+oda	O
+neked	O
+.	O
+
+És	O
+te	O
+,	O
+húzd	O
+meg	O
+magad	O
+.	O
+
+Azután	O
+jelenj	O
+meg	O
+az	O
+ökrösszekér	O
+versenyen	O
+,	O
+és	O
+a	O
+főnökömnek	O
+,	O
+Hakutennek	B-PER
+,	O
+hajts	O
+.	O
+
+Bárki	O
+aki	O
+ellenkezik	O
+a	O
+főnökömmel	O
+,	O
+úgy	O
+jár	O
+mint	O
+az	O
+a	O
+nyúl	O
+.	O
+
+Gondolj	O
+erre	O
+.	O
+
+Tehát	O
+Sató	B-PER
+úr	O
+.	O
+
+Hány	O
+féle	O
+víz	O
+van	O
+ott	O
+?	O
+
+Összesen	O
+hét	B-CARDINAL
+tó	O
+van	O
+.	O
+
+És	O
+a	O
+folyók	O
+száma	O
+?	O
+
+Két	B-CARDINAL
+folyó	O
+és	O
+13	B-CARDINAL
+mellékfolyó	O
+.	O
+
+Lenyűgöző	O
+,	O
+és	O
+a	O
+hét	B-CARDINAL
+tó	O
+milyen	O
+irányba	O
+áramlik	O
+?	O
+
+Ebben	O
+a	O
+hétben	O
+eső	O
+gyűjtő	O
+gödrök	O
+is	O
+vannak	O
+.	O
+
+Igazi	O
+tó	O
+négy	B-CARDINAL
+van	O
+.	O
+
+Akkor	O
+mi	O
+van	O
+a	O
+kérdéses	O
+négy	B-CARDINAL
+tó	O
+áramlásával	O
+?	O
+
+Mind	O
+jobbra	O
+folynak	O
+.	O
+
+Sató	B-PER
+úr	O
+,	O
+ez	O
+általánosítás	O
+.	O
+
+A	O
+négy	B-CARDINAL
+tó	O
+közül	O
+egyiknek	O
+,	O
+ami	O
+elválasztja	O
+a	O
+külső	O
+erődöket	O
+,	O
+két	B-CARDINAL
+különböző	O
+áramlása	O
+van	O
+.	O
+
+A	O
+part	O
+felé	O
+folyik	O
+jobbra	O
+,	O
+de	O
+a	O
+közepén	O
+balra	O
+.	O
+
+Emlékezz	O
+erre	O
+.	O
+
+Kérem	O
+adja	O
+a	O
+tesztekhez	O
+ezt	O
+is	O
+.	O
+
+Itt	O
+van	O
+a	O
+fafelmérés	O
+eredménye	O
+.	O
+
+Az	O
+összeg	O
+,	O
+730	B-CARDINAL
+.	O
+
+Ezért	O
+a	O
+fafelmérési	O
+kör	O
+nyertese	O
+az	O
+Kumaki	B-PER
+Hakuten	I-PER
+.	O
+
+Kumaki	B-PER
+úr	O
+.	O
+
+Kiadnám	O
+az	O
+utasításokat	O
+a	O
+holnapi	B-DATE
+szekérversenyre	O
+.	O
+
+Kérem	O
+hívják	O
+elő	O
+a	O
+hajtóikat	O
+.	O
+
+Hajcsár	O
+Genroku	B-PER
+,	O
+Déli	B-GPE
+falu	I-GPE
+,	O
+lépj	O
+elő	O
+.	O
+
+A	O
+Déli	B-GPE
+falu	I-GPE
+hajcsára	O
+,	O
+Bunroku	B-PER
+,	O
+lépj	O
+elő	O
+.	O
+
+Bunroku	B-PER
+?	O
+
+Hol	O
+van	O
+Bunroku	B-PER
+?	O
+
+Lépj	O
+elő	O
+!	O
+
+Bunroku	B-PER
+nincs	O
+itt	O
+.	O
+
+Mit	O
+tettél	O
+Bunrokuval	B-PER
+?	O
+
+Elrejtetted	O
+?	O
+
+Én	O
+nem	O
+!	O
+
+Tehát	O
+a	O
+szekér	O
+versenyt	O
+egy	B-DATE
+napra	I-DATE
+elhalasztják	O
+,	O
+és	O
+a	O
+tó	O
+áramlását	O
+mérik	O
+meg	O
+először	O
+.	O
+
+Apám	O
+.	O
+
+Ha	O
+Hakuten	B-PER
+alattomos	O
+módszereket	O
+használ	O
+a	O
+nyeréshez	O
+tényleg	O
+kijelentik	O
+nyertesnek	O
+?	O
+
+Sanosuke	B-PER
+,	O
+miről	O
+beszélsz	O
+?	O
+
+Te	O
+a	O
+Tamaki	B-PER
+klán	O
+örököse	O
+a	O
+Shógun	O
+tea	O
+tárolóinak	O
+őrzője	O
+vagy	O
+.	O
+
+Nővérem	O
+,	O
+nagyon	O
+ideges	O
+vagyok	O
+emiatt	O
+.	O
+
+Tudom	O
+,	O
+de	O
+egy	O
+igazi	O
+szamuráj	O
+nem	O
+beszélne	O
+így	O
+.	O
+
+De	O
+anyám	O
+...	O
+
+Sanosuke	B-PER
+...	O
+
+Az	O
+igazság	O
+az	O
+,	O
+hogy	O
+a	O
+jó	O
+nem	O
+mindig	O
+kapja	O
+meg	O
+az	O
+igazát	O
+.	O
+
+De	O
+ez	O
+nem	O
+jelenti	O
+azt	O
+,	O
+hogy	O
+az	O
+az	O
+igazság	O
+nem	O
+létezik	O
+.	O
+
+Az	O
+igazság	O
+létezik	O
+.	O
+
+Mindig	O
+lesz	O
+.	O
+
+Azt	O
+kérded	O
+hol	O
+?	O
+
+A	O
+harc	O
+szellemében	O
+.	O
+
+Létezik	O
+tisztességes	O
+küzdelemben	O
+.	O
+
+Ezt	O
+megtanulhattad	O
+fő	O
+elveként	O
+,	O
+a	O
+harcművészeti	O
+edzéseken	O
+.	O
+
+Soha	O
+ne	O
+felejtsd	O
+el	O
+.	O
+
+Nincs	O
+feladatod	O
+ma	B-DATE
+este	O
+?	O
+
+El	O
+kell	O
+menned	O
+Sanpushába	B-LOC
+.	O
+
+SANPUSHA	B-LOC
+SZOLGÁLATI	O
+KAPU	O
+Mester	O
+.	O
+
+Elveszti	O
+az	O
+aktuális	O
+versenyt	O
+.	O
+
+Ellenőriztem	O
+,	O
+és	O
+mindegyik	O
+jobbra	O
+áramlik	O
+.	O
+
+Akkor	O
+?	O
+
+Nézd	O
+,	O
+Sanpei	B-PER
+.	O
+
+Látod	O
+ezt	O
+?	O
+
+Az	O
+aktuális	O
+versenynek	O
+Satót	B-PER
+kellett	O
+a	O
+tóhoz	O
+csábítania	O
+.	O
+
+Megölöm	O
+,	O
+és	O
+győztem	O
+.	O
+
+És	O
+az	O
+aktuális	O
+versenyben	O
+Sató	B-PER
+Kikutaro	I-PER
+úr	O
+győz	O
+.	O
+
+Sató	B-PER
+úr	O
+győzött	O
+!	O
+
+Jó	O
+voltál	O
+.	O
+
+Most	O
+mindkettőnknek	O
+van	O
+egy	O
+győzelme	O
+.	O
+
+A	O
+holnapi	B-DATE
+szekérhúzás	O
+dönti	O
+el	O
+a	O
+versenyt	O
+.	O
+
+Mondd	O
+,	O
+tudod	O
+-e	O
+,	O
+hogy	O
+ennek	O
+a	O
+tónak	O
+az	O
+alja	O
+homokos	O
+-e	O
+vagy	O
+iszapos	O
+?	O
+
+Iszapos	O
+homok	O
+az	O
+alj	O
+,	O
+amelyben	O
+gyomok	O
+nőnek	O
+.	O
+
+Ó	O
+,	O
+akkor	O
+szeretnék	O
+egy	O
+kísérletet	O
+kipróbálni	O
+.	O
+
+Kérem	O
+,	O
+készítsenek	O
+fel	O
+egy	O
+kis	O
+csónakot	O
+.	O
+
+Hozzon	O
+valaki	O
+egy	O
+csónakot	O
+.	O
+
+Mindenáron	O
+meg	O
+kell	O
+nyernünk	O
+az	O
+ökrösszekér	O
+húzást	O
+.	O
+
+Elöljáró	O
+,	O
+kiválasztottad	O
+Bunroku	B-PER
+helyettesítőjét	O
+?	O
+
+Nem	O
+...	O
+jelentkezik	O
+valaki	O
+önként	O
+?	O
+
+Genroku	B-PER
+,	O
+Hakuten	B-PER
+hajtója	O
+,	O
+tapasztalt	O
+.	O
+
+Sosem	O
+fogja	O
+egyikünk	O
+se	O
+megverni	O
+.	O
+
+Heisaku	B-PER
+,	O
+ne	O
+legyél	O
+annyira	O
+kishitű	O
+.	O
+
+Nem	O
+vagyok	O
+...	O
+
+És	O
+akkor	O
+te	O
+?	O
+
+Szó	O
+sem	O
+lehet	O
+róla	O
+!	O
+
+Bárki	O
+,	O
+de	O
+én	O
+nem	O
+.	O
+
+Én	O
+megteszem	O
+!	O
+
+Sató	B-PER
+,	O
+háromszor	B-CARDINAL
+süllyesztem	O
+el	O
+ezt	O
+a	O
+rudat	O
+.	O
+
+Kérlek	O
+,	O
+ügyelj	O
+a	O
+csónakra	O
+.	O
+
+Először	O
+az	O
+orrból	O
+.	O
+
+Ó	O
+,	O
+hibáztam	O
+.	O
+
+Következőt	O
+a	O
+farból	O
+.	O
+
+Megint	O
+nem	O
+sikerült	O
+.	O
+
+Még	O
+egyszer	O
+.	O
+
+SANSHI	B-ORG
+ISKOLA	I-ORG
+AKABARI	B-ORG
+ISKOLA	I-ORG
+Felkészülni	O
+!	O
+
+Ne	O
+erőltesd	O
+meg	O
+őket	O
+!	O
+
+Le	O
+fognak	O
+gyengülni	O
+.	O
+
+Légy	O
+türelmes	O
+.	O
+
+Betolakodó	O
+!	O
+
+Anyám	O
+!	O
+
+Sató	B-PER
+úr	O
+,	O
+megnyerted	O
+ezt	O
+a	O
+menetet	O
+,	O
+így	O
+győztél	O
+a	O
+versenyben	O
+.	O
+
+De	O
+aggaszt	O
+egy	O
+dolog	O
+.	O
+
+Nem	O
+értem	O
+,	O
+miért	O
+választottad	O
+a	O
+völgyet	O
+az	O
+előőrsök	O
+közül	O
+az	O
+egyiknek	O
+.	O
+
+Világossá	O
+tettem	O
+a	O
+vitában	O
+.	O
+
+Rendben	O
+,	O
+megmutatom	O
+.	O
+
+Adj	O
+egy	O
+nyilat	O
+.	O
+
+Kérem	O
+,	O
+jól	O
+figyeljenek	O
+.	O
+
+A	O
+számos	O
+szeles	O
+barlang	O
+a	O
+völgyben	O
+okozza	O
+,	O
+hogy	O
+a	O
+szél	O
+minden	O
+irányba	O
+fúj	O
+.	O
+
+Ez	O
+eszményi	O
+hely	O
+kiképezni	O
+a	O
+csapatokat	O
+alkalmazkodni	O
+,	O
+a	O
+stratégia	O
+környezethez	O
+.	O
+
+Elviszem	O
+magukat	O
+a	O
+szeles	O
+barlanghoz	O
+ellenőrizni	O
+.	O
+
+Az	O
+a	O
+dolog	O
+,	O
+amit	O
+Sató	B-PER
+lova	O
+eltört	O
+úgy	O
+néz	O
+ki	O
+,	O
+mint	O
+egy	O
+antik	O
+tea	O
+tároló	O
+.	O
+
+Ez	O
+a	O
+tea	O
+tároló	O
+korsó	O
+a	O
+Mizuno	B-PER
+klán	O
+kincse	O
+,	O
+a	O
+Tamaki	B-PER
+család	O
+felügyeletére	O
+van	O
+bízva	O
+.	O
+
+Sanosuke	B-PER
+!	O
+
+Hol	O
+van	O
+Sanosuke	B-PER
+?	O
+
+Itt	O
+vagyok	O
+,	O
+uram	O
+!	O
+
+Sanosuke	B-PER
+,	O
+magyarázd	O
+meg	O
+.	O
+
+Én	O
+Sanait	B-PER
+akarom	O
+!	O
+
+Hozd	O
+ide	O
+Tamaki	B-PER
+Sanait	I-PER
+nekem	O
+.	O
+
+Ez	O
+a	O
+teás	O
+korsó	O
+a	O
+Shógun	O
+ajándéka	O
+volt	O
+.	O
+
+Elvesztése	O
+a	O
+kötelesség	O
+elhanyagolása	O
+.	O
+
+Ha	O
+ez	O
+szándékos	O
+,	O
+az	O
+árulás	O
+.	O
+
+Akárhogy	O
+is	O
+,	O
+Tamaki	B-PER
+,	O
+az	O
+őrző	O
+,	O
+vezeklésül	O
+,	O
+harakirire	O
+kell	O
+kötelezni	O
+.	O
+
+Sató	B-PER
+.	O
+
+Habár	O
+ez	O
+egy	O
+baleset	O
+,	O
+te	O
+is	O
+bűnös	O
+vagy	O
+.	O
+
+Meg	O
+kell	O
+fizetned	O
+ezért	O
+.	O
+
+Nagasaka	B-PER
+úr	O
+...	O
+
+Én	O
+tapasztalt	O
+lovas	O
+vagyok	O
+.	O
+
+Tudnék	O
+róla	O
+,	O
+ha	O
+a	O
+lovam	O
+töri	O
+el	O
+.	O
+
+Először	O
+vizsgáljuk	O
+ki	O
+,	O
+hogyan	O
+került	O
+ide	O
+.	O
+
+Láttam	O
+valakit	O
+belépni	O
+a	O
+szeles	O
+barlangba	O
+.	O
+
+Oda	O
+megyek	O
+!	O
+
+Kikutarót	B-PER
+élve	O
+eltemetik	O
+?	O
+
+Az	O
+egész	O
+falunak	O
+kell	O
+kiásnia	O
+majd	O
+.	O
+
+Én	O
+is	O
+megyek	O
+!	O
+
+Ne	O
+,	O
+kisasszony	O
+!	O
+
+Beteg	O
+vagy	O
+,	O
+maradj	O
+itt	O
+.	O
+
+Bízd	O
+ránk	O
+ezt	O
+.	O
+
+Élve	O
+eltemetik	O
+a	O
+tanár	O
+urat	O
+!	O
+
+Minden	O
+férfi	O
+jöjjön	O
+velem	O
+!	O
+
+Minden	O
+nő	O
+,	O
+készítsen	O
+ételt	O
+.	O
+
+Siessetek	O
+!	O
+
+Patkányok	O
+!	O
+
+Mindent	O
+látok	O
+!	O
+
+Tudtam	O
+,	O
+hogy	O
+Kumaki	B-PER
+Hakuten	I-PER
+fog	O
+győzni	O
+,	O
+előre	O
+láttam	O
+.	O
+
+Ez	O
+a	O
+győztes	O
+legyezője	O
+,	O
+magától	O
+a	O
+Shóguntól	O
+.	O
+
+Fogadd	O
+megbecsüléssel	O
+és	O
+tisztelettel	O
+.	O
+
+Ettől	O
+a	O
+naptól	O
+...	O
+nekem	O
+,	O
+Hakutennek	B-PER
+,	O
+a	O
+parancsaim	O
+,	O
+olyanok	O
+mintha	O
+Sógun	O
+adná	O
+.	O
+
+Azokat	O
+,	O
+akik	O
+engedetlenkednek	O
+,	O
+azonnal	O
+ki	O
+kell	O
+végezni	O
+.	O
+
+Minden	O
+helybélinek	O
+,	O
+fiatalnak	O
+és	O
+öregnek	O
+...	O
+parancsolják	O
+meg	O
+,	O
+legyen	O
+építőmunkás	O
+.	O
+
+A	O
+nagyúr	O
+parancsa	O
+!	O
+
+Le	O
+van	O
+tartóztatva	O
+!	O
+
+Nővérem	O
+!	O
+
+Nem	O
+szabad	O
+meghalnunk	O
+!	O
+
+Élni	O
+fogok	O
+,	O
+hogy	O
+harcolhassak	O
+ezzel	O
+az	O
+igazságtalansággal	O
+.	O
+
+Azért	O
+teszem	O
+,	O
+mert	O
+hűséges	O
+vagyok	O
+uramhoz	O
+.	O
+
+Esküszöm	O
+,	O
+megtorolom	O
+a	O
+halálotok	O
+és	O
+megtisztítom	O
+a	O
+neveteket	O
+.	O
+
+Gyorsan	O
+!	O
+
+Rejtőzzön	O
+el	O
+Some	B-PER
+kisasszony	O
+!	O
+
+Erre	O
+!	O
+
+Mindenki	O
+jöjjön	O
+ide	O
+!	O
+
+Minden	O
+embernek	O
+várépítő	O
+munkássá	O
+kell	O
+válni	O
+.	O
+
+De	O
+ez	O
+...	O
+
+Fogd	O
+be	O
+a	O
+szád	O
+!	O
+
+Mindazokat	O
+,	O
+akik	O
+a	O
+verseny	O
+alatt	O
+ellenezték	O
+Hakutent	B-PER
+,	O
+meg	O
+fogják	O
+büntetni	O
+.	O
+
+Később	O
+majd	O
+kaptok	O
+tájékoztatást	O
+.	O
+
+Hogy	O
+merészeli	O
+?	O
+
+Ne	O
+hagyd	O
+,	O
+hogy	O
+megszökjenek	O
+!	O
+
+Apu	O
+!	O
+
+Ne	O
+avatkozzon	O
+bele	O
+!	O
+
+Nem	O
+hiszem	O
+,	O
+hogy	O
+épségben	O
+van	O
+.	O
+
+Már	O
+fél	B-DATE
+nap	I-DATE
+eltelt	O
+.	O
+
+Kikutaro	B-PER
+úr	O
+!	O
+
+Ó	O
+!	O
+
+Sató	B-PER
+úr	O
+életben	O
+van	O
+!	O
+
+Hozzatok	O
+kötelet	O
+.	O
+
+Kötélre	O
+van	O
+szükségünk	O
+!	O
+
+Húzd	O
+!	O
+
+Some	B-PER
+kisasszony	O
+...	O
+
+Várjon	O
+,	O
+tanár	O
+úr	O
+!	O
+
+Mindenki	O
+!	O
+
+Visszatérek	O
+a	O
+városba	O
+a	O
+kamarással	O
+,	O
+azután	O
+Edóba	B-GPE
+megyek	O
+és	O
+jelentek	O
+.	O
+
+Itt	O
+hagyom	O
+Odát	B-PER
+és	O
+az	O
+embereit	O
+,	O
+hogy	O
+segítsenek	O
+elfogni	O
+a	O
+lázadókat	O
+.	O
+
+Megkaptam	O
+a	O
+munkások	O
+pénzét	O
+.	O
+
+Itt	O
+az	O
+Ön	O
+része	O
+.	O
+
+Amikor	O
+a	O
+vár	O
+alapkövét	O
+lefektetik	O
+,	O
+meghívást	O
+kapsz	O
+Edóba	B-GPE
+te	O
+,	O
+és	O
+Dewa	B-PER
+nagyúr	O
+.	O
+
+Azután	O
+meghívlak	O
+a	O
+piroslámpás	O
+negyedbe	O
+.	O
+
+Alig	O
+várom	O
+.	O
+
+Megnyerni	O
+mindent	O
+.	O
+

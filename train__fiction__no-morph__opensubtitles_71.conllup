@@ -1,0 +1,1592 @@
+# global.columns = FORM ONPP:NER
+Rendben	O
+,	O
+akkor	O
+maga	O
+kíséri	O
+szemmel	O
+a	O
+célpontot	O
+.	O
+
+Bármi	O
+fordulatot	O
+is	O
+tesz	O
+,	O
+vagy	O
+változtat	O
+a	O
+sebességén	O
+,	O
+nem	O
+számít	O
+mekkorát	O
+,	O
+ne	O
+tévessze	O
+szem	O
+elől	O
+.	O
+
+Rá	O
+fogok	O
+tapadni	O
+.	O
+
+Ne	O
+aggódjon	O
+Kapitány	O
+!	O
+
+Rendben	O
+van	O
+,	O
+nem	O
+fogok	O
+.	O
+
+Ha	O
+bárki	O
+is	O
+kellemetlen	O
+helyzetbe	O
+kerül	O
+,	O
+azok	O
+nem	O
+mi	O
+leszünk	O
+.	O
+
+Nekem	O
+úgy	O
+tűnik	O
+,	O
+hogy	O
+tudja	O
+a	O
+dolgát	O
+.	O
+
+Munkakerülő	O
+,	O
+csak	O
+ezt	O
+tudom	O
+mondani	O
+.	O
+
+Munkakerülő	O
+!	O
+
+A	O
+jel	O
+erősödik	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+8.000	B-QUANTITY
+méter	I-QUANTITY
+.	I-QUANTITY
+
+Ez	O
+vagy	O
+egy	O
+hajó	O
+,	O
+vagy	O
+egy	O
+hamis	O
+visszhang	O
+.	O
+
+Elveszítette	O
+.	O
+
+Igen	O
+,	O
+Kapitän	O
+.	O
+
+Jön-megy	O
+.	O
+
+A	O
+hullámzás	O
+megnehezíti	O
+hogy	O
+megjelenítsem	O
+a	O
+képet	O
+.	O
+
+Itt	O
+van	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Itt	O
+jön	O
+.	O
+
+Balra	O
+20	B-CARDINAL
+fokkal	O
+,	O
+Schwaffer	B-PER
+!	O
+
+Balra	O
+20	B-QUANTITY
+fokkal	I-QUANTITY
+!	O
+
+A	O
+célpont	O
+irányt	O
+vált	O
+balra	O
+.	O
+
+A	O
+célpont	O
+balra	O
+fordul	O
+,	O
+uram	O
+.	O
+
+25	B-CARDINAL
+...	O
+
+20	B-CARDINAL
+fokkal	O
+.	O
+
+Tartsák	O
+a	O
+jelenlegi	O
+sebességet	O
+.	O
+
+Egyenletes	O
+haladás	O
+.	O
+
+Egyenletes	O
+haladás	O
+!	O
+
+Egyenletes	O
+haladás	O
+,	O
+uram	O
+!	O
+
+Megkérdezhetem	O
+mi	O
+az	O
+elgondolása	O
+,	O
+uram	O
+?	O
+
+Ha	O
+ez	O
+egy	O
+ellenséges	O
+hajó	O
+,	O
+akkor	O
+a	O
+jelünk	O
+,	O
+ott	O
+van	O
+az	O
+oszcillátorán	O
+,	O
+és	O
+megpróbál	O
+kipuhatolni	O
+minket	O
+,	O
+fordul	O
+párat	O
+,	O
+megnézi	O
+változtatunk	O
+-e	O
+a	O
+helyzetünkön	O
+.	O
+
+Ha	O
+változatlanul	O
+tudjuk	O
+tartani	O
+mögötte	O
+a	O
+helyzetünket	O
+,	O
+szellem	O
+visszhangnak	O
+gondolhat	O
+minket	O
+a	O
+viharos	O
+tengeren	O
+.	O
+
+A	O
+jel	O
+nem	O
+változik	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Jobbra	O
+40	B-QUANTITY
+fokkal	I-QUANTITY
+.	O
+
+Jobbra	O
+40	B-QUANTITY
+fokkal	I-QUANTITY
+!	O
+
+A	O
+célpont	O
+élesen	O
+jobbra	O
+fordul	O
+,	O
+uram	O
+.	O
+
+Meg	O
+tudja	O
+becsülni	O
+a	O
+szöget	O
+,	O
+Andrews	B-PER
+?	O
+
+40	B-CARDINAL
+...	O
+
+45	B-QUANTITY
+fok	I-QUANTITY
+,	O
+Kapitány	O
+.	O
+
+Minden	O
+hajtóművet	O
+leállítani	O
+!	O
+
+Minden	O
+motor	O
+leállt	O
+,	O
+uram	O
+!	O
+
+Gondolja	O
+,	O
+hogy	O
+egy	O
+tengeralattjáró	O
+,	O
+uram	O
+?	O
+
+Úgy	O
+mozog	O
+.	O
+
+Talán	O
+beveszi	O
+a	O
+csalit	O
+.	O
+
+Ha	O
+mégsem	O
+,	O
+akkor	O
+hirtelen	O
+elmerül	O
+.	O
+
+Elnézést	O
+,	O
+uram	O
+.	O
+
+Változatlan	O
+a	O
+helyzete	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Hm	O
+...	O
+
+Térjenek	O
+vissza	O
+az	O
+1-4-0	B-CARDINAL
+irányra	O
+.	O
+
+1-4-0	B-CARDINAL
+.	O
+1-4-0	B-CARDINAL
+!	O
+
+Bekapta	O
+a	O
+csalit	O
+.	O
+
+Visszatért	O
+az	O
+1-4-0	B-CARDINAL
+irányra	O
+.	O
+
+Minden	O
+hajtóművet	O
+2/3-ra,	B-CARDINAL
+irány	O
+1-4-0	B-CARDINAL
+.	O
+
+Minden	O
+hajtómű	O
+2/3-on,	B-CARDINAL
+uram	O
+.	O
+
+Szép	O
+munka	O
+,	O
+Andrews	B-PER
+.	O
+
+A	O
+célpont	O
+nem	O
+elégszik	O
+meg	O
+az	O
+egyszeri	O
+ellenőrzéssel	O
+.	O
+
+Figyeljen	O
+rá	O
+,	O
+hogy	O
+megfordul	O
+-e	O
+néha	O
+.	O
+
+Vagy	O
+,	O
+hogy	O
+lassít	O
+,	O
+vagy	O
+gyorsít	O
+-e	O
+.	O
+
+Akar	O
+jelentést	O
+küldeni	O
+,	O
+uram	O
+?	O
+
+Tűkön	O
+ül	O
+,	O
+hogy	O
+továbbíthassa	O
+,	O
+matróz	O
+?	O
+
+Csak	O
+arra	O
+gondoltam	O
+...	O
+
+Rádiócsendet	O
+kell	O
+tartanunk	O
+ma	B-DATE
+este	O
+,	O
+matróz	O
+.	O
+
+Rajta	O
+kell	O
+tartanunk	O
+a	O
+kezünket	O
+a	O
+célponton	O
+.	O
+
+De	O
+reggel	O
+kiadok	O
+egyet	O
+,	O
+rendben	O
+?	O
+
+Itt	O
+a	O
+Kapitány	O
+beszél	O
+.	O
+
+Azt	O
+hiszem	O
+mindannyian	O
+valamilyen	O
+közleményre	O
+várnak	O
+.	O
+
+Egy	O
+azonosítatlan	O
+hajót	O
+követünk	O
+.	O
+
+Reggelig	O
+megpróbálunk	O
+a	O
+nyomában	O
+maradni	O
+.	O
+
+Korán	O
+reggelizünk	O
+,	O
+és	O
+az	O
+állásainkat	O
+05:30-kor	B-TIME
+elfoglaljuk	O
+.	O
+
+Ne	O
+lepődjenek	O
+meg	O
+,	O
+ha	O
+kicsivel	O
+pirkadat	O
+után	O
+összeakadunk	O
+egy	O
+merülő	O
+konzervdobozzal	O
+.	O
+
+Végezzék	O
+a	O
+munkájukat	O
+hatékonyan	O
+,	O
+és	O
+bevéshetünk	O
+egyet	B-CARDINAL
+a	O
+Haynes-nek	B-PROD
+.	O
+
+Ennyit	O
+akartam	O
+mondani	O
+.	O
+
+Gondolom	O
+,	O
+ledobunk	O
+egy	O
+bombát	O
+a	O
+periszkópján	O
+.	O
+
+És	O
+ezzel	O
+még	B-CARDINAL
+egy	I-CARDINAL
+nácinak	B-NORP
+lőttek	O
+,	O
+nem	O
+?	O
+
+Vagy	O
+ő	O
+durrant	O
+a	O
+hasunkba	O
+egy	O
+torpedót	O
+,	O
+és	O
+ezzel	O
+lőttek	O
+ennek	O
+a	O
+konzervdoboznak	O
+.	O
+
+Cimbora	O
+,	O
+egy	O
+tengeralattjáró	O
+nem	O
+ellenfél	O
+nekünk	O
+.	O
+
+Oh	O
+,	O
+nem	O
+az	O
+,	O
+mi	O
+?	O
+
+Akkor	O
+hogy	O
+lehet	O
+az	O
+,	O
+hogy	O
+a	O
+tengeralattjárókra	O
+három	B-CARDINAL
+romboló	O
+közösen	O
+vadászik	O
+az	O
+Észak	B-LOC
+-	I-LOC
+Atlanti	I-LOC
+-	I-LOC
+óceánon	I-LOC
+?	O
+
+Hogy	O
+lehet	O
+?	O
+
+Biztosak	O
+lehettek	O
+benne	O
+!	O
+
+Ki	O
+következik	O
+az	O
+őrségben	O
+?	O
+
+Kunz	B-PER
+hadnagy	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Szóljon	O
+neki	O
+.	O
+
+Igenis	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Kunz	B-PER
+hadnagy	O
+,	O
+jelentkezzen	O
+.	O
+
+KÖVETJÜK	O
+A	O
+FÜHRER	O
+PARANCSÁT	O
+
+Hívatott	O
+,	O
+Herr	O
+Kapitän	O
+?	O
+
+Igen	O
+,	O
+Kunz	B-PER
+.	O
+
+Magán	O
+a	O
+sor	O
+a	O
+fenti	O
+őrségben	O
+.	O
+
+Van	O
+egy	O
+jel	O
+az	O
+FMB-n	B-PROD
+.	O
+
+Szerintem	O
+egy	O
+hamis	O
+visszhang	O
+.	O
+
+De	O
+,	O
+hogy	O
+ellenőrizzük	O
+,	O
+óránként	O
+kétszer	B-CARDINAL
+cikcakkban	O
+úszik	O
+hajnalig	B-TIME
+.	O
+
+Ha	O
+közelebb	O
+kerül	O
+,	O
+azonnal	O
+felébreszt	O
+.	O
+
+Igenis	O
+,	O
+Herr	O
+Kapitän	O
+!	O
+
+Schwaffer	B-PER
+?	O
+
+Gyere	O
+be	O
+,	O
+Heini	B-PER
+.	O
+
+Ah	O
+,	O
+aggaszt	O
+engem	O
+ez	O
+a	O
+Kunz	B-PER
+.	O
+
+Emlékeztesd	O
+rá	O
+,	O
+hogy	O
+a	O
+tengeren	O
+nem	O
+tisztelgünk	O
+.	O
+
+Még	O
+újonc	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Majd	O
+megunja	O
+.	O
+
+Újonc	O
+,	O
+hm	O
+?	O
+
+Mint	O
+az	O
+új	O
+Németországunk	B-GPE
+.	O
+
+Egy	O
+gépezet	O
+.	O
+
+Herr	O
+Kapitän	O
+.	O
+
+Gondolja	O
+,	O
+hogy	O
+bölcs	O
+dolog	O
+megkockáztatni	O
+,	O
+hogy	O
+az	O
+a	O
+kép	O
+hamis	O
+visszhang	O
+?	O
+
+Hogy	O
+bölcs	O
+-e	O
+?	O
+
+Inkább	O
+hasznos	O
+.	O
+
+Fontos	O
+az	O
+idő	O
+,	O
+Heini	B-PER
+,	O
+és	O
+túl	O
+lassan	O
+haladnánk	O
+a	O
+víz	O
+alatt	O
+.	O
+
+48	B-TIME
+órán	I-TIME
+belül	I-TIME
+találkánk	O
+van	O
+M-Hajóval	B-PROD
+.	O
+
+Fogjuk	O
+a	O
+zsákmányolt	O
+brit	B-NORP
+kódkönyvet	O
+,	O
+és	O
+haza	O
+megyünk	O
+vele	O
+.	O
+
+És	O
+ez	O
+a	O
+fontos	O
+.	O
+
+Nem	O
+a	O
+kódkönyv	O
+,	O
+de	O
+amikor	O
+nálunk	O
+van	O
+,	O
+haza	O
+mehetünk	O
+.	O
+
+Egészségedre	O
+!	O
+
+Egészségére	O
+,	O
+Herr	O
+Kapitän	O
+!	O
+
+Ah	O
+.	O
+
+Olyan	O
+az	O
+íze	O
+,	O
+mint	O
+az	O
+olaj	O
+,	O
+a	O
+poshadt	O
+víz	O
+,	O
+és	O
+a	O
+zöld	O
+penész	O
+együtt	O
+.	O
+
+Ülj	O
+le	O
+,	O
+Heini	B-PER
+.	O
+
+Olyan	O
+az	O
+íze	O
+,	O
+mint	O
+egy	O
+tengeralattjárónak	O
+.	O
+
+Túl	O
+hosszú	O
+ideje	O
+vagyok	O
+már	O
+tengeralattjárókon	O
+,	O
+Heini	B-PER
+.	O
+
+Volt	O
+idő	O
+,	O
+mikor	O
+tiszta	O
+szívemből	O
+mentem	O
+a	O
+tengerre	O
+.	O
+
+Sok	B-DATE
+évvel	I-DATE
+ezelőtt	I-DATE
+volt	O
+.	O
+
+Már	O
+csak	O
+hazajutásra	O
+tudok	O
+gondolni	O
+.	O
+
+Akarsz	O
+még	O
+?	O
+
+Nem	O
+kell	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Szerinted	O
+sok	O
+lesz	O
+nekem	O
+?	O
+
+Épp	O
+csak	O
+annyi	O
+,	O
+hogy	O
+elaludjak	O
+.	O
+
+Nem	O
+tudok	O
+nélküle	O
+pihenni	O
+.	O
+
+Túl	O
+sokat	O
+gondolkodom	O
+.	O
+
+Sose	O
+gondolkodj	O
+,	O
+Heini	B-PER
+.	O
+
+Légy	O
+jó	O
+katona	O
+,	O
+és	O
+sose	O
+gondolkodj	O
+.	O
+
+Megfizetsz	O
+a	O
+gondolkodásért	O
+.	O
+
+Nem	O
+tudsz	O
+pihenni	O
+.	O
+
+Azt	O
+hittem	O
+a	O
+fiaim	O
+jó	O
+katonák	O
+.	O
+
+Haza	O
+.	O
+
+Kötelesség	O
+.	O
+
+Nem	O
+kételkedtek	O
+.	O
+
+Egyik	O
+a	O
+tenger	O
+fenekén	O
+,	O
+ő	O
+pedig	O
+hamu	O
+egy	O
+kiégett	O
+repülőgépen	O
+.	O
+
+És	O
+én	O
+boldog	O
+vagyok	O
+.	O
+
+Ez	O
+a	O
+módja	O
+egy	O
+katona	O
+halálának	O
+.	O
+
+Fiatalon	O
+,	O
+és	O
+becsülettel	O
+.	O
+
+Túl	O
+sokáig	O
+éltem	O
+.	O
+
+Barátok	O
+vagyunk	O
+,	O
+Heini	B-PER
+?	O
+
+Önnel	O
+vagyok	O
+kadét	O
+korom	O
+óta	O
+.	O
+
+Nem	O
+ezt	O
+kérdeztem	O
+tőled	O
+.	O
+
+Néha	O
+félek	O
+öntől	O
+.	O
+
+Sokszor	O
+nem	O
+értem	O
+.	O
+
+Nem	O
+vagyok	O
+biztos	O
+benne	O
+,	O
+hogy	O
+barátok	O
+vagyunk	O
+.	O
+
+Barátok	O
+vagyunk	O
+.	O
+
+Hidd	O
+csak	O
+el	O
+.	O
+
+És	O
+mert	O
+barátok	O
+vagyunk	O
+,	O
+elmondok	O
+neked	O
+valamit	O
+.	O
+
+Torkig	O
+vagyok	O
+ezzel	O
+a	O
+háborúval	O
+.	O
+
+Ez	O
+nem	O
+jó	O
+háború	O
+.	O
+
+Te	O
+nem	O
+emlékszel	O
+az	O
+elsőre	O
+.	O
+
+Zászlós	O
+voltam	O
+a	O
+tengeralattjárósoknál	O
+.	O
+
+És	O
+milyen	O
+büszke	O
+voltam	O
+!	O
+
+Kihajóztunk	O
+azokban	O
+a	O
+kis	O
+szardíniás	O
+dobozokban	O
+,	O
+és	O
+amikor	O
+alámerültünk	O
+,	O
+nem	O
+lehettünk	O
+mindig	O
+biztosak	O
+benne	O
+,	O
+hogy	O
+újra	O
+feljövünk	O
+.	O
+
+Oh	O
+,	O
+nagyon	O
+jó	O
+móka	O
+volt	O
+.	O
+
+A	O
+Kapitány	O
+becélozta	O
+a	O
+célpontot	O
+a	O
+periszkópjával	O
+,	O
+majd	O
+fejben	O
+számolt	O
+,	O
+és	O
+azt	O
+mondta	O
+:	O
+Torpedót	O
+kilőni	O
+!	O
+
+És	O
+tudod	O
+mi	O
+volt	O
+?	O
+
+A	O
+torpedó	O
+néha	O
+még	O
+a	O
+csövet	O
+sem	O
+hagyta	O
+el	O
+.	O
+
+Ha	O
+pedig	O
+mégis	O
+,	O
+akkor	O
+nagy	O
+szerencsénk	O
+volt	O
+,	O
+ha	O
+eltaláltunk	O
+valamit	O
+.	O
+
+És	O
+manapság	O
+...	O
+manapság	O
+belenézek	O
+a	O
+periszkópba	O
+,	O
+és	O
+az	O
+megadja	O
+a	O
+távolságot	O
+,	O
+és	O
+a	O
+sebességet	O
+.	O
+
+Az	O
+információt	O
+átadom	O
+a	O
+hadműveleti	O
+asztalnak	O
+,	O
+és	O
+a	O
+gépezet	O
+végzi	O
+a	O
+dolgát	O
+,	O
+fények	O
+villannak	O
+,	O
+és	O
+jön	O
+a	O
+válasz	O
+.	O
+
+A	O
+torpedó	O
+odarohan	O
+a	O
+célpontjához	O
+,	O
+és	O
+ebben	O
+nincs	O
+emberi	O
+hiba	O
+.	O
+
+Kivették	O
+az	O
+emberi	O
+hibát	O
+a	O
+háborúból	O
+,	O
+Heini	B-PER
+.	O
+
+Kivették	O
+az	O
+embert	O
+a	O
+háborúból	O
+.	O
+
+A	O
+háború	O
+régen	O
+más	O
+volt	O
+.	O
+
+Megacélozta	O
+az	O
+ország	O
+gerincét	O
+,	O
+szép	O
+emlékeket	O
+adott	O
+.	O
+
+Még	O
+,	O
+ha	O
+vereséggel	O
+is	O
+zárult	O
+,	O
+megbecsülést	O
+adott	O
+.	O
+
+Ebben	O
+a	O
+háborúban	O
+nincs	O
+becsület	O
+.	O
+
+Az	O
+emlékek	O
+csúfak	O
+lesznek	O
+,	O
+még	O
+akkor	O
+is	O
+,	O
+ha	O
+nyerünk	O
+.	O
+
+Ha	O
+meghalunk	O
+,	O
+Isten	B-PER
+nélkül	O
+halunk	O
+meg	O
+.	O
+
+Tudod	O
+,	O
+Heini	B-PER
+?	O
+
+Figyelek	O
+arra	O
+,	O
+amit	O
+mond	O
+,	O
+Herr	O
+Kapitän	O
+.	O
+
+Ez	O
+egy	O
+rossz	O
+háború	O
+...	O
+
+Az	O
+indítéka	O
+őrült	O
+.	O
+
+A	O
+célja	O
+sötét	O
+.	O
+
+Nem	O
+földi	O
+halandónak	O
+való	O
+.	O
+
+Jön	O
+Crain	B-PER
+hadnagy	O
+,	O
+uram	O
+.	O
+
+Baloldalról	O
+.	O
+
+Crain	B-PER
+,	O
+mennyi	O
+idő	O
+alatt	O
+tudja	O
+újratölteni	O
+a	O
+mélyvízi	O
+bombákat	O
+?	O
+
+Nem	O
+túl	O
+gyorsan	O
+,	O
+Kapitány	O
+.	O
+
+Néhány	O
+emberem	O
+elég	O
+zöldfülű	O
+,	O
+de	O
+azt	O
+mondanám	O
+,	O
+hogy	O
+...	O
+három	B-DUR
+,	I-DUR
+vagy	I-DUR
+négy	I-DUR
+perc	I-DUR
+alatt	I-DUR
+.	O
+
+Nos	O
+,	O
+ettől	O
+jobbat	O
+kell	O
+teljesítenie	O
+.	O
+
+Megpróbálhatom	O
+,	O
+uram	O
+.	O
+
+Az	O
+nem	O
+lesz	O
+elég	O
+.	O
+
+Ezen	O
+múlik	O
+,	O
+hogy	O
+mi	O
+állítjuk	O
+meg	O
+az	O
+ellenséget	O
+,	O
+vagy	O
+ő	O
+állít	O
+meg	O
+minket	O
+.	O
+
+Ha	O
+így	O
+áll	O
+a	O
+helyzet	O
+,	O
+uram	O
+,	O
+elég	O
+jók	O
+leszünk	O
+.	O
+
+Számítok	O
+rá	O
+.	O
+
+Szeretném	O
+,	O
+ha	O
+egyelőre	O
+a	O
+hadműveletisekkel	O
+lenne	O
+a	O
+navigációs	O
+fülkében	O
+.	O
+
+Igenis	O
+,	O
+uram	O
+.	O
+
+Úgy	O
+látszik	O
+,	O
+elmegy	O
+a	O
+vihar	O
+.	O
+
+Ja	O
+.	O
+
+Miért	O
+nem	O
+pihen	O
+le	O
+a	O
+kabinjában	O
+egy	O
+időre	O
+?	O
+
+Jól	O
+vagyok	O
+,	O
+Doktor	O
+.	O
+
+Kezd	O
+ráérezni	O
+újra	O
+a	O
+hajó	O
+ízére	O
+?	O
+
+Vagy	O
+az	O
+,	O
+vagy	O
+odakint	O
+az	O
+a	O
+tengeralattjáró	O
+egy	O
+erős	O
+gyógyszer	O
+.	O
+
+Nem	O
+értem	O
+,	O
+honnan	O
+tudja	O
+,	O
+hogy	O
+az	O
+ellenség	O
+az	O
+.	O
+
+Nos	O
+,	O
+ha	O
+akarja	O
+,	O
+hívja	O
+hatodik	B-ORDINAL
+érzéknek	O
+.	O
+
+Mindig	O
+tudom	O
+,	O
+ha	O
+a	O
+radarjel	O
+túloldalán	O
+másvalaki	O
+gondolatai	O
+dolgoznak	O
+.	O
+
+Érdekes	O
+.	O
+
+Úgy	O
+hallottam	O
+a	O
+vadászok	O
+ugyanezt	O
+mondják	O
+.	O
+
+Megérzik	O
+a	O
+vad	O
+jelenlétét	O
+.	O
+

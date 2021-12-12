@@ -1,0 +1,1548 @@
+# global.columns = FORM ONPP:NER
+Legalábbis	O
+az	O
+volt	O
+a	O
+sziget	O
+másik	O
+fele	O
+.	O
+
+A	O
+legnagyobb	O
+része	O
+már	O
+eltűnt	O
+.	O
+
+Szóval	O
+iderohantunk	O
+,	O
+ahogy	O
+meghallottuk	O
+a	O
+hívásukat	O
+.	O
+
+Hívást	O
+?	O
+
+...	O
+
+Mi	O
+nem	O
+hívtunk	O
+senkit	O
+.	O
+
+Kinek	O
+a	O
+hangját	O
+hallották	O
+?	O
+
+Úgy	O
+hangzott	O
+,	O
+mint	O
+a	O
+másik	O
+fickóé	O
+.	O
+
+Tudja	O
+,	O
+aki	O
+beleesett	O
+az	O
+üregbe	O
+.	O
+
+Szóval	O
+még	O
+életben	O
+van	O
+.	O
+
+Ha	O
+nem	O
+sietünk	O
+,	O
+Jules	B-PER
+nem	O
+éli	O
+túl	O
+.	O
+
+Jöjjenek	O
+,	O
+segítsenek	O
+.	O
+
+Ez	O
+majd	O
+segít	O
+aludni	O
+,	O
+Jules	B-PER
+.	O
+
+Köszönöm	O
+,	O
+Martha	B-PER
+.	O
+
+Egy	O
+kis	O
+alvás	O
+jót	O
+tenne	O
+.	O
+
+Merci	O
+,	O
+madame	O
+.	O
+
+Adj	O
+kettőt	B-CARDINAL
+.	O
+
+És	O
+elveszem	O
+...	O
+
+Fogadok	O
+10-be	O
+.	O
+
+Állom	O
+,	O
+és	O
+emelem	O
+még	O
+tízzel	B-CARDINAL
+.	O
+
+Ha	O
+nem	O
+vigyázol	O
+mindketten	O
+10	B-QUANTITY
+láb	I-QUANTITY
+magasan	O
+leszünk	O
+.	O
+
+Mi	O
+a	O
+baj	O
+,	O
+ideges	O
+?	O
+
+Rendben.Mid	O
+van	O
+?	O
+
+Három	O
+királynő	O
+.	O
+
+Jaj	O
+,	O
+nagy	O
+ügy	O
+,	O
+végre	O
+nyertél	O
+egyszer	O
+.	O
+
+Akkor	O
+is	O
+legalább	O
+még	O
+vagy	O
+100	B-QUANTITY
+rúd	I-QUANTITY
+dinamittal	O
+vezetek	O
+előtted	O
+.	O
+
+Úgy	O
+hangzik	O
+mintha	O
+egy	O
+kisgyerek	O
+egy	O
+botot	O
+húzna	O
+végig	O
+egy	O
+kerítésen	O
+.	O
+
+Hát	O
+itt	O
+biztos	O
+nincs	O
+kerítés	O
+.	O
+
+Professor	O
+Deveroux	B-PER
+.	O
+
+Tengerész	O
+Ron	B-PER
+Fellows	I-PER
+.	O
+
+És	O
+Sam	B-PER
+Sommers	I-PER
+.	O
+
+Megtaláltuk	O
+Dr.	B-PER
+Carsont	I-PER
+.	O
+
+Hol	O
+vannak	O
+?	O
+
+Kint	O
+vagyunk	O
+.	O
+
+El	O
+tudjuk	O
+vinni	O
+Dr.	B-PER
+Carson-hoz	I-PER
+,	O
+de	O
+csendben	O
+kell	O
+maradnia	O
+..	O
+
+Nagyon	O
+csendben	O
+.	O
+
+Jön	O
+?	O
+
+Jöjjön	O
+le	O
+az	O
+ösvényen	O
+az	O
+üregig	O
+.	O
+
+Ott	O
+találkozunk	O
+és	O
+elvezetjük	O
+a	O
+doktorhoz	O
+.	O
+
+Ott	O
+leszek	O
+.	O
+
+Fellows	B-PER
+?	O
+
+Sommers	B-PER
+?	O
+
+Itt	O
+vagyunk	O
+,	O
+professor	O
+.	O
+
+Úgy	O
+hangzott	O
+mint	O
+Jules	B-PER
+.	O
+
+Deveroux	B-PER
+?	O
+
+Igen	O
+,	O
+tessék	O
+?	O
+
+Egyre	O
+kisebb	O
+a	O
+fájdalom	O
+.	O
+
+Keep	O
+talking	O
+.	O
+
+Azt	O
+hittük	O
+Önt	O
+halljuk	O
+szenvedni	O
+.	O
+
+Én	O
+aludtam	O
+.	O
+
+Akkor	O
+biztos	O
+álmában	O
+beszélt	O
+.	O
+
+Akkor	O
+remélem	O
+nem	O
+esett	O
+folt	O
+a	O
+hírnevemen	O
+semmilyen	O
+hölgy	O
+előtt	O
+,	O
+akit	O
+ismertem	O
+.	O
+
+Nem	O
+említett	O
+neveket	O
+.	O
+
+Soha	O
+nem	O
+is	O
+kérdeztem	O
+.	O
+
+Meséljenek	O
+a	O
+kiáltásokról	O
+.	O
+
+Olyan	O
+volt	O
+mint	O
+a	O
+maga	O
+hangja	O
+...	O
+
+Mintha	O
+a	O
+halálért	O
+könyörögne	O
+.	O
+
+Nehezen	O
+lettem	O
+volna	O
+én	O
+,	O
+doctor	O
+,	O
+hiszen	O
+végig	O
+itt	O
+voltam	O
+,	O
+és	O
+álmodtan	O
+minderől	O
+,	O
+amit	O
+meg	O
+szeretnék	O
+még	O
+tanulni	O
+csak	O
+bal	O
+kézzel	O
+.	O
+
+Egy	O
+kampóra	O
+gondoltam	O
+,	O
+amikor	O
+...	O
+
+Gratulálok	O
+,	O
+Dr.	B-PER
+Weigand	I-PER
+.	O
+
+Ahol	O
+hamarosan	O
+Önök	O
+is	O
+lesznek	O
+.	O
+
+Lehet	O
+visszajövök	O
+holnap	B-TIME
+éjjel	I-TIME
+.	O
+
+Mit	O
+jelentsen	O
+ez	O
+,	O
+doctor	O
+?	O
+
+Dehát	O
+beszélt	O
+,	O
+Karl	B-PER
+.	O
+
+Akkor	O
+ez	O
+valamiféle	O
+rémtörténet	O
+?	O
+
+Nem	O
+hiszek	O
+a	O
+szellemekben	O
+.	O
+
+Egy	O
+olyan	O
+emberrel	O
+van	O
+dolgunk	O
+,	O
+aki	O
+meghalt	O
+,	O
+de	O
+a	O
+hangja	O
+és	O
+emlékei	O
+élnek	O
+.	O
+
+Hogy	O
+hogy	O
+lehet	O
+,	O
+azt	O
+nem	O
+tudom	O
+.	O
+
+De	O
+a	O
+következmények	O
+sokkal	O
+rosszabbak	O
+lehetnek	O
+,	O
+mint	O
+bármelyik	O
+rémtörténetben	O
+.	O
+
+Mi	O
+történt	O
+a	O
+testükkel	O
+,	O
+Karl	B-PER
+?	O
+
+Megették	O
+őket	O
+.	O
+
+A	O
+csontokat	O
+is	O
+?	O
+
+Azt	O
+hiszem	O
+azokat	O
+elrejtették	O
+.	O
+
+A	O
+dinamit	O
+nagy	O
+része	O
+is	O
+odavan	O
+.	O
+
+Huh	O
+,	O
+dinamit	O
+?	O
+
+De	O
+a	O
+gránátok	O
+nem	O
+.	O
+
+Nos	O
+,	O
+vegyük	O
+magunkhoz	O
+,	O
+ami	O
+megmaradt	O
+.	O
+
+Igen	O
+,	O
+szükségünk	O
+lesz	O
+rá	O
+.	O
+
+Talán	O
+távol	O
+kéne	O
+maradnunk	O
+a	O
+parttól	O
+ezek	O
+után	O
+.	O
+
+Jöjjön	O
+,	O
+Hank	B-PER
+.	O
+
+Még	O
+meg	O
+kell	O
+javítanunk	O
+a	O
+rádiót	O
+.	O
+
+Megvárjuk	O
+,	O
+hogy	O
+Jules	B-PER
+ma	B-TIME
+este	I-TIME
+újra	O
+beszéljen	O
+hozzánk	O
+.	O
+
+Már	O
+rég	O
+besötétedett	O
+.	O
+
+Már	O
+hallanunk	O
+kellene	O
+.	O
+
+Fogjuk.Legyen	O
+türelmes	O
+.	O
+
+Jó	O
+estét	O
+,	O
+mes	O
+amis	O
+.	O
+
+Örülök	O
+,	O
+hogy	O
+itt	O
+van	O
+velünk	O
+.	O
+
+Ne	O
+legyenek	O
+meglepődve	O
+,	O
+hogy	O
+beszél	O
+a	O
+fegyver	O
+.	O
+
+Abba	O
+továbbítom	O
+a	O
+hangom	O
+,	O
+úgyhogy	O
+hallaniuk	O
+kell	O
+.	O
+
+Figyeljenek	O
+minden	O
+fémre	O
+,	O
+lehet	O
+pont	O
+én	O
+vagyok	O
+az	O
+.	O
+
+Mit	O
+akar	O
+?	O
+
+Először	O
+is	O
+szeretném	O
+megnyugtatni	O
+,	O
+hogy	O
+épeszű	O
+vagyok	O
+,	O
+még	O
+ha	O
+testem	O
+nincs	O
+is	O
+.	O
+
+Valami	O
+lenyűgöző	O
+történt	O
+velem	O
+.	O
+
+Jöjjenek	O
+és	O
+nézzék	O
+meg	O
+maguk	O
+is	O
+.	O
+
+Hol	O
+van	O
+,	O
+Jules	B-PER
+?	O
+
+A	O
+barlangokban	O
+,	O
+Carson	B-PER
+üregének	O
+a	O
+legalján	O
+.	O
+
+Mi	O
+van	O
+Carson-nal	B-PER
+?	O
+
+Én	O
+is	O
+itt	O
+vagyok	O
+.	O
+
+A	O
+lábam	O
+többé	O
+nem	O
+akadály	O
+.	O
+
+Ez	O
+a	O
+legjobb	O
+az	O
+egészben	O
+.	O
+
+Jönnek	O
+?	O
+
+Várjanak	O
+meg	O
+.	O
+
+Várni	O
+fogunk	O
+.	O
+
+Felszerélre	O
+lenne	O
+szükségünk	O
+.	O
+
+Mennünk	O
+kell.Meg	O
+kell	O
+találnunk	O
+..	O
+
+Itt	O
+vagyunk	O
+!	O
+
+Mutassák	O
+magukat	O
+!	O
+
+Jöjjenek	O
+vissza	O
+!	O
+
+Megöltem	O
+.	O
+
+Óriási	O
+szerencsével	O
+.	O
+
+Miért	O
+nem	O
+sebezték	O
+meg	O
+a	O
+gránátok	O
+?	O
+
+Emlékszik	O
+mit	O
+írt	O
+a	O
+napló	O
+a	O
+féregről	O
+?	O
+
+A	O
+kés	O
+nem	O
+fogott	O
+rajta	O
+.	O
+
+A	O
+szikla	O
+beépült	O
+az	O
+agyába	O
+vagy	O
+bármi	O
+is	O
+tartsa	O
+életben	O
+ezt	O
+az	O
+izét	O
+.	O
+
+Azt	O
+hiszem	O
+ha	O
+eltávolítjuk	O
+,	O
+a	O
+rák	O
+újra	O
+normális	O
+életet	O
+fog	O
+élni	O
+.	O
+
+Csak	O
+úgy	O
+itt	O
+hagyjuk	O
+,	O
+huh	O
+?	O
+
+El	O
+fogjuk	O
+ásni	O
+.	O
+
+Ha	O
+a	O
+penge	O
+úgy	O
+megy	O
+át	O
+rajta	O
+mint	O
+a	O
+higanyon	O
+,	O
+majd	O
+folyik	O
+mint	O
+a	O
+higany	O
+,	O
+akkor	O
+azt	O
+a	O
+részét	O
+teljesen	O
+el	O
+kéne	O
+távolítani	O
+a	O
+testétől	O
+.	O
+
+Ígyvan	O
+...	O
+
+Így	O
+
+.	O
+
+Van	O
+egy	O
+mintánk	O
+.	O
+
+Hozza	O
+a	O
+dinamitot	O
+,	O
+Hank	B-PER
+.	O
+
+Van	O
+valami	O
+ötlete	O
+,	O
+doctor	O
+?	O
+
+Minden	O
+bizonnyal	O
+.	O
+
+Annyit	O
+mondhatok	O
+,	O
+hogy	O
+ez	O
+egy	O
+hím	O
+példány	O
+,	O
+amit	O
+Önnek	O
+biológusként	O
+jobban	O
+kéne	O
+tudnia	O
+.	O
+
+Igen	O
+,	O
+Karl	B-PER
+,	O
+Én	O
+...	O
+
+Tudom	O
+hogy	O
+úgy	O
+néz	O
+ki	O
+mint	O
+egy	O
+átlagos	O
+rák	O
+,	O
+de	O
+...	O
+
+Kifelé	O
+!	O
+
+Le	O
+!	O
+
+Megsemmísitette	O
+McLanet	B-PER
+és	O
+vele	O
+együtt	O
+mindent	O
+.	O
+
+Elpusztította	O
+őket	O
+és	O
+engem	O
+is	O
+megpróbált	O
+.	O
+
+Ez	O
+,	O
+mes	O
+amis	O
+,	O
+egy	O
+végzetes	O
+hiba	O
+volt	O
+.	O
+
+Nos	O
+,	O
+doctor	O
+...	O
+
+A	O
+felépítése	O
+teljesen	O
+megsérült	O
+.	O
+
+Nincs	O
+kötés	O
+az	O
+atomok	O
+között	O
+.	O
+
+Én	O
+sme	O
+Úgy	O
+látszik	O
+van	O
+egy	O
+példányunk	O
+ami	O
+túl	O
+sokat	O
+kapott	O
+a	O
+radioaktív	O
+sugárzásból	O
+.	O
+
+Úgy	O
+mondanám	O
+,	O
+hogy	O
+...	O
+
+Nézze.	O
+Áram	O
+.	O
+
+A	O
+szabad	O
+elektron	O
+leválik	O
+hogy	O
+bekebelezze	O
+a	O
+következőt	O
+,	O
+hogy	O
+közben	O
+töltést	O
+visz	O
+át	O
+.	O
+
+Tud	O
+követni	O
+,	O
+Hank	B-PER
+?	O
+
+A	O
+szabad	O
+elektronok	O
+atomról	O
+atomra	O
+ugrálnak	O
+a	O
+fény	O
+sebességével	O
+.	O
+
+Emlékszem	O
+rá	O
+az	O
+iskolából	O
+.	O
+
+Igen	O
+,	O
+atomról	O
+atomra	O
+.	O
+
+Valami	O
+ilyesmi	O
+történhetett	O
+a	O
+rákunkkal	O
+is	O
+.	O
+
+De	O
+elektronok	O
+helyet	O
+,	O
+a	O
+ráknak	O
+atomjai	O
+voltak	O
+...	O
+
+Minden	O
+szétszakadt	O
+.	O
+
+Mint	O
+egy	O
+sűrű	O
+folyadék	O
+...	O
+állandó	O
+alakja	O
+van	O
+.	O
+
+Minden	O
+fém	O
+amit	O
+a	O
+rák	O
+megevett	O
+szilárd	O
+energiává	O
+vált	O
+,	O
+és	O
+része	O
+lett	O
+a	O
+ráknak	O
+.	O
+
+Mint	O
+a	O
+halott	O
+embereknek	O
+?	O
+
+És	O
+az	O
+agyuk	O
+azóta	O
+,	O
+nem	O
+más	O
+mint	O
+egy	O
+raktár	O
+az	O
+elektromos	O
+impulzusok	O
+számára	O
+.	O
+
+Ez	O
+azt	O
+jelenti	O
+hogy	O
+a	O
+rák	O
+megeszi	O
+az	O
+áldozatai	O
+agyát	O
+,	O
+és	O
+ezzel	O
+beszívja	O
+az	O
+elméjét	O
+is	O
+.	O
+
+Ez	O
+a	O
+töténet	O
+magyarázat	O
+a	O
+történtekre	O
+.	O
+
+De	O
+,	O
+doktor	O
+,	O
+azt	O
+nem	O
+magyarázza	O
+meg	O
+hogy	O
+miért	O
+fordult	O
+ellenünk	O
+Carson	B-PER
+és	O
+Jules	B-PER
+.	O
+
+Hogy	O
+megőrizzék	O
+a	O
+fajukat	O
+.	O
+
+Régen	O
+férfiak	O
+voltak	O
+,	O
+most	O
+már	O
+rákok	O
+.	O
+
+Rendben	O
+,	O
+professzor	O
+,	O
+de	O
+miért	O
+robbantják	O
+fel	O
+a	O
+rákok	O
+a	O
+szigetet	O
+?	O
+
+De	O
+úgy	O
+gondolom	O
+,	O
+hogy	O
+hőt	O
+vonnak	O
+ki	O
+a	O
+robbanásokból	O
+.	O
+
+Tele	O
+vannak	O
+velük	O
+.	O
+
+Az	O
+üreg	O
+széle	O
+olyan	O
+volt	O
+,	O
+mintha	O
+megolvadt	O
+volna	O
+a	O
+szikla	O
+.	O
+
+Meg	O
+tudjáj	O
+olvasztani	O
+a	O
+barlangokat	O
+,	O
+és	O
+utat	O
+tudnank	O
+robbantani	O
+maguknak	O
+.	O
+
+Hogy	O
+elkapjanak	O
+minket	O
+.	O
+
+Úgy	O
+látszik	O
+nekünk	O
+lőttek	O
+.	O
+
+Vagy	O
+ez	O
+az	O
+amit	O
+megölt	O
+?	O
+
+Nem	O
+,	O
+ez	O
+még	O
+életben	O
+van	O
+.	O
+
+Nem	O
+öltük	O
+meg	O
+.	O
+
+Látja	O
+ezt	O
+a	O
+sárga	O
+zsírréteget	O
+?	O
+
+Azt	O
+mutatja	O
+hogy	O
+nagyon	O
+jó	O
+kondícióban	O
+lehetett	O
+,	O
+és	O
+nagyon	O
+közel	O
+.	O
+
+Nem	O
+tetszik	O
+ez	O
+nekem	O
+,	O
+lábak	O
+dobogásait	O
+hallani	O
+.	O
+
+Akkor	O
+meg	O
+kell	O
+ölnünk	O
+.	O
+
+Megölni	O
+?	O
+
+Könnyebb	O
+mondani	O
+,	O
+mint	O
+csinálni	O
+,	O
+Hank	B-PER
+.	O
+
+Várjanak.Gondolkodnom	O
+kell	O
+.	O
+
+Doctor	O
+,	O
+ugye	O
+nem	O
+akarja	O
+megmenteni	O
+a	O
+tudománynak	O
+?	O
+
+Öngyilkosság	O
+lenne	O
+.	O
+
+Nem	O
+,	O
+köszönöm	O
+,	O
+Martha	B-PER
+.	O
+
+Nem	O
+akarok	O
+őrült	O
+tudós	O
+lenni	O
+,	O
+De	O
+igazán	O
+megpróbálhatnánk	O
+elkapni	O
+egyet	O
+.	O
+
+Nem	O
+szeretnének	O
+tanulmányozni	O
+egy	O
+példányt	O
+?	O
+
+Én	O
+biztosan	O
+.	O
+
+De	O
+már	O
+láttam	O
+egy	O
+példányt	O
+tegnap	O
+a	O
+laborban	O
+.	O
+
+Ezt	O
+nézzék	O
+meg	O
+.	O
+
+Azt	O
+mondta	O
+a	O
+rák	O
+fél	O
+az	O
+áramtól	O
+,	O
+doctor	O
+.	O
+
+Derítsük	O
+ki	O
+.	O
+
+Hamu	O
+!	O
+
+Az	O
+áram	O
+egy	B-TIME
+másodperc	I-TIME
+alatt	I-TIME
+elpusztította	O
+a	O
+lábat	O
+.	O
+
+Tehát	O
+a	O
+rák	O
+negatív	O
+töltésű	O
+.	O
+
+Akkor	O
+Hank	B-PER
+,	O
+egy	O
+energiacsapdát	O
+kell	O
+csinálnia	O
+.	O
+
+Ha	O
+!	O
+
+Működik	O
+!	O
+
+Még	O
+jó	O
+,	O
+könnyebb	O
+megépíteni	O
+mint	O
+egy	O
+modellrepülőt	O
+.	O
+
+A	O
+töltésnek	O
+erősnek	O
+kell	O
+lennie	O
+,	O
+hogy	O
+kiszívja	O
+a	O
+rákból	O
+az	O
+energiát	O
+,	O
+épp	O
+addig	O
+amíg	O
+leszedjük	O
+a	O
+lábát	O
+és	O
+elkapjuk	O
+,	O
+de	O
+nem	O
+olyan	O
+erős	O
+hogy	O
+megölje	O
+.	O
+
+Ez	O
+szép	O
+és	O
+jó	O
+Karl	B-PER
+,	O
+de	O
+hogy	O
+vesszük	O
+rá	O
+,	O
+hogy	O
+belesétáljon	O
+?	O
+
+Úgy	O
+néz	O
+ki	O
+nappal	O
+alszanak	O
+.	O
+
+El	O
+kell	O
+vinnünk	O
+a	O
+csapdákat	O
+gyakran	O
+használt	O
+barlangi	O
+útvonalakhoz	O
+.	O
+
+Nyolc	B-CARDINAL
+lába	O
+van	O
+,	O
+valamelyikkel	O
+csak	O
+rálép	O
+.	O
+
+Biztos	O
+vagyok	O
+benne	O
+.	O
+
+Igen	O
+,	O
+de	O
+új	O
+utat	O
+kell	O
+találni	O
+a	O
+barlangokhoz	O
+.	O
+
+A	O
+strandot	O
+elöntötte	O
+a	O
+víz	O
+,	O
+és	O
+az	O
+üreget	O
+is	O
+...	O
+
+Dinamitot	B-PROD
+használ	O
+.	O
+
+Sietnünk	O
+kell	O
+.	O
+
+Már	O
+leengedte	O
+az	O
+egyiket	O
+a	O
+barlagba	O
+?	O
+
+Igen	O
+,	O
+először	O
+egy	O
+fentebbi	O
+részre	O
+kellett	O
+rakni	O
+.	O
+
+Az	O
+alsó	O
+részeket	O
+már	O
+elönthete	O
+a	O
+víz	O
+.	O
+

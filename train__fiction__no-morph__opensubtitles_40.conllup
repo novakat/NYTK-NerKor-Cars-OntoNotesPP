@@ -1,0 +1,1667 @@
+# global.columns = FORM ONPP:NER
+Ettől	O
+a	O
+naptól	O
+kezdve	O
+,	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+ura	O
+.	O
+
+Mától	B-DATE
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+ura	O
+?	O
+
+Egy	O
+nap	O
+uralni	O
+fogja	O
+...	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+kastélyát	O
+.	O
+
+Hogy	O
+merészeli	O
+.	O
+
+Fejezze	O
+be	O
+a	O
+gúnyolódást	O
+.	O
+
+Miért	O
+mutat	O
+dühöt	O
+...	O
+mikor	O
+híreim	O
+örömteliek	O
+?	O
+
+A	O
+Nagyurunk	O
+a	O
+kastély	O
+egyetlen	O
+ura	O
+.	O
+
+Az	O
+emberek	O
+annyira	O
+furcsák	O
+.	O
+
+Megrémülnek	O
+,	O
+ha	O
+a	O
+szívük	O
+mélyére	O
+néznek	O
+.	O
+
+Bár	O
+ez	O
+talán	O
+egy	O
+szellem	O
+,	O
+nem	O
+tréfálkozna	O
+,	O
+ha	O
+a	O
+nyilad	O
+a	O
+szívébe	O
+hatolna	O
+.	O
+
+Had	O
+kérdezzek	O
+mást	O
+.	O
+
+Erre	O
+válaszoljon	O
+.	O
+
+Olyan	O
+tisztán	O
+látja	O
+a	O
+jövőt	O
+,	O
+mint	O
+ahogy	O
+én	O
+látok	O
+a	O
+szememmel	O
+?	O
+
+Miki	B-PER
+Yoshiaki	I-PER
+.	O
+
+A	O
+második	B-ORDINAL
+erőd	O
+parancsnoka	O
+.	O
+
+De	O
+mostantól	O
+az	O
+első	O
+erődé	O
+.	O
+
+Mától	B-DATE
+az	O
+első	B-ORDINAL
+erőd	O
+parancsnoka	O
+?	O
+
+A	O
+tartományom	O
+és	O
+a	O
+rangom	O
+ezután	O
+?	O
+
+A	O
+végzete	O
+...	O
+kisebb	O
+és	O
+nagyobb	O
+is	O
+mint	O
+Washizu-é	B-PER
+.	O
+
+Egy	O
+napon	O
+a	O
+fia	O
+fogja	O
+uralni	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+kastélyát	O
+.	O
+
+Ah	O
+,	O
+ott	O
+a	O
+kastély	O
+.	O
+
+Végre	O
+kiszabadultunk	O
+a	O
+pókhálóból	O
+.	O
+
+Menjünk	O
+vágtában	O
+.	O
+
+Ne	O
+,	O
+várj	O
+.	O
+
+Nagyon	O
+elfáradtam	O
+.	O
+
+A	O
+vértem	O
+olyan	O
+nehéz	O
+,	O
+mint	O
+még	O
+soha	O
+.	O
+
+Nem	O
+csoda	O
+.	O
+
+Kifárasztott	O
+a	O
+három	B-CARDINAL
+hegy	O
+a	O
+tegnapi	B-DATE
+csata	O
+óta	O
+.	O
+
+Pihenjünk	O
+?	O
+
+Elálmosodtam	O
+.	O
+
+Nem	O
+vágyom	O
+másra	O
+,	O
+csak	O
+egy	O
+mély	O
+,	O
+pihentető	O
+alvásra	O
+.	O
+
+Nem	O
+segíthetek	O
+,	O
+de	O
+úgy	O
+érzem	O
+,	O
+mintha	O
+máris	O
+álmodnék	O
+.	O
+
+Találkozásunk	O
+a	O
+szellemmel	O
+talán	O
+egy	O
+álom	O
+volt	O
+.	O
+
+Úgy	O
+tartják	O
+,	O
+az	O
+álmok	O
+a	O
+vágyainkon	O
+alapulnak	O
+.	O
+
+Igazság	O
+szerint	O
+,	O
+ki	O
+ne	O
+álmodna	O
+arról	O
+,	O
+hogy	O
+egy	O
+legyőzött	O
+kastélyt	O
+ural	O
+?	O
+
+Úgy	O
+tűnik	O
+a	O
+fiad	O
+fogja	O
+uralni	O
+ezt	O
+a	O
+kastélyt	O
+.	O
+
+Nem	O
+,	O
+te	O
+magad	O
+leszel	O
+a	O
+kastély	O
+ura	O
+.	O
+
+De	O
+először	O
+enyém	O
+kell	O
+legyen	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+.	O
+
+És	O
+én	O
+az	O
+első	B-ORDINAL
+erőd	O
+parancsnoka	O
+leszek	O
+.	O
+
+Jó	O
+hírek	O
+.	O
+
+Mégis	O
+...	O
+
+Mit	O
+akartál	O
+mondani	O
+?	O
+
+Nem	O
+,	O
+te	O
+mit	O
+akartál	O
+?	O
+
+És	O
+mégis	O
+,	O
+ha	O
+ezen	O
+az	O
+éjszakán	O
+,	O
+én	O
+leszek	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+ura	O
+,	O
+te	O
+pedig	O
+az	O
+első	B-ORDINAL
+erőd	O
+parancsnoka	O
+...	O
+
+A	O
+legkiválóbb	O
+harcos	O
+a	O
+csatában	O
+,	O
+Mostantól	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+Ura	O
+.	O
+
+Hasonlóan	O
+kiválóan	O
+szolgált	O
+.	O
+
+Ettől	B-TIME
+az	I-TIME
+éjszakától	I-TIME
+kezdve	I-TIME
+,	O
+Rettenetesen	O
+békés	O
+.	O
+
+Valóban	O
+,	O
+ez	O
+a	O
+paradicsom	O
+.	O
+
+Mérhetetlenül	O
+kényelmesebb	O
+az	O
+erődnél	O
+.	O
+
+Az	O
+élet	O
+egyre	O
+jobb	O
+lesz	O
+.	O
+
+Jószerencse	O
+,	O
+hogy	O
+őket	O
+szolgáljuk	O
+,	O
+de	O
+az	O
+Urunk	O
+és	O
+Úrnőnk	O
+is	O
+biztosan	O
+elégedett	O
+.	O
+
+A	O
+szíved	O
+eltökélt	O
+?	O
+
+Gonosz	O
+álmot	O
+láttam	O
+.	O
+
+Elcsábított	O
+egy	O
+bűnös	O
+lélek	O
+.	O
+
+De	O
+nem	O
+sokáig	O
+haboztam	O
+.	O
+
+Lehetetlen	O
+azt	O
+kívánnom	O
+,	O
+hogy	O
+a	O
+Pók	B-ORG
+Klán	I-ORG
+kastélya	O
+az	O
+enyém	O
+legyen	O
+.	O
+
+Ne	O
+nevezd	O
+az	O
+álmod	O
+lehetetlennek	O
+.	O
+
+Minden	O
+ember	O
+,	O
+ki	O
+íjat	O
+vesz	O
+kezébe	O
+ilyen	O
+sorsról	O
+álmodik	O
+.	O
+
+Jobb	O
+szeretnék	O
+itt	O
+maradni	O
+.	O
+
+Hűségesen	O
+szolgálom	O
+az	O
+Uramat	O
+erről	O
+a	O
+Helyőrségről	O
+.	O
+
+Élvezem	O
+a	O
+békét	O
+a	O
+rangomat	O
+megillető	O
+helyen	O
+.	O
+
+Nem	O
+ez	O
+fog	O
+történni	O
+.	O
+
+Mi	O
+van	O
+,	O
+ha	O
+Miki	B-PER
+Yoshiaki	I-PER
+felfedi	O
+...	O
+az	O
+erdőbeli	O
+szellem	O
+jóslatát	O
+a	O
+Nagyúr	O
+előtt	O
+?	O
+
+Ha	O
+ez	O
+megtörténik	O
+,	O
+itt	O
+nem	O
+élhetünk	O
+többé	O
+.	O
+
+A	O
+Nagyúr	O
+azonnal	O
+körbevenné	O
+ezt	O
+a	O
+kastélyt	O
+az	O
+embereivel	O
+,	O
+féltékenységében	O
+,	O
+mi	O
+az	O
+uralmát	O
+fenyegeti	O
+.	O
+
+Uram	O
+,	O
+két	B-CARDINAL
+lehetőség	O
+áll	O
+előtted	O
+.	O
+
+Itt	O
+maradsz	O
+,	O
+türelmesen	O
+várva	O
+,	O
+hogy	O
+a	O
+Nagyúr	O
+levágjon	O
+téged	O
+,	O
+vagy	O
+te	O
+csapsz	O
+le	O
+először	O
+,	O
+és	O
+leszel	O
+a	O
+Pók	B-NORP
+klán	O
+kastélyának	O
+Ura	O
+.	O
+
+A	O
+Nagyurat	O
+megölni	O
+felségárulás	O
+lenne	O
+.	O
+
+Nem	O
+épp	O
+a	O
+Nagyúr	O
+...	O
+szerezte	O
+meg	O
+a	O
+helyét	O
+az	O
+elődje	O
+meggyilkolásával	O
+?	O
+
+Nem	O
+,	O
+azért	O
+történt	O
+,	O
+mert	O
+saját	O
+ura	O
+kételkedett	O
+benne	O
+és	O
+a	O
+halálát	O
+akarta	O
+.	O
+
+A	O
+Nagyúr	O
+bízik	O
+bennem	O
+.	O
+
+Senki	O
+mást	O
+nem	O
+tart	O
+így	O
+becsben	O
+.	O
+
+Csak	O
+azért	O
+,	O
+mert	O
+nem	O
+tudja	O
+,	O
+mit	O
+rejt	O
+a	O
+szíved	O
+.	O
+
+A	O
+szívem	O
+?	O
+
+Semmit	O
+se	O
+rejt	O
+a	O
+szívem	O
+.	O
+
+Ez	O
+hazugság	O
+.	O
+
+Nekem	O
+...	O
+
+Tökéletesen	O
+megfelel	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+.	O
+
+Még	O
+ha	O
+igaz	O
+is	O
+lenne	O
+,	O
+gondolod	O
+,	O
+hogy	O
+a	O
+Nagyúr	O
+ugyanígy	O
+megbízna	O
+benned	O
+,	O
+ha	O
+Miki	B-PER
+elmondaná	O
+neki	O
+a	O
+jövendölést	O
+?	O
+
+Miki	B-PER
+...	O
+
+Miki	B-PER
+gyerekkorom	O
+óta	O
+a	O
+legjobb	O
+barátom	O
+.	O
+
+Képtelen	O
+lenne	O
+elárulni	O
+.	O
+
+Ahogy	O
+ez	O
+a	O
+világ	O
+előrehalad	O
+,	O
+a	O
+szülők	O
+megölik	O
+gyermekeiket	O
+,	O
+és	O
+a	O
+gyermekek	O
+a	O
+szüleiket	O
+.	O
+
+Ebben	O
+a	O
+romlott	O
+korban	O
+,	O
+megölik	O
+azt	O
+,	O
+aki	O
+nem	O
+öl	O
+.	O
+
+Azon	O
+sem	O
+csodálkoznék	O
+,	O
+ha	O
+Miki	B-PER
+már	O
+tájékoztatta	O
+volna	O
+a	O
+Nagyurat	O
+.	O
+
+Nem	O
+szabadulhatok	O
+ettől	O
+az	O
+érzéstől	O
+.	O
+
+Asaji	B-PER
+.	O
+
+Ne	O
+beszélj	O
+többé	O
+a	O
+kétségeidről	O
+.	O
+
+Uram	O
+.	O
+
+Hírt	O
+hoztam	O
+.	O
+
+300	B-CARDINAL
+Pók	B-ORG
+Klán	I-ORG
+harcos	O
+áll	O
+lesben	O
+az	O
+erdőben	O
+.	O
+
+Csendben	O
+gyülekeznek	O
+.	O
+
+Az	O
+Északi	B-FAC
+Helyőrséget	I-FAC
+körbe	O
+vevő	O
+erdő	O
+tömve	O
+van	O
+fegyveresekkel	O
+,	O
+mind	O
+a	O
+Pók	B-FAC
+Klán	I-FAC
+kastélyból	I-FAC
+jöttek	O
+.	O
+
+A	O
+zászlaik	O
+és	O
+dárdáik	O
+leeresztve	O
+,	O
+lovaikat	O
+ágakkal	O
+zabolázzák	O
+.	O
+
+Hírt	O
+hozok	O
+Washizu-nak	B-PER
+,	O
+az	O
+Északi	B-LOC
+Helyőrség	I-LOC
+urának	O
+.	O
+
+A	O
+Nagyúr	O
+közeledik	O
+.	O
+
+Uram	O
+,	O
+a	O
+Nagyúr	O
+közeledik	O
+.	O
+
+Emberek	O
+,	O
+alakzatba	O
+sorakozni	O
+.	O
+
+Alakzatba	O
+sorakozni	O
+.	O
+
+Felállni	O
+,	O
+emberek	O
+.	O
+
+Washizu	B-PER
+,	O
+Nincs	O
+erre	O
+szükség	O
+.	O
+
+A	O
+Nagyúr	O
+rangrejtve	O
+vadászik	O
+.	O
+
+És	O
+nem	O
+látja	O
+szükségét	O
+hivatalos	O
+fogadásnak	O
+.	O
+
+Gratulálok	O
+a	O
+bőséges	O
+zsákmányhoz	O
+.	O
+
+Ne	O
+,	O
+a	O
+vadászat	O
+csak	O
+ürügy	O
+...	O
+azért	O
+vonultattam	O
+fel	O
+az	O
+embereimet	O
+,	O
+hogy	O
+megtámadjam	O
+Inui-t	B-PER
+.	O
+
+Inui	B-PER
+viselkedése	O
+tarthatatlan	O
+.	O
+
+Véget	O
+értek	O
+azok	O
+a	O
+napok	O
+,	O
+mikor	O
+elnéztem	O
+összeesküvését	O
+Fujimaki-val	B-PER
+.	O
+
+Vigyázz	O
+.	O
+
+Mostantól	O
+az	O
+Északi	B-LOC
+Helyőrségben	I-LOC
+gyülekezünk	O
+,	O
+titokban	O
+megerősítjük	O
+a	O
+határt	O
+,	O
+és	O
+támadunk	O
+a	O
+kedvező	O
+pillanatban	O
+.	O
+
+Addig	O
+egy	O
+szót	O
+se	O
+senkinek	O
+.	O
+
+Washizu	B-PER
+.	O
+
+Miki	B-PER
+.	O
+
+Bátorságuk	O
+elismeréseként	O
+előléptettem	O
+magukat	O
+.	O
+
+Washizu-é	B-PER
+az	O
+előőrsöm	O
+,	O
+Miki-é	B-PER
+a	O
+Pók	B-FAC
+Klán	I-FAC
+kastély	I-FAC
+.	O
+
+Most	O
+gyanakvó	O
+szíved	O
+megnyugodhat	O
+.	O
+
+Aggódó	O
+szíved	O
+rágalmazta	O
+Miki-t	B-PER
+,	O
+hogy	O
+gonosz	O
+szellem	O
+lesben	O
+áll	O
+.	O
+
+Nem	O
+értek	O
+egyet	O
+.	O
+
+Mégis	O
+kételkedsz	O
+.	O
+
+Figyelj	O
+.	O
+
+A	O
+Nagyúr	O
+a	O
+bizalmát	O
+mindenki	O
+felett	O
+belém	O
+helyezte	O
+.	O
+
+Ezért	O
+nemes	O
+rangot	O
+adott	O
+nekem	O
+az	O
+előőrs	O
+parancsnokaként	O
+.	O
+
+Az	O
+előőrs	O
+parancsnoka	O
+...	O
+íjjal	O
+minden	O
+oldalról	O
+sebezhető	O
+.	O
+
+A	O
+nagyúr	O
+egy	O
+róka	O
+.	O
+
+Egyszerű	O
+szavakkal	O
+rászedett	O
+az	O
+Északi	B-LOC
+Helyőrségben	I-LOC
+.	O
+
+A	O
+megbízható	O
+Miki-t	B-PER
+küldte	O
+...	O
+távol	O
+a	O
+veszélytől	O
+a	O
+Pók	B-FAC
+Klán	I-FAC
+kastély	I-FAC
+őrzésére	O
+,	O
+és	O
+téged	O
+vetett	O
+a	O
+leggyűlöltebb	O
+ellenfele	O
+elé	O
+a	O
+veszélybe	O
+.	O
+
+A	O
+kastély	O
+távolából	O
+figyelve	O
+,	O
+Miki	B-PER
+nevetve	O
+fog	O
+figyelni	O
+téged	O
+,	O
+ahogy	O
+rászedve	O
+elhagy	O
+utolsó	O
+lélegzeted	O
+.	O
+
+A	O
+helyőrséggel	O
+vagyunk	O
+.	O
+
+Erre	O
+alszik	O
+a	O
+Nagyúr	O
+a	O
+szállásán	O
+.	O
+
+Senki	O
+se	O
+közelítheti	O
+meg	O
+.	O
+
+Nem	O
+a	O
+szállását	O
+kerestem	O
+.	O
+
+Levegőztetni	O
+jöttem	O
+a	O
+zárt	O
+termet	O
+.	O
+
+Zárt	O
+teremből	O
+?	O
+
+Ahol	O
+a	O
+korábbi	O
+úr	O
+,	O
+Fujimaki	B-PER
+,	O
+töltötte	O
+idejét	O
+.	O
+
+Nem	O
+lehet	O
+tisztára	O
+sikálni	O
+a	O
+vérfoltos	O
+folyosót	O
+,	O
+és	O
+ezért	O
+a	O
+terem	O
+zárva	O
+marad	O
+.	O
+
+Miért	O
+nyitjátok	O
+ki	O
+a	O
+termet	O
+ilyen	O
+későn	O
+?	O
+
+A	O
+Nagyúr	O
+a	O
+mi	O
+urunk	O
+termében	O
+alszik	O
+,	O
+ezért	O
+itt	O
+kell	O
+pihennie	O
+.	O
+
+Köszönöm	O
+a	O
+fáradozásukat	O
+.	O
+
+Tovább	O
+mehetnek	O
+.	O
+
+Nagyon	O
+különös	O
+.	O
+
+Bár	O
+küzdöttem	O
+már	O
+át	O
+magam	O
+csata	O
+halottainak	O
+végtelen	O
+mocsarán	O
+,	O
+ezektől	O
+a	O
+vérfoltoktól	O
+mégis	O
+fut	O
+a	O
+hideg	O
+a	O
+hátamon	O
+.	O
+
+A	O
+tragédia	O
+vércseppeitől	O
+.	O
+
+Egy	O
+áruló	O
+vére	O
+sokkal	O
+undorítóbb	O
+...	O
+aki	O
+belebukott	O
+az	O
+ármánykodásba	O
+,	O
+és	O
+a	O
+Nagyúrhoz	O
+könyörgött	O
+életéért	O
+.	O
+
+Ez	O
+egy	O
+gyáva	O
+vére	O
+.	O
+
+A	O
+madarak	O
+sírnak	O
+vészjóslóan	O
+.	O
+
+Azzal	O
+vádolsz	O
+,	O
+hogy	O
+túl	O
+mélyek	O
+a	O
+kétségeim	O
+.	O
+
+Még	O
+a	O
+gyanakvó	O
+szívem	O
+...	O
+sem	O
+segít	O
+bízni	O
+a	O
+szellem	O
+jóslatában	O
+.	O
+
+Nyisd	O
+ki	O
+szemed	O
+és	O
+nézz	O
+magadra	O
+.	O
+
+A	O
+jóslatból	O
+semmi	O
+se	O
+válhat	O
+valóra	O
+egy	O
+kis	O
+segítség	O
+nélkül	O
+.	O
+
+Még	O
+nem	O
+fogtad	O
+fel	O
+?	O
+
+A	O
+Nagyúr	O
+maga	O
+repült	O
+a	O
+kezeid	O
+közé	O
+.	O
+
+Ha	O
+az	O
+éjszaka	O
+véget	O
+ér	O
+,	O
+nem	O
+lesz	O
+többé	O
+ilyen	O
+lehetőséged	O
+.	O
+
+De	O
+mégis	O
+...	O
+milyen	O
+okkal	O
+követhetnék	O
+el	O
+ilyen	O
+árulást	O
+?	O
+
+Az	O
+emberei	O
+ellenem	O
+fordulnának	O
+.	O
+
+Bár	O
+a	O
+Nagyúr	O
+azt	O
+állítja	O
+,	O
+bízik	O
+benned	O
+,...	O
+
+Noriyasu	B-PER
+embereire	O
+bízta	O
+a	O
+védelmét	O
+.	O
+
+Ez	O
+a	O
+szerencsénk	O
+.	O
+
+Szomjúságukat	O
+oltva	O
+altatót	O
+keverünk	O
+a	O
+szakéjukba	O
+.	O
+
+Ahogy	O
+az	O
+őrök	O
+álomba	O
+szenderülnek	O
+,	O
+megölheted	O
+a	O
+Nagyurat	O
+,	O
+és	O
+megvádolhatod	O
+Noriyasu-t	B-PER
+,	O
+hogy	O
+az	O
+emberei	O
+a	O
+gyilkosok	O
+.	O
+
+Mit	O
+hallasz	O
+ki	O
+a	O
+madarak	O
+sírásából	O
+?	O
+
+Kockáztatod	O
+a	O
+világot	O
+?	O
+
+Nekem	O
+így	O
+hangzik	O
+.	O
+
+A	O
+becsvágytól	O
+lesz	O
+férfi	O
+a	O
+férfi	O
+.	O
+
+Az	O
+erődödből	O
+,	O
+a	O
+Pók	B-FAC
+Klán	I-FAC
+kastélyból	I-FAC
+,	O
+már	O
+az	O
+egész	O
+világra	O
+vágyhatsz	O
+.	O
+
+A	O
+sírás	O
+a	O
+Mennyből	B-LOC
+jön	O
+.	O
+
+A	O
+hálószobájuk	O
+kész	O
+.	O
+
+És	O
+hogy	O
+vannak	O
+a	O
+Nagyúr	O
+őrei	O
+?	O
+
+Dárdáikat	O
+tartva	O
+,	O
+álmatlanul	O
+virrasztanak	O
+.	O
+
+Hát	O
+akkor	O
+jó	O
+.	O
+
+Kínáljunk	O
+nekik	O
+egy	O
+kis	O
+szakét	O
+.	O
+
+Behatolók	O
+!	O
+
+Fegyverbe	O
+!	O
+
+A	O
+Nagyúr	O
+veszélyben	O
+van	O
+.	O
+
+Áruló	O
+.	O
+
+Had	O
+menjek	O
+.	O
+
+Fogd	O
+vissza	O
+haragod	O
+.	O
+
+Először	O
+menjünk	O
+vissza	O
+a	O
+kastélyba	O
+,	O
+herceg	O
+.	O
+
+Eressz	O
+.	O
+
+Ez	O
+biztos	O
+Washizu	B-PER
+műve	O
+.	O
+
+Mentegetőzik	O
+és	O
+minket	O
+nevez	O
+árulónak	O
+.	O
+
+Hallgasson	O
+meg	O
+,	O
+herceg	O
+.	O
+
+Nincs	O
+igazság	O
+a	O
+halálban	O
+.	O
+
+Hagy	O
+menjek	O
+.	O
+
+Ne	O
+foglalkozzatok	O
+a	O
+talpnyalókkal	O
+.	O
+
+Noriyasu	B-PER
+az	O
+ellenségünk	O
+.	O
+
+Hol	O
+van	O
+Noriyasu	B-PER
+?	O
+
+Már	O
+majdnem	O
+a	O
+miénk	O
+volt	O
+.	O
+
+Hát	O
+elmenekült	O
+.	O
+
+A	O
+kastélyba	O
+vágtatott	O
+a	O
+herceggel	O
+.	O
+
+A	O
+kastélyba	O
+a	O
+herceggel	O
+?	O
+
+A	O
+Pók	B-FAC
+Klán	I-FAC
+kastélyt	I-FAC
+Miki-re	B-PER
+bízták	O
+.	O
+
+Ha	O
+beereszti	O
+őket	O
+...	O
+
+Beereszti	O
+az	O
+aljas	O
+árulókat	O
+,	O
+akik	O
+a	O
+Nagyúrra	O
+támadtak	O
+.	O
+
+Előre	O
+.	O
+
+Üldözzük	O
+őket	O
+.	O
+
+Készítsd	O
+nyilaidat	O
+.	O
+
+Hírek	O
+Miki	B-PER
+úrnak	O
+.	O
+
+Az	O
+Inui	B-PER
+elleni	O
+támadásra	O
+készülve	O
+,	O
+a	O
+Nagyúr	O
+tragikus	O
+módon	O
+meghalt	O
+,	O
+a	O
+helyőrségen	O
+Washizu	B-PER
+áruló	O
+kezei	O
+között	O
+.	O
+
+Én	O
+,	O
+Noriyasu	B-PER
+,	O
+visszavágok	O
+és	O
+ez	O
+a	O
+kastély	O
+a	O
+herceggel	O
+a	O
+védelmem	O
+alatt	O
+áll	O
+.	O
+
+Nyissátok	O
+a	O
+kaput	O
+azonnal	O
+.	O
+
+Kapukat	O
+kinyitni	O
+.	O
+
+Miki	B-PER
+uram	O
+.	O
+
